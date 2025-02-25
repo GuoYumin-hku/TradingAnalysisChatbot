@@ -1,0 +1,9 @@
+gradio==5.6.0
+matplotlib
+numpy==1.26.1
+pandas==2.2.3
+Pillow==11.0.0
+scikit_learn==1.5.2
+torch
+transformers
+zhipuai==2.1.5.20230904
