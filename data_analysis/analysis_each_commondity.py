@@ -65,7 +65,7 @@ class Analysis:
         }
     
     def analyze_product_performance(self):
-        product_performance = self.data.groupby('Product_ID').agg(
+        product_performance = self.data.groupby('Product ID').agg(
             total_sales=('Sales', 'sum'),
             total_quantity=('Quantity', 'sum'),
             average_price=('Sales', 'mean'),
@@ -73,22 +73,52 @@ class Analysis:
         ).reset_index()
 
         product_performance['profit_margin'] = product_performance['total_profit']/product_performance['total_sales']
+        product_performance = product_performance.sort_values(by='total_sales', ascending=False).head(20)
         return product_performance.to_dict(orient='records')
     
-    def analyze_time_series(self, date_column):
-        self.data[date_column] = pd.to_datetime(self.data[date_column], errors='coerce')
-        time_series_analysis = self.data.groupby(self.data[date_column].dt.to_period('M')).agg(
+    def analyze_most_ordered_products_by_date(self):
+        most_ordered = self.data.groupby(['Order Date', 'Product Name']).agg(
             total_sales=('Sales', 'sum'),
             total_quantity=('Quantity', 'sum')
         ).reset_index()
+        
+        most_ordered = most_ordered.sort_values(by=['Order Date', 'total_sales'], ascending=[True, False]).head(20)
+        
+        return most_ordered.to_dict(orient='records')  
+
+    def analyze_most_frequent_order_month(self):
+        self.data['Order Date'] = pd.to_datetime(self.data['Order Date'], errors='coerce')
+        self.data['Order Month'] = self.data['Order Date'].dt.to_period('M').astype(str)
+
+        monthly_orders = self.data['Order Month'].value_counts().reset_index()
+        monthly_orders.columns = ['Order Month', 'Order Count']  
+        monthly_orders = monthly_orders.sort_values(by='Order Count', ascending=False).head(20)
+        
+        return monthly_orders.to_dict(orient='records') 
+
+    def analyze_time_series(self, date_column):
+        self.data.loc[:, date_column] = pd.to_datetime(self.data[date_column], errors='coerce')
+        #if self.data[date_column].isnull().all():
+         #   raise ValueError(f"All values in '{date_column}' could not be converted to datetime.")
+        
+        #if not pd.api.types.is_datetime64_any_dtype(self.data[date_column]):
+         #   raise TypeError(f"The column '{date_column}' is not in datetime format.")
+    
+        time_series_analysis = self.data.groupby(self.data[date_column].dt.to_period('M')).agg(
+           total_sales=('Sales', 'sum'),
+          total_quantity=('Quantity', 'sum')
+        ).reset_index()
+        
+        time_series_analysis[date_column] = time_series_analysis[date_column].astype(str)
         return time_series_analysis.to_dict(orient='records')
     
     def analyze_customer_segmentation(self):
-        customer_segmentation = self.data.groupby('Customer_ID').agg(
+        customer_segmentation = self.data.groupby('Customer ID').agg(
             total_spent=('Sales', 'sum'),
-            purchase_frequency=('Order_ID', 'nunique'),
+            purchase_frequency=('Order ID', 'nunique'),
             average_order_value=('Sales', 'mean')
         ).reset_index()
+        customer_segmentation = customer_segmentation.sort_values(by='total_spent', ascending=False).head(20)
         return customer_segmentation.to_dict(orient='records')
 
     def analyze_discounts(self):
@@ -104,27 +134,21 @@ class Analysis:
             total_sales=('Sales', 'sum'),
             total_quantity=('Quantity', 'sum')
         ).reset_index()
+        geographic_distribution = geographic_distribution.sort_values(by='total_sales', ascending=False).head(20)
         return geographic_distribution.to_dict(orient='records')
-    
-    def analyze_returns(self):
-        # Assuming there is a 'Return' column indicating if an item was returned
-        return_analysis = self.data[self.data['Return'] == 1].groupby('Product_ID').agg(
-            total_returns=('Return', 'count'),
-            total_sales_lost=('Sales', 'sum')
-        ).reset_index()
-        return return_analysis.to_dict(orient='records')
     
     def analyze_all(self):
         return {
             **self.analyze_segment(),
             **self.analyze_country(),
-            **self.analyze_state_city(),
-            **self.analyze_product_performance(),
-            **self.analyze_time_series('Order_Date'),
-            **self.analyze_customer_segmentation(),
-            **self.analyze_discounts(),
-            **self.analyze_geographic_distribution(),
-            **self.analyze_returns()
+            **self.analyze_state_city(),  
+            'product_performance': self.analyze_product_performance(),  
+            'most_ordered_products_by_date': self.analyze_most_ordered_products_by_date(),
+            'most_frequent_order_month': self.analyze_most_frequent_order_month(),
+            'time_series_analysis': self.analyze_time_series('Order Date'), 
+            'customer_segmentation': self.analyze_customer_segmentation(),  
+            'discount_analysis': self.analyze_discounts(),  
+            'geographic_distribution': self.analyze_geographic_distribution(), 
         }
 
 for y1 in list(set(data_og['Combined_Category'])):
@@ -171,7 +195,7 @@ class Visualization:
 
     def plot_product_performance(self):
         product_performance = self.analysis_result['product_performance']
-        products = [p['Product_ID'] for p in product_performance]
+        products = [p['Product ID'] for p in product_performance]
         total_sales = [p['total_sales'] for p in product_performance]
         plt.figure(figsize=(12, 6))
         plt.bar(products, total_sales)
@@ -181,10 +205,46 @@ class Visualization:
         plt.xticks(rotation=45)
         plt.savefig('./analysis_result_{}/product_performance.png'.format(self.category))
         plt.close()
+    
+    def plot_most_ordered_products_by_date(self):
+        most_ordered = self.analysis_result['most_ordered_products_by_date']
+        dates = [entry['Order Date'] for entry in most_ordered]
+        products = [entry['Product Name'] for entry in most_ordered]
+        total_sales = [entry['total_sales'] for entry in most_ordered]
 
+        plt.figure(figsize=(12, 6))
+        for product in set(products):
+            product_sales = [total_sales[i] for i in range(len(products)) if products[i] == product]
+            product_dates = [dates[i] for i in range(len(products)) if products[i] == product]
+            plt.plot(product_dates, product_sales, marker='o', label=product)
+
+        plt.xlabel('Order Date')
+        plt.ylabel('Total Sales')
+        plt.title('Most Ordered Products by Date')
+        plt.xticks(rotation=45)
+        plt.legend(title='Product Name')
+        plt.tight_layout()
+        plt.savefig('./analysis_result_{}/most_ordered_products_by_date.png'.format(self.category))
+        plt.close()
+
+    def plot_most_frequent_order_month(self):
+        monthly_orders = self.analysis_result['most_frequent_order_month']
+        order_months = [entry['Order Month'] for entry in monthly_orders]
+        order_counts = [entry['Order Count'] for entry in monthly_orders]
+
+        plt.figure(figsize=(12, 6))
+        plt.bar(order_months, order_counts, color='skyblue')
+        plt.xlabel('Order Month')
+        plt.ylabel('Order Count')
+        plt.title('Most Frequent Order Month')
+        plt.xticks(rotation=45)
+        plt.tight_layout()
+        plt.savefig('./analysis_result_{}/most_frequent_order_month.png'.format(self.category))
+        plt.close()
+    
     def plot_time_series(self):
         time_series_data = self.analysis_result['time_series_analysis']
-        months = [str(ts['Order_Date']) for ts in time_series_data]
+        months = [str(ts['Order Date']) for ts in time_series_data]
         total_sales = [ts['total_sales'] for ts in time_series_data]
         plt.figure(figsize=(12, 6))
         plt.plot(months, total_sales, marker='o')
@@ -197,7 +257,7 @@ class Visualization:
     
     def plot_customer_segmentation(self):
         customer_data = self.analysis_result['customer_segmentation']
-        customers = [c['Customer_ID'] for c in customer_data]
+        customers = [c['Customer ID'] for c in customer_data]
         total_spent = [c['total_spent'] for c in customer_data]
         plt.figure(figsize=(12, 6))
         plt.bar(customers, total_spent)
@@ -234,19 +294,6 @@ class Visualization:
         plt.savefig('./analysis_result_{}/geographic_distribution.png'.format(self.category))
         plt.close()   
     
-    def plot_returns_analysis(self):
-        returns_data = self.analysis_result['returns_analysis']
-        products = [r['Product_ID'] for r in returns_data]
-        total_returns = [r['total_returns'] for r in returns_data]
-        plt.figure(figsize=(12, 6))
-        plt.bar(products, total_returns)
-        plt.xlabel('Product ID')
-        plt.ylabel('Total Returns')
-        plt.title('Returns Analysis')
-        plt.xticks(rotation=45)
-        plt.savefig('./analysis_result_{}/returns_analysis.png'.format(self.category))
-        plt.close()
-
 for y1 in list(set(data_og['Combined_Category'])):
     print(y1)
     if not os.path.exists('./analysis_result_{}'.format(y1)):
@@ -260,8 +307,9 @@ for y1 in list(set(data_og['Combined_Category'])):
     visualization.plot_top_10_states()
     visualization.plot_top_10_cities()
     visualization.plot_product_performance()
+    visualization.plot_most_ordered_products_by_date()
+    visualization.plot_most_frequent_order_month()
     visualization.plot_time_series()
     visualization.plot_customer_segmentation()
     visualization.plot_discount_analysis()
     visualization.plot_geographic_distribution()
-    visualization.plot_returns_analysis()

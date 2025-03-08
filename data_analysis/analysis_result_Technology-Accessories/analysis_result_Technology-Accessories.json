@@ -1,0 +1,2324 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            3172,
+            0.52
+        ],
+        "Corporate": [
+            1864,
+            0.3
+        ],
+        "Home Office": [
+            1114,
+            0.18
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.57,
+        "Corporate": 3.55,
+        "Home Office": 3.55
+    },
+    "segment_unit_price": {
+        "Consumer": 67.47,
+        "Corporate": 69.86,
+        "Home Office": 68.89
+    },
+    "segment_profit": {
+        "Consumer": 10.64,
+        "Corporate": 13.77,
+        "Home Office": 12.06
+    },
+    "segment_discount": {
+        "Consumer": 0.13,
+        "Corporate": 0.11,
+        "Home Office": 0.12
+    },
+    "country_distribution": {
+        "United States": [
+            1550,
+            0.25
+        ],
+        "Australia": [
+            390,
+            0.06
+        ],
+        "Mexico": [
+            312,
+            0.05
+        ],
+        "France": [
+            258,
+            0.04
+        ],
+        "China": [
+            222,
+            0.04
+        ],
+        "Germany": [
+            208,
+            0.03
+        ],
+        "India": [
+            204,
+            0.03
+        ],
+        "Brazil": [
+            180,
+            0.03
+        ],
+        "Indonesia": [
+            150,
+            0.02
+        ],
+        "United Kingdom": [
+            140,
+            0.02
+        ],
+        "Turkey": [
+            130,
+            0.02
+        ],
+        "Honduras": [
+            110,
+            0.02
+        ],
+        "New Zealand": [
+            104,
+            0.02
+        ],
+        "El Salvador": [
+            104,
+            0.02
+        ],
+        "Italy": [
+            101,
+            0.02
+        ],
+        "Dominican Republic": [
+            94,
+            0.02
+        ],
+        "Cuba": [
+            88,
+            0.01
+        ],
+        "Nicaragua": [
+            84,
+            0.01
+        ],
+        "Nigeria": [
+            74,
+            0.01
+        ],
+        "Philippines": [
+            74,
+            0.01
+        ],
+        "Guatemala": [
+            74,
+            0.01
+        ],
+        "Iran": [
+            70,
+            0.01
+        ],
+        "Spain": [
+            62,
+            0.01
+        ],
+        "Panama": [
+            60,
+            0.01
+        ],
+        "South Africa": [
+            60,
+            0.01
+        ],
+        "Egypt": [
+            58,
+            0.01
+        ],
+        "Argentina": [
+            56,
+            0.01
+        ],
+        "Vietnam": [
+            44,
+            0.01
+        ],
+        "Colombia": [
+            44,
+            0.01
+        ],
+        "Russia": [
+            42,
+            0.01
+        ],
+        "Canada": [
+            38,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            36,
+            0.01
+        ],
+        "Netherlands": [
+            34,
+            0.01
+        ],
+        "Iraq": [
+            34,
+            0.01
+        ],
+        "Saudi Arabia": [
+            34,
+            0.01
+        ],
+        "Morocco": [
+            32,
+            0.01
+        ],
+        "Pakistan": [
+            32,
+            0.01
+        ],
+        "Malaysia": [
+            32,
+            0.01
+        ],
+        "Austria": [
+            32,
+            0.01
+        ],
+        "Poland": [
+            32,
+            0.01
+        ],
+        "Ukraine": [
+            30,
+            0.0
+        ],
+        "Thailand": [
+            28,
+            0.0
+        ],
+        "Chile": [
+            26,
+            0.0
+        ],
+        "Singapore": [
+            24,
+            0.0
+        ],
+        "Venezuela": [
+            22,
+            0.0
+        ],
+        "Japan": [
+            22,
+            0.0
+        ],
+        "South Korea": [
+            20,
+            0.0
+        ],
+        "Sweden": [
+            20,
+            0.0
+        ],
+        "Peru": [
+            18,
+            0.0
+        ],
+        "Tanzania": [
+            18,
+            0.0
+        ],
+        "Belgium": [
+            18,
+            0.0
+        ],
+        "Algeria": [
+            18,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            16,
+            0.0
+        ],
+        "Israel": [
+            16,
+            0.0
+        ],
+        "Uzbekistan": [
+            14,
+            0.0
+        ],
+        "Bangladesh": [
+            12,
+            0.0
+        ],
+        "Kenya": [
+            12,
+            0.0
+        ],
+        "Norway": [
+            12,
+            0.0
+        ],
+        "Ghana": [
+            12,
+            0.0
+        ],
+        "Senegal": [
+            11,
+            0.0
+        ],
+        "Mozambique": [
+            10,
+            0.0
+        ],
+        "Romania": [
+            10,
+            0.0
+        ],
+        "Angola": [
+            10,
+            0.0
+        ],
+        "Afghanistan": [
+            10,
+            0.0
+        ],
+        "Cameroon": [
+            10,
+            0.0
+        ],
+        "Kazakhstan": [
+            10,
+            0.0
+        ],
+        "Jordan": [
+            10,
+            0.0
+        ],
+        "Haiti": [
+            10,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            10,
+            0.0
+        ],
+        "Niger": [
+            10,
+            0.0
+        ],
+        "Zambia": [
+            8,
+            0.0
+        ],
+        "Hungary": [
+            8,
+            0.0
+        ],
+        "Ecuador": [
+            8,
+            0.0
+        ],
+        "Ireland": [
+            8,
+            0.0
+        ],
+        "Togo": [
+            8,
+            0.0
+        ],
+        "Somalia": [
+            6,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            6,
+            0.0
+        ],
+        "Finland": [
+            6,
+            0.0
+        ],
+        "Sudan": [
+            6,
+            0.0
+        ],
+        "Bolivia": [
+            6,
+            0.0
+        ],
+        "Papua New Guinea": [
+            6,
+            0.0
+        ],
+        "Denmark": [
+            6,
+            0.0
+        ],
+        "Azerbaijan": [
+            6,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            6,
+            0.0
+        ],
+        "Rwanda": [
+            6,
+            0.0
+        ],
+        "Madagascar": [
+            6,
+            0.0
+        ],
+        "Paraguay": [
+            4,
+            0.0
+        ],
+        "Cambodia": [
+            4,
+            0.0
+        ],
+        "Uruguay": [
+            4,
+            0.0
+        ],
+        "Uganda": [
+            4,
+            0.0
+        ],
+        "Benin": [
+            4,
+            0.0
+        ],
+        "Syria": [
+            4,
+            0.0
+        ],
+        "Lesotho": [
+            4,
+            0.0
+        ],
+        "Portugal": [
+            4,
+            0.0
+        ],
+        "Lithuania": [
+            4,
+            0.0
+        ],
+        "Mali": [
+            4,
+            0.0
+        ],
+        "Moldova": [
+            4,
+            0.0
+        ],
+        "Namibia": [
+            4,
+            0.0
+        ],
+        "Liberia": [
+            4,
+            0.0
+        ],
+        "Sri Lanka": [
+            2,
+            0.0
+        ],
+        "Sierra Leone": [
+            2,
+            0.0
+        ],
+        "Barbados": [
+            2,
+            0.0
+        ],
+        "Switzerland": [
+            2,
+            0.0
+        ],
+        "Czech Republic": [
+            2,
+            0.0
+        ],
+        "Bulgaria": [
+            2,
+            0.0
+        ],
+        "Swaziland": [
+            2,
+            0.0
+        ],
+        "Kyrgyzstan": [
+            2,
+            0.0
+        ],
+        "Mongolia": [
+            2,
+            0.0
+        ],
+        "Eritrea": [
+            2,
+            0.0
+        ],
+        "Turkmenistan": [
+            2,
+            0.0
+        ],
+        "Zimbabwe": [
+            2,
+            0.0
+        ],
+        "Bosnia and Herzegovina": [
+            2,
+            0.0
+        ],
+        "Lebanon": [
+            2,
+            0.0
+        ],
+        "Libya": [
+            2,
+            0.0
+        ],
+        "Hong Kong": [
+            2,
+            0.0
+        ],
+        "Central African Republic": [
+            2,
+            0.0
+        ],
+        "Guinea-Bissau": [
+            2,
+            0.0
+        ],
+        "Gabon": [
+            2,
+            0.0
+        ],
+        "Burkina Faso": [
+            1,
+            0.0
+        ],
+        "Greece": [
+            1,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 4.2,
+        "Algeria": 1.78,
+        "Angola": 2.2,
+        "Argentina": 3.75,
+        "Australia": 3.78,
+        "Austria": 3.25,
+        "Azerbaijan": 2.33,
+        "Bangladesh": 4.5,
+        "Barbados": 1.0,
+        "Belgium": 4.78,
+        "Benin": 1.5,
+        "Bolivia": 5.33,
+        "Bosnia and Herzegovina": 1.0,
+        "Brazil": 3.87,
+        "Bulgaria": 4.0,
+        "Burkina Faso": 1.0,
+        "Cambodia": 2.5,
+        "Cameroon": 2.6,
+        "Canada": 2.21,
+        "Central African Republic": 4.0,
+        "Chile": 3.46,
+        "China": 3.77,
+        "Colombia": 3.05,
+        "Cote d'Ivoire": 1.17,
+        "Cuba": 3.77,
+        "Czech Republic": 1.0,
+        "C\u00f4te-d'Ivoire": 1.17,
+        "Democratic Republic of the Congo": 2.61,
+        "Denmark": 4.67,
+        "Dominican Republic": 3.81,
+        "Ecuador": 2.75,
+        "Egypt": 2.31,
+        "El Salvador": 3.69,
+        "Eritrea": 2.0,
+        "Finland": 4.0,
+        "France": 3.95,
+        "Gabon": 2.0,
+        "Germany": 3.5,
+        "Ghana": 3.67,
+        "Greece": 4.0,
+        "Guatemala": 4.38,
+        "Guinea-Bissau": 2.0,
+        "Haiti": 4.2,
+        "Honduras": 3.29,
+        "Hong Kong": 7.0,
+        "Hungary": 6.0,
+        "India": 3.8,
+        "Indonesia": 3.51,
+        "Iran": 2.06,
+        "Iraq": 2.0,
+        "Ireland": 5.75,
+        "Israel": 3.0,
+        "Italy": 3.96,
+        "Japan": 4.27,
+        "Jordan": 3.2,
+        "Kazakhstan": 1.0,
+        "Kenya": 1.67,
+        "Kyrgyzstan": 1.0,
+        "Lebanon": 1.0,
+        "Lesotho": 1.0,
+        "Liberia": 1.5,
+        "Libya": 6.0,
+        "Lithuania": 1.0,
+        "Madagascar": 2.67,
+        "Malaysia": 3.44,
+        "Mali": 1.0,
+        "Mexico": 3.98,
+        "Moldova": 6.0,
+        "Mongolia": 4.0,
+        "Morocco": 2.44,
+        "Mozambique": 1.0,
+        "Myanmar (Burma)": 3.75,
+        "Namibia": 3.5,
+        "Netherlands": 4.06,
+        "New Zealand": 3.17,
+        "Nicaragua": 3.81,
+        "Niger": 2.0,
+        "Nigeria": 2.0,
+        "Norway": 3.33,
+        "Pakistan": 3.62,
+        "Panama": 4.4,
+        "Papua New Guinea": 4.67,
+        "Paraguay": 4.0,
+        "Peru": 3.33,
+        "Philippines": 3.84,
+        "Poland": 2.38,
+        "Portugal": 6.0,
+        "Romania": 2.6,
+        "Russia": 2.0,
+        "Rwanda": 3.33,
+        "Saudi Arabia": 2.71,
+        "Senegal": 1.36,
+        "Sierra Leone": 1.0,
+        "Singapore": 2.5,
+        "Somalia": 1.0,
+        "South Africa": 1.97,
+        "South Korea": 3.8,
+        "Spain": 4.23,
+        "Sri Lanka": 3.0,
+        "Sudan": 3.67,
+        "Swaziland": 1.0,
+        "Sweden": 3.7,
+        "Switzerland": 2.0,
+        "Syria": 1.5,
+        "Tanzania": 1.56,
+        "Thailand": 4.71,
+        "Togo": 1.75,
+        "Trinidad and Tobago": 2.4,
+        "Turkey": 2.28,
+        "Turkmenistan": 1.0,
+        "Uganda": 1.5,
+        "Ukraine": 2.93,
+        "United Kingdom": 3.94,
+        "United States": 3.84,
+        "Uruguay": 3.0,
+        "Uzbekistan": 2.29,
+        "Venezuela": 3.18,
+        "Vietnam": 4.77,
+        "Zambia": 1.0,
+        "Zimbabwe": 1.0
+    },
+    "country_sales": {
+        "Afghanistan": 409.15,
+        "Algeria": 137.44,
+        "Angola": 319.53,
+        "Argentina": 125.33,
+        "Australia": 282.91,
+        "Austria": 348.51,
+        "Azerbaijan": 444.88,
+        "Bangladesh": 819.22,
+        "Barbados": 30.14,
+        "Belgium": 412.0,
+        "Benin": 87.18,
+        "Bolivia": 313.37,
+        "Bosnia and Herzegovina": 103.59,
+        "Brazil": 226.07,
+        "Bulgaria": 118.68,
+        "Burkina Faso": 256.56,
+        "Cambodia": 167.01,
+        "Cameroon": 295.61,
+        "Canada": 235.43,
+        "Central African Republic": 976.08,
+        "Chile": 246.58,
+        "China": 297.56,
+        "Colombia": 262.47,
+        "Cote d'Ivoire": 89.59,
+        "Cuba": 201.0,
+        "Czech Republic": 30.78,
+        "C\u00f4te-d'Ivoire": 89.59,
+        "Democratic Republic of the Congo": 173.43,
+        "Denmark": 151.22,
+        "Dominican Republic": 228.46,
+        "Ecuador": 181.37,
+        "Egypt": 231.72,
+        "El Salvador": 258.33,
+        "Eritrea": 169.92,
+        "Finland": 238.04,
+        "France": 381.0,
+        "Gabon": 513.12,
+        "Germany": 341.99,
+        "Ghana": 401.1,
+        "Greece": 159.0,
+        "Guatemala": 277.67,
+        "Guinea-Bissau": 517.92,
+        "Haiti": 86.48,
+        "Honduras": 138.11,
+        "Hong Kong": 372.12,
+        "Hungary": 977.1,
+        "India": 329.86,
+        "Indonesia": 164.89,
+        "Iran": 172.87,
+        "Iraq": 216.45,
+        "Ireland": 284.78,
+        "Israel": 211.65,
+        "Italy": 381.24,
+        "Japan": 402.06,
+        "Jordan": 168.62,
+        "Kazakhstan": 25.98,
+        "Kenya": 270.91,
+        "Kyrgyzstan": 29.28,
+        "Lebanon": 256.56,
+        "Lesotho": 86.07,
+        "Liberia": 79.47,
+        "Libya": 192.06,
+        "Lithuania": 19.98,
+        "Madagascar": 380.68,
+        "Malaysia": 337.4,
+        "Mali": 64.65,
+        "Mexico": 257.4,
+        "Moldova": 262.02,
+        "Mongolia": 458.4,
+        "Morocco": 272.81,
+        "Mozambique": 56.33,
+        "Myanmar (Burma)": 172.89,
+        "Namibia": 759.73,
+        "Netherlands": 164.08,
+        "New Zealand": 211.52,
+        "Nicaragua": 205.82,
+        "Niger": 129.71,
+        "Nigeria": 67.11,
+        "Norway": 189.86,
+        "Pakistan": 182.24,
+        "Panama": 137.25,
+        "Papua New Guinea": 125.86,
+        "Paraguay": 114.7,
+        "Peru": 92.65,
+        "Philippines": 165.96,
+        "Poland": 199.43,
+        "Portugal": 148.18,
+        "Romania": 162.44,
+        "Russia": 161.46,
+        "Rwanda": 200.95,
+        "Saudi Arabia": 292.0,
+        "Senegal": 91.38,
+        "Sierra Leone": 69.15,
+        "Singapore": 249.24,
+        "Somalia": 119.63,
+        "South Africa": 185.22,
+        "South Korea": 147.26,
+        "Spain": 588.53,
+        "Sri Lanka": 92.34,
+        "Sudan": 214.03,
+        "Swaziland": 83.67,
+        "Sweden": 206.46,
+        "Switzerland": 76.2,
+        "Syria": 102.72,
+        "Tanzania": 119.53,
+        "Thailand": 173.14,
+        "Togo": 79.8,
+        "Trinidad and Tobago": 49.49,
+        "Turkey": 77.43,
+        "Turkmenistan": 30.74,
+        "Uganda": 72.24,
+        "Ukraine": 299.26,
+        "United Kingdom": 337.39,
+        "United States": 215.97,
+        "Uruguay": 79.56,
+        "Uzbekistan": 293.44,
+        "Venezuela": 136.82,
+        "Vietnam": 261.02,
+        "Zambia": 110.79,
+        "Zimbabwe": 77.69
+    },
+    "country_unit_price": {
+        "Afghanistan": 97.42,
+        "Algeria": 77.31,
+        "Angola": 145.24,
+        "Argentina": 33.42,
+        "Australia": 74.85,
+        "Austria": 107.23,
+        "Azerbaijan": 190.66,
+        "Bangladesh": 182.05,
+        "Barbados": 30.14,
+        "Belgium": 86.23,
+        "Benin": 58.12,
+        "Bolivia": 58.76,
+        "Bosnia and Herzegovina": 103.59,
+        "Brazil": 58.47,
+        "Bulgaria": 29.67,
+        "Burkina Faso": 256.56,
+        "Cambodia": 66.8,
+        "Cameroon": 113.7,
+        "Canada": 106.5,
+        "Central African Republic": 244.02,
+        "Chile": 71.23,
+        "China": 78.83,
+        "Colombia": 86.18,
+        "Cote d'Ivoire": 76.8,
+        "Cuba": 53.28,
+        "Czech Republic": 30.78,
+        "C\u00f4te-d'Ivoire": 76.8,
+        "Democratic Republic of the Congo": 66.42,
+        "Denmark": 32.4,
+        "Dominican Republic": 59.99,
+        "Ecuador": 65.95,
+        "Egypt": 100.3,
+        "El Salvador": 69.96,
+        "Eritrea": 84.96,
+        "Finland": 59.51,
+        "France": 96.37,
+        "Gabon": 256.56,
+        "Germany": 97.71,
+        "Ghana": 109.39,
+        "Greece": 39.75,
+        "Guatemala": 63.42,
+        "Guinea-Bissau": 258.96,
+        "Haiti": 20.59,
+        "Honduras": 41.97,
+        "Hong Kong": 53.16,
+        "Hungary": 162.85,
+        "India": 86.72,
+        "Indonesia": 47.02,
+        "Iran": 84.03,
+        "Iraq": 108.22,
+        "Ireland": 49.53,
+        "Israel": 70.55,
+        "Italy": 96.26,
+        "Japan": 94.1,
+        "Jordan": 52.7,
+        "Kazakhstan": 25.98,
+        "Kenya": 162.55,
+        "Kyrgyzstan": 29.28,
+        "Lebanon": 256.56,
+        "Lesotho": 86.07,
+        "Liberia": 52.98,
+        "Libya": 32.01,
+        "Lithuania": 19.98,
+        "Madagascar": 142.76,
+        "Malaysia": 98.15,
+        "Mali": 64.65,
+        "Mexico": 64.66,
+        "Moldova": 43.67,
+        "Mongolia": 114.6,
+        "Morocco": 111.92,
+        "Mozambique": 56.33,
+        "Myanmar (Burma)": 46.1,
+        "Namibia": 217.07,
+        "Netherlands": 40.43,
+        "New Zealand": 66.66,
+        "Nicaragua": 54.03,
+        "Niger": 64.86,
+        "Nigeria": 33.56,
+        "Norway": 56.96,
+        "Pakistan": 50.27,
+        "Panama": 31.19,
+        "Papua New Guinea": 26.97,
+        "Paraguay": 28.67,
+        "Peru": 27.79,
+        "Philippines": 43.24,
+        "Poland": 83.97,
+        "Portugal": 24.7,
+        "Romania": 62.48,
+        "Russia": 80.73,
+        "Rwanda": 60.28,
+        "Saudi Arabia": 107.91,
+        "Senegal": 67.01,
+        "Sierra Leone": 69.15,
+        "Singapore": 99.7,
+        "Somalia": 119.63,
+        "South Africa": 94.18,
+        "South Korea": 38.75,
+        "Spain": 139.27,
+        "Sri Lanka": 30.78,
+        "Sudan": 58.37,
+        "Swaziland": 83.67,
+        "Sweden": 55.8,
+        "Switzerland": 38.1,
+        "Syria": 68.48,
+        "Tanzania": 76.84,
+        "Thailand": 36.73,
+        "Togo": 45.6,
+        "Trinidad and Tobago": 20.62,
+        "Turkey": 34.01,
+        "Turkmenistan": 30.74,
+        "Uganda": 48.16,
+        "Ukraine": 102.02,
+        "United Kingdom": 85.57,
+        "United States": 56.24,
+        "Uruguay": 26.52,
+        "Uzbekistan": 128.38,
+        "Venezuela": 43.0,
+        "Vietnam": 54.69,
+        "Zambia": 110.79,
+        "Zimbabwe": 77.69
+    },
+    "country_profit": {
+        "Afghanistan": 26.81,
+        "Algeria": 20.91,
+        "Angola": 18.21,
+        "Argentina": -5.26,
+        "Australia": 11.19,
+        "Austria": 22.6,
+        "Azerbaijan": 69.75,
+        "Bangladesh": 33.31,
+        "Barbados": 10.24,
+        "Belgium": 29.24,
+        "Benin": 1.38,
+        "Bolivia": 22.49,
+        "Bosnia and Herzegovina": 16.56,
+        "Brazil": 11.0,
+        "Bulgaria": 2.07,
+        "Burkina Faso": 107.73,
+        "Cambodia": 16.03,
+        "Cameroon": 30.78,
+        "Canada": 30.84,
+        "Central African Republic": 73.2,
+        "Chile": 22.26,
+        "China": 19.88,
+        "Colombia": 23.5,
+        "Cote d'Ivoire": 22.95,
+        "Cuba": 13.38,
+        "Czech Republic": 8.31,
+        "C\u00f4te-d'Ivoire": 22.95,
+        "Democratic Republic of the Congo": 11.5,
+        "Denmark": -20.25,
+        "Dominican Republic": 8.24,
+        "Ecuador": 6.23,
+        "Egypt": 14.4,
+        "El Salvador": 20.61,
+        "Eritrea": 36.51,
+        "Finland": 22.9,
+        "France": 21.06,
+        "Gabon": 107.73,
+        "Germany": 21.64,
+        "Ghana": 38.63,
+        "Greece": 1.59,
+        "Guatemala": 15.19,
+        "Guinea-Bissau": 121.71,
+        "Haiti": -5.03,
+        "Honduras": -9.05,
+        "Hong Kong": 15.39,
+        "Hungary": 13.42,
+        "India": 20.25,
+        "Indonesia": -18.23,
+        "Iran": 17.64,
+        "Iraq": 40.15,
+        "Ireland": -11.61,
+        "Israel": 6.89,
+        "Italy": 21.13,
+        "Japan": 25.25,
+        "Jordan": 13.43,
+        "Kazakhstan": -46.28,
+        "Kenya": 48.99,
+        "Kyrgyzstan": 13.17,
+        "Lebanon": 107.73,
+        "Lesotho": 24.36,
+        "Liberia": 17.98,
+        "Libya": 15.03,
+        "Lithuania": -29.73,
+        "Madagascar": 24.43,
+        "Malaysia": 34.07,
+        "Mali": 8.12,
+        "Mexico": 17.91,
+        "Moldova": 11.75,
+        "Mongolia": 17.19,
+        "Morocco": 35.02,
+        "Mozambique": 5.69,
+        "Myanmar (Burma)": -12.14,
+        "Namibia": 64.01,
+        "Netherlands": -28.57,
+        "New Zealand": -1.27,
+        "Nicaragua": 17.3,
+        "Niger": 19.31,
+        "Nigeria": -43.14,
+        "Norway": 15.18,
+        "Pakistan": -22.41,
+        "Panama": -8.52,
+        "Papua New Guinea": -23.87,
+        "Paraguay": 7.05,
+        "Peru": -4.5,
+        "Philippines": -15.46,
+        "Poland": 26.16,
+        "Portugal": -11.32,
+        "Romania": 12.25,
+        "Russia": 18.03,
+        "Rwanda": 20.78,
+        "Saudi Arabia": 18.51,
+        "Senegal": 16.19,
+        "Sierra Leone": 1.38,
+        "Singapore": 21.09,
+        "Somalia": 43.37,
+        "South Africa": 25.86,
+        "South Korea": -21.8,
+        "Spain": 41.89,
+        "Sri Lanka": 2.46,
+        "Sudan": 2.95,
+        "Swaziland": 27.6,
+        "Sweden": -21.45,
+        "Switzerland": 2.64,
+        "Syria": 28.88,
+        "Tanzania": 30.2,
+        "Thailand": -11.5,
+        "Togo": 7.39,
+        "Trinidad and Tobago": -21.17,
+        "Turkey": -30.11,
+        "Turkmenistan": -47.17,
+        "Uganda": -41.51,
+        "Ukraine": 16.18,
+        "United Kingdom": 20.89,
+        "United States": 14.09,
+        "Uruguay": 3.97,
+        "Uzbekistan": 25.21,
+        "Venezuela": -3.16,
+        "Vietnam": -29.66,
+        "Zambia": 17.42,
+        "Zimbabwe": -59.56
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.28,
+        "Algeria": 0.27,
+        "Angola": 0.13,
+        "Argentina": -0.16,
+        "Australia": 0.15,
+        "Austria": 0.21,
+        "Azerbaijan": 0.37,
+        "Bangladesh": 0.18,
+        "Barbados": 0.34,
+        "Belgium": 0.34,
+        "Benin": 0.02,
+        "Bolivia": 0.38,
+        "Bosnia and Herzegovina": 0.16,
+        "Brazil": 0.19,
+        "Bulgaria": 0.07,
+        "Burkina Faso": 0.42,
+        "Cambodia": 0.24,
+        "Cameroon": 0.27,
+        "Canada": 0.29,
+        "Central African Republic": 0.3,
+        "Chile": 0.31,
+        "China": 0.25,
+        "Colombia": 0.27,
+        "Cote d'Ivoire": 0.3,
+        "Cuba": 0.25,
+        "Czech Republic": 0.27,
+        "C\u00f4te-d'Ivoire": 0.3,
+        "Democratic Republic of the Congo": 0.17,
+        "Denmark": -0.62,
+        "Dominican Republic": 0.14,
+        "Ecuador": 0.09,
+        "Egypt": 0.14,
+        "El Salvador": 0.29,
+        "Eritrea": 0.43,
+        "Finland": 0.38,
+        "France": 0.22,
+        "Gabon": 0.42,
+        "Germany": 0.22,
+        "Ghana": 0.35,
+        "Greece": 0.04,
+        "Guatemala": 0.24,
+        "Guinea-Bissau": 0.47,
+        "Haiti": -0.24,
+        "Honduras": -0.22,
+        "Hong Kong": 0.29,
+        "Hungary": 0.08,
+        "India": 0.23,
+        "Indonesia": -0.39,
+        "Iran": 0.21,
+        "Iraq": 0.37,
+        "Ireland": -0.23,
+        "Israel": 0.1,
+        "Italy": 0.22,
+        "Japan": 0.27,
+        "Jordan": 0.25,
+        "Kazakhstan": -1.78,
+        "Kenya": 0.3,
+        "Kyrgyzstan": 0.45,
+        "Lebanon": 0.42,
+        "Lesotho": 0.28,
+        "Liberia": 0.34,
+        "Libya": 0.47,
+        "Lithuania": -1.49,
+        "Madagascar": 0.17,
+        "Malaysia": 0.35,
+        "Mali": 0.13,
+        "Mexico": 0.28,
+        "Moldova": 0.27,
+        "Mongolia": 0.15,
+        "Morocco": 0.31,
+        "Mozambique": 0.1,
+        "Myanmar (Burma)": -0.26,
+        "Namibia": 0.29,
+        "Netherlands": -0.71,
+        "New Zealand": -0.02,
+        "Nicaragua": 0.32,
+        "Niger": 0.3,
+        "Nigeria": -1.29,
+        "Norway": 0.27,
+        "Pakistan": -0.45,
+        "Panama": -0.27,
+        "Papua New Guinea": -0.88,
+        "Paraguay": 0.25,
+        "Peru": -0.16,
+        "Philippines": -0.36,
+        "Poland": 0.31,
+        "Portugal": -0.46,
+        "Romania": 0.2,
+        "Russia": 0.22,
+        "Rwanda": 0.34,
+        "Saudi Arabia": 0.17,
+        "Senegal": 0.24,
+        "Sierra Leone": 0.02,
+        "Singapore": 0.21,
+        "Somalia": 0.36,
+        "South Africa": 0.27,
+        "South Korea": -0.56,
+        "Spain": 0.3,
+        "Sri Lanka": 0.08,
+        "Sudan": 0.05,
+        "Swaziland": 0.33,
+        "Sweden": -0.38,
+        "Switzerland": 0.07,
+        "Syria": 0.42,
+        "Tanzania": 0.39,
+        "Thailand": -0.31,
+        "Togo": 0.16,
+        "Trinidad and Tobago": -1.03,
+        "Turkey": -0.89,
+        "Turkmenistan": -1.53,
+        "Uganda": -0.86,
+        "Ukraine": 0.16,
+        "United Kingdom": 0.24,
+        "United States": 0.25,
+        "Uruguay": 0.15,
+        "Uzbekistan": 0.2,
+        "Venezuela": -0.07,
+        "Vietnam": -0.54,
+        "Zambia": 0.16,
+        "Zimbabwe": -0.77
+    },
+    "top_10_states": {
+        "California": [
+            294,
+            0.05
+        ],
+        "Texas": [
+            162,
+            0.03
+        ],
+        "New York": [
+            152,
+            0.02
+        ],
+        "England": [
+            130,
+            0.02
+        ],
+        "New South Wales": [
+            112,
+            0.02
+        ],
+        "Washington": [
+            106,
+            0.02
+        ],
+        "Queensland": [
+            104,
+            0.02
+        ],
+        "Ile-de-France": [
+            92,
+            0.01
+        ],
+        "Pennsylvania": [
+            90,
+            0.01
+        ],
+        "San Salvador": [
+            90,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        294,
+        162,
+        152,
+        130,
+        112,
+        106,
+        104,
+        92,
+        90,
+        90
+    ],
+    "top_10_cities": {
+        "New York City": [
+            128,
+            0.02
+        ],
+        "Los Angeles": [
+            116,
+            0.02
+        ],
+        "Seattle": [
+            90,
+            0.01
+        ],
+        "Philadelphia": [
+            88,
+            0.01
+        ],
+        "San Francisco": [
+            84,
+            0.01
+        ],
+        "Santo Domingo": [
+            56,
+            0.01
+        ],
+        "Tegucigalpa": [
+            54,
+            0.01
+        ],
+        "Houston": [
+            52,
+            0.01
+        ],
+        "Manila": [
+            48,
+            0.01
+        ],
+        "Managua": [
+            46,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        128,
+        116,
+        90,
+        88,
+        84,
+        56,
+        54,
+        52,
+        48,
+        46
+    ],
+    "product_performance": [
+        {
+            "Product ID": "TEC-AC-3405",
+            "total_sales": 23470.408,
+            "total_quantity": 110,
+            "average_price": 733.45025,
+            "total_profit": 8955.018,
+            "profit_margin": 0.3815450502607369
+        },
+        {
+            "Product ID": "TEC-AC-5224",
+            "total_sales": 21888.594,
+            "total_quantity": 111,
+            "average_price": 875.54376,
+            "total_profit": 7468.184,
+            "profit_margin": 0.3411906676143749
+        },
+        {
+            "Product ID": "TEC-AC-3403",
+            "total_sales": 19888.5312,
+            "total_quantity": 99,
+            "average_price": 864.718747826087,
+            "total_profit": 1944.9712,
+            "profit_margin": 0.09779360679988273
+        },
+        {
+            "Product ID": "TEC-AC-5226",
+            "total_sales": 19606.818,
+            "total_quantity": 99,
+            "average_price": 1153.3422352941177,
+            "total_profit": 628.9979999999999,
+            "profit_margin": 0.03208057523663452
+        },
+        {
+            "Product ID": "TEC-AC-5223",
+            "total_sales": 17318.4114,
+            "total_quantity": 96,
+            "average_price": 787.2005181818182,
+            "total_profit": 4923.2414,
+            "profit_margin": 0.2842778870583938
+        },
+        {
+            "Product ID": "TEC-AC-4186",
+            "total_sales": 14231.1384,
+            "total_quantity": 71,
+            "average_price": 677.6732571428571,
+            "total_profit": 1689.8784,
+            "profit_margin": 0.11874513145062239
+        },
+        {
+            "Product ID": "TEC-AC-5894",
+            "total_sales": 14007.818500000001,
+            "total_quantity": 81,
+            "average_price": 636.7190227272728,
+            "total_profit": 4326.8785,
+            "profit_margin": 0.3088902458294987
+        },
+        {
+            "Product ID": "TEC-AC-10002049",
+            "total_sales": 13756.536,
+            "total_quantity": 60,
+            "average_price": 917.1024,
+            "total_profit": 4425.3432,
+            "profit_margin": 0.32169022783061085
+        },
+        {
+            "Product ID": "TEC-AC-5137",
+            "total_sales": 12959.8457,
+            "total_quantity": 67,
+            "average_price": 647.992285,
+            "total_profit": 2906.3557,
+            "profit_margin": 0.2242585110407603
+        },
+        {
+            "Product ID": "TEC-AC-3402",
+            "total_sales": 12877.125,
+            "total_quantity": 59,
+            "average_price": 757.4779411764706,
+            "total_profit": 345.64500000000004,
+            "profit_margin": 0.02684178339497365
+        },
+        {
+            "Product ID": "TEC-AC-4185",
+            "total_sales": 12577.2266,
+            "total_quantity": 64,
+            "average_price": 739.8368588235294,
+            "total_profit": 1180.1265999999998,
+            "profit_margin": 0.09383043158338261
+        },
+        {
+            "Product ID": "TEC-AC-5134",
+            "total_sales": 12264.5988,
+            "total_quantity": 69,
+            "average_price": 584.0285142857143,
+            "total_profit": -1415.6412,
+            "profit_margin": -0.11542499050193146
+        },
+        {
+            "Product ID": "TEC-AC-10003832",
+            "total_sales": 11203.756,
+            "total_quantity": 75,
+            "average_price": 622.4308888888888,
+            "total_profit": 1987.925299999999,
+            "profit_margin": 0.17743382665598922
+        },
+        {
+            "Product ID": "TEC-AC-5897",
+            "total_sales": 11034.6456,
+            "total_quantity": 56,
+            "average_price": 580.7708210526316,
+            "total_profit": 3244.5356,
+            "profit_margin": 0.2940316995771935
+        },
+        {
+            "Product ID": "TEC-AC-10003033",
+            "total_sales": 10822.36,
+            "total_quantity": 35,
+            "average_price": 1082.236,
+            "total_profit": 3085.032499999999,
+            "profit_margin": 0.28506097560975596
+        },
+        {
+            "Product ID": "TEC-AC-5605",
+            "total_sales": 10822.36,
+            "total_quantity": 35,
+            "average_price": 1082.236,
+            "total_profit": 3085.0325000000003,
+            "profit_margin": 0.28506097560975613
+        },
+        {
+            "Product ID": "TEC-AC-4166",
+            "total_sales": 10524.864,
+            "total_quantity": 120,
+            "average_price": 362.9263448275862,
+            "total_profit": 572.264,
+            "profit_margin": 0.0543725790661048
+        },
+        {
+            "Product ID": "TEC-AC-5135",
+            "total_sales": 10426.196,
+            "total_quantity": 50,
+            "average_price": 651.63725,
+            "total_profit": 2136.516,
+            "profit_margin": 0.2049180736675198
+        },
+        {
+            "Product ID": "TEC-AC-4188",
+            "total_sales": 10233.013200000001,
+            "total_quantity": 47,
+            "average_price": 730.9295142857144,
+            "total_profit": 1866.3432,
+            "profit_margin": 0.18238451993788105
+        },
+        {
+            "Product ID": "TEC-AC-5150",
+            "total_sales": 10196.604,
+            "total_quantity": 41,
+            "average_price": 1132.956,
+            "total_profit": 1645.3611,
+            "profit_margin": 0.16136363636363638
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Order Date": "2011-01-03",
+            "Product Name": "Belkin Numeric Keypad, Bluetooth",
+            "total_sales": 69.3,
+            "total_quantity": 2
+        },
+        {
+            "Order Date": "2011-01-04",
+            "Product Name": "Enermax Keyboard, Bluetooth",
+            "total_sales": 222.56,
+            "total_quantity": 4
+        },
+        {
+            "Order Date": "2011-01-04",
+            "Product Name": "Memorex Mouse, USB",
+            "total_sales": 37.83999999999999,
+            "total_quantity": 2
+        },
+        {
+            "Order Date": "2011-01-06",
+            "Product Name": "Logitech Flash Drive, Erganomic",
+            "total_sales": 28.32,
+            "total_quantity": 1
+        },
+        {
+            "Order Date": "2011-01-07",
+            "Product Name": "Logitech Router, Programmable",
+            "total_sales": 273.702,
+            "total_quantity": 2
+        },
+        {
+            "Order Date": "2011-01-09",
+            "Product Name": "Belkin Numeric Keypad, USB",
+            "total_sales": 176.68080000000003,
+            "total_quantity": 6
+        },
+        {
+            "Order Date": "2011-01-10",
+            "Product Name": "Memorex Micro Travel Drive 8 GB",
+            "total_sales": 31.200000000000003,
+            "total_quantity": 3
+        },
+        {
+            "Order Date": "2011-01-12",
+            "Product Name": "Logitech Router, USB",
+            "total_sales": 495.06000000000006,
+            "total_quantity": 3
+        },
+        {
+            "Order Date": "2011-01-14",
+            "Product Name": "Plantronics S12 Corded Telephone Headset System",
+            "total_sales": 646.74,
+            "total_quantity": 6
+        },
+        {
+            "Order Date": "2011-01-16",
+            "Product Name": "Logitech 910-002974 M325 Wireless Mouse for Web Scrolling",
+            "total_sales": 149.95,
+            "total_quantity": 5
+        },
+        {
+            "Order Date": "2011-01-19",
+            "Product Name": "SanDisk Flash Drive, Bluetooth",
+            "total_sales": 52.720000000000006,
+            "total_quantity": 2
+        },
+        {
+            "Order Date": "2011-01-19",
+            "Product Name": "Belkin Mouse, USB",
+            "total_sales": 40.92,
+            "total_quantity": 1
+        },
+        {
+            "Order Date": "2011-01-21",
+            "Product Name": "Memorex Router, Programmable",
+            "total_sales": 495.42,
+            "total_quantity": 2
+        },
+        {
+            "Order Date": "2011-01-22",
+            "Product Name": "SanDisk Keyboard, USB",
+            "total_sales": 108.92,
+            "total_quantity": 2
+        },
+        {
+            "Order Date": "2011-01-24",
+            "Product Name": "SanDisk Flash Drive, Programmable",
+            "total_sales": 110.808,
+            "total_quantity": 3
+        },
+        {
+            "Order Date": "2011-01-26",
+            "Product Name": "Enermax Router, Erganomic",
+            "total_sales": 256.14000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Order Date": "2011-01-26",
+            "Product Name": "Memorex Flash Drive, Bluetooth",
+            "total_sales": 88.2,
+            "total_quantity": 3
+        },
+        {
+            "Order Date": "2011-02-01",
+            "Product Name": "Memorex Memory Card, USB",
+            "total_sales": 81.98400000000001,
+            "total_quantity": 2
+        },
+        {
+            "Order Date": "2011-02-02",
+            "Product Name": "Enermax Aurora Lite Keyboard",
+            "total_sales": 468.9,
+            "total_quantity": 6
+        },
+        {
+            "Order Date": "2011-02-02",
+            "Product Name": "Logitech Numeric Keypad, Erganomic",
+            "total_sales": 44.13,
+            "total_quantity": 2
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-12",
+            "Order Count": 208
+        },
+        {
+            "Order Month": "2014-11",
+            "Order Count": 197
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 188
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 160
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 148
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 134
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 130
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 129
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 124
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 117
+        },
+        {
+            "Order Month": "2016-11",
+            "Order Count": 112
+        },
+        {
+            "Order Month": "2013-11",
+            "Order Count": 112
+        },
+        {
+            "Order Month": "2017-08",
+            "Order Count": 110
+        },
+        {
+            "Order Month": "2014-07",
+            "Order Count": 108
+        },
+        {
+            "Order Month": "2016-09",
+            "Order Count": 105
+        },
+        {
+            "Order Month": "2013-09",
+            "Order Count": 105
+        },
+        {
+            "Order Month": "2013-12",
+            "Order Count": 102
+        },
+        {
+            "Order Month": "2016-12",
+            "Order Count": 102
+        },
+        {
+            "Order Month": "2014-04",
+            "Order Count": 96
+        },
+        {
+            "Order Month": "2012-11",
+            "Order Count": 89
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "total_sales": 3284.4808000000003,
+            "total_quantity": 48
+        },
+        {
+            "Order Date": "2011-02",
+            "total_sales": 3693.3685,
+            "total_quantity": 60
+        },
+        {
+            "Order Date": "2011-03",
+            "total_sales": 5715.281,
+            "total_quantity": 87
+        },
+        {
+            "Order Date": "2011-04",
+            "total_sales": 7438.0190999999995,
+            "total_quantity": 127
+        },
+        {
+            "Order Date": "2011-05",
+            "total_sales": 10620.306,
+            "total_quantity": 133
+        },
+        {
+            "Order Date": "2011-06",
+            "total_sales": 14742.974199999999,
+            "total_quantity": 212
+        },
+        {
+            "Order Date": "2011-07",
+            "total_sales": 7396.873500000001,
+            "total_quantity": 120
+        },
+        {
+            "Order Date": "2011-08",
+            "total_sales": 9816.0745,
+            "total_quantity": 216
+        },
+        {
+            "Order Date": "2011-09",
+            "total_sales": 10802.1041,
+            "total_quantity": 198
+        },
+        {
+            "Order Date": "2011-10",
+            "total_sales": 8475.3118,
+            "total_quantity": 130
+        },
+        {
+            "Order Date": "2011-11",
+            "total_sales": 13312.4434,
+            "total_quantity": 210
+        },
+        {
+            "Order Date": "2011-12",
+            "total_sales": 18158.7707,
+            "total_quantity": 298
+        },
+        {
+            "Order Date": "2012-01",
+            "total_sales": 6182.8366000000005,
+            "total_quantity": 91
+        },
+        {
+            "Order Date": "2012-02",
+            "total_sales": 10015.0496,
+            "total_quantity": 155
+        },
+        {
+            "Order Date": "2012-03",
+            "total_sales": 8691.979,
+            "total_quantity": 128
+        },
+        {
+            "Order Date": "2012-04",
+            "total_sales": 7473.416200000001,
+            "total_quantity": 137
+        },
+        {
+            "Order Date": "2012-05",
+            "total_sales": 10647.1006,
+            "total_quantity": 146
+        },
+        {
+            "Order Date": "2012-06",
+            "total_sales": 18469.3037,
+            "total_quantity": 235
+        },
+        {
+            "Order Date": "2012-07",
+            "total_sales": 12398.1465,
+            "total_quantity": 150
+        },
+        {
+            "Order Date": "2012-08",
+            "total_sales": 17307.7733,
+            "total_quantity": 265
+        },
+        {
+            "Order Date": "2012-09",
+            "total_sales": 17699.6872,
+            "total_quantity": 241
+        },
+        {
+            "Order Date": "2012-10",
+            "total_sales": 16287.7873,
+            "total_quantity": 245
+        },
+        {
+            "Order Date": "2012-11",
+            "total_sales": 20026.038800000002,
+            "total_quantity": 302
+        },
+        {
+            "Order Date": "2012-12",
+            "total_sales": 27198.5662,
+            "total_quantity": 325
+        },
+        {
+            "Order Date": "2013-01",
+            "total_sales": 7804.039,
+            "total_quantity": 120
+        },
+        {
+            "Order Date": "2013-02",
+            "total_sales": 8899.795900000001,
+            "total_quantity": 113
+        },
+        {
+            "Order Date": "2013-03",
+            "total_sales": 12514.382,
+            "total_quantity": 177
+        },
+        {
+            "Order Date": "2013-04",
+            "total_sales": 9932.2068,
+            "total_quantity": 188
+        },
+        {
+            "Order Date": "2013-05",
+            "total_sales": 12693.8718,
+            "total_quantity": 201
+        },
+        {
+            "Order Date": "2013-06",
+            "total_sales": 21715.8503,
+            "total_quantity": 296
+        },
+        {
+            "Order Date": "2013-07",
+            "total_sales": 12243.4605,
+            "total_quantity": 201
+        },
+        {
+            "Order Date": "2013-08",
+            "total_sales": 19605.431500000002,
+            "total_quantity": 264
+        },
+        {
+            "Order Date": "2013-09",
+            "total_sales": 30709.9635,
+            "total_quantity": 336
+        },
+        {
+            "Order Date": "2013-10",
+            "total_sales": 22636.0296,
+            "total_quantity": 266
+        },
+        {
+            "Order Date": "2013-11",
+            "total_sales": 29434.6283,
+            "total_quantity": 426
+        },
+        {
+            "Order Date": "2013-12",
+            "total_sales": 21705.5031,
+            "total_quantity": 379
+        },
+        {
+            "Order Date": "2014-01",
+            "total_sales": 14093.318800000001,
+            "total_quantity": 229
+        },
+        {
+            "Order Date": "2014-02",
+            "total_sales": 21144.4549,
+            "total_quantity": 268
+        },
+        {
+            "Order Date": "2014-03",
+            "total_sales": 14172.9489,
+            "total_quantity": 277
+        },
+        {
+            "Order Date": "2014-04",
+            "total_sales": 22667.774400000002,
+            "total_quantity": 315
+        },
+        {
+            "Order Date": "2014-05",
+            "total_sales": 29251.5176,
+            "total_quantity": 435
+        },
+        {
+            "Order Date": "2014-06",
+            "total_sales": 36257.8948,
+            "total_quantity": 529
+        },
+        {
+            "Order Date": "2014-07",
+            "total_sales": 26984.9645,
+            "total_quantity": 379
+        },
+        {
+            "Order Date": "2014-08",
+            "total_sales": 43213.2494,
+            "total_quantity": 579
+        },
+        {
+            "Order Date": "2014-09",
+            "total_sales": 42008.0407,
+            "total_quantity": 657
+        },
+        {
+            "Order Date": "2014-10",
+            "total_sales": 28031.5944,
+            "total_quantity": 428
+        },
+        {
+            "Order Date": "2014-11",
+            "total_sales": 46121.5552,
+            "total_quantity": 715
+        },
+        {
+            "Order Date": "2014-12",
+            "total_sales": 42996.8576,
+            "total_quantity": 748
+        },
+        {
+            "Order Date": "2015-01",
+            "total_sales": 6541.1266,
+            "total_quantity": 99
+        },
+        {
+            "Order Date": "2015-02",
+            "total_sales": 9656.7596,
+            "total_quantity": 147
+        },
+        {
+            "Order Date": "2015-03",
+            "total_sales": 8691.979,
+            "total_quantity": 128
+        },
+        {
+            "Order Date": "2015-04",
+            "total_sales": 7473.4162,
+            "total_quantity": 137
+        },
+        {
+            "Order Date": "2015-05",
+            "total_sales": 10647.1006,
+            "total_quantity": 146
+        },
+        {
+            "Order Date": "2015-06",
+            "total_sales": 18469.3037,
+            "total_quantity": 235
+        },
+        {
+            "Order Date": "2015-07",
+            "total_sales": 12398.1465,
+            "total_quantity": 150
+        },
+        {
+            "Order Date": "2015-08",
+            "total_sales": 17307.7733,
+            "total_quantity": 265
+        },
+        {
+            "Order Date": "2015-09",
+            "total_sales": 17699.6872,
+            "total_quantity": 241
+        },
+        {
+            "Order Date": "2015-10",
+            "total_sales": 16287.7873,
+            "total_quantity": 245
+        },
+        {
+            "Order Date": "2015-11",
+            "total_sales": 20026.038800000002,
+            "total_quantity": 302
+        },
+        {
+            "Order Date": "2015-12",
+            "total_sales": 27198.5662,
+            "total_quantity": 325
+        },
+        {
+            "Order Date": "2016-01",
+            "total_sales": 7804.039,
+            "total_quantity": 120
+        },
+        {
+            "Order Date": "2016-02",
+            "total_sales": 8899.7959,
+            "total_quantity": 113
+        },
+        {
+            "Order Date": "2016-03",
+            "total_sales": 12514.382,
+            "total_quantity": 177
+        },
+        {
+            "Order Date": "2016-04",
+            "total_sales": 9932.2068,
+            "total_quantity": 188
+        },
+        {
+            "Order Date": "2016-05",
+            "total_sales": 12693.8718,
+            "total_quantity": 201
+        },
+        {
+            "Order Date": "2016-06",
+            "total_sales": 21715.8503,
+            "total_quantity": 296
+        },
+        {
+            "Order Date": "2016-07",
+            "total_sales": 12243.4605,
+            "total_quantity": 201
+        },
+        {
+            "Order Date": "2016-08",
+            "total_sales": 19605.4315,
+            "total_quantity": 264
+        },
+        {
+            "Order Date": "2016-09",
+            "total_sales": 30709.963499999998,
+            "total_quantity": 336
+        },
+        {
+            "Order Date": "2016-10",
+            "total_sales": 22636.0296,
+            "total_quantity": 266
+        },
+        {
+            "Order Date": "2016-11",
+            "total_sales": 29434.6283,
+            "total_quantity": 426
+        },
+        {
+            "Order Date": "2016-12",
+            "total_sales": 21705.503099999998,
+            "total_quantity": 379
+        },
+        {
+            "Order Date": "2017-01",
+            "total_sales": 10808.838,
+            "total_quantity": 181
+        },
+        {
+            "Order Date": "2017-02",
+            "total_sales": 15828.9444,
+            "total_quantity": 200
+        },
+        {
+            "Order Date": "2017-03",
+            "total_sales": 9829.0659,
+            "total_quantity": 192
+        },
+        {
+            "Order Date": "2017-04",
+            "total_sales": 15480.4993,
+            "total_quantity": 194
+        },
+        {
+            "Order Date": "2017-05",
+            "total_sales": 16876.9016,
+            "total_quantity": 274
+        },
+        {
+            "Order Date": "2017-06",
+            "total_sales": 23269.2306,
+            "total_quantity": 345
+        },
+        {
+            "Order Date": "2017-07",
+            "total_sales": 19207.925,
+            "total_quantity": 248
+        },
+        {
+            "Order Date": "2017-08",
+            "total_sales": 33420.3409,
+            "total_quantity": 371
+        },
+        {
+            "Order Date": "2017-09",
+            "total_sales": 30546.2966,
+            "total_quantity": 458
+        },
+        {
+            "Order Date": "2017-10",
+            "total_sales": 18121.9346,
+            "total_quantity": 289
+        },
+        {
+            "Order Date": "2017-11",
+            "total_sales": 33387.5598,
+            "total_quantity": 508
+        },
+        {
+            "Order Date": "2017-12",
+            "total_sales": 26710.6269,
+            "total_quantity": 460
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer ID": "KC-16540",
+            "total_spent": 4654.2300000000005,
+            "purchase_frequency": 5,
+            "average_order_value": 775.705
+        },
+        {
+            "Customer ID": "JF-15295",
+            "total_spent": 4539.662,
+            "purchase_frequency": 7,
+            "average_order_value": 648.523142857143
+        },
+        {
+            "Customer ID": "MC-17635",
+            "total_spent": 4464.674,
+            "purchase_frequency": 6,
+            "average_order_value": 744.1123333333334
+        },
+        {
+            "Customer ID": "SH-9975",
+            "total_spent": 4147.74,
+            "purchase_frequency": 2,
+            "average_order_value": 2073.87
+        },
+        {
+            "Customer ID": "HM-14860",
+            "total_spent": 4021.5009,
+            "purchase_frequency": 5,
+            "average_order_value": 804.30018
+        },
+        {
+            "Customer ID": "RH-19495",
+            "total_spent": 3933.406,
+            "purchase_frequency": 5,
+            "average_order_value": 786.6812
+        },
+        {
+            "Customer ID": "KC-165401404",
+            "total_spent": 3795.2999999999997,
+            "purchase_frequency": 2,
+            "average_order_value": 1897.6499999999999
+        },
+        {
+            "Customer ID": "GZ-14470",
+            "total_spent": 3662.4300000000003,
+            "purchase_frequency": 3,
+            "average_order_value": 915.6075000000001
+        },
+        {
+            "Customer ID": "DK-13375",
+            "total_spent": 3625.7180000000003,
+            "purchase_frequency": 8,
+            "average_order_value": 453.21475000000004
+        },
+        {
+            "Customer ID": "HW-14935",
+            "total_spent": 3505.4700000000003,
+            "purchase_frequency": 4,
+            "average_order_value": 584.245
+        },
+        {
+            "Customer ID": "NF-18385",
+            "total_spent": 3463.1,
+            "purchase_frequency": 5,
+            "average_order_value": 692.62
+        },
+        {
+            "Customer ID": "SH-997557",
+            "total_spent": 3449.88,
+            "purchase_frequency": 1,
+            "average_order_value": 3449.88
+        },
+        {
+            "Customer ID": "BE-11335",
+            "total_spent": 3397.66,
+            "purchase_frequency": 4,
+            "average_order_value": 849.415
+        },
+        {
+            "Customer ID": "CC-12145",
+            "total_spent": 3276.5400000000004,
+            "purchase_frequency": 3,
+            "average_order_value": 1092.18
+        },
+        {
+            "Customer ID": "MM-17920",
+            "total_spent": 3267.4240000000004,
+            "purchase_frequency": 5,
+            "average_order_value": 653.4848000000001
+        },
+        {
+            "Customer ID": "HM-14860139",
+            "total_spent": 3200.73,
+            "purchase_frequency": 1,
+            "average_order_value": 3200.73
+        },
+        {
+            "Customer ID": "NC-18625",
+            "total_spent": 3165.120000000001,
+            "purchase_frequency": 3,
+            "average_order_value": 1055.0400000000002
+        },
+        {
+            "Customer ID": "NC-1862511",
+            "total_spent": 3078.72,
+            "purchase_frequency": 1,
+            "average_order_value": 3078.72
+        },
+        {
+            "Customer ID": "CC-1214548",
+            "total_spent": 3047.2200000000003,
+            "purchase_frequency": 2,
+            "average_order_value": 1523.6100000000001
+        },
+        {
+            "Customer ID": "AM-10705",
+            "total_spent": 3026.7079000000003,
+            "purchase_frequency": 3,
+            "average_order_value": 605.34158
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 1108784.72,
+            "total_quantity": 13960,
+            "average_profit": 75.62959143436392
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 106439.778,
+            "total_quantity": 1332,
+            "average_profit": 55.67143103448276
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 119494.832,
+            "total_quantity": 2640,
+            "average_profit": 23.140597720797718
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 54435.084,
+            "total_quantity": 1398,
+            "average_profit": -31.226909090909096
+        },
+        {
+            "Discount": 0.45,
+            "total_sales": 12281.247000000001,
+            "total_quantity": 284,
+            "average_profit": -59.34855405405405
+        },
+        {
+            "Discount": 0.47,
+            "total_sales": 43832.802,
+            "total_quantity": 928,
+            "average_profit": -75.9036050420168
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 32133.96,
+            "total_quantity": 672,
+            "average_profit": -114.92549999999999
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 14764.792,
+            "total_quantity": 482,
+            "average_profit": -75.84982222222222
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 6306.822,
+            "total_quantity": 196,
+            "average_profit": -74.87130188679245
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 36926.1,
+            "total_quantity": 472
+        },
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 34211.82,
+            "total_quantity": 482
+        },
+        {
+            "State": "Washington",
+            "City": "Seattle",
+            "total_sales": 26175.96,
+            "total_quantity": 332
+        },
+        {
+            "State": "Ile-de-France",
+            "City": "Paris",
+            "total_sales": 15333.48,
+            "total_quantity": 120
+        },
+        {
+            "State": "Pennsylvania",
+            "City": "Philadelphia",
+            "total_sales": 14555.104,
+            "total_quantity": 274
+        },
+        {
+            "State": "California",
+            "City": "San Diego",
+            "total_sales": 13027.960000000001,
+            "total_quantity": 144
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "total_sales": 12648.32,
+            "total_quantity": 278
+        },
+        {
+            "State": "Queensland",
+            "City": "Brisbane",
+            "total_sales": 10376.316,
+            "total_quantity": 98
+        },
+        {
+            "State": "Vienna",
+            "City": "Vienna",
+            "total_sales": 10159.8,
+            "total_quantity": 88
+        },
+        {
+            "State": "San Salvador",
+            "City": "San Salvador",
+            "total_sales": 10152.0,
+            "total_quantity": 122
+        },
+        {
+            "State": "Santo Domingo",
+            "City": "Santo Domingo",
+            "total_sales": 9974.432,
+            "total_quantity": 210
+        },
+        {
+            "State": "Madrid",
+            "City": "Madrid",
+            "total_sales": 9561.18,
+            "total_quantity": 60
+        },
+        {
+            "State": "Dhaka",
+            "City": "Dhaka",
+            "total_sales": 9094.44,
+            "total_quantity": 44
+        },
+        {
+            "State": "South Australia",
+            "City": "Adelaide",
+            "total_sales": 9025.56,
+            "total_quantity": 114
+        },
+        {
+            "State": "New South Wales",
+            "City": "Newcastle",
+            "total_sales": 8929.655999999999,
+            "total_quantity": 78
+        },
+        {
+            "State": "San Salvador",
+            "City": "Soyapango",
+            "total_sales": 8617.880000000001,
+            "total_quantity": 124
+        },
+        {
+            "State": "New South Wales",
+            "City": "Sydney",
+            "total_sales": 8278.416,
+            "total_quantity": 112
+        },
+        {
+            "State": "Managua",
+            "City": "Managua",
+            "total_sales": 8242.56,
+            "total_quantity": 186
+        },
+        {
+            "State": "Al Qahirah",
+            "City": "Cairo",
+            "total_sales": 7257.36,
+            "total_quantity": 88
+        },
+        {
+            "State": "Francisco Moraz\u00e1n",
+            "City": "Tegucigalpa",
+            "total_sales": 7205.112,
+            "total_quantity": 202
+        }
+    ]
+}
