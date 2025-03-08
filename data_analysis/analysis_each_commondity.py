@@ -63,13 +63,68 @@ class Analysis:
             'top_10_cities': top_10_cities,
             'top_10_cities_values': top_10_cities_values
         }
+    
+    def analyze_product_performance(self):
+        product_performance = self.data.groupby('Product_ID').agg(
+            total_sales=('Sales', 'sum'),
+            total_quantity=('Quantity', 'sum'),
+            average_price=('Sales', 'mean'),
+            total_profit=('Profit', 'sum')
+        ).reset_index()
 
+        product_performance['profit_margin'] = product_performance['total_profit']/product_performance['total_sales']
+        return product_performance.to_dict(orient='records')
+    
+    def analyze_time_series(self, date_column):
+        self.data[date_column] = pd.to_datetime(self.data[date_column], errors='coerce')
+        time_series_analysis = self.data.groupby(self.data[date_column].dt.to_period('M')).agg(
+            total_sales=('Sales', 'sum'),
+            total_quantity=('Quantity', 'sum')
+        ).reset_index()
+        return time_series_analysis.to_dict(orient='records')
+    
+    def analyze_customer_segmentation(self):
+        customer_segmentation = self.data.groupby('Customer_ID').agg(
+            total_spent=('Sales', 'sum'),
+            purchase_frequency=('Order_ID', 'nunique'),
+            average_order_value=('Sales', 'mean')
+        ).reset_index()
+        return customer_segmentation.to_dict(orient='records')
 
+    def analyze_discounts(self):
+        discount_analysis = self.data.groupby('Discount').agg(
+            total_sales=('Sales', 'sum'),
+            total_quantity=('Quantity', 'sum'),
+            average_profit=('Profit', 'mean')
+        ).reset_index()
+        return discount_analysis.to_dict(orient='records')
+
+    def analyze_geographic_distribution(self):
+        geographic_distribution = self.data.groupby(['State', 'City']).agg(
+            total_sales=('Sales', 'sum'),
+            total_quantity=('Quantity', 'sum')
+        ).reset_index()
+        return geographic_distribution.to_dict(orient='records')
+    
+    def analyze_returns(self):
+        # Assuming there is a 'Return' column indicating if an item was returned
+        return_analysis = self.data[self.data['Return'] == 1].groupby('Product_ID').agg(
+            total_returns=('Return', 'count'),
+            total_sales_lost=('Sales', 'sum')
+        ).reset_index()
+        return return_analysis.to_dict(orient='records')
+    
     def analyze_all(self):
         return {
             **self.analyze_segment(),
             **self.analyze_country(),
-            **self.analyze_state_city()
+            **self.analyze_state_city(),
+            **self.analyze_product_performance(),
+            **self.analyze_time_series('Order_Date'),
+            **self.analyze_customer_segmentation(),
+            **self.analyze_discounts(),
+            **self.analyze_geographic_distribution(),
+            **self.analyze_returns()
         }
 
 for y1 in list(set(data_og['Combined_Category'])):
@@ -114,7 +169,83 @@ class Visualization:
         plt.xticks(rotation=45)
         plt.savefig('./analysis_result_{}/top_10_cities_distribution_{}.png'.format(self.category, self.category))
 
+    def plot_product_performance(self):
+        product_performance = self.analysis_result['product_performance']
+        products = [p['Product_ID'] for p in product_performance]
+        total_sales = [p['total_sales'] for p in product_performance]
+        plt.figure(figsize=(12, 6))
+        plt.bar(products, total_sales)
+        plt.xlabel('Product ID')
+        plt.ylabel('Total Sales')
+        plt.title('Product Performance')
+        plt.xticks(rotation=45)
+        plt.savefig('./analysis_result_{}/product_performance.png'.format(self.category))
+        plt.close()
 
+    def plot_time_series(self):
+        time_series_data = self.analysis_result['time_series_analysis']
+        months = [str(ts['Order_Date']) for ts in time_series_data]
+        total_sales = [ts['total_sales'] for ts in time_series_data]
+        plt.figure(figsize=(12, 6))
+        plt.plot(months, total_sales, marker='o')
+        plt.xlabel('Month')
+        plt.ylabel('Total Sales')
+        plt.title('Sales Over Time')
+        plt.xticks(rotation=45)
+        plt.savefig('./analysis_result_{}/time_series_sales.png'.format(self.category))
+        plt.close()
+    
+    def plot_customer_segmentation(self):
+        customer_data = self.analysis_result['customer_segmentation']
+        customers = [c['Customer_ID'] for c in customer_data]
+        total_spent = [c['total_spent'] for c in customer_data]
+        plt.figure(figsize=(12, 6))
+        plt.bar(customers, total_spent)
+        plt.xlabel('Customer ID')
+        plt.ylabel('Total Spent')
+        plt.title('Customer Segmentation')
+        plt.xticks(rotation=45)
+        plt.savefig('./analysis_result_{}/customer_segmentation.png'.format(self.category))
+        plt.close()
+
+    def plot_discount_analysis(self):
+        discount_data = self.analysis_result['discount_analysis']
+        discounts = [d['Discount'] for d in discount_data]
+        total_sales = [d['total_sales'] for d in discount_data]
+        plt.figure(figsize=(12, 6))
+        plt.bar(discounts, total_sales)
+        plt.xlabel('Discount')
+        plt.ylabel('Total Sales')
+        plt.title('Sales by Discount')
+        plt.xticks(rotation=45)
+        plt.savefig('./analysis_result_{}/discount_analysis.png'.format(self.category))
+        plt.close()
+
+    def plot_geographic_distribution(self):
+        geo_data = self.analysis_result['geographic_distribution']
+        states = [f"{g['State']}, {g['City']}" for g in geo_data]
+        total_sales = [g['total_sales'] for g in geo_data]
+        plt.figure(figsize=(12, 6))
+        plt.bar(states, total_sales)
+        plt.xlabel('Location (State, City)')
+        plt.ylabel('Total Sales')
+        plt.title('Geographic Distribution of Sales')
+        plt.xticks(rotation=45)
+        plt.savefig('./analysis_result_{}/geographic_distribution.png'.format(self.category))
+        plt.close()   
+    
+    def plot_returns_analysis(self):
+        returns_data = self.analysis_result['returns_analysis']
+        products = [r['Product_ID'] for r in returns_data]
+        total_returns = [r['total_returns'] for r in returns_data]
+        plt.figure(figsize=(12, 6))
+        plt.bar(products, total_returns)
+        plt.xlabel('Product ID')
+        plt.ylabel('Total Returns')
+        plt.title('Returns Analysis')
+        plt.xticks(rotation=45)
+        plt.savefig('./analysis_result_{}/returns_analysis.png'.format(self.category))
+        plt.close()
 
 for y1 in list(set(data_og['Combined_Category'])):
     print(y1)
@@ -128,3 +259,9 @@ for y1 in list(set(data_og['Combined_Category'])):
     visualization = Visualization(data, analysis_result, y1)
     visualization.plot_top_10_states()
     visualization.plot_top_10_cities()
+    visualization.plot_product_performance()
+    visualization.plot_time_series()
+    visualization.plot_customer_segmentation()
+    visualization.plot_discount_analysis()
+    visualization.plot_geographic_distribution()
+    visualization.plot_returns_analysis()
