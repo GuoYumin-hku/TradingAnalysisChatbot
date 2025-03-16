@@ -171,6 +171,33 @@ class Analysis:
             'top_5_loss_products': loss_products.to_dict()
         }
 
+    def analyze_ship_mode(self):
+        analysis = self.data.groupby('Ship Mode').agg(
+            total_orders=('Order ID', 'nunique'),
+            avg_shipping_delay=('Shipping_Delay', 'mean'),
+            total_profit=('Profit', 'sum'),
+            shipping_cost_ratio=('Shipping Cost', lambda x: (x / self.data['Sales']).mean())
+        ).round(2)
+        return analysis.to_dict(orient='index')
+    
+    def analyze_order_priority(self):
+        analysis = self.data.groupby('Order Priority').agg(
+            avg_profit_margin=('Profit', lambda x: (x / self.data['Sales']).mean()),
+            common_ship_mode=('Ship Mode', lambda x: x.mode()[0])
+        )
+        return analysis.to_dict(orient='index')
+    
+    def analyze_rfm(self):
+        rfm = self.data.groupby('Customer ID').agg(
+            recency=('Order_Date', lambda x: (self.data['Order_Date'].max() - x.max()).days),
+            frequency=('Order ID', 'nunique'),
+            monetary=('Sales', 'sum')
+        )
+        return {
+            'rfm_stats': rfm.describe().to_dict(),
+            'rfm_segments': pd.qcut(rfm['recency'], q=3, labels=["High", "Medium", "Low"]).value_counts().to_dict()
+        }
+
     def analyze_all(self):
         return {
             **self.analyze_segment(),
@@ -185,6 +212,9 @@ class Analysis:
             'customer_segmentation': self.analyze_customer_segmentation(),  
             'discount_analysis': self.analyze_discounts(),  
             'geographic_distribution': self.analyze_geographic_distribution(), 
+            'ship_mode_analysis': self.analyze_ship_mode(),
+            'order_priority_analysis': self.analyze_order_priority(),
+            'rfm_analysis': self.analyze_rfm(),
         }
 
 
@@ -414,6 +444,81 @@ class Visualization:
         plt.tight_layout()
         plt.savefig(f'./analysis_result_{self.category}/top_loss_products_{self.category}.png')
         plt.close()
+        
+    def plot_ship_mode_analysis(self):
+        data = self.analysis_result['ship_mode_analysis']
+        
+        save_dir = f'./analysis_result_{self.category}/'
+        os.makedirs(save_dir, exist_ok=True)
+        
+        pie_colors = sns.color_palette("pastel", len(data))
+        
+        plt.figure(figsize=(10, 8))
+        costs = [v['shipping_cost_ratio'] for v in data.values()]
+        plt.pie(
+            costs,
+            labels=data.keys(),
+            autopct='%1.1f%%',
+            colors=pie_colors,
+            startangle=90,
+            wedgeprops={'edgecolor': 'white', 'linewidth': 1}
+        )
+        plt.title('Shipping Cost Ratio Distribution', fontsize=14, pad=20)
+        
+        plt.tight_layout()
+        plt.savefig(f'{save_dir}shipping_cost_ratio.png', dpi=300)
+        plt.close()
+        
+    def plot_order_priority_analysis(self):
+        data = self.analysis_result['order_priority_analysis']
+        
+        plt.figure(figsize=(12, 6))
+        priorities = list(data.keys())
+        margins = [v['avg_profit_margin'] for v in data.values()]
+        plt.bar(priorities, margins, color='teal')
+        plt.title('Average Profit Margin by Order Priority')
+        plt.ylabel('Profit Margin Ratio')
+        plt.xticks(rotation=45)
+        plt.savefig(f'./analysis_result_{self.category}/order_priority_margin.png')
+        plt.close()
+        
+        ship_modes = list(set(v['common_ship_mode'] for v in data.values()))
+        mode_counts = {mode: [list(v.values()).count(mode) for v in data.values()] for mode in ship_modes}
+        
+        plt.figure(figsize=(12, 6))
+        bottom = np.zeros(len(priorities))
+        for mode, counts in mode_counts.items():
+            plt.bar(priorities, counts, label=mode, bottom=bottom)
+            bottom += counts
+        plt.legend(title='Ship Mode')
+        plt.title('Order Priority vs Preferred Ship Mode')
+        plt.savefig(f'./analysis_result_{self.category}/priority_shipmode_relation.png')
+        plt.close()
+        
+    def plot_rfm_analysis(self):
+        rfm = self.data.groupby('Customer ID').agg(
+            recency=('Order_Date', lambda x: (self.data['Order_Date'].max() - x.max()).days),
+            frequency=('Order ID', 'nunique'),
+            monetary=('Sales', 'sum')
+        )
+        
+        plt.figure(figsize=(14, 8))
+        ax = plt.subplot(projection='3d')
+        ax.scatter(rfm['recency'], rfm['frequency'], rfm['monetary'], 
+                   c=rfm['monetary'], cmap='viridis', s=50)
+        ax.set_xlabel('Recency (Days)')
+        ax.set_ylabel('Frequency')
+        ax.set_zlabel('Monetary ($)')
+        plt.title('3D RFM Analysis')
+        plt.savefig(f'./analysis_result_{self.category}/rfm_3d.png')
+        plt.close()
+        
+        segments = self.analysis_result['rfm_analysis']['rfm_segments']
+        plt.figure(figsize=(10, 6))
+        plt.pie(segments.values(), labels=segments.keys(), autopct='%1.1f%%')
+        plt.title('Customer Activity Segmentation')
+        plt.savefig(f'./analysis_result_{self.category}/rfm_segments.png')
+        plt.close()
 
 for y1 in set(data_og['Combined_Category']):
     print(f'Processing category: {y1}')
@@ -442,3 +547,6 @@ for y1 in set(data_og['Combined_Category']):
     visualization.plot_customer_segmentation()
     visualization.plot_discount_analysis()
     visualization.plot_geographic_distribution()
+    visualization.plot_ship_mode_analysis()
+    visualization.plot_order_priority_analysis()
+    visualization.plot_rfm_analysis()
