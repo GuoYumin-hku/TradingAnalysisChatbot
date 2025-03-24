@@ -1179,288 +1179,1547 @@
         58,
         52
     ],
+    "yearly_sales": {
+        "2011": 42665.9781,
+        "2012": 51512.3793,
+        "2013": 70512.5548,
+        "2014": 121974.6893,
+        "2015": 50782.0113,
+        "2016": 70056.9028,
+        "2017": 78574.7312
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 2595.125,
+            "2012": 1432.8880000000001,
+            "2013": 3615.619,
+            "2014": 7173.662,
+            "2015": 1380.128,
+            "2016": 3615.6189999999997,
+            "2017": 4472.217
+        },
+        "August": {
+            "2011": 6286.8706,
+            "2012": 5137.286700000001,
+            "2013": 7053.1531,
+            "2014": 14636.9986,
+            "2015": 5137.2867,
+            "2016": 6952.3531,
+            "2017": 8239.099
+        },
+        "December": {
+            "2011": 5292.8917,
+            "2012": 6781.2773,
+            "2013": 7751.4975,
+            "2014": 16100.5406,
+            "2015": 6764.1573,
+            "2016": 7705.9575,
+            "2017": 10882.8069
+        },
+        "February": {
+            "2011": 1407.181,
+            "2012": 1622.657,
+            "2013": 3509.0287,
+            "2014": 3598.2831,
+            "2015": 1470.5529999999999,
+            "2016": 3509.0287,
+            "2017": 2149.7621
+        },
+        "January": {
+            "2011": 2138.6388,
+            "2012": 2618.093,
+            "2013": 3887.1001,
+            "2014": 5646.5886,
+            "2015": 2614.757,
+            "2016": 3830.4001,
+            "2017": 3507.9498
+        },
+        "July": {
+            "2011": 1921.4862,
+            "2012": 3307.5798,
+            "2013": 4995.498500000001,
+            "2014": 6168.4421,
+            "2015": 3285.6678,
+            "2016": 4995.4985,
+            "2017": 4305.7209
+        },
+        "June": {
+            "2011": 4282.6675000000005,
+            "2012": 3507.2315000000003,
+            "2013": 9102.1366,
+            "2014": 12118.797,
+            "2015": 3507.2315,
+            "2016": 9087.1966,
+            "2017": 7730.1375
+        },
+        "March": {
+            "2011": 2064.6476,
+            "2012": 4438.348,
+            "2013": 3568.107,
+            "2014": 7021.8461,
+            "2015": 4332.828,
+            "2016": 3541.727,
+            "2017": 4873.7945
+        },
+        "May": {
+            "2011": 2352.708,
+            "2012": 5355.6804,
+            "2013": 7594.3296,
+            "2014": 8754.7386,
+            "2015": 5270.6244,
+            "2016": 7482.3696,
+            "2017": 6363.6706
+        },
+        "November": {
+            "2011": 7273.1069,
+            "2012": 7273.3445,
+            "2013": 7594.2371,
+            "2014": 16040.1424,
+            "2015": 7147.1045,
+            "2016": 7523.2571,
+            "2017": 8827.5735
+        },
+        "October": {
+            "2011": 3360.3062,
+            "2012": 4549.4619,
+            "2013": 5161.1244,
+            "2014": 12279.8622,
+            "2015": 4524.9019,
+            "2016": 5132.7724,
+            "2017": 8413.024
+        },
+        "September": {
+            "2011": 3690.3486000000003,
+            "2012": 5488.5312,
+            "2013": 6680.7232,
+            "2014": 12434.788,
+            "2015": 5346.7712,
+            "2016": 6680.7232,
+            "2017": 8808.9754
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 3.9,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Green Bar Cards & Envelopes, Multicolor": 8612.08,
+        "Enermax Note Cards, Premium": 7881.3414,
+        "Green Bar Cards & Envelopes, 8.5 x 11": 7795.452,
+        "Green Bar Note Cards, Premium": 7191.296,
+        "Xerox Cards & Envelopes, 8.5 x 11": 6652.1132,
+        "SanDisk Cards & Envelopes, Recycled": 6237.792,
+        "Eaton Cards & Envelopes, Premium": 6032.7348,
+        "SanDisk Cards & Envelopes, Premium": 5695.4832,
+        "Xerox 1915": 5578.0199999999995,
+        "Green Bar Cards & Envelopes, Premium": 5515.1696
+    },
+    "top_10_products_by_profit": {
+        "Xerox 1915": 2524.788,
+        "SanDisk Cards & Envelopes, Premium": 2033.8632,
+        "Xerox Cards & Envelopes, 8.5 x 11": 1744.0332,
+        "Multicolor Computer Printout Paper": 1702.764,
+        "Xerox Cards & Envelopes, Recycled": 1652.7376,
+        "Xerox 1908": 1598.7888,
+        "Xerox 1945": 1512.531,
+        "Xerox 189": 1493.064,
+        "Xerox 1919": 1459.244,
+        "Xerox 1941": 1409.184
+    },
+    "top_10_products_by_turnover": {
+        "Enermax Note Cards, Premium": 342,
+        "Green Bar Note Cards, Premium": 300,
+        "Eaton Note Cards, Premium": 262,
+        "SanDisk Parchment Paper, Multicolor": 260,
+        "Green Bar Cards & Envelopes, Multicolor": 220,
+        "SanDisk Note Cards, Premium": 216,
+        "Eaton Computer Printout Paper, 8.5 x 11": 208,
+        "Green Bar Parchment Paper, Recycled": 206,
+        "Enermax Note Cards, 8.5 x 11": 200,
+        "Eaton Memo Slips, Multicolor": 190
+    },
+    "top_5_loss_products": {
+        "SanDisk Cards & Envelopes, Recycled": -909.528,
+        "Xerox Note Cards, 8.5 x 11": -833.252,
+        "Green Bar Note Cards, Premium": -776.976,
+        "Green Bar Cards & Envelopes, Multicolor": -616.5200000000001,
+        "Eaton Cards & Envelopes, Recycled": -442.653
+    },
     "product_performance": [
         {
-            "Product ID": "OFF-PA-4462",
-            "total_sales": 4306.04,
-            "total_quantity": 110,
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 8612.08,
+            "total_quantity": 220,
             "average_price": 172.2416,
-            "total_profit": 61.579999999999984,
-            "profit_margin": 0.014300842537459007
+            "total_profit": 123.15999999999991,
+            "profit_margin": 0.014300842537459
         },
         {
-            "Product ID": "OFF-PA-4177",
-            "total_sales": 3940.6707,
-            "total_quantity": 171,
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 7881.3414,
+            "total_quantity": 342,
             "average_price": 91.6435046511628,
-            "total_profit": 573.2307000000001,
-            "profit_margin": 0.14546526305788507
+            "total_profit": 1146.4614,
+            "profit_margin": 0.14546526305788504
         },
         {
-            "Product ID": "OFF-PA-4461",
-            "total_sales": 3897.726,
-            "total_quantity": 90,
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 7795.452,
+            "total_quantity": 180,
             "average_price": 149.91253846153847,
-            "total_profit": 481.82599999999996,
-            "profit_margin": 0.12361720654556015
+            "total_profit": 963.652,
+            "profit_margin": 0.12361720654556016
         },
         {
-            "Product ID": "OFF-PA-4480",
-            "total_sales": 3595.648,
-            "total_quantity": 150,
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 7191.296,
+            "total_quantity": 300,
             "average_price": 83.61972093023256,
-            "total_profit": 152.668,
+            "total_profit": 305.336,
             "profit_margin": 0.04245910611939767
         },
         {
-            "Product ID": "OFF-PA-6600",
-            "total_sales": 3326.0566,
-            "total_quantity": 73,
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 6652.1132,
+            "total_quantity": 146,
             "average_price": 175.05561052631577,
-            "total_profit": 872.0166,
+            "total_profit": 1744.0332,
             "profit_margin": 0.2621773183294596
         },
         {
-            "Product ID": "OFF-PA-10000994",
-            "total_sales": 3289.8419999999996,
-            "total_quantity": 59,
-            "average_price": 193.5201176470588,
-            "total_profit": 1432.766,
-            "profit_margin": 0.4355121005811222
-        },
-        {
-            "Product ID": "OFF-PA-5850",
-            "total_sales": 3118.896,
-            "total_quantity": 81,
+            "Product Name": "SanDisk Cards & Envelopes, Recycled",
+            "total_sales": 6237.792,
+            "total_quantity": 162,
             "average_price": 135.6041739130435,
-            "total_profit": -257.624,
+            "total_profit": -515.248,
             "profit_margin": -0.08260102292606102
         },
         {
-            "Product ID": "OFF-PA-3988",
-            "total_sales": 3016.3674,
-            "total_quantity": 79,
+            "Product Name": "Eaton Cards & Envelopes, Premium",
+            "total_sales": 6032.7348,
+            "total_quantity": 158,
             "average_price": 158.75617894736843,
-            "total_profit": 442.0174,
+            "total_profit": 884.0348,
             "profit_margin": 0.1465396423525861
         },
         {
-            "Product ID": "OFF-PA-5849",
-            "total_sales": 2847.7416,
-            "total_quantity": 71,
+            "Product Name": "SanDisk Cards & Envelopes, Premium",
+            "total_sales": 5695.4832,
+            "total_quantity": 142,
             "average_price": 167.51421176470586,
-            "total_profit": 1016.9316,
+            "total_profit": 2033.8632,
             "profit_margin": 0.35710107967661114
         },
         {
-            "Product ID": "OFF-PA-6467",
-            "total_sales": 2789.01,
-            "total_quantity": 28,
-            "average_price": 309.89000000000004,
-            "total_profit": 1262.394,
-            "profit_margin": 0.4526315789473684
+            "Product Name": "Xerox 1915",
+            "total_sales": 5578.0199999999995,
+            "total_quantity": 56,
+            "average_price": 309.89,
+            "total_profit": 2524.788,
+            "profit_margin": 0.45263157894736844
         },
         {
-            "Product ID": "OFF-PA-4463",
-            "total_sales": 2757.5848,
-            "total_quantity": 71,
+            "Product Name": "Green Bar Cards & Envelopes, Premium",
+            "total_sales": 5515.1696,
+            "total_quantity": 142,
             "average_price": 153.19915555555556,
-            "total_profit": 321.2248,
-            "profit_margin": 0.11648773230835911
+            "total_profit": 642.4495999999999,
+            "profit_margin": 0.1164877323083591
         },
         {
-            "Product ID": "OFF-PA-6603",
-            "total_sales": 2655.8488,
-            "total_quantity": 75,
+            "Product Name": "Xerox Cards & Envelopes, Recycled",
+            "total_sales": 5311.6976,
+            "total_quantity": 150,
             "average_price": 139.7815157894737,
-            "total_profit": 826.3688,
+            "total_profit": 1652.7376,
             "profit_margin": 0.3111505444135223
         },
         {
-            "Product ID": "OFF-PA-4004",
-            "total_sales": 2632.9772,
-            "total_quantity": 131,
+            "Product Name": "Eaton Note Cards, Premium",
+            "total_sales": 5265.9544,
+            "total_quantity": 262,
             "average_price": 79.78718787878788,
-            "total_profit": 232.5972,
+            "total_profit": 465.1944,
             "profit_margin": 0.08833999777894012
         },
         {
-            "Product ID": "OFF-PA-3989",
-            "total_sales": 2552.8455000000004,
-            "total_quantity": 72,
+            "Product Name": "Eaton Cards & Envelopes, Recycled",
+            "total_sales": 5105.691000000001,
+            "total_quantity": 144,
             "average_price": 127.64227500000001,
-            "total_profit": 344.6655,
+            "total_profit": 689.331,
             "profit_margin": 0.13501228335204774
         },
         {
-            "Product ID": "OFF-PA-6602",
-            "total_sales": 2467.3540000000003,
-            "total_quantity": 70,
+            "Product Name": "Xerox Cards & Envelopes, Premium",
+            "total_sales": 4934.7080000000005,
+            "total_quantity": 140,
             "average_price": 129.86073684210527,
-            "total_profit": 666.004,
+            "total_profit": 1332.008,
             "profit_margin": 0.2699264069930784
         },
         {
-            "Product ID": "OFF-PA-5886",
-            "total_sales": 2465.8095,
-            "total_quantity": 108,
+            "Product Name": "SanDisk Note Cards, Premium",
+            "total_sales": 4931.619,
+            "total_quantity": 216,
             "average_price": 70.4517,
-            "total_profit": 658.9895,
+            "total_profit": 1317.979,
             "profit_margin": 0.2672507750497352
         },
         {
-            "Product ID": "OFF-PA-5885",
-            "total_sales": 2423.1592,
-            "total_quantity": 80,
+            "Product Name": "SanDisk Note Cards, Multicolor",
+            "total_sales": 4846.3184,
+            "total_quantity": 160,
             "average_price": 115.38853333333334,
-            "total_profit": 621.7492,
+            "total_profit": 1243.4984,
             "profit_margin": 0.2565861954096949
         },
         {
-            "Product ID": "OFF-PA-5851",
-            "total_sales": 2397.0414,
-            "total_quantity": 84,
+            "Product Name": "SanDisk Computer Printout Paper, 8.5 x 11",
+            "total_sales": 4794.0828,
+            "total_quantity": 168,
             "average_price": 108.95642727272728,
-            "total_profit": -68.6886,
+            "total_profit": -137.3772,
             "profit_margin": -0.02865557516027883
         },
         {
-            "Product ID": "OFF-PA-4479",
-            "total_sales": 2358.135,
-            "total_quantity": 86,
+            "Product Name": "Green Bar Note Cards, Multicolor",
+            "total_sales": 4716.27,
+            "total_quantity": 172,
             "average_price": 112.29214285714286,
-            "total_profit": 470.755,
-            "profit_margin": 0.19963021625140204
+            "total_profit": 941.5100000000001,
+            "profit_margin": 0.19963021625140207
         },
         {
-            "Product ID": "OFF-PA-3990",
-            "total_sales": 2339.0895,
-            "total_quantity": 104,
+            "Product Name": "Eaton Computer Printout Paper, 8.5 x 11",
+            "total_sales": 4678.179,
+            "total_quantity": 208,
             "average_price": 83.53891071428572,
-            "total_profit": 382.3995,
+            "total_profit": 764.799,
             "profit_margin": 0.1634822010872179
+        },
+        {
+            "Product Name": "Enermax Note Cards, 8.5 x 11",
+            "total_sales": 4556.017000000001,
+            "total_quantity": 200,
+            "average_price": 103.54584090909093,
+            "total_profit": 1197.2169999999999,
+            "profit_margin": 0.26277711430839695
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-01",
-            "Product Name": "Eaton Computer Printout Paper, 8.5 x 11",
-            "total_sales": 55.242,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-01",
+            "Year_Month": "2011-01",
             "Product Name": "Enermax Note Cards, Premium",
-            "total_sales": 44.86500000000001,
-            "total_quantity": 3
+            "total_sales": 206.37900000000002,
+            "total_quantity": 9
         },
         {
-            "Order Date": "2011-01-04",
-            "Product Name": "Message Book, Wirebound, Four 5 1/2\" X 4\" Forms/Pg., 200 Dupl. Sets/Book",
-            "total_sales": 16.448,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-06",
-            "Product Name": "Enermax Memo Slips, Recycled",
-            "total_sales": 38.7693,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Xerox 225",
-            "total_sales": 19.44,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Southworth 25% Cotton Granite Paper & Envelopes",
-            "total_sales": 6.54,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-09",
-            "Product Name": "Green Bar Memo Slips, Premium",
-            "total_sales": 9.322500000000002,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Enermax Note Cards, Premium",
-            "total_sales": 161.514,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "SanDisk Message Books, Recycled",
-            "total_sales": 142.38,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Eaton Note Cards, Premium",
-            "total_sales": 53.16,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-12",
-            "Product Name": "Green Bar Note Cards, Multicolor",
-            "total_sales": 33.93,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-13",
+            "Year_Month": "2011-01",
             "Product Name": "Green Bar Cards & Envelopes, Multicolor",
             "total_sales": 49.8,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-14",
-            "Product Name": "Eaton Computer Printout Paper, 8.5 x 11",
-            "total_sales": 245.52000000000004,
-            "total_quantity": 12
+            "Year_Month": "2011-01",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 97.02000000000001,
+            "total_quantity": 6
         },
         {
-            "Order Date": "2011-01-14",
-            "Product Name": "Xerox Message Books, Premium",
-            "total_sales": 224.07,
-            "total_quantity": 11
+            "Year_Month": "2011-01",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 98.22,
+            "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-14",
-            "Product Name": "Xerox 1923",
-            "total_sales": 37.408,
-            "total_quantity": 7
+            "Year_Month": "2011-02",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 173.34900000000002,
+            "total_quantity": 6
         },
         {
-            "Order Date": "2011-01-15",
-            "Product Name": "Green Bar Computer Printout Paper, 8.5 x 11",
-            "total_sales": 169.50000000000003,
+            "Year_Month": "2011-02",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 31.200000000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 262.65,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-20",
-            "Product Name": "TOPS Carbonless Receipt Book, Four 2-3/4 x 7-1/4 Money Receipts per Page",
-            "total_sales": 56.064,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-20",
+            "Year_Month": "2011-05",
             "Product Name": "Green Bar Note Cards, Premium",
-            "total_sales": 37.44000000000001,
+            "total_sales": 238.32,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 428.976,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 95.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 249.00000000000003,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 105.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 298.8,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 29.79,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 149.4,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 14.895,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 65.47999999999999,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 171.0,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 124.80000000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 228.0,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 216.98999999999998,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 105.06000000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 209.16000000000005,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 225.888,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 525.3,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 589.3199999999999,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 106.84500000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 298.8,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 52.0566,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 167.496,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 105.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 37.44,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 68.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 196.29600000000002,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 79.44,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 98.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 341.44500000000005,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 62.4,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 343.77,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 355.73,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 21.012,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 680.6000000000001,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 124.212,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 19.92,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 179.46000000000004,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 53.12000000000002,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 19.86,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 210.12,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-01-21",
-            "Product Name": "Wirebound Service Call Books, 5 1/2\" x 4\"",
-            "total_sales": 19.36,
+            "Year_Month": "2013-03",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 358.56000000000006,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 142.5,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 88.398,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-23",
-            "Product Name": "Eaton Memo Slips, 8.5 x 11",
-            "total_sales": 23.84,
+            "Year_Month": "2013-05",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 108.65460000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 348.6,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 417.06,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 57.0,
             "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 105.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 61.46,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 245.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 31.704600000000006,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 199.20000000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 269.52,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 98.22,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 114.0,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 682.89,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 49.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 124.8,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 294.66,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 57.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 238.13600000000002,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 444.4200000000001,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 56.032,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 66.4,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 98.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 35.892,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 210.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 79.68000000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 35.748,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 212.80999999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 85.5,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 283.66200000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 617.5200000000001,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 234.87900000000002,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 49.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 309.375,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 98.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 173.349,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 31.2,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 41.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 114.0,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 420.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 327.69,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 491.37600000000003,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 147.32999999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 118.928,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 514.6,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 579.528,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 262.65,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 298.8,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 271.089,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 190.94,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 157.59,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 99.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 29.79,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 88.398,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 28.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 169.32,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 148.215,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 851.24,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 260.73,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 192.56,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 151.611,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 334.3515,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 263.79,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 19.644,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 105.06,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 209.16,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 225.888,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 525.3,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 589.32,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 106.845,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 298.8,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 52.0566,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 167.496,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 105.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 37.44,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 68.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 196.296,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 79.44,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 98.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 341.445,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 62.4,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 343.77,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 355.73,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 21.012,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 680.6,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 124.212,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 19.92,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 179.46,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 53.12,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 19.86,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 210.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 358.56,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 142.5,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 88.398,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 108.6546,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 348.6,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 417.06,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 57.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 105.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 61.46,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 245.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 31.7046,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 199.2,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 269.52,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 98.22,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 114.0,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 682.89,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 49.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 124.8,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 294.66,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 57.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 238.136,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 444.42,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 56.032,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 66.4,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 98.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 35.892,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 210.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 79.68,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 35.748,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 212.81,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 85.5,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 283.662,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 617.52,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 28.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 212.355,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 41.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 114.0,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 157.59,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 89.37,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 62.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 147.33,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 23.928,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 265.6,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 579.528,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 157.59,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 241.299,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 190.94,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Green Bar Cards & Envelopes, 8.5 x 11",
+            "total_sales": 157.59,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 99.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 29.79,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 88.398,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 28.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 19.92,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 133.32,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 785.76,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 89.73,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Green Bar Cards & Envelopes, Multicolor",
+            "total_sales": 192.56,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 26.811,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Enermax Note Cards, Premium",
+            "total_sales": 106.3515,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Green Bar Note Cards, Premium",
+            "total_sales": 46.8,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Xerox Cards & Envelopes, 8.5 x 11",
+            "total_sales": 19.644,
+            "total_quantity": 1
         }
     ],
     "most_frequent_order_month": [
@@ -1548,545 +2807,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 2138.6388,
-            "total_quantity": 123
+            "Sales": 2138.6388,
+            "Quantity": 123,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 1407.181,
-            "total_quantity": 74
+            "Sales": 1407.181,
+            "Quantity": 74,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 2064.6476,
-            "total_quantity": 133
+            "Sales": 2064.6476,
+            "Quantity": 133,
+            "Sales_MA": 1870.1557999999998
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 2595.125,
-            "total_quantity": 138
+            "Sales": 2595.125,
+            "Quantity": 138,
+            "Sales_MA": 2022.3178666666665
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 2352.708,
-            "total_quantity": 133
+            "Sales": 2352.708,
+            "Quantity": 133,
+            "Sales_MA": 2337.4935333333337
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 4282.6675000000005,
-            "total_quantity": 188
+            "Sales": 4282.6675000000005,
+            "Quantity": 188,
+            "Sales_MA": 3076.8335
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 1921.4862,
-            "total_quantity": 118
+            "Sales": 1921.4862,
+            "Quantity": 118,
+            "Sales_MA": 2852.287233333333
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 6286.8706,
-            "total_quantity": 275
+            "Sales": 6286.8706,
+            "Quantity": 275,
+            "Sales_MA": 4163.674766666667
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 3690.3486000000003,
-            "total_quantity": 257
+            "Sales": 3690.3486000000003,
+            "Quantity": 257,
+            "Sales_MA": 3966.2351333333336
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 3360.3062,
-            "total_quantity": 181
+            "Sales": 3360.3062,
+            "Quantity": 181,
+            "Sales_MA": 4445.841800000001
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 7273.1069,
-            "total_quantity": 364
+            "Sales": 7273.1069,
+            "Quantity": 364,
+            "Sales_MA": 4774.587233333333
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 5292.8917,
-            "total_quantity": 302
+            "Sales": 5292.8917,
+            "Quantity": 302,
+            "Sales_MA": 5308.768266666666
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 2618.093,
-            "total_quantity": 145
+            "Sales": 2618.093,
+            "Quantity": 145,
+            "Sales_MA": 5061.363866666667
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 1622.657,
-            "total_quantity": 100
+            "Sales": 1622.657,
+            "Quantity": 100,
+            "Sales_MA": 3177.8805666666667
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 4438.348,
-            "total_quantity": 213
+            "Sales": 4438.348,
+            "Quantity": 213,
+            "Sales_MA": 2893.0326666666665
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 1432.8880000000001,
-            "total_quantity": 80
+            "Sales": 1432.8880000000001,
+            "Quantity": 80,
+            "Sales_MA": 2497.9643333333333
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 5355.6804,
-            "total_quantity": 252
+            "Sales": 5355.6804,
+            "Quantity": 252,
+            "Sales_MA": 3742.3054666666667
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 3507.2315000000003,
-            "total_quantity": 239
+            "Sales": 3507.2315000000003,
+            "Quantity": 239,
+            "Sales_MA": 3431.9333
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 3307.5798,
-            "total_quantity": 193
+            "Sales": 3307.5798,
+            "Quantity": 193,
+            "Sales_MA": 4056.830566666666
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 5137.286700000001,
-            "total_quantity": 258
+            "Sales": 5137.286700000001,
+            "Quantity": 258,
+            "Sales_MA": 3984.0326666666674
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 5488.5312,
-            "total_quantity": 303
+            "Sales": 5488.5312,
+            "Quantity": 303,
+            "Sales_MA": 4644.4659
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 4549.4619,
-            "total_quantity": 246
+            "Sales": 4549.4619,
+            "Quantity": 246,
+            "Sales_MA": 5058.426600000001
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 7273.3445,
-            "total_quantity": 356
+            "Sales": 7273.3445,
+            "Quantity": 356,
+            "Sales_MA": 5770.445866666666
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 6781.2773,
-            "total_quantity": 363
+            "Sales": 6781.2773,
+            "Quantity": 363,
+            "Sales_MA": 6201.361233333333
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 3887.1001,
-            "total_quantity": 172
+            "Sales": 3887.1001,
+            "Quantity": 172,
+            "Sales_MA": 5980.573966666667
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 3509.0287,
-            "total_quantity": 129
+            "Sales": 3509.0287,
+            "Quantity": 129,
+            "Sales_MA": 4725.802033333333
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 3568.107,
-            "total_quantity": 175
+            "Sales": 3568.107,
+            "Quantity": 175,
+            "Sales_MA": 3654.745266666667
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 3615.619,
-            "total_quantity": 205
+            "Sales": 3615.619,
+            "Quantity": 205,
+            "Sales_MA": 3564.2515666666673
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 7594.3296,
-            "total_quantity": 365
+            "Sales": 7594.3296,
+            "Quantity": 365,
+            "Sales_MA": 4926.018533333333
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 9102.1366,
-            "total_quantity": 458
+            "Sales": 9102.1366,
+            "Quantity": 458,
+            "Sales_MA": 6770.695066666667
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 4995.498500000001,
-            "total_quantity": 268
+            "Sales": 4995.498500000001,
+            "Quantity": 268,
+            "Sales_MA": 7230.6549
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 7053.1531,
-            "total_quantity": 367
+            "Sales": 7053.1531,
+            "Quantity": 367,
+            "Sales_MA": 7050.262733333334
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 6680.7232,
-            "total_quantity": 437
+            "Sales": 6680.7232,
+            "Quantity": 437,
+            "Sales_MA": 6243.1249333333335
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 5161.1244,
-            "total_quantity": 278
+            "Sales": 5161.1244,
+            "Quantity": 278,
+            "Sales_MA": 6298.333566666667
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 7594.2371,
-            "total_quantity": 392
+            "Sales": 7594.2371,
+            "Quantity": 392,
+            "Sales_MA": 6478.6948999999995
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 7751.4975,
-            "total_quantity": 435
+            "Sales": 7751.4975,
+            "Quantity": 435,
+            "Sales_MA": 6835.6196666666665
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 5646.5886,
-            "total_quantity": 309
+            "Sales": 5646.5886,
+            "Quantity": 309,
+            "Sales_MA": 6997.441066666666
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 3598.2831,
-            "total_quantity": 177
+            "Sales": 3598.2831,
+            "Quantity": 177,
+            "Sales_MA": 5665.4564
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 7021.8461,
-            "total_quantity": 356
+            "Sales": 7021.8461,
+            "Quantity": 356,
+            "Sales_MA": 5422.2392666666665
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 7173.662,
-            "total_quantity": 358
+            "Sales": 7173.662,
+            "Quantity": 358,
+            "Sales_MA": 5931.263733333333
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 8754.7386,
-            "total_quantity": 478
+            "Sales": 8754.7386,
+            "Quantity": 478,
+            "Sales_MA": 7650.082233333334
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 12118.797,
-            "total_quantity": 589
+            "Sales": 12118.797,
+            "Quantity": 589,
+            "Sales_MA": 9349.065866666666
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 6168.4421,
-            "total_quantity": 347
+            "Sales": 6168.4421,
+            "Quantity": 347,
+            "Sales_MA": 9013.992566666668
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 14636.9986,
-            "total_quantity": 664
+            "Sales": 14636.9986,
+            "Quantity": 664,
+            "Sales_MA": 10974.7459
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 12434.788,
-            "total_quantity": 736
+            "Sales": 12434.788,
+            "Quantity": 736,
+            "Sales_MA": 11080.076233333335
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 12279.8622,
-            "total_quantity": 641
+            "Sales": 12279.8622,
+            "Quantity": 641,
+            "Sales_MA": 13117.216266666668
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 16040.1424,
-            "total_quantity": 878
+            "Sales": 16040.1424,
+            "Quantity": 878,
+            "Sales_MA": 13584.930866666667
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 16100.5406,
-            "total_quantity": 838
+            "Sales": 16100.5406,
+            "Quantity": 838,
+            "Sales_MA": 14806.8484
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 2614.757,
-            "total_quantity": 146
+            "Sales": 2614.757,
+            "Quantity": 146,
+            "Sales_MA": 11585.146666666667
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 1470.5529999999999,
-            "total_quantity": 92
+            "Sales": 1470.5529999999999,
+            "Quantity": 92,
+            "Sales_MA": 6728.616866666667
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 4332.828,
-            "total_quantity": 209
+            "Sales": 4332.828,
+            "Quantity": 209,
+            "Sales_MA": 2806.0460000000003
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 1380.128,
-            "total_quantity": 78
+            "Sales": 1380.128,
+            "Quantity": 78,
+            "Sales_MA": 2394.503
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 5270.6244,
-            "total_quantity": 249
+            "Sales": 5270.6244,
+            "Quantity": 249,
+            "Sales_MA": 3661.193466666666
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 3507.2315,
-            "total_quantity": 239
+            "Sales": 3507.2315,
+            "Quantity": 239,
+            "Sales_MA": 3385.9946333333332
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 3285.6678,
-            "total_quantity": 188
+            "Sales": 3285.6678,
+            "Quantity": 188,
+            "Sales_MA": 4021.1745666666666
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 5137.2867,
-            "total_quantity": 258
+            "Sales": 5137.2867,
+            "Quantity": 258,
+            "Sales_MA": 3976.7286666666673
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 5346.7712,
-            "total_quantity": 298
+            "Sales": 5346.7712,
+            "Quantity": 298,
+            "Sales_MA": 4589.908566666667
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 4524.9019,
-            "total_quantity": 244
+            "Sales": 4524.9019,
+            "Quantity": 244,
+            "Sales_MA": 5002.9866
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 7147.1045,
-            "total_quantity": 349
+            "Sales": 7147.1045,
+            "Quantity": 349,
+            "Sales_MA": 5672.925866666667
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 6764.1573,
-            "total_quantity": 359
+            "Sales": 6764.1573,
+            "Quantity": 359,
+            "Sales_MA": 6145.387900000001
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 3830.4001,
-            "total_quantity": 167
+            "Sales": 3830.4001,
+            "Quantity": 167,
+            "Sales_MA": 5913.887299999999
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 3509.0287,
-            "total_quantity": 129
+            "Sales": 3509.0287,
+            "Quantity": 129,
+            "Sales_MA": 4701.195366666667
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 3541.727,
-            "total_quantity": 174
+            "Sales": 3541.727,
+            "Quantity": 174,
+            "Sales_MA": 3627.0519333333336
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 3615.6189999999997,
-            "total_quantity": 205
+            "Sales": 3615.6189999999997,
+            "Quantity": 205,
+            "Sales_MA": 3555.4582333333333
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 7482.3696,
-            "total_quantity": 363
+            "Sales": 7482.3696,
+            "Quantity": 363,
+            "Sales_MA": 4879.9052
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 9087.1966,
-            "total_quantity": 455
+            "Sales": 9087.1966,
+            "Quantity": 455,
+            "Sales_MA": 6728.395066666667
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 4995.4985,
-            "total_quantity": 268
+            "Sales": 4995.4985,
+            "Quantity": 268,
+            "Sales_MA": 7188.354900000001
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 6952.3531,
-            "total_quantity": 360
+            "Sales": 6952.3531,
+            "Quantity": 360,
+            "Sales_MA": 7011.682733333332
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 6680.7232,
-            "total_quantity": 437
+            "Sales": 6680.7232,
+            "Quantity": 437,
+            "Sales_MA": 6209.524933333334
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 5132.7724,
-            "total_quantity": 277
+            "Sales": 5132.7724,
+            "Quantity": 277,
+            "Sales_MA": 6255.282900000001
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 7523.2571,
-            "total_quantity": 385
+            "Sales": 7523.2571,
+            "Quantity": 385,
+            "Sales_MA": 6445.584233333334
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 7705.9575,
-            "total_quantity": 430
+            "Sales": 7705.9575,
+            "Quantity": 430,
+            "Sales_MA": 6787.329000000001
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 3507.9498,
-            "total_quantity": 186
+            "Sales": 3507.9498,
+            "Quantity": 186,
+            "Sales_MA": 6245.721466666667
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 2149.7621,
-            "total_quantity": 97
+            "Sales": 2149.7621,
+            "Quantity": 97,
+            "Sales_MA": 4454.556466666667
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 4873.7945,
-            "total_quantity": 221
+            "Sales": 4873.7945,
+            "Quantity": 221,
+            "Sales_MA": 3510.502133333333
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 4472.217,
-            "total_quantity": 217
+            "Sales": 4472.217,
+            "Quantity": 217,
+            "Sales_MA": 3831.924533333333
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 6363.6706,
-            "total_quantity": 336
+            "Sales": 6363.6706,
+            "Quantity": 336,
+            "Sales_MA": 5236.560699999999
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 7730.1375,
-            "total_quantity": 404
+            "Sales": 7730.1375,
+            "Quantity": 404,
+            "Sales_MA": 6188.675033333333
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 4305.7209,
-            "total_quantity": 227
+            "Sales": 4305.7209,
+            "Quantity": 227,
+            "Sales_MA": 6133.176333333333
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 8239.099,
-            "total_quantity": 379
+            "Sales": 8239.099,
+            "Quantity": 379,
+            "Sales_MA": 6758.319133333333
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 8808.9754,
-            "total_quantity": 488
+            "Sales": 8808.9754,
+            "Quantity": 488,
+            "Sales_MA": 7117.931766666666
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 8413.024,
-            "total_quantity": 439
+            "Sales": 8413.024,
+            "Quantity": 439,
+            "Sales_MA": 8487.032799999999
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 8827.5735,
-            "total_quantity": 512
+            "Sales": 8827.5735,
+            "Quantity": 512,
+            "Sales_MA": 8683.190966666667
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 10882.8069,
-            "total_quantity": 543
+            "Sales": 10882.8069,
+            "Quantity": 543,
+            "Sales_MA": 9374.468133333334
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "EH-14125",
-            "total_spent": 1254.1358,
-            "purchase_frequency": 6,
-            "average_order_value": 209.02263333333335
+            "Customer Name": "Eugene Hildebrand",
+            "total_spent": 2540.0596,
+            "purchase_frequency": 14,
+            "average_order_value": 181.4328285714286
         },
         {
-            "Customer ID": "RD-19810",
-            "total_spent": 1242.1480000000001,
-            "purchase_frequency": 6,
-            "average_order_value": 138.01644444444446
+            "Customer Name": "Ross DeVincentis",
+            "total_spent": 2472.344,
+            "purchase_frequency": 12,
+            "average_order_value": 145.43200000000002
         },
         {
-            "Customer ID": "TS-21205",
-            "total_spent": 1207.558,
-            "purchase_frequency": 5,
+            "Customer Name": "Thomas Seio",
+            "total_spent": 2415.116,
+            "purchase_frequency": 10,
             "average_order_value": 241.5116
         },
         {
-            "Customer ID": "JM-15865",
-            "total_spent": 1125.224,
+            "Customer Name": "David Flashing",
+            "total_spent": 2307.36,
             "purchase_frequency": 8,
+            "average_order_value": 230.73600000000002
+        },
+        {
+            "Customer Name": "John Murray",
+            "total_spent": 2250.448,
+            "purchase_frequency": 16,
             "average_order_value": 125.02488888888888
         },
         {
-            "Customer ID": "PP-18955",
-            "total_spent": 1065.9099999999999,
-            "purchase_frequency": 4,
-            "average_order_value": 133.23874999999998
+            "Customer Name": "Dave Hallsten",
+            "total_spent": 2227.12,
+            "purchase_frequency": 12,
+            "average_order_value": 123.72888888888889
         },
         {
-            "Customer ID": "DK-13375",
-            "total_spent": 1045.41,
-            "purchase_frequency": 6,
+            "Customer Name": "Paul Prost",
+            "total_spent": 2149.748,
+            "purchase_frequency": 10,
+            "average_order_value": 119.43044444444445
+        },
+        {
+            "Customer Name": "Harry Greene",
+            "total_spent": 2092.702,
+            "purchase_frequency": 16,
+            "average_order_value": 110.14221052631581
+        },
+        {
+            "Customer Name": "Dennis Kane",
+            "total_spent": 2090.82,
+            "purchase_frequency": 12,
             "average_order_value": 130.67625
         },
         {
-            "Customer ID": "HG-14845",
-            "total_spent": 1025.383,
-            "purchase_frequency": 7,
-            "average_order_value": 113.93144444444445
-        },
-        {
-            "Customer ID": "BD-11620",
-            "total_spent": 1024.5305,
-            "purchase_frequency": 4,
-            "average_order_value": 256.132625
-        },
-        {
-            "Customer ID": "AS-10240",
-            "total_spent": 992.384,
-            "purchase_frequency": 8,
-            "average_order_value": 124.048
-        },
-        {
-            "Customer ID": "CS-12460",
-            "total_spent": 972.2850000000001,
-            "purchase_frequency": 3,
-            "average_order_value": 324.095
-        },
-        {
-            "Customer ID": "MH-18115",
-            "total_spent": 959.6959999999999,
-            "purchase_frequency": 4,
-            "average_order_value": 191.93919999999997
-        },
-        {
-            "Customer ID": "GT-14710",
-            "total_spent": 958.088,
-            "purchase_frequency": 6,
-            "average_order_value": 119.761
-        },
-        {
-            "Customer ID": "OT-18730",
-            "total_spent": 950.01,
-            "purchase_frequency": 7,
-            "average_order_value": 118.75125
-        },
-        {
-            "Customer ID": "LA-16780",
-            "total_spent": 937.193,
-            "purchase_frequency": 6,
-            "average_order_value": 117.149125
-        },
-        {
-            "Customer ID": "EM-14140",
-            "total_spent": 892.1297999999999,
-            "purchase_frequency": 7,
-            "average_order_value": 111.51622499999999
-        },
-        {
-            "Customer ID": "BE-11335",
-            "total_spent": 891.968,
-            "purchase_frequency": 10,
-            "average_order_value": 89.1968
-        },
-        {
-            "Customer ID": "SC-20380",
-            "total_spent": 874.6246,
-            "purchase_frequency": 8,
-            "average_order_value": 87.46246
-        },
-        {
-            "Customer ID": "DO-13645",
-            "total_spent": 844.292,
-            "purchase_frequency": 11,
-            "average_order_value": 76.75381818181819
-        },
-        {
-            "Customer ID": "MA-17560",
-            "total_spent": 840.916,
-            "purchase_frequency": 9,
-            "average_order_value": 56.06106666666667
-        },
-        {
-            "Customer ID": "DH-13075",
-            "total_spent": 827.42,
-            "purchase_frequency": 4,
-            "average_order_value": 137.90333333333334
+            "Customer Name": "Alan Shonely",
+            "total_spent": 2074.948,
+            "purchase_frequency": 18,
+            "average_order_value": 115.27488888888888
         }
     ],
     "discount_analysis": [
@@ -2094,61 +3377,61 @@
             "Discount": 0.0,
             "total_sales": 353962.56,
             "total_quantity": 16461,
-            "average_profit": 24.98682028406569
+            "average_profit": 24.9868
         },
         {
             "Discount": 0.1,
-            "total_sales": 33633.414000000004,
+            "total_sales": 33633.414,
             "total_quantity": 1366,
-            "average_profit": 18.02155617977528
+            "average_profit": 18.0216
         },
         {
             "Discount": 0.17,
             "total_sales": 3048.0588,
             "total_quantity": 144,
-            "average_profit": 9.039971428571429
+            "average_profit": 9.04
         },
         {
             "Discount": 0.2,
             "total_sales": 55299.104,
             "total_quantity": 4175,
-            "average_profit": 15.926903260869564
+            "average_profit": 15.9269
         },
         {
             "Discount": 0.4,
             "total_sales": 13091.268,
             "total_quantity": 1124,
-            "average_profit": -11.88723566878981
+            "average_profit": -11.8872
         },
         {
             "Discount": 0.45,
-            "total_sales": 3705.5370000000003,
+            "total_sales": 3705.537,
             "total_quantity": 234,
-            "average_profit": -21.342900000000004
+            "average_profit": -21.3429
         },
         {
             "Discount": 0.47,
             "total_sales": 9470.517,
             "total_quantity": 692,
-            "average_profit": -22.282994680851065
+            "average_profit": -22.283
         },
         {
             "Discount": 0.5,
             "total_sales": 7769.43,
             "total_quantity": 598,
-            "average_profit": -19.917857142857144
+            "average_profit": -19.9179
         },
         {
             "Discount": 0.6,
             "total_sales": 4085.032,
             "total_quantity": 438,
-            "average_profit": -20.827012658227847
+            "average_profit": -20.827
         },
         {
             "Discount": 0.7,
-            "total_sales": 2014.3260000000002,
+            "total_sales": 2014.326,
             "total_quantity": 262,
-            "average_profit": -30.167399999999997
+            "average_profit": -30.1674
         }
     ],
     "geographic_distribution": [
@@ -2156,121 +3439,215 @@
             "State": "New York",
             "City": "New York City",
             "total_sales": 13562.74,
-            "total_quantity": 909
+            "total_quantity": 909,
+            "Location": "New York, New York City"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 12544.82,
-            "total_quantity": 892
+            "total_quantity": 892,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 9775.3,
-            "total_quantity": 560
+            "total_quantity": 560,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Texas",
             "City": "Houston",
             "total_sales": 6625.360000000001,
-            "total_quantity": 491
+            "total_quantity": 491,
+            "Location": "Texas, Houston"
         },
         {
             "State": "Washington",
             "City": "Seattle",
             "total_sales": 6064.04,
-            "total_quantity": 386
+            "total_quantity": 386,
+            "Location": "Washington, Seattle"
         },
         {
             "State": "Illinois",
             "City": "Chicago",
             "total_sales": 4929.312,
-            "total_quantity": 339
+            "total_quantity": 339,
+            "Location": "Illinois, Chicago"
         },
         {
             "State": "Singapore",
             "City": "Singapore",
             "total_sales": 4836.54,
-            "total_quantity": 146
+            "total_quantity": 146,
+            "Location": "Singapore, Singapore"
         },
         {
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 4477.95,
-            "total_quantity": 150
+            "total_quantity": 150,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 4067.2160000000003,
-            "total_quantity": 450
+            "total_quantity": 450,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "California",
             "City": "San Diego",
             "total_sales": 3641.82,
-            "total_quantity": 158
+            "total_quantity": 158,
+            "Location": "California, San Diego"
         },
         {
             "State": "Western Australia",
             "City": "Perth",
             "total_sales": 3439.044,
-            "total_quantity": 166
+            "total_quantity": 166,
+            "Location": "Western Australia, Perth"
         },
         {
             "State": "South Australia",
             "City": "Adelaide",
             "total_sales": 3438.7740000000003,
-            "total_quantity": 142
+            "total_quantity": 142,
+            "Location": "South Australia, Adelaide"
         },
         {
             "State": "Managua",
             "City": "Managua",
             "total_sales": 3380.44,
-            "total_quantity": 158
+            "total_quantity": 158,
+            "Location": "Managua, Managua"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 3262.4,
-            "total_quantity": 194
+            "total_quantity": 194,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Madrid",
             "City": "Madrid",
             "total_sales": 2730.54,
-            "total_quantity": 94
-        },
-        {
-            "State": "Kinshasa",
-            "City": "Kinshasa",
-            "total_sales": 2479.86,
-            "total_quantity": 68
-        },
-        {
-            "State": "Valenciana",
-            "City": "Valencia",
-            "total_sales": 2302.7400000000002,
-            "total_quantity": 58
-        },
-        {
-            "State": "Al Qahirah",
-            "City": "Cairo",
-            "total_sales": 2115.36,
-            "total_quantity": 64
-        },
-        {
-            "State": "Distrito Federal",
-            "City": "Mexico City",
-            "total_sales": 1989.96,
-            "total_quantity": 110
-        },
-        {
-            "State": "Queensland",
-            "City": "Brisbane",
-            "total_sales": 1988.334,
-            "total_quantity": 76
+            "total_quantity": 94,
+            "Location": "Madrid, Madrid"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 997,
+            "avg_shipping_delay": 2.14,
+            "total_profit": 16549.13,
+            "shipping_cost_ratio": 0.17
+        },
+        "Same Day": {
+            "total_orders": 384,
+            "avg_shipping_delay": 0.03,
+            "total_profit": 6441.96,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 1306,
+            "avg_shipping_delay": 3.16,
+            "total_profit": 24917.72,
+            "shipping_cost_ratio": 0.13
+        },
+        "Standard Class": {
+            "total_orders": 3748,
+            "avg_shipping_delay": 4.99,
+            "total_profit": 69410.53,
+            "shipping_cost_ratio": 0.09
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.2114677817549059,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.1894770226637687,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.24226844052724977,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.19282153238768474,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 781.0,
+                "mean": 238.47247119078105,
+                "std": 270.8160996287262,
+                "min": 0.0,
+                "25%": 54.0,
+                "50%": 127.0,
+                "75%": 365.0,
+                "max": 2252.0
+            },
+            "frequency": {
+                "count": 781.0,
+                "mean": 8.241997439180539,
+                "std": 3.824560052459005,
+                "min": 1.0,
+                "25%": 6.0,
+                "50%": 8.0,
+                "75%": 10.0,
+                "max": 22.0
+            },
+            "monetary": {
+                "count": 781.0,
+                "mean": 622.3805976952625,
+                "std": 443.3066561589762,
+                "min": 14.94,
+                "25%": 287.26,
+                "50%": 531.3199999999999,
+                "75%": 846.392,
+                "max": 2540.0596
+            }
+        },
+        "rfm_segments": {
+            "High": 261,
+            "Medium": 260,
+            "Low": 260
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 4008,
+        "churned_customers": 2962,
+        "churn_rate": 0.7390219560878244,
+        "avg_recency": 812.5768463073853,
+        "avg_frequency": 1.753992015968064,
+        "avg_monetary": 121.27725718562873,
+        "churned_customer_characteristics": {
+            "avg_recency": 1048.3700202565833,
+            "avg_frequency": 1.925050641458474,
+            "avg_monetary": 134.25281485482782,
+            "avg_discount": 0.120181003631375,
+            "avg_quantity": 3.5688861339350875,
+            "avg_shipping_cost": 7.617305457049516,
+            "avg_profit": 14.74231710233058
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 144.87189292543022,
+            "avg_frequency": 1.2695984703632888,
+            "avg_monetary": 84.53385200764818,
+            "avg_discount": 0.10946826914322136,
+            "avg_quantity": 3.4812437403259584,
+            "avg_shipping_cost": 7.51564720477101,
+            "avg_profit": 16.91447435149777
+        }
+    }
 }

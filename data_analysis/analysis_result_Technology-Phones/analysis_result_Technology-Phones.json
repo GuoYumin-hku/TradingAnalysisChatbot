@@ -1287,288 +1287,1763 @@
         58,
         54
     ],
+    "yearly_sales": {
+        "2011": 337282.4802,
+        "2012": 364016.2744,
+        "2013": 453519.00450000004,
+        "2014": 889288.8603000001,
+        "2015": 364016.2744,
+        "2016": 453519.0045,
+        "2017": 552006.3801
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 21690.955,
+            "2012": 20527.9231,
+            "2013": 21216.4521,
+            "2014": 51483.1467,
+            "2015": 20527.9231,
+            "2016": 21216.4521,
+            "2017": 30427.471700000002
+        },
+        "August": {
+            "2011": 37769.431000000004,
+            "2012": 47645.9862,
+            "2013": 45621.83,
+            "2014": 112456.3123,
+            "2015": 47645.9862,
+            "2016": 45621.83,
+            "2017": 73448.7813
+        },
+        "December": {
+            "2011": 50447.7045,
+            "2012": 40440.2604,
+            "2013": 50898.9413,
+            "2014": 121911.2191,
+            "2015": 40440.2604,
+            "2016": 50898.9413,
+            "2017": 71896.2066
+        },
+        "February": {
+            "2011": 17676.6313,
+            "2012": 16410.7955,
+            "2013": 12681.138,
+            "2014": 41879.2915,
+            "2015": 15664.886,
+            "2016": 12681.138,
+            "2017": 23611.6482
+        },
+        "January": {
+            "2011": 11555.2113,
+            "2012": 13289.5573,
+            "2013": 22833.8002,
+            "2014": 39201.994399999996,
+            "2015": 14035.4668,
+            "2016": 22833.8002,
+            "2017": 27646.7831
+        },
+        "July": {
+            "2011": 16562.1398,
+            "2012": 21231.518,
+            "2013": 36866.1741,
+            "2014": 54637.4125,
+            "2015": 21231.518,
+            "2016": 36866.1741,
+            "2017": 38651.1927
+        },
+        "June": {
+            "2011": 29692.7538,
+            "2012": 36168.8338,
+            "2013": 68753.0891,
+            "2014": 82720.5454,
+            "2015": 36168.8338,
+            "2016": 68753.0891,
+            "2017": 53768.164600000004
+        },
+        "March": {
+            "2011": 17988.7184,
+            "2012": 17745.0968,
+            "2013": 25919.9735,
+            "2014": 42557.0093,
+            "2015": 17745.0968,
+            "2016": 25919.9735,
+            "2017": 24524.0229
+        },
+        "May": {
+            "2011": 22838.7614,
+            "2012": 28339.3106,
+            "2013": 31438.0971,
+            "2014": 55992.8144,
+            "2015": 28339.3106,
+            "2016": 31438.0971,
+            "2017": 31837.76
+        },
+        "November": {
+            "2011": 53538.253000000004,
+            "2012": 27542.448,
+            "2013": 49258.1367,
+            "2014": 128775.0607,
+            "2015": 27542.448,
+            "2016": 49258.1367,
+            "2017": 77973.3357
+        },
+        "October": {
+            "2011": 33344.6682,
+            "2012": 47434.1195,
+            "2013": 35587.8341,
+            "2014": 84712.2649,
+            "2015": 47434.1195,
+            "2016": 35587.8341,
+            "2017": 48198.3767
+        },
+        "September": {
+            "2011": 24177.252500000002,
+            "2012": 47240.4252,
+            "2013": 52443.5383,
+            "2014": 72961.78910000001,
+            "2015": 47240.4252,
+            "2016": 52443.5383,
+            "2017": 50022.6366
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Apple Smart Phone, Full Size": 173871.5572,
+        "Cisco Smart Phone, Full Size": 152883.0612,
+        "Motorola Smart Phone, Full Size": 146312.606,
+        "Nokia Smart Phone, Full Size": 143809.111,
+        "Samsung Smart Phone, Cordless": 97306.92000000001,
+        "Nokia Smart Phone, with Caller ID": 95755.5714,
+        "Samsung Smart Phone, VoIP": 90812.656,
+        "Cisco Smart Phone, with Caller ID": 86255.0016,
+        "Cisco Smart Phone, Cordless": 82043.048,
+        "Motorola Smart Phone, Cordless": 77862.084
+    },
+    "top_10_products_by_profit": {
+        "Cisco Smart Phone, Full Size": 34477.0412,
+        "Motorola Smart Phone, Full Size": 34054.226,
+        "Nokia Smart Phone, Full Size": 19876.391,
+        "Cisco Smart Phone, with Caller ID": 19573.281600000002,
+        "Nokia Smart Phone, with Caller ID": 18930.6514,
+        "Samsung Smart Phone, with Caller ID": 12785.228,
+        "Apple Smart Phone, Full Size": 11843.1572,
+        "Nokia Smart Phone, Cordless": 11279.779999999999,
+        "Apple Smart Phone, Cordless": 10900.434,
+        "Cisco Smart Phone, Cordless": 8041.647999999999
+    },
+    "top_10_products_by_turnover": {
+        "Apple Smart Phone, Full Size": 342,
+        "Nokia Smart Phone, Full Size": 294,
+        "Cisco Smart Phone, Full Size": 278,
+        "Motorola Smart Phone, Full Size": 268,
+        "Cisco Signal Booster, VoIP": 220,
+        "Samsung Smart Phone, Cordless": 216,
+        "Nokia Office Telephone, Full Size": 210,
+        "Apple Signal Booster, Cordless": 204,
+        "Apple Speaker Phone, VoIP": 202,
+        "Nokia Headset, with Caller ID": 202
+    },
+    "top_5_loss_products": {
+        "Apple Smart Phone, Full Size": -13122.223800000002,
+        "Motorola Smart Phone, Cordless": -13023.876,
+        "Samsung Smart Phone, Cordless": -12383.820000000002,
+        "Cisco Smart Phone, Cordless": -11032.52,
+        "Nokia Smart Phone, Full Size": -10572.989
+    },
     "product_performance": [
         {
-            "Product ID": "TEC-PH-3148",
-            "total_sales": 86935.7786,
-            "total_quantity": 171,
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 173871.5572,
+            "total_quantity": 342,
             "average_price": 1704.6231098039216,
-            "total_profit": 5921.5786,
+            "total_profit": 11843.1572,
             "profit_margin": 0.06811440232502847
         },
         {
-            "Product ID": "TEC-PH-3806",
-            "total_sales": 76441.5306,
-            "total_quantity": 139,
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 152883.0612,
+            "total_quantity": 278,
             "average_price": 2011.6192263157893,
-            "total_profit": 17238.5206,
+            "total_profit": 34477.0412,
             "profit_margin": 0.2255124990916914
         },
         {
-            "Product ID": "TEC-PH-5268",
-            "total_sales": 73156.303,
-            "total_quantity": 134,
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 146312.606,
+            "total_quantity": 268,
             "average_price": 1925.1658684210527,
-            "total_profit": 17027.113,
+            "total_profit": 34054.226,
             "profit_margin": 0.2327497741377117
         },
         {
-            "Product ID": "TEC-PH-5355",
-            "total_sales": 71904.5555,
-            "total_quantity": 147,
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 143809.111,
+            "total_quantity": 294,
             "average_price": 1529.8841595744682,
-            "total_profit": 9938.1955,
+            "total_profit": 19876.391,
             "profit_margin": 0.13821371164724047
         },
         {
-            "Product ID": "TEC-PH-5839",
-            "total_sales": 48653.46,
-            "total_quantity": 108,
-            "average_price": 1871.2869230769231,
-            "total_profit": -198.09000000000015,
-            "profit_margin": -0.004071447333858684
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 97306.92000000001,
+            "total_quantity": 216,
+            "average_price": 1871.2869230769234,
+            "total_profit": -396.1800000000014,
+            "profit_margin": -0.004071447333858696
         },
         {
-            "Product ID": "TEC-PH-5356",
-            "total_sales": 47877.7857,
-            "total_quantity": 96,
+            "Product Name": "Nokia Smart Phone, with Caller ID",
+            "total_sales": 95755.5714,
+            "total_quantity": 192,
             "average_price": 1994.9077375,
-            "total_profit": 9465.3257,
+            "total_profit": 18930.6514,
             "profit_margin": 0.19769764958031463
         },
         {
-            "Product ID": "TEC-PH-5841",
-            "total_sales": 45406.328,
-            "total_quantity": 97,
+            "Product Name": "Samsung Smart Phone, VoIP",
+            "total_sales": 90812.656,
+            "total_quantity": 194,
             "average_price": 1974.1881739130436,
-            "total_profit": 3903.8579999999997,
-            "profit_margin": 0.08597607804797604
+            "total_profit": 7807.7159999999985,
+            "profit_margin": 0.08597607804797602
         },
         {
-            "Product ID": "TEC-PH-3807",
-            "total_sales": 43127.5008,
-            "total_quantity": 85,
+            "Product Name": "Cisco Smart Phone, with Caller ID",
+            "total_sales": 86255.0016,
+            "total_quantity": 170,
             "average_price": 1597.3148444444446,
-            "total_profit": 9786.640800000001,
+            "total_profit": 19573.281600000002,
             "profit_margin": 0.22692343906930032
         },
         {
-            "Product ID": "TEC-PH-3805",
-            "total_sales": 41021.524,
-            "total_quantity": 89,
+            "Product Name": "Cisco Smart Phone, Cordless",
+            "total_sales": 82043.048,
+            "total_quantity": 178,
             "average_price": 1519.3157037037035,
-            "total_profit": 4020.8239999999996,
+            "total_profit": 8041.647999999999,
             "profit_margin": 0.09801742129327033
         },
         {
-            "Product ID": "TEC-PH-5267",
-            "total_sales": 38931.042,
-            "total_quantity": 74,
+            "Product Name": "Motorola Smart Phone, Cordless",
+            "total_sales": 77862.084,
+            "total_quantity": 148,
             "average_price": 1692.654,
-            "total_profit": -4447.0380000000005,
+            "total_profit": -8894.076000000001,
             "profit_margin": -0.11422858910377996
         },
         {
-            "Product ID": "TEC-PH-5269",
-            "total_sales": 30243.549,
-            "total_quantity": 53,
+            "Product Name": "Motorola Smart Phone, with Caller ID",
+            "total_sales": 60487.098,
+            "total_quantity": 106,
             "average_price": 2326.426846153846,
-            "total_profit": 3943.809,
+            "total_profit": 7887.618,
             "profit_margin": 0.13040166020198227
         },
         {
-            "Product ID": "TEC-PH-10004664",
-            "total_sales": 30041.548200000005,
-            "total_quantity": 52,
-            "average_price": 3004.1548200000007,
-            "total_profit": 5455.948199999998,
-            "profit_margin": 0.18161341631520833
-        },
-        {
-            "Product ID": "TEC-PH-3147",
-            "total_sales": 27163.646999999997,
-            "total_quantity": 52,
+            "Product Name": "Apple Smart Phone, Cordless",
+            "total_sales": 54327.293999999994,
+            "total_quantity": 104,
             "average_price": 1358.1823499999998,
-            "total_profit": 5450.217,
+            "total_profit": 10900.434,
             "profit_margin": 0.20064378689650916
         },
         {
-            "Product ID": "TEC-PH-5842",
-            "total_sales": 26311.164,
-            "total_quantity": 50,
+            "Product Name": "Samsung Smart Phone, with Caller ID",
+            "total_sales": 52622.328,
+            "total_quantity": 100,
             "average_price": 1754.0776,
-            "total_profit": 6392.614,
+            "total_profit": 12785.228,
             "profit_margin": 0.24296203695131083
         },
         {
-            "Product ID": "TEC-PH-5354",
-            "total_sales": 25658.05,
-            "total_quantity": 46,
-            "average_price": 2138.170833333333,
-            "total_profit": 5639.89,
-            "profit_margin": 0.21980976730499788
+            "Product Name": "Nokia Smart Phone, Cordless",
+            "total_sales": 51316.100000000006,
+            "total_quantity": 92,
+            "average_price": 2138.1708333333336,
+            "total_profit": 11279.779999999999,
+            "profit_margin": 0.2198097673049978
         },
         {
-            "Product ID": "TEC-PH-10004823",
-            "total_sales": 22262.100000000002,
-            "total_quantity": 39,
-            "average_price": 2023.8272727272729,
-            "total_profit": 8121.4800000000005,
-            "profit_margin": 0.3648119449647607
-        },
-        {
-            "Product ID": "TEC-PH-5840",
-            "total_sales": 20993.024,
-            "total_quantity": 43,
+            "Product Name": "Samsung Smart Phone, Full Size",
+            "total_sales": 41986.048,
+            "total_quantity": 86,
             "average_price": 1614.8480000000002,
-            "total_profit": 1971.5240000000001,
-            "profit_margin": 0.09391329233939807
+            "total_profit": 3943.048,
+            "profit_margin": 0.09391329233939806
         },
         {
-            "Product ID": "TEC-PH-10001457",
-            "total_sales": 18717.0,
-            "total_quantity": 30,
-            "average_price": 2339.625,
-            "total_profit": 1695.3,
-            "profit_margin": 0.09057541272639846
-        },
-        {
-            "Product ID": "TEC-PH-10000303",
-            "total_sales": 16796.736,
-            "total_quantity": 31,
-            "average_price": 2799.456,
-            "total_profit": 5356.806,
-            "profit_margin": 0.3189194614953762
-        },
-        {
-            "Product ID": "TEC-PH-3149",
-            "total_sales": 16754.023,
-            "total_quantity": 38,
+            "Product Name": "Apple Smart Phone, with Caller ID",
+            "total_sales": 33508.046,
+            "total_quantity": 76,
             "average_price": 1861.5581111111112,
-            "total_profit": 3196.6229999999996,
+            "total_profit": 6393.245999999999,
             "profit_margin": 0.19079733864517193
+        },
+        {
+            "Product Name": "Samsung Galaxy Mega 6.3",
+            "total_sales": 27887.336000000003,
+            "total_quantity": 78,
+            "average_price": 2323.9446666666668,
+            "total_profit": 3645.5132000000003,
+            "profit_margin": 0.13072289156626507
+        },
+        {
+            "Product Name": "Cisco Signal Booster, VoIP",
+            "total_sales": 27831.744,
+            "total_quantity": 220,
+            "average_price": 515.4026666666666,
+            "total_profit": 4164.584,
+            "profit_margin": 0.14963431684338574
+        },
+        {
+            "Product Name": "Apple iPhone 5",
+            "total_sales": 25993.2,
+            "total_quantity": 48,
+            "average_price": 2166.1,
+            "total_profit": 3223.1568000000007,
+            "profit_margin": 0.12400000000000003
+        },
+        {
+            "Product Name": "Cisco Audio Dock, Full Size",
+            "total_sales": 25796.3072,
+            "total_quantity": 168,
+            "average_price": 560.7892869565218,
+            "total_profit": 2557.1072,
+            "profit_margin": 0.09912687037623742
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Nokia Headset, VoIP",
-            "total_sales": 195.2,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Wireless Extenders zBoost YX545 SOHO Signal Booster",
-            "total_sales": 755.96,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "GE 30524EE4",
-            "total_sales": 391.98,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-09",
-            "Product Name": "Motorola Signal Booster, Full Size",
-            "total_sales": 239.7372,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-09",
-            "Product Name": "Apple Headset, Full Size",
-            "total_sales": 123.753,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Nokia Smart Phone, with Caller ID",
-            "total_sales": 2875.0950000000007,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Apple Audio Dock, VoIP",
-            "total_sales": 554.3736,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Apple Headset, VoIP",
-            "total_sales": 244.5,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "Apple Headset, with Caller ID",
-            "total_sales": 439.56,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-17",
-            "Product Name": "AT&T 841000 Phone",
-            "total_sales": 124.2,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Apple iPhone 5C",
-            "total_sales": 699.93,
-            "total_quantity": 7
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Cisco Signal Booster, with Caller ID",
-            "total_sales": 404.88,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Apple Signal Booster, VoIP",
-            "total_sales": 182.32,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-22",
-            "Product Name": "Samsung Headset, Cordless",
-            "total_sales": 64.6425,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-24",
+            "Year_Month": "2011-01",
             "Product Name": "Cisco Smart Phone, Full Size",
             "total_sales": 1302.78,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-27",
-            "Product Name": "Jabra SPEAK 410",
-            "total_sales": 187.98,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-27",
-            "Product Name": "Macally Suction Cup Mount",
-            "total_sales": 155.35,
-            "total_quantity": 13
-        },
-        {
-            "Order Date": "2011-01-30",
-            "Product Name": "Apple Signal Booster, Cordless",
-            "total_sales": 41.850000000000016,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-31",
-            "Product Name": "Motorola Smart Phone, Cordless",
-            "total_sales": 2571.12,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-02-02",
+            "Year_Month": "2011-02",
             "Product Name": "Cisco Smart Phone, Full Size",
             "total_sales": 587.412,
             "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 642.6899999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2124.5000000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 639.0000000000001,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4473.000000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 850.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4246.42,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2166.8976,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1908.1799999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1591.1100000000004,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 257.076,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1621.9530000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5100.0,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2044.8000000000009,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4241.400000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4274.910000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 3521.136,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 429.32,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4456.290000000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 636.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1954.17,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4498.83,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 637.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 651.39,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1908.1800000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3263.4000000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 192.807,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1912.5,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1305.36,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 856.9200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 5724.540000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1302.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 578.4209999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4261.6785,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0000000000002,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 190.86300000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4771.200000000002,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5737.5,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 6639.4338,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1621.9530000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1917.0000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5737.5,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2447.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3632.895,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2968.98,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2146.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2544.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3961.800000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 425.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2569.5299999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3474.0800000000004,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2039.5200000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3219.9,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1083.75,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 190.86300000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4824.045,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 637.35,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1275.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1109.556,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2672.517,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2570.76,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2544.24,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3916.08,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3712.590000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5211.12,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3856.14,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3309.06,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2683.8,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 6151.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4485.9762,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3180.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 6471.575,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 4783.74,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2125.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3045.84,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5869.820000000001,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1287.96,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3820.2300000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2800.977,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 6439.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4449.2286,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1302.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1157.874,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1272.42,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 587.412,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 643.98,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 956.025,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2605.56,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3406.2570000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2124.5,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 639.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2706.4725,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3260.8199999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4473.0,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 850.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 772.776,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 5521.12,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 3060.0,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5734.8816,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1287.96,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2163.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1591.11,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2550.0,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1970.916,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4293.405000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 14564.295,
+            "total_quantity": 27
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 11945.16,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2142.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1625.2425000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 8147.250000000002,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4241.400000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3041.54,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1501.33,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2549.400000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 8108.910000000001,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5221.1359999999995,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4164.4039999999995,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 7196.895,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 6174.834000000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 5270.058,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3611.6500000000005,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2343.0000000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5447.3355,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3258.2400000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 11067.168000000001,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 5997.7915,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1192.8000000000004,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3263.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 192.807,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1912.5,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1305.36,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 856.92,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 5724.54,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1302.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 578.421,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4261.6785,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 190.863,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4771.2,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5737.5,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 6639.4338,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1621.953,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1917.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5737.5,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2447.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3632.895,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2968.98,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2146.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2544.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3961.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 425.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2569.5299999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3474.08,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2039.52,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3219.9,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1083.75,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 190.863,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4824.045,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 637.35,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1275.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1109.556,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2672.517,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2570.76,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2544.24,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3916.08,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3712.59,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5211.12,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3856.14,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3309.06,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2683.8,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 6151.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4485.9762,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3180.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 6471.575000000001,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 4783.74,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2125.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3045.84,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5869.82,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1287.96,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3820.23,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2800.977,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 6439.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4449.2286,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1157.874,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1272.42,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 643.98,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 956.025,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2605.56,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2763.567,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2706.4725,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3260.8199999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 772.776,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 3060.0,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3567.9840000000004,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1287.96,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 254.94,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2550.0,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1713.84,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2671.452,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 9464.295,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 11945.16,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2142.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1625.2425,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 6102.45,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3041.54,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1501.33,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2549.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3834.0,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1700.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3735.084,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2740.605,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1275.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 4220.664000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 771.228,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3611.65,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2343.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4809.8355,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2606.85,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 11067.168000000001,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4089.6115,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1192.8,
+            "total_quantity": 7
         }
     ],
     "most_frequent_order_month": [
@@ -1656,545 +3131,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 11555.2113,
-            "total_quantity": 73
+            "Sales": 11555.2113,
+            "Quantity": 73,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 17676.6313,
-            "total_quantity": 117
+            "Sales": 17676.6313,
+            "Quantity": 117,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 17988.7184,
-            "total_quantity": 120
+            "Sales": 17988.7184,
+            "Quantity": 120,
+            "Sales_MA": 15740.187
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 21690.955,
-            "total_quantity": 186
+            "Sales": 21690.955,
+            "Quantity": 186,
+            "Sales_MA": 19118.768233333336
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 22838.7614,
-            "total_quantity": 178
+            "Sales": 22838.7614,
+            "Quantity": 178,
+            "Sales_MA": 20839.47826666667
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 29692.7538,
-            "total_quantity": 216
+            "Sales": 29692.7538,
+            "Quantity": 216,
+            "Sales_MA": 24740.823400000005
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 16562.1398,
-            "total_quantity": 128
+            "Sales": 16562.1398,
+            "Quantity": 128,
+            "Sales_MA": 23031.218333333334
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 37769.431000000004,
-            "total_quantity": 219
+            "Sales": 37769.431000000004,
+            "Quantity": 219,
+            "Sales_MA": 28008.108200000002
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 24177.252500000002,
-            "total_quantity": 157
+            "Sales": 24177.252500000002,
+            "Quantity": 157,
+            "Sales_MA": 26169.60776666667
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 33344.6682,
-            "total_quantity": 195
+            "Sales": 33344.6682,
+            "Quantity": 195,
+            "Sales_MA": 31763.7839
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 53538.253000000004,
-            "total_quantity": 311
+            "Sales": 53538.253000000004,
+            "Quantity": 311,
+            "Sales_MA": 37020.05790000001
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 50447.7045,
-            "total_quantity": 344
+            "Sales": 50447.7045,
+            "Quantity": 344,
+            "Sales_MA": 45776.87523333333
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 13289.5573,
-            "total_quantity": 113
+            "Sales": 13289.5573,
+            "Quantity": 113,
+            "Sales_MA": 39091.838266666666
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 16410.7955,
-            "total_quantity": 100
+            "Sales": 16410.7955,
+            "Quantity": 100,
+            "Sales_MA": 26716.019100000005
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 17745.0968,
-            "total_quantity": 172
+            "Sales": 17745.0968,
+            "Quantity": 172,
+            "Sales_MA": 15815.149866666668
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 20527.9231,
-            "total_quantity": 188
+            "Sales": 20527.9231,
+            "Quantity": 188,
+            "Sales_MA": 18227.93846666667
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 28339.3106,
-            "total_quantity": 204
+            "Sales": 28339.3106,
+            "Quantity": 204,
+            "Sales_MA": 22204.11016666667
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 36168.8338,
-            "total_quantity": 234
+            "Sales": 36168.8338,
+            "Quantity": 234,
+            "Sales_MA": 28345.355833333335
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 21231.518,
-            "total_quantity": 164
+            "Sales": 21231.518,
+            "Quantity": 164,
+            "Sales_MA": 28579.887466666667
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 47645.9862,
-            "total_quantity": 248
+            "Sales": 47645.9862,
+            "Quantity": 248,
+            "Sales_MA": 35015.446
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 47240.4252,
-            "total_quantity": 327
+            "Sales": 47240.4252,
+            "Quantity": 327,
+            "Sales_MA": 38705.97646666667
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 47434.1195,
-            "total_quantity": 289
+            "Sales": 47434.1195,
+            "Quantity": 289,
+            "Sales_MA": 47440.17696666667
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 27542.448,
-            "total_quantity": 255
+            "Sales": 27542.448,
+            "Quantity": 255,
+            "Sales_MA": 40738.997566666665
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 40440.2604,
-            "total_quantity": 251
+            "Sales": 40440.2604,
+            "Quantity": 251,
+            "Sales_MA": 38472.27596666667
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 22833.8002,
-            "total_quantity": 155
+            "Sales": 22833.8002,
+            "Quantity": 155,
+            "Sales_MA": 30272.169533333334
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 12681.138,
-            "total_quantity": 113
+            "Sales": 12681.138,
+            "Quantity": 113,
+            "Sales_MA": 25318.399533333333
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 25919.9735,
-            "total_quantity": 174
+            "Sales": 25919.9735,
+            "Quantity": 174,
+            "Sales_MA": 20478.303900000003
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 21216.4521,
-            "total_quantity": 161
+            "Sales": 21216.4521,
+            "Quantity": 161,
+            "Sales_MA": 19939.187866666663
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 31438.0971,
-            "total_quantity": 211
+            "Sales": 31438.0971,
+            "Quantity": 211,
+            "Sales_MA": 26191.507566666667
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 68753.0891,
-            "total_quantity": 374
+            "Sales": 68753.0891,
+            "Quantity": 374,
+            "Sales_MA": 40469.212766666664
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 36866.1741,
-            "total_quantity": 248
+            "Sales": 36866.1741,
+            "Quantity": 248,
+            "Sales_MA": 45685.786766666664
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 45621.83,
-            "total_quantity": 316
+            "Sales": 45621.83,
+            "Quantity": 316,
+            "Sales_MA": 50413.697733333334
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 52443.5383,
-            "total_quantity": 418
+            "Sales": 52443.5383,
+            "Quantity": 418,
+            "Sales_MA": 44977.1808
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 35587.8341,
-            "total_quantity": 240
+            "Sales": 35587.8341,
+            "Quantity": 240,
+            "Sales_MA": 44551.06746666667
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 49258.1367,
-            "total_quantity": 376
+            "Sales": 49258.1367,
+            "Quantity": 376,
+            "Sales_MA": 45763.169700000006
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 50898.9413,
-            "total_quantity": 359
+            "Sales": 50898.9413,
+            "Quantity": 359,
+            "Sales_MA": 45248.30403333334
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 39201.994399999996,
-            "total_quantity": 261
+            "Sales": 39201.994399999996,
+            "Quantity": 261,
+            "Sales_MA": 46453.02413333333
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 41879.2915,
-            "total_quantity": 310
+            "Sales": 41879.2915,
+            "Quantity": 310,
+            "Sales_MA": 43993.409066666674
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 42557.0093,
-            "total_quantity": 335
+            "Sales": 42557.0093,
+            "Quantity": 335,
+            "Sales_MA": 41212.76506666667
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 51483.1467,
-            "total_quantity": 405
+            "Sales": 51483.1467,
+            "Quantity": 405,
+            "Sales_MA": 45306.482500000006
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 55992.8144,
-            "total_quantity": 454
+            "Sales": 55992.8144,
+            "Quantity": 454,
+            "Sales_MA": 50010.99013333334
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 82720.5454,
-            "total_quantity": 603
+            "Sales": 82720.5454,
+            "Quantity": 603,
+            "Sales_MA": 63398.83550000001
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 54637.4125,
-            "total_quantity": 397
+            "Sales": 54637.4125,
+            "Quantity": 397,
+            "Sales_MA": 64450.25743333335
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 112456.3123,
-            "total_quantity": 633
+            "Sales": 112456.3123,
+            "Quantity": 633,
+            "Sales_MA": 83271.42340000001
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 72961.78910000001,
-            "total_quantity": 491
+            "Sales": 72961.78910000001,
+            "Quantity": 491,
+            "Sales_MA": 80018.50463333334
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 84712.2649,
-            "total_quantity": 623
+            "Sales": 84712.2649,
+            "Quantity": 623,
+            "Sales_MA": 90043.45543333334
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 128775.0607,
-            "total_quantity": 863
+            "Sales": 128775.0607,
+            "Quantity": 863,
+            "Sales_MA": 95483.03823333334
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 121911.2191,
-            "total_quantity": 805
+            "Sales": 121911.2191,
+            "Quantity": 805,
+            "Sales_MA": 111799.51490000001
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 14035.4668,
-            "total_quantity": 121
+            "Sales": 14035.4668,
+            "Quantity": 121,
+            "Sales_MA": 88240.5822
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 15664.886,
-            "total_quantity": 92
+            "Sales": 15664.886,
+            "Quantity": 92,
+            "Sales_MA": 50537.190633333346
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 17745.0968,
-            "total_quantity": 172
+            "Sales": 17745.0968,
+            "Quantity": 172,
+            "Sales_MA": 15815.149866666676
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 20527.9231,
-            "total_quantity": 188
+            "Sales": 20527.9231,
+            "Quantity": 188,
+            "Sales_MA": 17979.301966666677
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 28339.3106,
-            "total_quantity": 204
+            "Sales": 28339.3106,
+            "Quantity": 204,
+            "Sales_MA": 22204.110166666676
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 36168.8338,
-            "total_quantity": 234
+            "Sales": 36168.8338,
+            "Quantity": 234,
+            "Sales_MA": 28345.355833333346
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 21231.518,
-            "total_quantity": 164
+            "Sales": 21231.518,
+            "Quantity": 164,
+            "Sales_MA": 28579.887466666678
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 47645.9862,
-            "total_quantity": 248
+            "Sales": 47645.9862,
+            "Quantity": 248,
+            "Sales_MA": 35015.44600000001
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 47240.4252,
-            "total_quantity": 327
+            "Sales": 47240.4252,
+            "Quantity": 327,
+            "Sales_MA": 38705.976466666674
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 47434.1195,
-            "total_quantity": 289
+            "Sales": 47434.1195,
+            "Quantity": 289,
+            "Sales_MA": 47440.17696666667
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 27542.448,
-            "total_quantity": 255
+            "Sales": 27542.448,
+            "Quantity": 255,
+            "Sales_MA": 40738.99756666668
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 40440.2604,
-            "total_quantity": 251
+            "Sales": 40440.2604,
+            "Quantity": 251,
+            "Sales_MA": 38472.275966666675
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 22833.8002,
-            "total_quantity": 155
+            "Sales": 22833.8002,
+            "Quantity": 155,
+            "Sales_MA": 30272.169533333345
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 12681.138,
-            "total_quantity": 113
+            "Sales": 12681.138,
+            "Quantity": 113,
+            "Sales_MA": 25318.399533333344
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 25919.9735,
-            "total_quantity": 174
+            "Sales": 25919.9735,
+            "Quantity": 174,
+            "Sales_MA": 20478.30390000001
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 21216.4521,
-            "total_quantity": 161
+            "Sales": 21216.4521,
+            "Quantity": 161,
+            "Sales_MA": 19939.187866666674
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 31438.0971,
-            "total_quantity": 211
+            "Sales": 31438.0971,
+            "Quantity": 211,
+            "Sales_MA": 26191.507566666678
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 68753.0891,
-            "total_quantity": 374
+            "Sales": 68753.0891,
+            "Quantity": 374,
+            "Sales_MA": 40469.21276666667
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 36866.1741,
-            "total_quantity": 248
+            "Sales": 36866.1741,
+            "Quantity": 248,
+            "Sales_MA": 45685.78676666668
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 45621.83,
-            "total_quantity": 316
+            "Sales": 45621.83,
+            "Quantity": 316,
+            "Sales_MA": 50413.69773333334
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 52443.5383,
-            "total_quantity": 418
+            "Sales": 52443.5383,
+            "Quantity": 418,
+            "Sales_MA": 44977.18080000001
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 35587.8341,
-            "total_quantity": 240
+            "Sales": 35587.8341,
+            "Quantity": 240,
+            "Sales_MA": 44551.06746666668
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 49258.1367,
-            "total_quantity": 376
+            "Sales": 49258.1367,
+            "Quantity": 376,
+            "Sales_MA": 45763.16970000002
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 50898.9413,
-            "total_quantity": 359
+            "Sales": 50898.9413,
+            "Quantity": 359,
+            "Sales_MA": 45248.30403333335
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 27646.7831,
-            "total_quantity": 188
+            "Sales": 27646.7831,
+            "Quantity": 188,
+            "Sales_MA": 42601.28703333335
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 23611.6482,
-            "total_quantity": 185
+            "Sales": 23611.6482,
+            "Quantity": 185,
+            "Sales_MA": 34052.45753333335
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 24524.0229,
-            "total_quantity": 215
+            "Sales": 24524.0229,
+            "Quantity": 215,
+            "Sales_MA": 25260.818066666678
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 30427.471700000002,
-            "total_quantity": 227
+            "Sales": 30427.471700000002,
+            "Quantity": 227,
+            "Sales_MA": 26187.71426666668
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 31837.76,
-            "total_quantity": 265
+            "Sales": 31837.76,
+            "Quantity": 265,
+            "Sales_MA": 28929.751533333347
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 53768.164600000004,
-            "total_quantity": 396
+            "Sales": 53768.164600000004,
+            "Quantity": 396,
+            "Sales_MA": 38677.79876666668
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 38651.1927,
-            "total_quantity": 271
+            "Sales": 38651.1927,
+            "Quantity": 271,
+            "Sales_MA": 41419.039100000016
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 73448.7813,
-            "total_quantity": 407
+            "Sales": 73448.7813,
+            "Quantity": 407,
+            "Sales_MA": 55289.37953333335
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 50022.6366,
-            "total_quantity": 341
+            "Sales": 50022.6366,
+            "Quantity": 341,
+            "Sales_MA": 54040.870200000005
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 48198.3767,
-            "total_quantity": 411
+            "Sales": 48198.3767,
+            "Quantity": 411,
+            "Sales_MA": 57223.26486666667
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 77973.3357,
-            "total_quantity": 561
+            "Sales": 77973.3357,
+            "Quantity": 561,
+            "Sales_MA": 58731.449666666675
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 71896.2066,
-            "total_quantity": 469
+            "Sales": 71896.2066,
+            "Quantity": 469,
+            "Sales_MA": 66022.63966666667
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "FH-14365",
-            "total_spent": 11324.03,
-            "purchase_frequency": 4,
-            "average_order_value": 2264.806
+            "Customer Name": "Mike Gockenbach",
+            "total_spent": 26498.272,
+            "purchase_frequency": 16,
+            "average_order_value": 1472.1262222222222
         },
         {
-            "Customer ID": "PO-18850",
-            "total_spent": 9631.36,
-            "purchase_frequency": 9,
+            "Customer Name": "Fred Hopkins",
+            "total_spent": 24471.388000000003,
+            "purchase_frequency": 14,
+            "average_order_value": 1529.4617500000002
+        },
+        {
+            "Customer Name": "Patrick O'Brill",
+            "total_spent": 19262.72,
+            "purchase_frequency": 18,
             "average_order_value": 963.1360000000001
         },
         {
-            "Customer ID": "MG-18145",
-            "total_spent": 9296.336000000001,
-            "purchase_frequency": 6,
-            "average_order_value": 1328.0480000000002
+            "Customer Name": "John Huston",
+            "total_spent": 19140.78,
+            "purchase_frequency": 16,
+            "average_order_value": 1063.3766666666666
         },
         {
-            "Customer ID": "FH-1436582",
-            "total_spent": 8999.06,
-            "purchase_frequency": 2,
-            "average_order_value": 2999.6866666666665
+            "Customer Name": "Carol Adams",
+            "total_spent": 17907.918,
+            "purchase_frequency": 10,
+            "average_order_value": 1790.7918000000002
         },
         {
-            "Customer ID": "CA-11965",
-            "total_spent": 8901.531,
-            "purchase_frequency": 4,
-            "average_order_value": 2225.38275
+            "Customer Name": "Aaron Hawkins",
+            "total_spent": 17076.32,
+            "purchase_frequency": 8,
+            "average_order_value": 2134.54
         },
         {
-            "Customer ID": "BH-11710",
-            "total_spent": 8174.72,
-            "purchase_frequency": 9,
-            "average_order_value": 817.472
+            "Customer Name": "Brosina Hoffman",
+            "total_spent": 16873.06,
+            "purchase_frequency": 22,
+            "average_order_value": 703.0441666666667
         },
         {
-            "Customer ID": "JB-16000",
-            "total_spent": 8040.9912,
-            "purchase_frequency": 4,
-            "average_order_value": 2010.2478
+            "Customer Name": "Stuart Van",
+            "total_spent": 16604.923,
+            "purchase_frequency": 16,
+            "average_order_value": 922.4957222222222
         },
         {
-            "Customer ID": "JH-15820",
-            "total_spent": 7824.450000000001,
-            "purchase_frequency": 5,
-            "average_order_value": 1304.075
+            "Customer Name": "John Murray",
+            "total_spent": 16421.36,
+            "purchase_frequency": 16,
+            "average_order_value": 1026.335
         },
         {
-            "Customer ID": "JM-15865",
-            "total_spent": 7777.696,
-            "purchase_frequency": 6,
-            "average_order_value": 1296.2826666666667
-        },
-        {
-            "Customer ID": "BF-11005",
-            "total_spent": 7568.295,
-            "purchase_frequency": 5,
-            "average_order_value": 1081.185
-        },
-        {
-            "Customer ID": "EM-14200",
-            "total_spent": 7511.6738000000005,
-            "purchase_frequency": 5,
-            "average_order_value": 1251.9456333333335
-        },
-        {
-            "Customer ID": "JK-15730",
-            "total_spent": 7484.7149,
-            "purchase_frequency": 5,
-            "average_order_value": 1496.94298
-        },
-        {
-            "Customer ID": "MS-17980",
-            "total_spent": 7469.52,
-            "purchase_frequency": 5,
-            "average_order_value": 1493.904
-        },
-        {
-            "Customer ID": "GT-14710",
-            "total_spent": 7450.241000000001,
-            "purchase_frequency": 6,
-            "average_order_value": 1064.320142857143
-        },
-        {
-            "Customer ID": "SP-20920",
-            "total_spent": 7266.823800000002,
-            "purchase_frequency": 4,
-            "average_order_value": 1211.1373000000003
-        },
-        {
-            "Customer ID": "CR-12730",
-            "total_spent": 7218.286000000001,
-            "purchase_frequency": 7,
-            "average_order_value": 902.2857500000001
-        },
-        {
-            "Customer ID": "EH-14125",
-            "total_spent": 7107.159,
-            "purchase_frequency": 5,
-            "average_order_value": 1421.4317999999998
-        },
-        {
-            "Customer ID": "JL-15835",
-            "total_spent": 7101.066,
-            "purchase_frequency": 2,
-            "average_order_value": 3550.533
-        },
-        {
-            "Customer ID": "MS-17365",
-            "total_spent": 7091.414,
-            "purchase_frequency": 5,
-            "average_order_value": 1418.2828
-        },
-        {
-            "Customer ID": "CA-1196566",
-            "total_spent": 6998.64,
-            "purchase_frequency": 1,
-            "average_order_value": 6998.64
+            "Customer Name": "Barry Franz",
+            "total_spent": 16144.59,
+            "purchase_frequency": 12,
+            "average_order_value": 1009.036875
         }
     ],
     "discount_analysis": [
@@ -2202,67 +3701,67 @@
             "Discount": 0.0,
             "total_sales": 2000815.02,
             "total_quantity": 11650,
-            "average_profit": 142.23330331557136
+            "average_profit": 142.2333
         },
         {
             "Discount": 0.1,
-            "total_sales": 292723.47000000003,
+            "total_sales": 292723.47,
             "total_quantity": 1690,
-            "average_profit": 126.38592857142856
+            "average_profit": 126.3859
         },
         {
             "Discount": 0.15,
             "total_sales": 173346.858,
             "total_quantity": 1070,
-            "average_profit": 73.97114189189189
+            "average_profit": 73.9711
         },
         {
             "Discount": 0.17,
             "total_sales": 165136.2024,
             "total_quantity": 898,
-            "average_profit": 70.571259375
+            "average_profit": 70.5713
         },
         {
             "Discount": 0.2,
-            "total_sales": 376008.43200000003,
+            "total_sales": 376008.432,
             "total_quantity": 3886,
-            "average_profit": 33.336654990215266
+            "average_profit": 33.3367
         },
         {
             "Discount": 0.25,
             "total_sales": 49806.18,
             "total_quantity": 312,
-            "average_profit": 2.9722499999999954
+            "average_profit": 2.9722
         },
         {
             "Discount": 0.4,
             "total_sales": 205500.408,
             "total_quantity": 2322,
-            "average_profit": -80.02678957055215
+            "average_profit": -80.0268
         },
         {
             "Discount": 0.5,
             "total_sales": 75725.61,
             "total_quantity": 794,
-            "average_profit": -185.57548543689322
+            "average_profit": -185.5755
         },
         {
             "Discount": 0.6,
             "total_sales": 48785.336,
             "total_quantity": 664,
-            "average_profit": -235.82049523809525
+            "average_profit": -235.8205
         },
         {
             "Discount": 0.65,
             "total_sales": 6581.316,
             "total_quantity": 44,
-            "average_profit": -452.5474285714286
+            "average_profit": -452.5474
         },
         {
             "Discount": 0.7,
             "total_sales": 19219.446,
             "total_quantity": 410,
-            "average_profit": -156.20963333333333
+            "average_profit": -156.2096
         }
     ],
     "geographic_distribution": [
@@ -2270,121 +3769,215 @@
             "State": "New York",
             "City": "New York City",
             "total_sales": 75918.26,
-            "total_quantity": 638
+            "total_quantity": 638,
+            "Location": "New York, New York City"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 59006.064,
-            "total_quantity": 594
+            "total_quantity": 594,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Bangkok",
             "City": "Bangkok",
             "total_sales": 46363.5012,
-            "total_quantity": 148
+            "total_quantity": 148,
+            "Location": "Bangkok, Bangkok"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 38864.364,
-            "total_quantity": 452
+            "total_quantity": 452,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 37697.44,
-            "total_quantity": 152
+            "total_quantity": 152,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "England",
             "City": "London",
             "total_sales": 29840.238,
-            "total_quantity": 112
+            "total_quantity": 112,
+            "Location": "England, London"
         },
         {
             "State": "Managua",
             "City": "Managua",
             "total_sales": 29210.64,
-            "total_quantity": 196
+            "total_quantity": 196,
+            "Location": "Managua, Managua"
         },
         {
             "State": "Queensland",
             "City": "Brisbane",
             "total_sales": 27302.184,
-            "total_quantity": 106
+            "total_quantity": 106,
+            "Location": "Queensland, Brisbane"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 26635.056,
-            "total_quantity": 278
+            "total_quantity": 278,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Western Australia",
             "City": "Perth",
             "total_sales": 26211.276,
-            "total_quantity": 86
+            "total_quantity": 86,
+            "Location": "Western Australia, Perth"
         },
         {
             "State": "Hamburg",
             "City": "Hamburg",
             "total_sales": 25861.74,
-            "total_quantity": 106
+            "total_quantity": 106,
+            "Location": "Hamburg, Hamburg"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 24696.640000000003,
-            "total_quantity": 216
+            "total_quantity": 216,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Illinois",
             "City": "Chicago",
             "total_sales": 23985.088,
-            "total_quantity": 202
+            "total_quantity": 202,
+            "Location": "Illinois, Chicago"
         },
         {
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 23984.478,
-            "total_quantity": 154
+            "total_quantity": 154,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "Texas",
             "City": "Houston",
             "total_sales": 22831.440000000002,
-            "total_quantity": 272
-        },
-        {
-            "State": "Puebla",
-            "City": "Puebla",
-            "total_sales": 22826.52,
-            "total_quantity": 80
-        },
-        {
-            "State": "Berlin",
-            "City": "Berlin",
-            "total_sales": 19800.558,
-            "total_quantity": 116
-        },
-        {
-            "State": "Jakarta",
-            "City": "Jakarta",
-            "total_sales": 19681.2588,
-            "total_quantity": 144
-        },
-        {
-            "State": "Guatemala",
-            "City": "Mixco",
-            "total_sales": 19233.64,
-            "total_quantity": 64
-        },
-        {
-            "State": "Queensland",
-            "City": "Gold Coast",
-            "total_sales": 18863.388,
-            "total_quantity": 88
+            "total_quantity": 272,
+            "Location": "Texas, Houston"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 902,
+            "avg_shipping_delay": 2.18,
+            "total_profit": 58378.39,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 306,
+            "avg_shipping_delay": 0.04,
+            "total_profit": 3935.29,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 1298,
+            "avg_shipping_delay": 3.22,
+            "total_profit": 91706.93,
+            "shipping_cost_ratio": 0.13
+        },
+        "Standard Class": {
+            "total_orders": 3775,
+            "avg_shipping_delay": 4.97,
+            "total_profit": 279413.4,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.003055395094735118,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.05529749597030101,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.024259433621900355,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.04160340685692749,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 780.0,
+                "mean": 241.76410256410256,
+                "std": 267.3583091320828,
+                "min": 0.0,
+                "25%": 50.0,
+                "50%": 144.0,
+                "75%": 338.75,
+                "max": 1423.0
+            },
+            "frequency": {
+                "count": 780.0,
+                "mean": 8.053846153846154,
+                "std": 3.8893123134496794,
+                "min": 1.0,
+                "25%": 6.0,
+                "50%": 8.0,
+                "75%": 10.0,
+                "max": 22.0
+            },
+            "monetary": {
+                "count": 780.0,
+                "mean": 4376.472151794872,
+                "std": 3712.0849138268595,
+                "min": 15.984000000000002,
+                "25%": 1643.1939,
+                "50%": 3332.7625,
+                "75%": 6032.651,
+                "max": 26498.272
+            }
+        },
+        "rfm_segments": {
+            "High": 261,
+            "Low": 260,
+            "Medium": 259
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 4118,
+        "churned_customers": 3074,
+        "churn_rate": 0.7464788732394366,
+        "avg_recency": 838.8244293346285,
+        "avg_frequency": 1.6304031083050023,
+        "avg_monetary": 828.957814084507,
+        "churned_customer_characteristics": {
+            "avg_recency": 1072.1271958360442,
+            "avg_frequency": 1.7872478854912166,
+            "avg_monetary": 919.4894560182174,
+            "avg_discount": 0.14955950186407246,
+            "avg_quantity": 3.4340039605085146,
+            "avg_shipping_cost": 55.71809922029103,
+            "avg_profit": 66.90826850235203
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 151.87739463601534,
+            "avg_frequency": 1.1685823754789273,
+            "avg_monetary": 562.3924239463603,
+            "avg_discount": 0.14225095785440614,
+            "avg_quantity": 3.5047094508301404,
+            "avg_shipping_cost": 53.27713202426565,
+            "avg_profit": 63.23988726053639
+        }
+    }
 }

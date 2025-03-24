@@ -1242,288 +1242,1829 @@
         60,
         52
     ],
+    "yearly_sales": {
+        "2011": 285730.97609999997,
+        "2012": 295058.1396,
+        "2013": 427514.3732,
+        "2014": 779109.2514,
+        "2015": 295058.1396,
+        "2016": 427514.3732,
+        "2017": 493378.2753
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 15181.8316,
+            "2012": 15656.9148,
+            "2013": 27261.942,
+            "2014": 32714.9436,
+            "2015": 15656.9148,
+            "2016": 27261.942,
+            "2017": 17600.72
+        },
+        "August": {
+            "2011": 30551.809,
+            "2012": 30408.672699999996,
+            "2013": 39961.6585,
+            "2014": 69841.7119,
+            "2015": 30408.6727,
+            "2016": 39961.6585,
+            "2017": 41327.7069
+        },
+        "December": {
+            "2011": 48337.0627,
+            "2012": 35478.2524,
+            "2013": 45801.8653,
+            "2014": 111512.9069,
+            "2015": 35478.2524,
+            "2016": 45801.8653,
+            "2017": 67816.9822
+        },
+        "February": {
+            "2011": 10444.7625,
+            "2012": 13512.0352,
+            "2013": 17265.7275,
+            "2014": 36116.4249,
+            "2015": 13249.6008,
+            "2016": 17265.7275,
+            "2017": 22816.4794
+        },
+        "January": {
+            "2011": 11289.9395,
+            "2012": 11344.4433,
+            "2013": 22676.8316,
+            "2014": 44599.3975,
+            "2015": 11606.877700000001,
+            "2016": 22676.8316,
+            "2017": 33309.458
+        },
+        "July": {
+            "2011": 11602.628,
+            "2012": 19191.9976,
+            "2013": 33276.5656,
+            "2014": 35929.9908,
+            "2015": 19191.9976,
+            "2016": 33276.5656,
+            "2017": 21630.3808
+        },
+        "June": {
+            "2011": 27237.0973,
+            "2012": 23350.564000000002,
+            "2013": 44944.9404,
+            "2014": 69468.3016,
+            "2015": 23350.564,
+            "2016": 44944.9404,
+            "2017": 45485.153
+        },
+        "March": {
+            "2011": 21574.2488,
+            "2012": 13052.1641,
+            "2013": 30729.932099999998,
+            "2014": 51712.5389,
+            "2015": 13052.1641,
+            "2016": 30729.9321,
+            "2017": 32925.8651
+        },
+        "May": {
+            "2011": 14676.140099999999,
+            "2012": 21917.1466,
+            "2013": 34313.6375,
+            "2014": 58063.6282,
+            "2015": 21917.1466,
+            "2016": 34313.6375,
+            "2017": 40133.5394
+        },
+        "November": {
+            "2011": 31215.612399999998,
+            "2012": 48075.027,
+            "2013": 47624.9307,
+            "2014": 100709.5848,
+            "2015": 48075.027,
+            "2016": 47624.9307,
+            "2017": 65369.0144
+        },
+        "October": {
+            "2011": 31252.7817,
+            "2012": 30222.862299999997,
+            "2013": 36834.3545,
+            "2014": 76125.5807,
+            "2015": 30222.8623,
+            "2016": 36834.3545,
+            "2017": 44356.619
+        },
+        "September": {
+            "2011": 32367.0625,
+            "2012": 32848.0596,
+            "2013": 46821.987499999996,
+            "2014": 92314.2416,
+            "2015": 32848.0596,
+            "2016": 46821.9875,
+            "2017": 60606.3571
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Hon Executive Leather Armchair, Adjustable": 116386.96819999999,
+        "Office Star Executive Leather Armchair, Adjustable": 101323.36799999999,
+        "Harbour Creations Executive Leather Armchair, Adjustable": 100243.032,
+        "SAFCO Executive Leather Armchair, Black": 83847.06,
+        "Novimex Executive Leather Armchair, Adjustable": 81170.26719999999,
+        "Novimex Executive Leather Armchair, Red": 77629.60399999999,
+        "Harbour Creations Executive Leather Armchair, Black": 64461.47839999999,
+        "Office Star Executive Leather Armchair, Black": 58843.2046,
+        "Hon Executive Leather Armchair, Black": 58489.53919999999,
+        "Novimex Executive Leather Armchair, Black": 57259.015
+    },
+    "top_10_products_by_profit": {
+        "Harbour Creations Executive Leather Armchair, Adjustable": 20854.652000000002,
+        "SAFCO Executive Leather Armchair, Black": 14308.560000000001,
+        "Hon Executive Leather Armchair, Adjustable": 11994.508200000002,
+        "Novimex Executive Leather Armchair, Adjustable": 11124.7072,
+        "Harbour Creations Executive Leather Armchair, Red": 10504.8824,
+        "Hon Swivel Stool, Black": 10372.3392,
+        "Office Star Executive Leather Armchair, Adjustable": 9421.968,
+        "Office Star Executive Leather Armchair, Red": 9354.155999999999,
+        "Harbour Creations Executive Leather Armchair, Black": 6480.298400000001,
+        "Novimex Swivel Stool, Red": 5321.468
+    },
+    "top_10_products_by_turnover": {
+        "Hon Executive Leather Armchair, Adjustable": 338,
+        "Harbour Creations Chairmat, Black": 316,
+        "Hon Swivel Stool, Black": 316,
+        "Office Star Bag Chairs, Set of Two": 298,
+        "Harbour Creations Executive Leather Armchair, Adjustable": 284,
+        "Office Star Executive Leather Armchair, Adjustable": 282,
+        "Hon Bag Chairs, Set of Two": 276,
+        "Harbour Creations Swivel Stool, Red": 270,
+        "Novimex Bag Chairs, Black": 264,
+        "Novimex Swivel Stool, Black": 254
+    },
+    "top_5_loss_products": {
+        "Office Star Executive Leather Armchair, Black": -9125.846,
+        "Novimex Executive Leather Armchair, Red": -8158.335999999999,
+        "Office Star Executive Leather Armchair, Adjustable": -7555.883999999999,
+        "SAFCO Executive Leather Armchair, Adjustable": -6396.8832,
+        "SAFCO Executive Leather Armchair, Red": -6138.124
+    },
     "product_performance": [
         {
-            "Product ID": "FUR-CH-4654",
-            "total_sales": 58193.4841,
-            "total_quantity": 169,
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 116386.96819999999,
+            "total_quantity": 338,
             "average_price": 1187.6221244897959,
-            "total_profit": 5997.2541,
-            "profit_margin": 0.10305714106572973
+            "total_profit": 11994.508200000002,
+            "profit_margin": 0.10305714106572976
         },
         {
-            "Product ID": "FUR-CH-5441",
-            "total_sales": 50661.684,
-            "total_quantity": 141,
-            "average_price": 1125.8152,
-            "total_profit": 4710.984,
-            "profit_margin": 0.09298909211150581
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 101323.36799999999,
+            "total_quantity": 282,
+            "average_price": 1125.8151999999998,
+            "total_profit": 9421.968,
+            "profit_margin": 0.09298909211150583
         },
         {
-            "Product ID": "FUR-CH-4530",
-            "total_sales": 50121.516,
-            "total_quantity": 142,
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 100243.032,
+            "total_quantity": 284,
             "average_price": 1285.167076923077,
-            "total_profit": 10427.326000000001,
+            "total_profit": 20854.652000000002,
             "profit_margin": 0.20804091400587324
         },
         {
-            "Product ID": "FUR-CH-5774",
-            "total_sales": 41923.53,
-            "total_quantity": 111,
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 83847.06,
+            "total_quantity": 222,
             "average_price": 1497.2689285714284,
-            "total_profit": 7154.280000000001,
+            "total_profit": 14308.560000000001,
             "profit_margin": 0.17065070617860664
         },
         {
-            "Product ID": "FUR-CH-5378",
-            "total_sales": 40585.1336,
-            "total_quantity": 124,
-            "average_price": 1040.6444512820513,
-            "total_profit": 5562.3536,
-            "profit_margin": 0.13705396795835606
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 81170.26719999999,
+            "total_quantity": 248,
+            "average_price": 1040.644451282051,
+            "total_profit": 11124.7072,
+            "profit_margin": 0.1370539679583561
         },
         {
-            "Product ID": "FUR-CH-5380",
-            "total_sales": 38814.801999999996,
-            "total_quantity": 118,
+            "Product Name": "Novimex Executive Leather Armchair, Red",
+            "total_sales": 77629.60399999999,
+            "total_quantity": 236,
             "average_price": 1386.2429285714284,
-            "total_profit": 1450.3719999999998,
-            "profit_margin": 0.037366466535112046
+            "total_profit": 2900.7440000000006,
+            "profit_margin": 0.03736646653511205
         },
         {
-            "Product ID": "FUR-CH-4531",
-            "total_sales": 32230.7392,
-            "total_quantity": 100,
-            "average_price": 1342.9474666666667,
-            "total_profit": 3240.1492000000003,
-            "profit_margin": 0.10052978245066127
+            "Product Name": "Harbour Creations Executive Leather Armchair, Black",
+            "total_sales": 64461.47839999999,
+            "total_quantity": 200,
+            "average_price": 1342.9474666666665,
+            "total_profit": 6480.298400000001,
+            "profit_margin": 0.10052978245066128
         },
         {
-            "Product ID": "FUR-CH-5442",
-            "total_sales": 29421.6023,
-            "total_quantity": 89,
+            "Product Name": "Office Star Executive Leather Armchair, Black",
+            "total_sales": 58843.2046,
+            "total_quantity": 178,
             "average_price": 1337.345559090909,
-            "total_profit": 1898.2522999999999,
-            "profit_margin": 0.06451899800168259
+            "total_profit": 3796.5046000000007,
+            "profit_margin": 0.0645189980016826
         },
         {
-            "Product ID": "FUR-CH-4655",
-            "total_sales": 29244.7696,
-            "total_quantity": 86,
-            "average_price": 1044.4560571428572,
-            "total_profit": 438.91960000000006,
-            "profit_margin": 0.01500848206374654
+            "Product Name": "Hon Executive Leather Armchair, Black",
+            "total_sales": 58489.53919999999,
+            "total_quantity": 172,
+            "average_price": 1044.456057142857,
+            "total_profit": 877.8392000000016,
+            "profit_margin": 0.015008482063746567
         },
         {
-            "Product ID": "FUR-CH-5379",
-            "total_sales": 28629.5075,
-            "total_quantity": 80,
+            "Product Name": "Novimex Executive Leather Armchair, Black",
+            "total_sales": 57259.015,
+            "total_quantity": 160,
             "average_price": 1145.1803,
-            "total_profit": 2291.2175,
+            "total_profit": 4582.435,
             "profit_margin": 0.08002993065808066
         },
         {
-            "Product ID": "FUR-CH-5775",
-            "total_sales": 25640.127,
-            "total_quantity": 76,
+            "Product Name": "SAFCO Executive Leather Armchair, Red",
+            "total_sales": 51280.254,
+            "total_quantity": 152,
             "average_price": 1220.9584285714286,
-            "total_profit": -1833.173,
-            "profit_margin": -0.0714962527291694
+            "total_profit": -3666.345999999999,
+            "profit_margin": -0.07149625272916937
         },
         {
-            "Product ID": "FUR-CH-5443",
-            "total_sales": 25213.988,
-            "total_quantity": 68,
+            "Product Name": "Office Star Executive Leather Armchair, Red",
+            "total_sales": 50427.976,
+            "total_quantity": 136,
             "average_price": 1483.1757647058823,
-            "total_profit": 4677.078,
-            "profit_margin": 0.18549536868186026
+            "total_profit": 9354.155999999999,
+            "profit_margin": 0.18549536868186023
         },
         {
-            "Product ID": "FUR-CH-5773",
-            "total_sales": 24210.4384,
-            "total_quantity": 72,
+            "Product Name": "SAFCO Executive Leather Armchair, Adjustable",
+            "total_sales": 48420.8768,
+            "total_quantity": 144,
             "average_price": 931.1707076923077,
-            "total_profit": -862.1816000000001,
-            "profit_margin": -0.035611978013582776
+            "total_profit": -1724.3632,
+            "profit_margin": -0.03561197801358277
         },
         {
-            "Product ID": "FUR-CH-4532",
-            "total_sales": 23517.0012,
-            "total_quantity": 68,
+            "Product Name": "Harbour Creations Executive Leather Armchair, Red",
+            "total_sales": 47034.0024,
+            "total_quantity": 136,
             "average_price": 1119.8572,
-            "total_profit": 5252.4412,
+            "total_profit": 10504.8824,
             "profit_margin": 0.22334655491704447
         },
         {
-            "Product ID": "FUR-CH-10002024",
-            "total_sales": 21870.576,
-            "total_quantity": 39,
+            "Product Name": "HON 5400 Series Task Chairs for Big and Tall",
+            "total_sales": 43741.152,
+            "total_quantity": 78,
             "average_price": 2733.822,
-            "total_profit": 3.979039320256561e-13,
-            "profit_margin": 1.8193573503763965e-17
+            "total_profit": 5.968558980384842e-13,
+            "profit_margin": 1.3645180127822974e-17
         },
         {
-            "Product ID": "FUR-CH-4623",
-            "total_sales": 21870.576,
-            "total_quantity": 39,
-            "average_price": 2733.822,
-            "total_profit": 1.4210854715202004e-13,
-            "profit_margin": 6.4977048227728446e-18
+            "Product Name": "Hon Executive Leather Armchair, Red",
+            "total_sales": 39605.54319999999,
+            "total_quantity": 112,
+            "average_price": 1100.1539777777775,
+            "total_profit": -785.8567999999995,
+            "profit_margin": -0.01984209119495171
         },
         {
-            "Product ID": "FUR-CH-10000027",
-            "total_sales": 21329.729999999996,
-            "total_quantity": 50,
-            "average_price": 1777.4774999999997,
-            "total_profit": 1363.2300000000002,
-            "profit_margin": 0.06391220142027117
+            "Product Name": "Hon Swivel Stool, Black",
+            "total_sales": 39073.279200000004,
+            "total_quantity": 316,
+            "average_price": 500.939476923077,
+            "total_profit": 10372.3392,
+            "profit_margin": 0.26545863086914906
         },
         {
-            "Product ID": "FUR-CH-4656",
-            "total_sales": 19802.7716,
-            "total_quantity": 56,
-            "average_price": 1100.1539777777778,
-            "total_profit": -392.9284,
-            "profit_margin": -0.01984209119495172
+            "Product Name": "SAFCO Executive Leather Armchair, Set of Two",
+            "total_sales": 34213.4016,
+            "total_quantity": 112,
+            "average_price": 900.3526736842105,
+            "total_profit": 3312.7416000000003,
+            "profit_margin": 0.09682584733112304
         },
         {
-            "Product ID": "FUR-CH-4702",
-            "total_sales": 19536.6396,
-            "total_quantity": 158,
-            "average_price": 500.9394769230769,
-            "total_profit": 5186.1696,
-            "profit_margin": 0.2654586308691491
+            "Product Name": "Harbour Creations Swivel Stool, Red",
+            "total_sales": 33729.2712,
+            "total_quantity": 270,
+            "average_price": 392.20082790697677,
+            "total_profit": 1220.9712000000002,
+            "profit_margin": 0.03619915748431588
         },
         {
-            "Product ID": "FUR-CH-10002247",
-            "total_sales": 17121.2175,
-            "total_quantity": 41,
-            "average_price": 1556.474318181818,
-            "total_profit": 1855.6875000000007,
-            "profit_margin": 0.10838525356038499
+            "Product Name": "Novimex Swivel Stool, Black",
+            "total_sales": 33673.0746,
+            "total_quantity": 254,
+            "average_price": 467.6815916666667,
+            "total_profit": 1347.0745999999997,
+            "profit_margin": 0.04000450258854592
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Novimex Swivel Stool, Set of Two",
-            "total_sales": 666.84,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-03",
-            "Product Name": "Hon Rocking Chair, Set of Two",
-            "total_sales": 159.444,
+            "Year_Month": "2011-02",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 727.536,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "SAFCO Chairmat, Black",
-            "total_sales": 68.868,
-            "total_quantity": 2
+            "Year_Month": "2011-02",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 4544.099999999999,
+            "total_quantity": 11
         },
         {
-            "Order Date": "2011-01-04",
-            "Product Name": "SAFCO Chairmat, Black",
-            "total_sales": 38.260000000000005,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Global Deluxe High-Back Manager's Chair",
-            "total_sales": 2573.82,
-            "total_quantity": 9
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "SAFCO Executive Leather Armchair, Red",
-            "total_sales": 1384.29,
+            "Year_Month": "2011-03",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 751.8720000000001,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-01-12",
-            "Product Name": "Hon Chairmat, Adjustable",
-            "total_sales": 290.1,
+            "Year_Month": "2011-04",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 919.2599999999998,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 5507.999999999998,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2410.3979999999997,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 454.7099999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 332.5296,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 911.0399999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2247.7439999999997,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 2111.3999999999996,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1650.48,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 455.5199999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 939.84,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-14",
-            "Product Name": "Global Highback Leather Tilter in Burgundy",
-            "total_sales": 545.9399999999999,
+            "Year_Month": "2011-10",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1838.52,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 3052.212,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 2550.912,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 753.8879999999999,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 181.884,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 4707.039999999999,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2138.9999999999995,
             "total_quantity": 6
         },
         {
-            "Order Date": "2011-01-15",
-            "Product Name": "Hon Swivel Stool, Set of Two",
-            "total_sales": 265.44000000000005,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-15",
-            "Product Name": "Harbour Creations Rocking Chair, Adjustable",
-            "total_sales": 44.874,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-20",
-            "Product Name": "Office Star Rocking Chair, Red",
-            "total_sales": 140.91,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms",
-            "total_sales": 1067.94,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Office Star Rocking Chair, Black",
-            "total_sales": 276.96000000000004,
+            "Year_Month": "2011-12",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 367.19999999999993,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-22",
-            "Product Name": "Novimex Steel Folding Chair, Red",
-            "total_sales": 219.28000000000003,
+            "Year_Month": "2012-02",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 819.9359999999999,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 929.9999999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 409.2389999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 607.3599999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 347.55299999999994,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1554.87,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-01-23",
-            "Product Name": "Novimex Executive Leather Armchair, Red",
-            "total_sales": 920.4,
+            "Year_Month": "2012-05",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1214.7199999999996,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 929.9999999999998,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-01-24",
-            "Product Name": "Hon Rocking Chair, Adjustable",
-            "total_sales": 133.11,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Harbour Creations Swivel Stool, Set of Two",
-            "total_sales": 72.94800000000001,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Office Star Bag Chairs, Set of Two",
-            "total_sales": 69.22800000000001,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-26",
-            "Product Name": "SAFCO Executive Leather Armchair, Adjustable",
-            "total_sales": 1113.408,
+            "Year_Month": "2012-06",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2570.94,
             "total_quantity": 6
         },
         {
-            "Order Date": "2011-01-26",
-            "Product Name": "Novimex Executive Leather Armchair, Black",
-            "total_sales": 334.3035,
+            "Year_Month": "2012-06",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1229.904,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1532.0999999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1687.3469999999998,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 2095.392,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2383.3079999999995,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2382.2039999999997,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2486.5599999999995,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 670.1399999999999,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1719.8069999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 836.9999999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2473.096,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1627.4999999999995,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 2891.7,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 5314.399999999999,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 1652.3999999999996,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1375.8456,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2566.056,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 920.88,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 4861.102,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 545.6519999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 138.132,
             "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2092.4999999999995,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 3217.4099999999994,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 607.3599999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 929.9999999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 1496.3399999999997,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 3875.4499999999994,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 6406.812,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 4114.53,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1381.3199999999997,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 929.9999999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 2478.5999999999995,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1272.186,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1822.0799999999992,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1588.8719999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1428.3,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2502.3966,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 911.0399999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2255.616,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2380.5,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2091.6659999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 859.488,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2355.9999999999995,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 2141.9999999999995,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1130.832,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1715.9519999999998,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 409.968,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2819.5199999999995,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1602.0119999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1818.84,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 2004.2879999999996,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1268.784,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 5370.299999999999,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1413.54,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1532.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1406.7679999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1819.4039999999995,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 458.9999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1428.3,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 970.0479999999998,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 7458.749999999998,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 714.15,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 3485.3160000000003,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1726.6499999999996,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1046.2499999999995,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 6196.5,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 571.32,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2249.1399999999994,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1680.6059999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 3764.1199999999994,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 919.26,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 734.3999999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 952.2,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 181.884,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 455.5199999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1394.9999999999995,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 5508.0,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 3352.7580000000003,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1682.4269999999997,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 792.9696,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2537.5679999999998,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 458.9999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2205.1223999999997,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 612.8399999999999,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 2900.144,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1503.744,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 734.3999999999999,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1904.4,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1006.5896999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 911.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1213.92,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 2111.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1650.48,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2141.8758,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 455.52,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1869.8399999999997,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 734.3999999999999,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 4320.522,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 4565.855999999999,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 6336.771999999999,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 8040.192999999998,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 3739.2,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1495.872,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 458.9999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2023.4879999999998,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 4913.025999999999,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 6180.448,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2139.0,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 367.2,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 819.936,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 930.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 409.239,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 607.36,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 347.553,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1554.87,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1214.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 930.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2570.94,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1229.904,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1532.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1687.3470000000002,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 2095.392,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2383.308,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2382.2039999999997,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2486.56,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 670.14,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1719.807,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 837.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2473.096,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1627.5,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 2891.7,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 5314.400000000001,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 1652.4,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1375.8456,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2566.056,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 920.88,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 4861.102000000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 545.652,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 138.132,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2092.5,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 3217.41,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 607.36,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 930.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 1496.3400000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 3875.45,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 6406.812,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 4114.53,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1381.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 930.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 2478.6000000000004,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1272.186,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1822.08,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1588.8719999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1428.3,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2502.3966,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 911.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2255.616,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2380.5,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2091.6659999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 859.488,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2356.0,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 2142.0,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1130.832,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1715.952,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 409.968,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2819.52,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1602.0120000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1818.84,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 2004.288,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1268.784,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 5370.299999999999,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1413.54,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1532.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1406.768,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1819.404,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 459.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1428.3,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 970.048,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 7458.75,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 714.15,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2757.78,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1726.65,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1046.25,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 1652.4,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 571.32,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2249.14,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1680.606,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 3012.248,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 734.4,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 952.2,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 181.884,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 455.52,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1395.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 942.36,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1227.717,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 460.44,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 2537.5679999999998,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 459.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 2205.1223999999997,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 612.84,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 2900.1440000000002,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 734.4,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1904.4,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 1006.5897,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 469.92,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2141.8758,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 930.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 734.4,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 2482.002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 4565.856,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 3284.56,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 8040.192999999999,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1188.288,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Office Star Executive Leather Armchair, Adjustable",
+            "total_sales": 1495.8719999999998,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "SAFCO Executive Leather Armchair, Black",
+            "total_sales": 459.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Harbour Creations Executive Leather Armchair, Adjustable",
+            "total_sales": 1269.6,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Hon Executive Leather Armchair, Adjustable",
+            "total_sales": 4731.142,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Novimex Executive Leather Armchair, Adjustable",
+            "total_sales": 1473.408,
+            "total_quantity": 8
         }
     ],
     "most_frequent_order_month": [
@@ -1611,545 +3152,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 11289.9395,
-            "total_quantity": 74
+            "Sales": 11289.9395,
+            "Quantity": 74,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 10444.7625,
-            "total_quantity": 66
+            "Sales": 10444.7625,
+            "Quantity": 66,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 21574.2488,
-            "total_quantity": 150
+            "Sales": 21574.2488,
+            "Quantity": 150,
+            "Sales_MA": 14436.316933333335
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 15181.8316,
-            "total_quantity": 131
+            "Sales": 15181.8316,
+            "Quantity": 131,
+            "Sales_MA": 15733.614300000001
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 14676.140099999999,
-            "total_quantity": 112
+            "Sales": 14676.140099999999,
+            "Quantity": 112,
+            "Sales_MA": 17144.073500000002
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 27237.0973,
-            "total_quantity": 256
+            "Sales": 27237.0973,
+            "Quantity": 256,
+            "Sales_MA": 19031.68966666667
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 11602.628,
-            "total_quantity": 95
+            "Sales": 11602.628,
+            "Quantity": 95,
+            "Sales_MA": 17838.6218
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 30551.809,
-            "total_quantity": 232
+            "Sales": 30551.809,
+            "Quantity": 232,
+            "Sales_MA": 23130.511433333333
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 32367.0625,
-            "total_quantity": 248
+            "Sales": 32367.0625,
+            "Quantity": 248,
+            "Sales_MA": 24840.499833333335
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 31252.7817,
-            "total_quantity": 250
+            "Sales": 31252.7817,
+            "Quantity": 250,
+            "Sales_MA": 31390.551066666667
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 31215.612399999998,
-            "total_quantity": 295
+            "Sales": 31215.612399999998,
+            "Quantity": 295,
+            "Sales_MA": 31611.81886666667
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 48337.0627,
-            "total_quantity": 386
+            "Sales": 48337.0627,
+            "Quantity": 386,
+            "Sales_MA": 36935.152266666664
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 11344.4433,
-            "total_quantity": 99
+            "Sales": 11344.4433,
+            "Quantity": 99,
+            "Sales_MA": 30299.039466666665
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 13512.0352,
-            "total_quantity": 123
+            "Sales": 13512.0352,
+            "Quantity": 123,
+            "Sales_MA": 24397.84706666667
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 13052.1641,
-            "total_quantity": 132
+            "Sales": 13052.1641,
+            "Quantity": 132,
+            "Sales_MA": 12636.2142
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 15656.9148,
-            "total_quantity": 157
+            "Sales": 15656.9148,
+            "Quantity": 157,
+            "Sales_MA": 14073.704700000002
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 21917.1466,
-            "total_quantity": 164
+            "Sales": 21917.1466,
+            "Quantity": 164,
+            "Sales_MA": 16875.4085
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 23350.564000000002,
-            "total_quantity": 242
+            "Sales": 23350.564000000002,
+            "Quantity": 242,
+            "Sales_MA": 20308.208466666667
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 19191.9976,
-            "total_quantity": 211
+            "Sales": 19191.9976,
+            "Quantity": 211,
+            "Sales_MA": 21486.5694
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 30408.672699999996,
-            "total_quantity": 174
+            "Sales": 30408.672699999996,
+            "Quantity": 174,
+            "Sales_MA": 24317.0781
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 32848.0596,
-            "total_quantity": 282
+            "Sales": 32848.0596,
+            "Quantity": 282,
+            "Sales_MA": 27482.90996666667
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 30222.862299999997,
-            "total_quantity": 235
+            "Sales": 30222.862299999997,
+            "Quantity": 235,
+            "Sales_MA": 31159.864866666667
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 48075.027,
-            "total_quantity": 437
+            "Sales": 48075.027,
+            "Quantity": 437,
+            "Sales_MA": 37048.649633333334
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 35478.2524,
-            "total_quantity": 259
+            "Sales": 35478.2524,
+            "Quantity": 259,
+            "Sales_MA": 37925.38056666667
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 22676.8316,
-            "total_quantity": 165
+            "Sales": 22676.8316,
+            "Quantity": 165,
+            "Sales_MA": 35410.037000000004
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 17265.7275,
-            "total_quantity": 152
+            "Sales": 17265.7275,
+            "Quantity": 152,
+            "Sales_MA": 25140.2705
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 30729.932099999998,
-            "total_quantity": 247
+            "Sales": 30729.932099999998,
+            "Quantity": 247,
+            "Sales_MA": 23557.497066666667
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 27261.942,
-            "total_quantity": 229
+            "Sales": 27261.942,
+            "Quantity": 229,
+            "Sales_MA": 25085.867199999997
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 34313.6375,
-            "total_quantity": 297
+            "Sales": 34313.6375,
+            "Quantity": 297,
+            "Sales_MA": 30768.503866666666
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 44944.9404,
-            "total_quantity": 334
+            "Sales": 44944.9404,
+            "Quantity": 334,
+            "Sales_MA": 35506.83996666666
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 33276.5656,
-            "total_quantity": 257
+            "Sales": 33276.5656,
+            "Quantity": 257,
+            "Sales_MA": 37511.7145
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 39961.6585,
-            "total_quantity": 331
+            "Sales": 39961.6585,
+            "Quantity": 331,
+            "Sales_MA": 39394.388166666664
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 46821.987499999996,
-            "total_quantity": 387
+            "Sales": 46821.987499999996,
+            "Quantity": 387,
+            "Sales_MA": 40020.070533333324
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 36834.3545,
-            "total_quantity": 322
+            "Sales": 36834.3545,
+            "Quantity": 322,
+            "Sales_MA": 41206.000166666665
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 47624.9307,
-            "total_quantity": 395
+            "Sales": 47624.9307,
+            "Quantity": 395,
+            "Sales_MA": 43760.42423333333
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 45801.8653,
-            "total_quantity": 376
+            "Sales": 45801.8653,
+            "Quantity": 376,
+            "Sales_MA": 43420.3835
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 44599.3975,
-            "total_quantity": 292
+            "Sales": 44599.3975,
+            "Quantity": 292,
+            "Sales_MA": 46008.731166666665
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 36116.4249,
-            "total_quantity": 270
+            "Sales": 36116.4249,
+            "Quantity": 270,
+            "Sales_MA": 42172.56256666667
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 51712.5389,
-            "total_quantity": 395
+            "Sales": 51712.5389,
+            "Quantity": 395,
+            "Sales_MA": 44142.787099999994
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 32714.9436,
-            "total_quantity": 334
+            "Sales": 32714.9436,
+            "Quantity": 334,
+            "Sales_MA": 40181.30246666667
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 58063.6282,
-            "total_quantity": 463
+            "Sales": 58063.6282,
+            "Quantity": 463,
+            "Sales_MA": 47497.0369
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 69468.3016,
-            "total_quantity": 606
+            "Sales": 69468.3016,
+            "Quantity": 606,
+            "Sales_MA": 53415.62446666667
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 35929.9908,
-            "total_quantity": 306
+            "Sales": 35929.9908,
+            "Quantity": 306,
+            "Sales_MA": 54487.30686666667
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 69841.7119,
-            "total_quantity": 511
+            "Sales": 69841.7119,
+            "Quantity": 511,
+            "Sales_MA": 58413.33476666667
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 92314.2416,
-            "total_quantity": 736
+            "Sales": 92314.2416,
+            "Quantity": 736,
+            "Sales_MA": 66028.64809999999
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 76125.5807,
-            "total_quantity": 691
+            "Sales": 76125.5807,
+            "Quantity": 691,
+            "Sales_MA": 79427.17806666666
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 100709.5848,
-            "total_quantity": 788
+            "Sales": 100709.5848,
+            "Quantity": 788,
+            "Sales_MA": 89716.46903333334
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 111512.9069,
-            "total_quantity": 937
+            "Sales": 111512.9069,
+            "Quantity": 937,
+            "Sales_MA": 96116.02413333334
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 11606.877700000001,
-            "total_quantity": 103
+            "Sales": 11606.877700000001,
+            "Quantity": 103,
+            "Sales_MA": 74609.7898
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 13249.6008,
-            "total_quantity": 119
+            "Sales": 13249.6008,
+            "Quantity": 119,
+            "Sales_MA": 45456.4618
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 13052.1641,
-            "total_quantity": 132
+            "Sales": 13052.1641,
+            "Quantity": 132,
+            "Sales_MA": 12636.2142
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 15656.9148,
-            "total_quantity": 157
+            "Sales": 15656.9148,
+            "Quantity": 157,
+            "Sales_MA": 13986.226566666666
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 21917.1466,
-            "total_quantity": 164
+            "Sales": 21917.1466,
+            "Quantity": 164,
+            "Sales_MA": 16875.4085
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 23350.564,
-            "total_quantity": 242
+            "Sales": 23350.564,
+            "Quantity": 242,
+            "Sales_MA": 20308.208466666667
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 19191.9976,
-            "total_quantity": 211
+            "Sales": 19191.9976,
+            "Quantity": 211,
+            "Sales_MA": 21486.569399999997
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 30408.6727,
-            "total_quantity": 174
+            "Sales": 30408.6727,
+            "Quantity": 174,
+            "Sales_MA": 24317.0781
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 32848.0596,
-            "total_quantity": 282
+            "Sales": 32848.0596,
+            "Quantity": 282,
+            "Sales_MA": 27482.90996666667
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 30222.8623,
-            "total_quantity": 235
+            "Sales": 30222.8623,
+            "Quantity": 235,
+            "Sales_MA": 31159.864866666667
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 48075.027,
-            "total_quantity": 437
+            "Sales": 48075.027,
+            "Quantity": 437,
+            "Sales_MA": 37048.649633333334
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 35478.2524,
-            "total_quantity": 259
+            "Sales": 35478.2524,
+            "Quantity": 259,
+            "Sales_MA": 37925.38056666667
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 22676.8316,
-            "total_quantity": 165
+            "Sales": 22676.8316,
+            "Quantity": 165,
+            "Sales_MA": 35410.037000000004
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 17265.7275,
-            "total_quantity": 152
+            "Sales": 17265.7275,
+            "Quantity": 152,
+            "Sales_MA": 25140.2705
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 30729.9321,
-            "total_quantity": 247
+            "Sales": 30729.9321,
+            "Quantity": 247,
+            "Sales_MA": 23557.497066666667
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 27261.942,
-            "total_quantity": 229
+            "Sales": 27261.942,
+            "Quantity": 229,
+            "Sales_MA": 25085.867199999997
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 34313.6375,
-            "total_quantity": 297
+            "Sales": 34313.6375,
+            "Quantity": 297,
+            "Sales_MA": 30768.503866666666
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 44944.9404,
-            "total_quantity": 334
+            "Sales": 44944.9404,
+            "Quantity": 334,
+            "Sales_MA": 35506.83996666666
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 33276.5656,
-            "total_quantity": 257
+            "Sales": 33276.5656,
+            "Quantity": 257,
+            "Sales_MA": 37511.7145
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 39961.6585,
-            "total_quantity": 331
+            "Sales": 39961.6585,
+            "Quantity": 331,
+            "Sales_MA": 39394.388166666664
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 46821.9875,
-            "total_quantity": 387
+            "Sales": 46821.9875,
+            "Quantity": 387,
+            "Sales_MA": 40020.07053333333
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 36834.3545,
-            "total_quantity": 322
+            "Sales": 36834.3545,
+            "Quantity": 322,
+            "Sales_MA": 41206.00016666667
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 47624.9307,
-            "total_quantity": 395
+            "Sales": 47624.9307,
+            "Quantity": 395,
+            "Sales_MA": 43760.42423333333
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 45801.8653,
-            "total_quantity": 376
+            "Sales": 45801.8653,
+            "Quantity": 376,
+            "Sales_MA": 43420.383499999996
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 33309.458,
-            "total_quantity": 218
+            "Sales": 33309.458,
+            "Quantity": 218,
+            "Sales_MA": 42245.418
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 22816.4794,
-            "total_quantity": 176
+            "Sales": 22816.4794,
+            "Quantity": 176,
+            "Sales_MA": 33975.93423333333
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 32925.8651,
-            "total_quantity": 270
+            "Sales": 32925.8651,
+            "Quantity": 270,
+            "Sales_MA": 29683.934166666662
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 17600.72,
-            "total_quantity": 206
+            "Sales": 17600.72,
+            "Quantity": 206,
+            "Sales_MA": 24447.68816666667
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 40133.5394,
-            "total_quantity": 333
+            "Sales": 40133.5394,
+            "Quantity": 333,
+            "Sales_MA": 30220.041500000003
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 45485.153,
-            "total_quantity": 368
+            "Sales": 45485.153,
+            "Quantity": 368,
+            "Sales_MA": 34406.4708
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 21630.3808,
-            "total_quantity": 198
+            "Sales": 21630.3808,
+            "Quantity": 198,
+            "Sales_MA": 35749.69106666666
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 41327.7069,
-            "total_quantity": 290
+            "Sales": 41327.7069,
+            "Quantity": 290,
+            "Sales_MA": 36147.74689999999
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 60606.3571,
-            "total_quantity": 490
+            "Sales": 60606.3571,
+            "Quantity": 490,
+            "Sales_MA": 41188.14826666666
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 44356.619,
-            "total_quantity": 430
+            "Sales": 44356.619,
+            "Quantity": 430,
+            "Sales_MA": 48763.560999999994
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 65369.0144,
-            "total_quantity": 481
+            "Sales": 65369.0144,
+            "Quantity": 481,
+            "Sales_MA": 56777.330166666674
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 67816.9822,
-            "total_quantity": 574
+            "Sales": 67816.9822,
+            "Quantity": 574,
+            "Sales_MA": 59180.87186666666
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "SC-20305",
-            "total_spent": 10930.615999999998,
-            "purchase_frequency": 5,
-            "average_order_value": 1561.516571428571
+            "Customer Name": "Sean Christensen",
+            "total_spent": 21861.232,
+            "purchase_frequency": 10,
+            "average_order_value": 1561.5165714285715
         },
         {
-            "Customer ID": "GT-14710",
-            "total_spent": 8948.085,
-            "purchase_frequency": 6,
+            "Customer Name": "Greg Tran",
+            "total_spent": 17896.17,
+            "purchase_frequency": 12,
             "average_order_value": 1491.3474999999999
         },
         {
-            "Customer ID": "HG-14845",
-            "total_spent": 8664.780999999999,
-            "purchase_frequency": 8,
-            "average_order_value": 866.4780999999999
+            "Customer Name": "Harry Greene",
+            "total_spent": 17471.714,
+            "purchase_frequency": 18,
+            "average_order_value": 794.1688181818182
         },
         {
-            "Customer ID": "MM-17260",
-            "total_spent": 8616.794,
-            "purchase_frequency": 6,
-            "average_order_value": 1230.9705714285715
+            "Customer Name": "Magdelene Morse",
+            "total_spent": 17333.284,
+            "purchase_frequency": 14,
+            "average_order_value": 1083.33025
         },
         {
-            "Customer ID": "SC-203057",
-            "total_spent": 7419.006,
-            "purchase_frequency": 2,
-            "average_order_value": 1854.7515
+            "Customer Name": "Seth Vernon",
+            "total_spent": 14203.524,
+            "purchase_frequency": 14,
+            "average_order_value": 710.1762
         },
         {
-            "Customer ID": "TT-21070",
-            "total_spent": 6827.374999999999,
-            "purchase_frequency": 6,
+            "Customer Name": "Peter Fuller",
+            "total_spent": 13765.39,
+            "purchase_frequency": 16,
+            "average_order_value": 688.2695
+        },
+        {
+            "Customer Name": "Ted Trevino",
+            "total_spent": 13654.75,
+            "purchase_frequency": 12,
             "average_order_value": 1137.8958333333333
         },
         {
-            "Customer ID": "SV-20365",
-            "total_spent": 6642.1320000000005,
-            "purchase_frequency": 6,
-            "average_order_value": 738.0146666666667
-        },
-        {
-            "Customer ID": "KN-16390",
-            "total_spent": 6560.4439999999995,
-            "purchase_frequency": 5,
+            "Customer Name": "Katherine Nockton",
+            "total_spent": 13120.887999999999,
+            "purchase_frequency": 10,
             "average_order_value": 1312.0888
         },
         {
-            "Customer ID": "PF-19120",
-            "total_spent": 6557.224999999999,
-            "purchase_frequency": 5,
-            "average_order_value": 936.7464285714285
+            "Customer Name": "Tom Prescott",
+            "total_spent": 12646.588,
+            "purchase_frequency": 10,
+            "average_order_value": 1264.6588
         },
         {
-            "Customer ID": "ON-18715",
-            "total_spent": 6161.366,
-            "purchase_frequency": 6,
-            "average_order_value": 1026.8943333333334
-        },
-        {
-            "Customer ID": "BV-11245",
-            "total_spent": 6116.4152,
-            "purchase_frequency": 7,
-            "average_order_value": 611.64152
-        },
-        {
-            "Customer ID": "TP-21415",
-            "total_spent": 6076.814,
-            "purchase_frequency": 4,
-            "average_order_value": 1519.2035
-        },
-        {
-            "Customer ID": "SV-203651406",
-            "total_spent": 5976.276,
-            "purchase_frequency": 4,
-            "average_order_value": 853.7537142857143
-        },
-        {
-            "Customer ID": "HG-1484545",
-            "total_spent": 5913.782999999999,
-            "purchase_frequency": 2,
-            "average_order_value": 2956.8914999999997
-        },
-        {
-            "Customer ID": "AD-10180",
-            "total_spent": 5882.4382,
-            "purchase_frequency": 5,
-            "average_order_value": 980.4063666666666
-        },
-        {
-            "Customer ID": "LA-16780",
-            "total_spent": 5872.457,
-            "purchase_frequency": 6,
-            "average_order_value": 978.7428333333334
-        },
-        {
-            "Customer ID": "JW-15220",
-            "total_spent": 5794.076,
-            "purchase_frequency": 7,
-            "average_order_value": 724.2595
-        },
-        {
-            "Customer ID": "LW-17215",
-            "total_spent": 5714.613,
-            "purchase_frequency": 3,
-            "average_order_value": 1904.871
-        },
-        {
-            "Customer ID": "CS-11845",
-            "total_spent": 5647.005999999999,
-            "purchase_frequency": 3,
-            "average_order_value": 1129.4011999999998
-        },
-        {
-            "Customer ID": "SC-20695",
-            "total_spent": 5632.377,
-            "purchase_frequency": 6,
-            "average_order_value": 938.7295
+            "Customer Name": "Odella Nelson",
+            "total_spent": 12621.82,
+            "purchase_frequency": 14,
+            "average_order_value": 901.5585714285714
         }
     ],
     "discount_analysis": [
@@ -2157,61 +3722,61 @@
             "Discount": 0.0,
             "total_sales": 1277595.2,
             "total_quantity": 9096,
-            "average_profit": 114.15969019461077
+            "average_profit": 114.1597
         },
         {
             "Discount": 0.1,
             "total_sales": 612073.548,
             "total_quantity": 3954,
-            "average_profit": 96.54834754420432
+            "average_profit": 96.5483
         },
         {
             "Discount": 0.2,
             "total_sales": 529506.048,
             "total_quantity": 4912,
-            "average_profit": 16.66644029850746
+            "average_profit": 16.6664
         },
         {
             "Discount": 0.25,
             "total_sales": 81187.56,
             "total_quantity": 636,
-            "average_profit": 16.926400000000005
+            "average_profit": 16.9264
         },
         {
             "Discount": 0.27,
             "total_sales": 127826.2704,
             "total_quantity": 1170,
-            "average_profit": -9.225495652173914
+            "average_profit": -9.2255
         },
         {
             "Discount": 0.3,
             "total_sales": 140011.004,
             "total_quantity": 1228,
-            "average_profit": -42.639979113924056
+            "average_profit": -42.64
         },
         {
             "Discount": 0.4,
             "total_sales": 116208.996,
             "total_quantity": 1792,
-            "average_profit": -69.5419344262295
+            "average_profit": -69.5419
         },
         {
             "Discount": 0.5,
             "total_sales": 38918.79,
             "total_quantity": 494,
-            "average_profit": -167.86575
+            "average_profit": -167.8658
         },
         {
             "Discount": 0.6,
             "total_sales": 63132.528,
             "total_quantity": 1110,
-            "average_profit": -162.23823952095807
+            "average_profit": -162.2382
         },
         {
             "Discount": 0.7,
             "total_sales": 16903.584,
             "total_quantity": 280,
-            "average_profit": -210.0703333333333
+            "average_profit": -210.0703
         }
     ],
     "geographic_distribution": [
@@ -2219,121 +3784,215 @@
             "State": "New York",
             "City": "New York City",
             "total_sales": 80299.386,
-            "total_quantity": 530
+            "total_quantity": 530,
+            "Location": "New York, New York City"
         },
         {
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 38174.382,
-            "total_quantity": 206
+            "total_quantity": 206,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 35309.248,
-            "total_quantity": 306
+            "total_quantity": 306,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 34015.94,
-            "total_quantity": 278
+            "total_quantity": 278,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "Washington",
             "City": "Seattle",
             "total_sales": 28042.976000000002,
-            "total_quantity": 208
+            "total_quantity": 208,
+            "Location": "Washington, Seattle"
         },
         {
             "State": "National Capital Region",
             "City": "Manila",
             "total_sales": 27475.335,
-            "total_quantity": 189
+            "total_quantity": 189,
+            "Location": "National Capital Region, Manila"
         },
         {
             "State": "National Capital",
             "City": "Manila",
             "total_sales": 27475.335,
-            "total_quantity": 189
+            "total_quantity": 189,
+            "Location": "National Capital, Manila"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 27359.776,
-            "total_quantity": 380
+            "total_quantity": 380,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Queensland",
             "City": "Gold Coast",
             "total_sales": 26868.888,
-            "total_quantity": 140
+            "total_quantity": 140,
+            "Location": "Queensland, Gold Coast"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 26580.688000000002,
-            "total_quantity": 162
+            "total_quantity": 162,
+            "Location": "California, San Francisco"
         },
         {
             "State": "California",
             "City": "San Diego",
             "total_sales": 25232.144,
-            "total_quantity": 146
+            "total_quantity": 146,
+            "Location": "California, San Diego"
         },
         {
             "State": "Michigan",
             "City": "Detroit",
             "total_sales": 24069.18,
-            "total_quantity": 128
+            "total_quantity": 128,
+            "Location": "Michigan, Detroit"
         },
         {
             "State": "South Australia",
             "City": "Adelaide",
             "total_sales": 22956.048,
-            "total_quantity": 120
+            "total_quantity": 120,
+            "Location": "South Australia, Adelaide"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 22544.543999999998,
-            "total_quantity": 256
+            "total_quantity": 256,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "San Salvador",
             "City": "San Salvador",
             "total_sales": 21454.32,
-            "total_quantity": 188
-        },
-        {
-            "State": "Jakarta",
-            "City": "Jakarta",
-            "total_sales": 21121.498799999998,
-            "total_quantity": 162
-        },
-        {
-            "State": "Victoria",
-            "City": "Melbourne",
-            "total_sales": 20880.989999999998,
-            "total_quantity": 144
-        },
-        {
-            "State": "New South Wales",
-            "City": "Wollongong",
-            "total_sales": 19547.591999999997,
-            "total_quantity": 74
-        },
-        {
-            "State": "Texas",
-            "City": "Houston",
-            "total_sales": 19267.542,
-            "total_quantity": 172
-        },
-        {
-            "State": "Western Australia",
-            "City": "Perth",
-            "total_sales": 18756.306,
-            "total_quantity": 122
+            "total_quantity": 188,
+            "Location": "San Salvador, San Salvador"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 906,
+            "avg_shipping_delay": 2.17,
+            "total_profit": 40781.66,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 340,
+            "avg_shipping_delay": 0.04,
+            "total_profit": 15622.88,
+            "shipping_cost_ratio": 0.17
+        },
+        "Second Class": {
+            "total_orders": 1344,
+            "avg_shipping_delay": 3.29,
+            "total_profit": 62968.52,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 3804,
+            "avg_shipping_delay": 5.05,
+            "total_profit": 161419.47,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.03388912916604361,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.02214734806090598,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.009892341912102172,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.02632120392275454,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 782.0,
+                "mean": 254.22634271099744,
+                "std": 282.3808666057589,
+                "min": 0.0,
+                "25%": 49.0,
+                "50%": 139.5,
+                "75%": 384.5,
+                "max": 1440.0
+            },
+            "frequency": {
+                "count": 782.0,
+                "mean": 8.177749360613811,
+                "std": 3.986901222226787,
+                "min": 2.0,
+                "25%": 6.0,
+                "50%": 8.0,
+                "75%": 10.0,
+                "max": 24.0
+            },
+            "monetary": {
+                "count": 782.0,
+                "mean": 3840.618322762148,
+                "std": 2943.3033589903157,
+                "min": 38.112,
+                "25%": 1662.369,
+                "50%": 3144.7780000000002,
+                "75%": 5248.759,
+                "max": 21861.232
+            }
+        },
+        "rfm_segments": {
+            "High": 261,
+            "Low": 261,
+            "Medium": 260
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 4088,
+        "churned_customers": 3045,
+        "churn_rate": 0.7448630136986302,
+        "avg_recency": 813.7186888454012,
+        "avg_frequency": 1.6800391389432485,
+        "avg_monetary": 734.6779668297456,
+        "churned_customer_characteristics": {
+            "avg_recency": 1041.2440065681444,
+            "avg_frequency": 1.8443349753694582,
+            "avg_monetary": 811.388575139573,
+            "avg_discount": 0.16271970988325668,
+            "avg_quantity": 3.5304152242575886,
+            "avg_shipping_cost": 48.03719043458275,
+            "avg_profit": 40.23504063888119
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 149.46692233940556,
+            "avg_frequency": 1.2003835091083412,
+            "avg_monetary": 510.72417746883997,
+            "avg_discount": 0.1630639638405698,
+            "avg_quantity": 3.4829817833173538,
+            "avg_shipping_cost": 45.25184771492489,
+            "avg_profit": 34.76518473725061
+        }
+    }
 }

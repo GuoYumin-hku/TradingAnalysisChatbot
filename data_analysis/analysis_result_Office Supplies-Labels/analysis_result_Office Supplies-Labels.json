@@ -1224,288 +1224,1367 @@
         40,
         40
     ],
+    "yearly_sales": {
+        "2011": 13616.4576,
+        "2012": 15518.2708,
+        "2013": 18380.7895,
+        "2014": 39459.8857,
+        "2015": 15518.2708,
+        "2016": 18372.1195,
+        "2017": 25888.5121
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 716.0017,
+            "2012": 746.0151999999999,
+            "2013": 609.7189999999999,
+            "2014": 2218.0283,
+            "2015": 746.0152,
+            "2016": 609.719,
+            "2017": 1541.7066
+        },
+        "August": {
+            "2011": 1137.8154,
+            "2012": 1686.5261,
+            "2013": 2210.7005,
+            "2014": 4323.5778,
+            "2015": 1686.5261,
+            "2016": 2210.7005,
+            "2017": 3188.5164
+        },
+        "December": {
+            "2011": 2190.4174,
+            "2012": 1639.8647,
+            "2013": 1590.271,
+            "2014": 4557.1814,
+            "2015": 1639.8647,
+            "2016": 1590.271,
+            "2017": 2555.784
+        },
+        "February": {
+            "2011": 375.37440000000004,
+            "2012": 645.723,
+            "2013": 676.785,
+            "2014": 1203.167,
+            "2015": 645.723,
+            "2016": 668.115,
+            "2017": 809.6486
+        },
+        "January": {
+            "2011": 645.9265,
+            "2012": 590.695,
+            "2013": 1030.4445,
+            "2014": 2088.6651,
+            "2015": 590.6949999999999,
+            "2016": 1030.4445,
+            "2017": 1442.7386
+        },
+        "July": {
+            "2011": 830.6075999999999,
+            "2012": 711.0346,
+            "2013": 1154.3915,
+            "2014": 3122.8664,
+            "2015": 711.0346000000001,
+            "2016": 1154.3915,
+            "2017": 2249.8448
+        },
+        "June": {
+            "2011": 1532.538,
+            "2012": 1128.6672,
+            "2013": 2784.5591,
+            "2014": 4616.4153,
+            "2015": 1128.6672,
+            "2016": 2784.5591,
+            "2017": 3083.8773
+        },
+        "March": {
+            "2011": 861.2814,
+            "2012": 1204.791,
+            "2013": 855.4114999999999,
+            "2014": 2125.33,
+            "2015": 1204.791,
+            "2016": 855.4115,
+            "2017": 1249.4486
+        },
+        "May": {
+            "2011": 536.2533,
+            "2012": 1810.2812000000001,
+            "2013": 1249.7252,
+            "2014": 2367.2389,
+            "2015": 1810.2812,
+            "2016": 1249.7252,
+            "2017": 1836.7656
+        },
+        "November": {
+            "2011": 1904.7574,
+            "2012": 1996.9605999999999,
+            "2013": 2603.5835,
+            "2014": 4632.0169,
+            "2015": 1996.9605999999999,
+            "2016": 2603.5835,
+            "2017": 2684.0275
+        },
+        "October": {
+            "2011": 1106.6215,
+            "2012": 1914.3326,
+            "2013": 1500.7327,
+            "2014": 3597.4393999999998,
+            "2015": 1914.3326,
+            "2016": 1500.7327,
+            "2017": 2356.5899
+        },
+        "September": {
+            "2011": 1778.863,
+            "2012": 1443.3796,
+            "2013": 2114.466,
+            "2014": 4607.9592,
+            "2015": 1443.3796,
+            "2016": 2114.466,
+            "2017": 2889.5642000000003
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Dot Matrix Printer Tape Reel Labels, White, 5000/Box": 6645.756,
+        "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White": 2466.824,
+        "Harbour Creations Removable Labels, Adjustable": 2378.208,
+        "Smead Removable Labels, Adjustable": 2345.796,
+        "Avery Shipping Labels, 5000 Label Set": 2208.6672,
+        "Avery Color Coded Labels, Laser Printer Compatible": 2123.4762,
+        "Novimex Removable Labels, Adjustable": 2021.9188,
+        "Avery Legal Exhibit Labels, 5000 Label Set": 1991.1284,
+        "Novimex Shipping Labels, 5000 Label Set": 1896.2885999999999,
+        "Hon Shipping Labels, Laser Printer Compatible": 1836.7856
+    },
+    "top_10_products_by_profit": {
+        "Dot Matrix Printer Tape Reel Labels, White, 5000/Box": 3035.8128,
+        "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White": 1049.0108,
+        "Novimex Shipping Labels, 5000 Label Set": 637.5286,
+        "Avery Legal Exhibit Labels, 5000 Label Set": 612.4084,
+        "Avery 485": 600.6881999999999,
+        "Smead Removable Labels, Adjustable": 548.596,
+        "Hon File Folder Labels, Alphabetical": 509.46200000000005,
+        "Harbour Creations Legal Exhibit Labels, Alphabetical": 490.808,
+        "Avery 477": 488.48,
+        "Alphabetical Labels for Top Tab Filing": 488.4
+    },
+    "top_10_products_by_turnover": {
+        "Smead Removable Labels, Adjustable": 312,
+        "Harbour Creations Removable Labels, Adjustable": 310,
+        "Novimex Removable Labels, Adjustable": 258,
+        "Avery Shipping Labels, 5000 Label Set": 242,
+        "Hon Removable Labels, Adjustable": 242,
+        "Avery Legal Exhibit Labels, 5000 Label Set": 238,
+        "Hon File Folder Labels, Alphabetical": 228,
+        "Hon Round Labels, Laser Printer Compatible": 224,
+        "Harbour Creations Legal Exhibit Labels, Laser Printer Compatible": 214,
+        "Hon Shipping Labels, Laser Printer Compatible": 212
+    },
+    "top_5_loss_products": {
+        "Smead Legal Exhibit Labels, 5000 Label Set": -300.906,
+        "Hon Removable Labels, Adjustable": -288.271,
+        "Hon Color Coded Labels, Alphabetical": -195.28439999999998,
+        "Harbour Creations Legal Exhibit Labels, Laser Printer Compatible": -187.11799999999997,
+        "Smead Legal Exhibit Labels, Laser Printer Compatible": -183.446
+    },
     "product_performance": [
         {
-            "Product ID": "OFF-LA-3980",
-            "total_sales": 3322.878,
-            "total_quantity": 36,
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 6645.756,
+            "total_quantity": 72,
             "average_price": 415.35975,
-            "total_profit": 1517.9063999999998,
-            "profit_margin": 0.4568047337278106
-        },
-        {
-            "Product ID": "OFF-LA-10003930",
-            "total_sales": 3322.878,
-            "total_quantity": 36,
-            "average_price": 415.35975,
-            "total_profit": 1517.9064,
+            "total_profit": 3035.8128,
             "profit_margin": 0.45680473372781066
         },
         {
-            "Product ID": "OFF-LA-3190",
-            "total_sales": 1233.412,
-            "total_quantity": 43,
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 2466.824,
+            "total_quantity": 86,
             "average_price": 112.12836363636364,
-            "total_profit": 524.5054,
+            "total_profit": 1049.0108,
             "profit_margin": 0.42524752475247524
         },
         {
-            "Product ID": "OFF-LA-10003510",
-            "total_sales": 1233.412,
-            "total_quantity": 43,
-            "average_price": 112.12836363636364,
-            "total_profit": 524.5054,
-            "profit_margin": 0.42524752475247524
-        },
-        {
-            "Product ID": "OFF-LA-4542",
-            "total_sales": 1189.104,
-            "total_quantity": 155,
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 2378.208,
+            "total_quantity": 310,
             "average_price": 27.02509090909091,
-            "total_profit": 236.804,
+            "total_profit": 473.608,
             "profit_margin": 0.1991449023802796
         },
         {
-            "Product ID": "OFF-LA-6051",
-            "total_sales": 1172.898,
-            "total_quantity": 156,
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 2345.796,
+            "total_quantity": 312,
             "average_price": 27.926142857142857,
-            "total_profit": 274.298,
+            "total_profit": 548.596,
             "profit_margin": 0.23386347320909406
         },
         {
-            "Product ID": "OFF-LA-3320",
-            "total_sales": 1104.3336,
-            "total_quantity": 121,
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 2208.6672,
+            "total_quantity": 242,
             "average_price": 42.47436923076923,
-            "total_profit": 169.1536,
+            "total_profit": 338.3072,
             "profit_margin": 0.1531725558291444
         },
         {
-            "Product ID": "OFF-LA-3263",
-            "total_sales": 1061.7381,
-            "total_quantity": 96,
+            "Product Name": "Avery Color Coded Labels, Laser Printer Compatible",
+            "total_sales": 2123.4762,
+            "total_quantity": 192,
             "average_price": 40.83608076923077,
-            "total_profit": 81.7181,
+            "total_profit": 163.4362,
             "profit_margin": 0.07696634414833564
         },
         {
-            "Product ID": "OFF-LA-5392",
-            "total_sales": 1010.9594,
-            "total_quantity": 129,
+            "Product Name": "Novimex Removable Labels, Adjustable",
+            "total_sales": 2021.9188,
+            "total_quantity": 258,
             "average_price": 30.635133333333332,
-            "total_profit": 117.9594,
+            "total_profit": 235.9188,
             "profit_margin": 0.11668065008347517
         },
         {
-            "Product ID": "OFF-LA-3297",
-            "total_sales": 995.5642,
-            "total_quantity": 119,
+            "Product Name": "Avery Legal Exhibit Labels, 5000 Label Set",
+            "total_sales": 1991.1284,
+            "total_quantity": 238,
             "average_price": 39.822568000000004,
-            "total_profit": 306.2042,
+            "total_profit": 612.4084,
             "profit_margin": 0.30756851240733646
         },
         {
-            "Product ID": "OFF-LA-5402",
-            "total_sales": 948.1442999999999,
-            "total_quantity": 102,
+            "Product Name": "Novimex Shipping Labels, 5000 Label Set",
+            "total_sales": 1896.2885999999999,
+            "total_quantity": 204,
             "average_price": 33.862296428571426,
-            "total_profit": 318.7643,
+            "total_profit": 637.5286,
             "profit_margin": 0.33619808714770527
         },
         {
-            "Product ID": "OFF-LA-4696",
-            "total_sales": 918.3928,
-            "total_quantity": 106,
+            "Product Name": "Hon Shipping Labels, Laser Printer Compatible",
+            "total_sales": 1836.7856,
+            "total_quantity": 212,
             "average_price": 34.014548148148144,
-            "total_profit": 194.4028,
-            "profit_margin": 0.2116771821381875
+            "total_profit": 388.80559999999997,
+            "profit_margin": 0.21167718213818748
         },
         {
-            "Product ID": "OFF-LA-4679",
-            "total_sales": 851.9475,
-            "total_quantity": 121,
+            "Product Name": "Hon Removable Labels, Adjustable",
+            "total_sales": 1703.895,
+            "total_quantity": 242,
             "average_price": 23.665208333333332,
-            "total_profit": -62.3925,
+            "total_profit": -124.785,
             "profit_margin": -0.07323514653191658
         },
         {
-            "Product ID": "OFF-LA-4540",
-            "total_sales": 846.581,
-            "total_quantity": 107,
+            "Product Name": "Harbour Creations Legal Exhibit Labels, Laser Printer Compatible",
+            "total_sales": 1693.162,
+            "total_quantity": 214,
             "average_price": 31.35485185185185,
-            "total_profit": 80.761,
-            "profit_margin": 0.0953966602132578
+            "total_profit": 161.52200000000005,
+            "profit_margin": 0.09539666021325782
         },
         {
-            "Product ID": "OFF-LA-6063",
-            "total_sales": 816.4068,
-            "total_quantity": 87,
+            "Product Name": "Smead Shipping Labels, Alphabetical",
+            "total_sales": 1632.8136,
+            "total_quantity": 174,
             "average_price": 34.01695,
-            "total_profit": 211.6368,
+            "total_profit": 423.2736,
             "profit_margin": 0.2592295899544198
         },
         {
-            "Product ID": "OFF-LA-4529",
-            "total_sales": 805.304,
-            "total_quantity": 71,
+            "Product Name": "Harbour Creations Color Coded Labels, Laser Printer Compatible",
+            "total_sales": 1610.608,
+            "total_quantity": 142,
             "average_price": 40.2652,
-            "total_profit": 209.624,
+            "total_profit": 419.248,
             "profit_margin": 0.26030418326495336
         },
         {
-            "Product ID": "OFF-LA-4659",
-            "total_sales": 793.971,
-            "total_quantity": 114,
+            "Product Name": "Hon File Folder Labels, Alphabetical",
+            "total_sales": 1587.942,
+            "total_quantity": 228,
             "average_price": 24.81159375,
-            "total_profit": 254.73100000000002,
+            "total_profit": 509.46200000000005,
             "profit_margin": 0.320831617275694
         },
         {
-            "Product ID": "OFF-LA-6029",
-            "total_sales": 786.8289,
-            "total_quantity": 83,
+            "Product Name": "Smead Color Coded Labels, Alphabetical",
+            "total_sales": 1573.6578,
+            "total_quantity": 166,
             "average_price": 35.76495,
-            "total_profit": 165.9689,
+            "total_profit": 331.9378,
             "profit_margin": 0.21093391460328922
         },
         {
-            "Product ID": "OFF-LA-3300",
-            "total_sales": 783.1404,
-            "total_quantity": 87,
+            "Product Name": "Avery Legal Exhibit Labels, Laser Printer Compatible",
+            "total_sales": 1566.2808,
+            "total_quantity": 174,
             "average_price": 32.63085,
-            "total_profit": 11.080400000000003,
-            "profit_margin": 0.014148676278225466
+            "total_profit": 22.160799999999995,
+            "profit_margin": 0.014148676278225459
         },
         {
-            "Product ID": "OFF-LA-4640",
-            "total_sales": 781.2819000000001,
-            "total_quantity": 81,
+            "Product Name": "Hon Color Coded Labels, Laser Printer Compatible",
+            "total_sales": 1562.5638000000001,
+            "total_quantity": 162,
             "average_price": 33.96877826086957,
-            "total_profit": 207.5319,
-            "profit_margin": 0.26562998579641994
+            "total_profit": 415.06379999999996,
+            "profit_margin": 0.2656299857964199
+        },
+        {
+            "Product Name": "Hon Legal Exhibit Labels, Alphabetical",
+            "total_sales": 1542.4768,
+            "total_quantity": 170,
+            "average_price": 40.5914947368421,
+            "total_profit": 222.99679999999998,
+            "profit_margin": 0.14457060229366173
+        },
+        {
+            "Product Name": "Harbour Creations File Folder Labels, Laser Printer Compatible",
+            "total_sales": 1479.6186,
+            "total_quantity": 196,
+            "average_price": 25.510665517241378,
+            "total_profit": 338.6386,
+            "profit_margin": 0.22886884498478188
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Avery Color Coded Labels, Laser Printer Compatible",
-            "total_sales": 35.883,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-04",
-            "Product Name": "Harbour Creations File Folder Labels, 5000 Label Set",
-            "total_sales": 27.360000000000003,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-05",
-            "Product Name": "Avery 508",
-            "total_sales": 11.784,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Novimex Shipping Labels, Adjustable",
-            "total_sales": 17.759999999999998,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-09",
+            "Year_Month": "2011-01",
             "Product Name": "Smead Removable Labels, Adjustable",
             "total_sales": 45.1935,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-10",
-            "Product Name": "Hon File Folder Labels, Alphabetical",
-            "total_sales": 30.456,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Novimex File Folder Labels, Alphabetical",
-            "total_sales": 40.35,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Avery 482",
-            "total_sales": 2.89,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-12",
-            "Product Name": "Avery Removable Labels, Alphabetical",
-            "total_sales": 12.672000000000002,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-13",
-            "Product Name": "Harbour Creations Legal Exhibit Labels, Laser Printer Compatible",
-            "total_sales": 21.9,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-13",
-            "Product Name": "Harbour Creations Legal Exhibit Labels, Adjustable",
-            "total_sales": 15.930000000000003,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-15",
-            "Product Name": "Harbour Creations Removable Labels, 5000 Label Set",
-            "total_sales": 20.700000000000003,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-17",
-            "Product Name": "Round Specialty Laser Printer Labels",
-            "total_sales": 30.072000000000003,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-17",
-            "Product Name": "Hon Shipping Labels, Laser Printer Compatible",
-            "total_sales": 17.055,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-20",
-            "Product Name": "Novimex Shipping Labels, 5000 Label Set",
-            "total_sales": 11.37,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-20",
-            "Product Name": "Novimex Color Coded Labels, Adjustable",
-            "total_sales": 10.32,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-23",
-            "Product Name": "Harbour Creations Color Coded Labels, Laser Printer Compatible",
-            "total_sales": 25.8,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Avery Shipping Labels, Laser Printer Compatible",
-            "total_sales": 59.25,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Harbour Creations Color Coded Labels, Adjustable",
-            "total_sales": 53.99999999999999,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Avery Round Labels, Alphabetical",
-            "total_sales": 41.75999999999999,
+            "Year_Month": "2011-03",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 64.44,
             "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.399999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 25.776,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 491.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 58.092,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 36.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 36.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 51.21,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 40.31999999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 24.424000000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 23.520000000000003,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 24.48,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 196.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 33.0,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 93.83999999999999,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 90.387,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 61.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 198.288,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 491.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 58.806,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 16.5,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 97.696,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 191.43359999999998,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 85.92,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 11.979,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 57.11999999999999,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 37.125,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 294.93,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 7.26,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 50.39999999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 24.424000000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 8.25,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.399999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 427.42,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 16.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 65.34,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 92.412,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 79.6785,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 196.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 41.25,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 78.408,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 21.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 122.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 107.712,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 28.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 4.356000000000001,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 10.74,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.399999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 73.35900000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 43.56,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 102.35999999999999,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 3.3,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 48.848000000000006,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 629.1840000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 39.204,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 32.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 3.2220000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 10.89,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 16.5,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 45.1935,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 48.33,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 91.59,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 39.16799999999999,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 105.69,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 45.824,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 33.6,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 122.12000000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 12.24,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 25.776,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 44.49,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 97.92,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 491.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 111.792,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 36.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 786.48,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 32.22,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 36.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 24.48,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 83.69,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 67.32,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 235.944,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 89.88,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 177.074,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 48.96,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 53.275999999999996,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 82.116,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 81.6,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 196.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 187.1,
+            "total_quantity": 28
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 40.31999999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 61.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 36.72,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 127.64,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 83.49,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 90.387,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 61.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 198.288,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 491.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 58.806,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 16.5,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 97.696,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 191.43359999999998,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 85.92,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 11.979,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 57.12,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 37.125,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 294.93,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 7.26,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 50.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 24.424,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 8.25,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.4,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 427.42,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 16.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 65.34,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 92.412,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 79.6785,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 196.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 41.25,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 78.408,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 21.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 122.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 107.712,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 28.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 4.356,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 10.74,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.4,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 73.35900000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 43.56,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 102.36,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 3.3,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 48.848,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 629.184,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 39.204,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 32.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 3.222,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 10.89,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 16.5,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 48.33,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 91.59,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 39.168,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 41.25,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 45.824,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 25.2,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 122.12,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 12.24,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 44.49,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 97.92,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 53.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 786.48,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 32.22,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 24.48,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 32.480000000000004,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 67.32,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 235.944,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 49.56,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 152.65,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 48.96,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 53.275999999999996,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 58.596000000000004,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 154.1,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 40.32,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 61.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 127.64,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 83.49000000000001,
+            "total_quantity": 10
         }
     ],
     "most_frequent_order_month": [
@@ -1593,545 +2672,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 645.9265,
-            "total_quantity": 77
+            "Sales": 645.9265,
+            "Quantity": 77,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 375.37440000000004,
-            "total_quantity": 52
+            "Sales": 375.37440000000004,
+            "Quantity": 52,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 861.2814,
-            "total_quantity": 125
+            "Sales": 861.2814,
+            "Quantity": 125,
+            "Sales_MA": 627.5274333333333
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 716.0017,
-            "total_quantity": 93
+            "Sales": 716.0017,
+            "Quantity": 93,
+            "Sales_MA": 650.8858333333334
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 536.2533,
-            "total_quantity": 77
+            "Sales": 536.2533,
+            "Quantity": 77,
+            "Sales_MA": 704.5121333333333
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 1532.538,
-            "total_quantity": 143
+            "Sales": 1532.538,
+            "Quantity": 143,
+            "Sales_MA": 928.2643333333332
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 830.6075999999999,
-            "total_quantity": 97
+            "Sales": 830.6075999999999,
+            "Quantity": 97,
+            "Sales_MA": 966.4663
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 1137.8154,
-            "total_quantity": 150
+            "Sales": 1137.8154,
+            "Quantity": 150,
+            "Sales_MA": 1166.9869999999999
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 1778.863,
-            "total_quantity": 237
+            "Sales": 1778.863,
+            "Quantity": 237,
+            "Sales_MA": 1249.0953333333334
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 1106.6215,
-            "total_quantity": 145
+            "Sales": 1106.6215,
+            "Quantity": 145,
+            "Sales_MA": 1341.0999666666667
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 1904.7574,
-            "total_quantity": 253
+            "Sales": 1904.7574,
+            "Quantity": 253,
+            "Sales_MA": 1596.7473
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 2190.4174,
-            "total_quantity": 256
+            "Sales": 2190.4174,
+            "Quantity": 256,
+            "Sales_MA": 1733.9321
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 590.695,
-            "total_quantity": 66
+            "Sales": 590.695,
+            "Quantity": 66,
+            "Sales_MA": 1561.9565999999998
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 645.723,
-            "total_quantity": 78
+            "Sales": 645.723,
+            "Quantity": 78,
+            "Sales_MA": 1142.2784666666666
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 1204.791,
-            "total_quantity": 88
+            "Sales": 1204.791,
+            "Quantity": 88,
+            "Sales_MA": 813.7363333333333
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 746.0151999999999,
-            "total_quantity": 105
+            "Sales": 746.0151999999999,
+            "Quantity": 105,
+            "Sales_MA": 865.5097333333332
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 1810.2812000000001,
-            "total_quantity": 239
+            "Sales": 1810.2812000000001,
+            "Quantity": 239,
+            "Sales_MA": 1253.6958
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 1128.6672,
-            "total_quantity": 165
+            "Sales": 1128.6672,
+            "Quantity": 165,
+            "Sales_MA": 1228.3212
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 711.0346,
-            "total_quantity": 61
+            "Sales": 711.0346,
+            "Quantity": 61,
+            "Sales_MA": 1216.661
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 1686.5261,
-            "total_quantity": 193
+            "Sales": 1686.5261,
+            "Quantity": 193,
+            "Sales_MA": 1175.4093
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 1443.3796,
-            "total_quantity": 200
+            "Sales": 1443.3796,
+            "Quantity": 200,
+            "Sales_MA": 1280.3134333333335
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 1914.3326,
-            "total_quantity": 201
+            "Sales": 1914.3326,
+            "Quantity": 201,
+            "Sales_MA": 1681.4127666666666
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 1996.9605999999999,
-            "total_quantity": 276
+            "Sales": 1996.9605999999999,
+            "Quantity": 276,
+            "Sales_MA": 1784.8909333333334
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 1639.8647,
-            "total_quantity": 217
+            "Sales": 1639.8647,
+            "Quantity": 217,
+            "Sales_MA": 1850.3859666666667
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 1030.4445,
-            "total_quantity": 138
+            "Sales": 1030.4445,
+            "Quantity": 138,
+            "Sales_MA": 1555.7566
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 676.785,
-            "total_quantity": 88
+            "Sales": 676.785,
+            "Quantity": 88,
+            "Sales_MA": 1115.6980666666666
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 855.4114999999999,
-            "total_quantity": 128
+            "Sales": 855.4114999999999,
+            "Quantity": 128,
+            "Sales_MA": 854.2136666666667
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 609.7189999999999,
-            "total_quantity": 79
+            "Sales": 609.7189999999999,
+            "Quantity": 79,
+            "Sales_MA": 713.9718333333334
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 1249.7252,
-            "total_quantity": 164
+            "Sales": 1249.7252,
+            "Quantity": 164,
+            "Sales_MA": 904.9519
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 2784.5591,
-            "total_quantity": 380
+            "Sales": 2784.5591,
+            "Quantity": 380,
+            "Sales_MA": 1548.0011000000002
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 1154.3915,
-            "total_quantity": 150
+            "Sales": 1154.3915,
+            "Quantity": 150,
+            "Sales_MA": 1729.5586
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 2210.7005,
-            "total_quantity": 281
+            "Sales": 2210.7005,
+            "Quantity": 281,
+            "Sales_MA": 2049.8837
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 2114.466,
-            "total_quantity": 318
+            "Sales": 2114.466,
+            "Quantity": 318,
+            "Sales_MA": 1826.5193333333334
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 1500.7327,
-            "total_quantity": 216
+            "Sales": 1500.7327,
+            "Quantity": 216,
+            "Sales_MA": 1941.9664
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 2603.5835,
-            "total_quantity": 270
+            "Sales": 2603.5835,
+            "Quantity": 270,
+            "Sales_MA": 2072.9274
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 1590.271,
-            "total_quantity": 221
+            "Sales": 1590.271,
+            "Quantity": 221,
+            "Sales_MA": 1898.1957333333337
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 2088.6651,
-            "total_quantity": 241
+            "Sales": 2088.6651,
+            "Quantity": 241,
+            "Sales_MA": 2094.1732
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 1203.167,
-            "total_quantity": 141
+            "Sales": 1203.167,
+            "Quantity": 141,
+            "Sales_MA": 1627.3677
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 2125.33,
-            "total_quantity": 299
+            "Sales": 2125.33,
+            "Quantity": 299,
+            "Sales_MA": 1805.7207
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 2218.0283,
-            "total_quantity": 303
+            "Sales": 2218.0283,
+            "Quantity": 303,
+            "Sales_MA": 1848.8417666666667
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 2367.2389,
-            "total_quantity": 305
+            "Sales": 2367.2389,
+            "Quantity": 305,
+            "Sales_MA": 2236.8657333333335
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 4616.4153,
-            "total_quantity": 526
+            "Sales": 4616.4153,
+            "Quantity": 526,
+            "Sales_MA": 3067.2274999999995
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 3122.8664,
-            "total_quantity": 302
+            "Sales": 3122.8664,
+            "Quantity": 302,
+            "Sales_MA": 3368.8402
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 4323.5778,
-            "total_quantity": 532
+            "Sales": 4323.5778,
+            "Quantity": 532,
+            "Sales_MA": 4020.953166666666
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 4607.9592,
-            "total_quantity": 591
+            "Sales": 4607.9592,
+            "Quantity": 591,
+            "Sales_MA": 4018.1344666666664
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 3597.4393999999998,
-            "total_quantity": 517
+            "Sales": 3597.4393999999998,
+            "Quantity": 517,
+            "Sales_MA": 4176.325466666667
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 4632.0169,
-            "total_quantity": 625
+            "Sales": 4632.0169,
+            "Quantity": 625,
+            "Sales_MA": 4279.1385
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 4557.1814,
-            "total_quantity": 600
+            "Sales": 4557.1814,
+            "Quantity": 600,
+            "Sales_MA": 4262.212566666666
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 590.6949999999999,
-            "total_quantity": 66
+            "Sales": 590.6949999999999,
+            "Quantity": 66,
+            "Sales_MA": 3259.964433333333
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 645.723,
-            "total_quantity": 78
+            "Sales": 645.723,
+            "Quantity": 78,
+            "Sales_MA": 1931.1998
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 1204.791,
-            "total_quantity": 88
+            "Sales": 1204.791,
+            "Quantity": 88,
+            "Sales_MA": 813.7363333333333
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 746.0152,
-            "total_quantity": 105
+            "Sales": 746.0152,
+            "Quantity": 105,
+            "Sales_MA": 865.5097333333333
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 1810.2812,
-            "total_quantity": 239
+            "Sales": 1810.2812,
+            "Quantity": 239,
+            "Sales_MA": 1253.6958
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 1128.6672,
-            "total_quantity": 165
+            "Sales": 1128.6672,
+            "Quantity": 165,
+            "Sales_MA": 1228.3212
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 711.0346000000001,
-            "total_quantity": 61
+            "Sales": 711.0346000000001,
+            "Quantity": 61,
+            "Sales_MA": 1216.661
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 1686.5261,
-            "total_quantity": 193
+            "Sales": 1686.5261,
+            "Quantity": 193,
+            "Sales_MA": 1175.4093
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 1443.3796,
-            "total_quantity": 200
+            "Sales": 1443.3796,
+            "Quantity": 200,
+            "Sales_MA": 1280.3134333333335
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 1914.3326,
-            "total_quantity": 201
+            "Sales": 1914.3326,
+            "Quantity": 201,
+            "Sales_MA": 1681.4127666666666
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 1996.9605999999999,
-            "total_quantity": 276
+            "Sales": 1996.9605999999999,
+            "Quantity": 276,
+            "Sales_MA": 1784.8909333333334
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 1639.8647,
-            "total_quantity": 217
+            "Sales": 1639.8647,
+            "Quantity": 217,
+            "Sales_MA": 1850.3859666666667
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 1030.4445,
-            "total_quantity": 138
+            "Sales": 1030.4445,
+            "Quantity": 138,
+            "Sales_MA": 1555.7566
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 668.115,
-            "total_quantity": 85
+            "Sales": 668.115,
+            "Quantity": 85,
+            "Sales_MA": 1112.8080666666667
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 855.4115,
-            "total_quantity": 128
+            "Sales": 855.4115,
+            "Quantity": 128,
+            "Sales_MA": 851.3236666666667
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 609.719,
-            "total_quantity": 79
+            "Sales": 609.719,
+            "Quantity": 79,
+            "Sales_MA": 711.0818333333333
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 1249.7252,
-            "total_quantity": 164
+            "Sales": 1249.7252,
+            "Quantity": 164,
+            "Sales_MA": 904.9519
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 2784.5591,
-            "total_quantity": 380
+            "Sales": 2784.5591,
+            "Quantity": 380,
+            "Sales_MA": 1548.0011000000002
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 1154.3915,
-            "total_quantity": 150
+            "Sales": 1154.3915,
+            "Quantity": 150,
+            "Sales_MA": 1729.5586
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 2210.7005,
-            "total_quantity": 281
+            "Sales": 2210.7005,
+            "Quantity": 281,
+            "Sales_MA": 2049.8837
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 2114.466,
-            "total_quantity": 318
+            "Sales": 2114.466,
+            "Quantity": 318,
+            "Sales_MA": 1826.5193333333334
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 1500.7327,
-            "total_quantity": 216
+            "Sales": 1500.7327,
+            "Quantity": 216,
+            "Sales_MA": 1941.9664
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 2603.5835,
-            "total_quantity": 270
+            "Sales": 2603.5835,
+            "Quantity": 270,
+            "Sales_MA": 2072.9274
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 1590.271,
-            "total_quantity": 221
+            "Sales": 1590.271,
+            "Quantity": 221,
+            "Sales_MA": 1898.1957333333337
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 1442.7386,
-            "total_quantity": 164
+            "Sales": 1442.7386,
+            "Quantity": 164,
+            "Sales_MA": 1878.8643666666667
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 809.6486,
-            "total_quantity": 89
+            "Sales": 809.6486,
+            "Quantity": 89,
+            "Sales_MA": 1280.8860666666667
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 1249.4486,
-            "total_quantity": 171
+            "Sales": 1249.4486,
+            "Quantity": 171,
+            "Sales_MA": 1167.2785999999999
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 1541.7066,
-            "total_quantity": 216
+            "Sales": 1541.7066,
+            "Quantity": 216,
+            "Sales_MA": 1200.2679333333335
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 1836.7656,
-            "total_quantity": 230
+            "Sales": 1836.7656,
+            "Quantity": 230,
+            "Sales_MA": 1542.6402666666665
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 3083.8773,
-            "total_quantity": 383
+            "Sales": 3083.8773,
+            "Quantity": 383,
+            "Sales_MA": 2154.1165
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 2249.8448,
-            "total_quantity": 199
+            "Sales": 2249.8448,
+            "Quantity": 199,
+            "Sales_MA": 2390.1625666666664
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 3188.5164,
-            "total_quantity": 381
+            "Sales": 3188.5164,
+            "Quantity": 381,
+            "Sales_MA": 2840.7461666666663
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 2889.5642000000003,
-            "total_quantity": 370
+            "Sales": 2889.5642000000003,
+            "Quantity": 370,
+            "Sales_MA": 2775.9751333333334
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 2356.5899,
-            "total_quantity": 348
+            "Sales": 2356.5899,
+            "Quantity": 348,
+            "Sales_MA": 2811.5568333333335
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 2684.0275,
-            "total_quantity": 378
+            "Sales": 2684.0275,
+            "Quantity": 378,
+            "Sales_MA": 2643.393866666667
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 2555.784,
-            "total_quantity": 366
+            "Sales": 2555.784,
+            "Quantity": 366,
+            "Sales_MA": 2532.1338
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "JC-15385",
-            "total_spent": 786.48,
-            "purchase_frequency": 1,
-            "average_order_value": 786.48
-        },
-        {
-            "Customer ID": "JC-153851404",
-            "total_spent": 786.48,
-            "purchase_frequency": 1,
-            "average_order_value": 786.48
-        },
-        {
-            "Customer ID": "TP-21565",
-            "total_spent": 753.546,
+            "Customer Name": "Jenna Caffey",
+            "total_spent": 1644.0,
             "purchase_frequency": 4,
+            "average_order_value": 411.0
+        },
+        {
+            "Customer Name": "Tracy Poddar",
+            "total_spent": 1507.092,
+            "purchase_frequency": 8,
             "average_order_value": 188.3865
         },
         {
-            "Customer ID": "TP-215651404",
-            "total_spent": 629.184,
-            "purchase_frequency": 1,
-            "average_order_value": 629.184
+            "Customer Name": "Maurice Satty",
+            "total_spent": 1177.04,
+            "purchase_frequency": 10,
+            "average_order_value": 98.08666666666666
         },
         {
-            "Customer ID": "MS-17710",
-            "total_spent": 578.272,
-            "purchase_frequency": 4,
-            "average_order_value": 115.65440000000001
-        },
-        {
-            "Customer ID": "HK-148901402",
-            "total_spent": 491.55,
-            "purchase_frequency": 1,
-            "average_order_value": 491.55
-        },
-        {
-            "Customer ID": "MS-177101408",
-            "total_spent": 491.55,
-            "purchase_frequency": 1,
-            "average_order_value": 491.55
-        },
-        {
-            "Customer ID": "HK-14890",
-            "total_spent": 491.55,
-            "purchase_frequency": 1,
-            "average_order_value": 491.55
-        },
-        {
-            "Customer ID": "DK-12835",
-            "total_spent": 457.786,
-            "purchase_frequency": 3,
-            "average_order_value": 152.59533333333334
-        },
-        {
-            "Customer ID": "DK-128351404",
-            "total_spent": 430.57,
+            "Customer Name": "Heather Kirkland",
+            "total_spent": 983.1,
             "purchase_frequency": 2,
-            "average_order_value": 215.285
+            "average_order_value": 491.55
         },
         {
-            "Customer ID": "BD-11725",
-            "total_spent": 403.158,
-            "purchase_frequency": 5,
+            "Customer Name": "Damala Kotsonis",
+            "total_spent": 924.74,
+            "purchase_frequency": 8,
+            "average_order_value": 115.5925
+        },
+        {
+            "Customer Name": "Bruce Degenhardt",
+            "total_spent": 806.316,
+            "purchase_frequency": 10,
             "average_order_value": 80.6316
         },
         {
-            "Customer ID": "KH-16690",
-            "total_spent": 314.274,
+            "Customer Name": "Anthony Johnson",
+            "total_spent": 757.4399999999999,
             "purchase_frequency": 8,
+            "average_order_value": 94.67999999999999
+        },
+        {
+            "Customer Name": "Kristen Hastings",
+            "total_spent": 628.548,
+            "purchase_frequency": 16,
             "average_order_value": 39.28425
         },
         {
-            "Customer ID": "AJ-10795",
-            "total_spent": 308.88,
-            "purchase_frequency": 2,
-            "average_order_value": 154.44
+            "Customer Name": "Greg Matthias",
+            "total_spent": 605.304,
+            "purchase_frequency": 14,
+            "average_order_value": 33.628
         },
         {
-            "Customer ID": "GM-14680",
-            "total_spent": 298.392,
-            "purchase_frequency": 6,
-            "average_order_value": 37.299
-        },
-        {
-            "Customer ID": "BD-117251408",
-            "total_spent": 294.93,
-            "purchase_frequency": 1,
-            "average_order_value": 294.93
-        },
-        {
-            "Customer ID": "SC-20575",
-            "total_spent": 290.11710000000005,
-            "purchase_frequency": 8,
+            "Customer Name": "Sonia Cooley",
+            "total_spent": 580.2342000000001,
+            "purchase_frequency": 16,
             "average_order_value": 32.23523333333334
-        },
-        {
-            "Customer ID": "RA-19915113",
-            "total_spent": 288.24,
-            "purchase_frequency": 1,
-            "average_order_value": 72.06
-        },
-        {
-            "Customer ID": "RA-19915",
-            "total_spent": 288.24,
-            "purchase_frequency": 1,
-            "average_order_value": 72.06
-        },
-        {
-            "Customer ID": "NG-18355",
-            "total_spent": 283.62,
-            "purchase_frequency": 3,
-            "average_order_value": 94.54
-        },
-        {
-            "Customer ID": "AJ-107951404",
-            "total_spent": 274.77,
-            "purchase_frequency": 1,
-            "average_order_value": 274.77
         }
     ],
     "discount_analysis": [
@@ -2139,61 +3242,61 @@
             "Discount": 0.0,
             "total_sales": 107734.55,
             "total_quantity": 12147,
-            "average_profit": 9.410781237233731
+            "average_profit": 9.4108
         },
         {
             "Discount": 0.1,
             "total_sales": 12114.252,
             "total_quantity": 1374,
-            "average_profit": 6.751405714285715
+            "average_profit": 6.7514
         },
         {
             "Discount": 0.17,
             "total_sales": 1664.1666,
             "total_quantity": 198,
-            "average_profit": 3.6347423076923073
+            "average_profit": 3.6347
         },
         {
             "Discount": 0.2,
             "total_sales": 8312.064,
             "total_quantity": 1246,
-            "average_profit": 6.955644047619048
+            "average_profit": 6.9556
         },
         {
             "Discount": 0.4,
-            "total_sales": 5088.6359999999995,
+            "total_sales": 5088.636,
             "total_quantity": 1120,
-            "average_profit": -3.7139466666666667
+            "average_profit": -3.7139
         },
         {
             "Discount": 0.45,
             "total_sales": 1673.265,
             "total_quantity": 308,
-            "average_profit": -6.045576923076922
+            "average_profit": -6.0456
         },
         {
             "Discount": 0.47,
             "total_sales": 5059.6344,
             "total_quantity": 976,
-            "average_profit": -7.91528275862069
+            "average_profit": -7.9153
         },
         {
             "Discount": 0.5,
             "total_sales": 3184.5,
             "total_quantity": 664,
-            "average_profit": -9.257441860465116
+            "average_profit": -9.2574
         },
         {
             "Discount": 0.6,
             "total_sales": 1292.896,
             "total_quantity": 388,
-            "average_profit": -7.619139240506328
+            "average_profit": -7.6191
         },
         {
             "Discount": 0.7,
             "total_sales": 630.342,
             "total_quantity": 202,
-            "average_profit": -9.04135294117647
+            "average_profit": -9.0414
         }
     ],
     "geographic_distribution": [
@@ -2201,121 +3304,215 @@
             "State": "New York",
             "City": "New York City",
             "total_sales": 2085.44,
-            "total_quantity": 264
+            "total_quantity": 264,
+            "Location": "New York, New York City"
         },
         {
             "State": "Washington",
             "City": "Kent",
             "total_sales": 1572.96,
-            "total_quantity": 16
+            "total_quantity": 16,
+            "Location": "Washington, Kent"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 1553.36,
-            "total_quantity": 210
+            "total_quantity": 210,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Victoria",
             "City": "Melbourne",
             "total_sales": 1310.256,
-            "total_quantity": 146
+            "total_quantity": 146,
+            "Location": "Victoria, Melbourne"
         },
         {
             "State": "Michigan",
             "City": "Detroit",
             "total_sales": 1292.22,
-            "total_quantity": 52
+            "total_quantity": 52,
+            "Location": "Michigan, Detroit"
         },
         {
             "State": "Oregon",
             "City": "Eugene",
             "total_sales": 1258.368,
-            "total_quantity": 16
+            "total_quantity": 16,
+            "Location": "Oregon, Eugene"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 1193.06,
-            "total_quantity": 200
+            "total_quantity": 200,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Managua",
             "City": "Managua",
             "total_sales": 1172.04,
-            "total_quantity": 176
+            "total_quantity": 176,
+            "Location": "Managua, Managua"
         },
         {
             "State": "South Australia",
             "City": "Adelaide",
             "total_sales": 1101.06,
-            "total_quantity": 122
+            "total_quantity": 122,
+            "Location": "South Australia, Adelaide"
         },
         {
             "State": "Singapore",
             "City": "Singapore",
             "total_sales": 1014.54,
-            "total_quantity": 114
+            "total_quantity": 114,
+            "Location": "Singapore, Singapore"
         },
         {
             "State": "New South Wales",
             "City": "Wollongong",
             "total_sales": 1006.4820000000001,
-            "total_quantity": 106
+            "total_quantity": 106,
+            "Location": "New South Wales, Wollongong"
         },
         {
             "State": "Alabama",
             "City": "Auburn",
             "total_sales": 983.1,
-            "total_quantity": 10
+            "total_quantity": 10,
+            "Location": "Alabama, Auburn"
         },
         {
             "State": "Queensland",
             "City": "Gold Coast",
             "total_sales": 946.134,
-            "total_quantity": 116
+            "total_quantity": 116,
+            "Location": "Queensland, Gold Coast"
         },
         {
             "State": "Bangkok",
             "City": "Bangkok",
             "total_sales": 925.4436000000001,
-            "total_quantity": 182
+            "total_quantity": 182,
+            "Location": "Bangkok, Bangkok"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 905.0,
-            "total_quantity": 136
-        },
-        {
-            "State": "Western Australia",
-            "City": "Perth",
-            "total_sales": 897.156,
-            "total_quantity": 112
-        },
-        {
-            "State": "Jakarta",
-            "City": "Jakarta",
-            "total_sales": 894.375,
-            "total_quantity": 170
-        },
-        {
-            "State": "Pennsylvania",
-            "City": "Philadelphia",
-            "total_sales": 885.688,
-            "total_quantity": 187
-        },
-        {
-            "State": "Ho Ch\u00ed Minh City",
-            "City": "Ho Chi Minh City",
-            "total_sales": 858.5022,
-            "total_quantity": 104
-        },
-        {
-            "State": "California",
-            "City": "Salinas",
-            "total_sales": 854.84,
-            "total_quantity": 28
+            "total_quantity": 136,
+            "Location": "Distrito Federal, Mexico City"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 753,
+            "avg_shipping_delay": 2.21,
+            "total_profit": 4129.98,
+            "shipping_cost_ratio": 0.19
+        },
+        "Same Day": {
+            "total_orders": 252,
+            "avg_shipping_delay": 0.02,
+            "total_profit": 1230.41,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 976,
+            "avg_shipping_delay": 3.19,
+            "total_profit": 6899.87,
+            "shipping_cost_ratio": 0.14
+        },
+        "Standard Class": {
+            "total_orders": 2942,
+            "avg_shipping_delay": 5.01,
+            "total_profit": 17739.17,
+            "shipping_cost_ratio": 0.11
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.1049303139329988,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.12652773034946505,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.14568608126424037,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.11564774358837439,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 759.0,
+                "mean": 297.3873517786561,
+                "std": 311.8384715624545,
+                "min": 0.0,
+                "25%": 69.5,
+                "50%": 170.0,
+                "75%": 441.0,
+                "max": 1423.0
+            },
+            "frequency": {
+                "count": 759.0,
+                "mean": 6.488801054018445,
+                "std": 3.2494478542463034,
+                "min": 2.0,
+                "25%": 4.0,
+                "50%": 6.0,
+                "75%": 8.0,
+                "max": 18.0
+            },
+            "monetary": {
+                "count": 759.0,
+                "mean": 193.3521818181818,
+                "std": 154.72496117318985,
+                "min": 6.3,
+                "25%": 88.80000000000001,
+                "50%": 166.98,
+                "75%": 263.7715,
+                "max": 1644.0
+            }
+        },
+        "rfm_segments": {
+            "High": 254,
+            "Medium": 253,
+            "Low": 252
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3428,
+        "churned_customers": 2579,
+        "churn_rate": 0.7523337222870479,
+        "avg_recency": 877.0198366394399,
+        "avg_frequency": 1.5189614935822637,
+        "avg_monetary": 42.810474329054834,
+        "churned_customer_characteristics": {
+            "avg_recency": 1115.1124466847616,
+            "avg_frequency": 1.6455990694067468,
+            "avg_monetary": 46.15895599069407,
+            "avg_discount": 0.12609985259452106,
+            "avg_quantity": 3.4726649002628065,
+            "avg_shipping_cost": 3.12992795764939,
+            "avg_profit": 5.618028960514412
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 153.76796230859836,
+            "avg_frequency": 1.1342756183745584,
+            "avg_monetary": 32.63882037691401,
+            "avg_discount": 0.12294856694149982,
+            "avg_quantity": 3.6491951315272875,
+            "avg_shipping_cost": 3.6346739301138595,
+            "avg_profit": 5.474052296819788
+        }
+    }
 }

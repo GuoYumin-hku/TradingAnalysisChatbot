@@ -1134,288 +1134,1037 @@
         28,
         28
     ],
+    "yearly_sales": {
+        "2011": 173383.4264,
+        "2012": 222942.9649,
+        "2013": 254951.1295,
+        "2014": 533077.0066,
+        "2015": 222882.2749,
+        "2016": 254793.3595,
+        "2017": 359569.6682
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 13423.9034,
+            "2012": 8948.752,
+            "2013": 16056.3568,
+            "2014": 34834.2182,
+            "2015": 8948.752,
+            "2016": 16056.3568,
+            "2017": 21475.0428
+        },
+        "August": {
+            "2011": 11755.499,
+            "2012": 33564.9008,
+            "2013": 19135.1732,
+            "2014": 62119.3313,
+            "2015": 33564.900799999996,
+            "2016": 19117.8332,
+            "2017": 50537.1103
+        },
+        "December": {
+            "2011": 15622.502900000001,
+            "2012": 39073.5798,
+            "2013": 23450.8219,
+            "2014": 64912.5487,
+            "2015": 39073.5798,
+            "2016": 23450.8219,
+            "2017": 49267.5098
+        },
+        "February": {
+            "2011": 4705.337,
+            "2012": 2209.638,
+            "2013": 14566.765,
+            "2014": 22622.184,
+            "2015": 2209.638,
+            "2016": 14566.765,
+            "2017": 17527.114
+        },
+        "January": {
+            "2011": 5770.436,
+            "2012": 16244.100299999998,
+            "2013": 21906.3834,
+            "2014": 24614.169599999997,
+            "2015": 16244.1003,
+            "2016": 21906.3834,
+            "2017": 18843.7336
+        },
+        "July": {
+            "2011": 6845.5237,
+            "2012": 10502.9391,
+            "2013": 16459.642,
+            "2014": 34278.3177,
+            "2015": 10502.9391,
+            "2016": 16459.642,
+            "2017": 27050.506
+        },
+        "June": {
+            "2011": 20737.1951,
+            "2012": 18133.512000000002,
+            "2013": 39253.9201,
+            "2014": 46165.0694,
+            "2015": 18133.512,
+            "2016": 39253.9201,
+            "2017": 26920.0363
+        },
+        "March": {
+            "2011": 8407.0587,
+            "2012": 9657.863,
+            "2013": 15978.3678,
+            "2014": 26459.4502,
+            "2015": 9597.173,
+            "2016": 15978.3678,
+            "2017": 18356.5885
+        },
+        "May": {
+            "2011": 12122.5187,
+            "2012": 21333.8431,
+            "2013": 18888.8042,
+            "2014": 40213.3621,
+            "2015": 21333.843100000002,
+            "2016": 18792.2942,
+            "2017": 26557.9834
+        },
+        "November": {
+            "2011": 30317.338,
+            "2012": 30516.18,
+            "2013": 22976.8028,
+            "2014": 76133.19589999999,
+            "2015": 30516.18,
+            "2016": 22976.8028,
+            "2017": 46568.3579
+        },
+        "October": {
+            "2011": 10968.9928,
+            "2012": 14276.2968,
+            "2013": 23973.7148,
+            "2014": 42928.2544,
+            "2015": 14276.2968,
+            "2016": 23929.7948,
+            "2017": 31273.1816
+        },
+        "September": {
+            "2011": 32707.1211,
+            "2012": 18481.36,
+            "2013": 22304.3775,
+            "2014": 57796.905099999996,
+            "2015": 18481.36,
+            "2016": 22304.3775,
+            "2017": 25192.504
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 3.9,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Hoover Stove, White": 65685.2086,
+        "Hoover Stove, Red": 63327.558000000005,
+        "Hamilton Beach Stove, Silver": 57314.098,
+        "KitchenAid Stove, Silver": 43932.658,
+        "KitchenAid Refrigerator, Black": 43740.0678,
+        "Hamilton Beach Stove, White": 42661.888,
+        "KitchenAid Stove, Black": 39099.7684,
+        "Breville Refrigerator, Red": 36900.1276,
+        "Hoover Refrigerator, White": 36323.44,
+        "KitchenAid Refrigerator, Silver": 35527.968
+    },
+    "top_10_products_by_profit": {
+        "Hoover Stove, Red": 23615.938,
+        "Hamilton Beach Stove, Silver": 11979.498,
+        "KitchenAid Stove, Silver": 11450.418,
+        "KitchenAid Refrigerator, Silver": 9716.028,
+        "Cuisinart Stove, Red": 8202.912,
+        "Hamilton Beach Stove, Red": 7104.432,
+        "KitchenAid Refrigerator, Black": 6886.3278,
+        "Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room": 6494.04,
+        "Breville Refrigerator, Silver": 6125.832,
+        "Hoover Refrigerator, Red": 6111.122
+    },
+    "top_10_products_by_turnover": {
+        "Hoover Stove, White": 162,
+        "KitchenAid Blender, Silver": 146,
+        "Breville Coffee Grinder, White": 138,
+        "Hamilton Beach Stove, Silver": 132,
+        "Breville Microwave, Red": 126,
+        "Hamilton Beach Coffee Grinder, Red": 124,
+        "Hoover Stove, Red": 124,
+        "KitchenAid Toaster, White": 124,
+        "KitchenAid Microwave, Silver": 118,
+        "Hoover Microwave, White": 116
+    },
+    "top_5_loss_products": {
+        "Hoover Stove, White": -13882.638,
+        "Hoover Stove, Silver": -5294.0724,
+        "Breville Microwave, Silver": -4332.1464,
+        "Hamilton Beach Stove, Black": -3912.1479999999997,
+        "Breville Microwave, Red": -3315.2079999999996
+    },
     "product_performance": [
         {
-            "Product ID": "OFF-AP-4745",
-            "total_sales": 32842.6043,
-            "total_quantity": 81,
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 65685.2086,
+            "total_quantity": 162,
             "average_price": 1824.5891277777778,
-            "total_profit": -2180.6257,
+            "total_profit": -4361.2514,
             "profit_margin": -0.06639624799790923
         },
         {
-            "Product ID": "OFF-AP-4743",
-            "total_sales": 31663.779000000002,
-            "total_quantity": 62,
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 63327.558000000005,
+            "total_quantity": 124,
             "average_price": 2110.9186,
-            "total_profit": 11807.969000000001,
-            "profit_margin": 0.3729172377055815
+            "total_profit": 23615.938,
+            "profit_margin": 0.37291723770558144
         },
         {
-            "Product ID": "OFF-AP-4507",
-            "total_sales": 28657.049,
-            "total_quantity": 66,
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 57314.098,
+            "total_quantity": 132,
             "average_price": 1910.4699333333333,
-            "total_profit": 5989.749,
+            "total_profit": 11979.498,
             "profit_margin": 0.20901485704267736
         },
         {
-            "Product ID": "OFF-AP-4966",
-            "total_sales": 21966.329,
-            "total_quantity": 46,
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 43932.658,
+            "total_quantity": 92,
             "average_price": 1830.5274166666668,
-            "total_profit": 5725.209,
+            "total_profit": 11450.418,
             "profit_margin": 0.2606356756288226
         },
         {
-            "Product ID": "OFF-AP-4960",
-            "total_sales": 21870.0339,
-            "total_quantity": 52,
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 43740.0678,
+            "total_quantity": 104,
             "average_price": 2187.00339,
-            "total_profit": 3443.1639,
+            "total_profit": 6886.3278,
             "profit_margin": 0.15743752002140246
         },
         {
-            "Product ID": "OFF-AP-4508",
-            "total_sales": 21330.944,
-            "total_quantity": 51,
+            "Product Name": "Hamilton Beach Stove, White",
+            "total_sales": 42661.888,
+            "total_quantity": 102,
             "average_price": 1939.1767272727272,
-            "total_profit": 635.5039999999999,
-            "profit_margin": 0.029792586769718205
+            "total_profit": 1271.008,
+            "profit_margin": 0.02979258676971821
         },
         {
-            "Product ID": "OFF-AP-10004512",
-            "total_sales": 21147.084,
-            "total_quantity": 38,
-            "average_price": 3021.0119999999997,
-            "total_profit": 10345.583999999999,
-            "profit_margin": 0.4892203577571262
-        },
-        {
-            "Product ID": "OFF-AP-4964",
-            "total_sales": 19549.8842,
-            "total_quantity": 50,
+            "Product Name": "KitchenAid Stove, Black",
+            "total_sales": 39099.7684,
+            "total_quantity": 100,
             "average_price": 1629.1570166666668,
-            "total_profit": 1782.1942,
-            "profit_margin": 0.09116136861823457
+            "total_profit": 3564.388399999999,
+            "profit_margin": 0.09116136861823455
         },
         {
-            "Product ID": "OFF-AP-3575",
-            "total_sales": 18450.0638,
-            "total_quantity": 44,
+            "Product Name": "Breville Refrigerator, Red",
+            "total_sales": 36900.1276,
+            "total_quantity": 88,
             "average_price": 1537.5053166666667,
-            "total_profit": 2153.3838,
+            "total_profit": 4306.7676,
             "profit_margin": 0.11671416550873932
         },
         {
-            "Product ID": "OFF-AP-10002330",
-            "total_sales": 18247.824,
-            "total_quantity": 38,
-            "average_price": 2606.832,
-            "total_profit": 5452.464,
-            "profit_margin": 0.298800777561204
-        },
-        {
-            "Product ID": "OFF-AP-4738",
-            "total_sales": 18161.72,
-            "total_quantity": 39,
+            "Product Name": "Hoover Refrigerator, White",
+            "total_sales": 36323.44,
+            "total_quantity": 78,
             "average_price": 1651.0654545454547,
-            "total_profit": 1678.08,
+            "total_profit": 3356.16,
             "profit_margin": 0.09239653512993262
         },
         {
-            "Product ID": "OFF-AP-4962",
-            "total_sales": 17763.984,
-            "total_quantity": 46,
+            "Product Name": "KitchenAid Refrigerator, Silver",
+            "total_sales": 35527.968,
+            "total_quantity": 92,
             "average_price": 1366.4603076923077,
-            "total_profit": 4858.014,
+            "total_profit": 9716.028,
             "profit_margin": 0.2734754771226995
         },
         {
-            "Product ID": "OFF-AP-3577",
-            "total_sales": 17673.3254,
-            "total_quantity": 41,
-            "average_price": 1606.6659454545456,
-            "total_profit": 3011.1254,
-            "profit_margin": 0.17037684373762504
+            "Product Name": "Breville Refrigerator, White",
+            "total_sales": 35346.650799999996,
+            "total_quantity": 82,
+            "average_price": 1606.6659454545452,
+            "total_profit": 6022.2508,
+            "profit_margin": 0.17037684373762507
         },
         {
-            "Product ID": "OFF-AP-4502",
-            "total_sales": 17251.1508,
-            "total_quantity": 40,
+            "Product Name": "Hamilton Beach Refrigerator, Red",
+            "total_sales": 34502.3016,
+            "total_quantity": 80,
             "average_price": 1437.5959,
-            "total_profit": 2418.4408000000003,
+            "total_profit": 4836.881600000001,
             "profit_margin": 0.14019011415748567
         },
         {
-            "Product ID": "OFF-AP-3873",
-            "total_sales": 16364.016,
-            "total_quantity": 40,
+            "Product Name": "Cuisinart Stove, Red",
+            "total_sales": 32728.032,
+            "total_quantity": 80,
             "average_price": 1487.6378181818181,
-            "total_profit": 4101.456,
+            "total_profit": 8202.912,
             "profit_margin": 0.2506387185150638
         },
         {
-            "Product ID": "OFF-AP-4505",
-            "total_sales": 16148.3578,
-            "total_quantity": 46,
+            "Product Name": "Hamilton Beach Stove, Black",
+            "total_sales": 32296.7156,
+            "total_quantity": 92,
             "average_price": 1076.5571866666667,
-            "total_profit": -397.85220000000004,
-            "profit_margin": -0.02463731637157557
+            "total_profit": -795.7043999999994,
+            "profit_margin": -0.024637316371575547
         },
         {
-            "Product ID": "OFF-AP-3874",
-            "total_sales": 16099.328,
-            "total_quantity": 41,
+            "Product Name": "Cuisinart Stove, Silver",
+            "total_sales": 32198.656,
+            "total_quantity": 82,
             "average_price": 1341.6106666666667,
-            "total_profit": 2550.998,
+            "total_profit": 5101.996,
             "profit_margin": 0.15845369446476276
         },
         {
-            "Product ID": "OFF-AP-4742",
-            "total_sales": 15893.628,
-            "total_quantity": 35,
+            "Product Name": "Hoover Stove, Black",
+            "total_sales": 31787.256,
+            "total_quantity": 70,
             "average_price": 1222.5867692307693,
-            "total_profit": 1964.388,
+            "total_profit": 3928.776,
             "profit_margin": 0.12359594675300063
         },
         {
-            "Product ID": "OFF-AP-4503",
-            "total_sales": 14972.9728,
-            "total_quantity": 39,
+            "Product Name": "Hamilton Beach Refrigerator, Silver",
+            "total_sales": 29945.9456,
+            "total_quantity": 78,
             "average_price": 1361.1793454545455,
-            "total_profit": 3016.5328,
-            "profit_margin": 0.2014651893310058
+            "total_profit": 6033.065600000001,
+            "profit_margin": 0.20146518933100582
         },
         {
-            "Product ID": "OFF-AP-4958",
-            "total_sales": 14728.1276,
-            "total_quantity": 59,
+            "Product Name": "KitchenAid Microwave, Silver",
+            "total_sales": 29456.2552,
+            "total_quantity": 118,
             "average_price": 818.2293111111111,
-            "total_profit": 996.7676,
+            "total_profit": 1993.5352,
             "profit_margin": 0.06767782212859155
+        },
+        {
+            "Product Name": "Hamilton Beach Refrigerator, Black",
+            "total_sales": 29384.1192,
+            "total_quantity": 74,
+            "average_price": 1049.4328285714287,
+            "total_profit": -916.3807999999998,
+            "profit_margin": -0.031186260638365493
+        },
+        {
+            "Product Name": "Hoover Microwave, White",
+            "total_sales": 29348.62,
+            "total_quantity": 116,
+            "average_price": 863.1947058823529,
+            "total_profit": 5241.0,
+            "profit_margin": 0.1785773913730867
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Hoover Microwave, White",
-            "total_sales": 276.102,
+            "Year_Month": "2011-03",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3069.7380000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 511.6230000000001,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Breville Coffee Grinder, Black",
-            "total_sales": 122.58,
-            "total_quantity": 2
+            "Year_Month": "2011-06",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1359.864,
+            "total_quantity": 6
         },
         {
-            "Order Date": "2011-01-05",
-            "Product Name": "Hoover Stove, Black",
-            "total_sales": 3028.8,
-            "total_quantity": 8
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Hoover Microwave, Red",
-            "total_sales": 308.64,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "KitchenAid Coffee Grinder, Black",
-            "total_sales": 139.79999999999998,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-15",
-            "Product Name": "Cuisinart Microwave, White",
-            "total_sales": 248.94,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-19",
-            "Product Name": "Fellowes Mighty 8 Compact Surge Protector",
-            "total_sales": 64.864,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-20",
-            "Product Name": "Cuisinart Microwave, Silver",
-            "total_sales": 372.28,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",
-            "total_sales": 247.716,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Breville Stove, Black",
-            "total_sales": 560.97,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-26",
-            "Product Name": "KitchenAid Coffee Grinder, Silver",
-            "total_sales": 284.88,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-26",
-            "Product Name": "Hamilton Beach Blender, White",
-            "total_sales": 114.86400000000002,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-02-01",
-            "Product Name": "Hamilton Beach Refrigerator, Silver",
-            "total_sales": 400.7039999999999,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-02-01",
-            "Product Name": "KitchenAid Coffee Grinder, Red",
-            "total_sales": 352.35,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-02-04",
-            "Product Name": "Breville Blender, Black",
-            "total_sales": 883.8,
-            "total_quantity": 10
-        },
-        {
-            "Order Date": "2011-02-07",
-            "Product Name": "Hoover Coffee Grinder, Silver",
-            "total_sales": 278.16,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-02-09",
-            "Product Name": "Hamilton Beach Blender, Black",
-            "total_sales": 422.82,
+            "Year_Month": "2011-06",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 4624.290000000001,
             "total_quantity": 9
         },
         {
-            "Order Date": "2011-02-10",
-            "Product Name": "KitchenAid Blender, White",
-            "total_sales": 132.79999999999998,
+            "Year_Month": "2011-07",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 651.7080000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 1819.1040000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 6517.08,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 437.7171,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 703.1600000000001,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-02-15",
-            "Product Name": "Cuisinart Blender, Black",
-            "total_sales": 132.84,
+            "Year_Month": "2011-11",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.1799999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 5156.151,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 1136.94,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-02-15",
-            "Product Name": "Belkin 8 Outlet Surge Protector",
-            "total_sales": 81.96,
+            "Year_Month": "2012-01",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
             "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2821.7178,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 2636.85,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1903.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 2443.905,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1141.8000000000002,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3979.29,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 5962.7968,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1133.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 3421.467000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1510.96,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2039.796,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 5430.9,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1027.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 5273.7,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 2636.85,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 543.09,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 566.61,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 3966.27,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3979.29,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1895.388,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 724.12,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1888.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2266.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 543.09,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 1136.94,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1699.83,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 3425.4000000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3069.738,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 5458.343,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1421.5410000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1357.725,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 228.36000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1810.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 511.623,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1359.864,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 5766.09,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 651.708,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1955.1240000000005,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 5741.5470000000005,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1582.11,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 4586.2300000000005,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 6517.08,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 7958.58,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 566.61,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1492.4571,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 703.16,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 7564.2435000000005,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 570.9000000000001,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3581.361,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1582.11,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2821.7178,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 2636.85,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1903.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 2443.905,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1141.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3979.29,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 5962.7968,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1133.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 3421.467,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1510.96,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2039.796,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 5430.9,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1027.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 5273.7,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 2636.85,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 543.09,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 566.61,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 3966.27,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3979.29,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1895.388,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 724.12,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1888.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2266.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 543.09,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 1136.94,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1699.83,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 3425.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 5458.343,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1421.541,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1357.725,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 228.36,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1810.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1141.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1955.124,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3922.443,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1582.11,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 4586.2300000000005,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 7958.58,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 566.61,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1054.74,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2408.0925,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 570.9,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 2444.421,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1582.11,
+            "total_quantity": 6
         }
     ],
     "most_frequent_order_month": [
@@ -1503,545 +2252,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 5770.436,
-            "total_quantity": 35
+            "Sales": 5770.436,
+            "Quantity": 35,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 4705.337,
-            "total_quantity": 51
+            "Sales": 4705.337,
+            "Quantity": 51,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 8407.0587,
-            "total_quantity": 65
+            "Sales": 8407.0587,
+            "Quantity": 65,
+            "Sales_MA": 6294.277233333333
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 13423.9034,
-            "total_quantity": 87
+            "Sales": 13423.9034,
+            "Quantity": 87,
+            "Sales_MA": 8845.433033333333
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 12122.5187,
-            "total_quantity": 74
+            "Sales": 12122.5187,
+            "Quantity": 74,
+            "Sales_MA": 11317.826933333332
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 20737.1951,
-            "total_quantity": 144
+            "Sales": 20737.1951,
+            "Quantity": 144,
+            "Sales_MA": 15427.8724
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 6845.5237,
-            "total_quantity": 28
+            "Sales": 6845.5237,
+            "Quantity": 28,
+            "Sales_MA": 13235.079166666665
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 11755.499,
-            "total_quantity": 71
+            "Sales": 11755.499,
+            "Quantity": 71,
+            "Sales_MA": 13112.739266666666
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 32707.1211,
-            "total_quantity": 196
+            "Sales": 32707.1211,
+            "Quantity": 196,
+            "Sales_MA": 17102.714600000003
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 10968.9928,
-            "total_quantity": 84
+            "Sales": 10968.9928,
+            "Quantity": 84,
+            "Sales_MA": 18477.2043
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 30317.338,
-            "total_quantity": 171
+            "Sales": 30317.338,
+            "Quantity": 171,
+            "Sales_MA": 24664.483966666667
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 15622.502900000001,
-            "total_quantity": 126
+            "Sales": 15622.502900000001,
+            "Quantity": 126,
+            "Sales_MA": 18969.611233333333
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 16244.100299999998,
-            "total_quantity": 76
+            "Sales": 16244.100299999998,
+            "Quantity": 76,
+            "Sales_MA": 20727.9804
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 2209.638,
-            "total_quantity": 36
+            "Sales": 2209.638,
+            "Quantity": 36,
+            "Sales_MA": 11358.747066666669
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 9657.863,
-            "total_quantity": 73
+            "Sales": 9657.863,
+            "Quantity": 73,
+            "Sales_MA": 9370.533766666667
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 8948.752,
-            "total_quantity": 83
+            "Sales": 8948.752,
+            "Quantity": 83,
+            "Sales_MA": 6938.751000000001
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 21333.8431,
-            "total_quantity": 150
+            "Sales": 21333.8431,
+            "Quantity": 150,
+            "Sales_MA": 13313.486033333334
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 18133.512000000002,
-            "total_quantity": 79
+            "Sales": 18133.512000000002,
+            "Quantity": 79,
+            "Sales_MA": 16138.70236666667
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 10502.9391,
-            "total_quantity": 54
+            "Sales": 10502.9391,
+            "Quantity": 54,
+            "Sales_MA": 16656.764733333333
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 33564.9008,
-            "total_quantity": 169
+            "Sales": 33564.9008,
+            "Quantity": 169,
+            "Sales_MA": 20733.78396666667
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 18481.36,
-            "total_quantity": 101
+            "Sales": 18481.36,
+            "Quantity": 101,
+            "Sales_MA": 20849.733300000004
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 14276.2968,
-            "total_quantity": 109
+            "Sales": 14276.2968,
+            "Quantity": 109,
+            "Sales_MA": 22107.5192
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 30516.18,
-            "total_quantity": 184
+            "Sales": 30516.18,
+            "Quantity": 184,
+            "Sales_MA": 21091.278933333335
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 39073.5798,
-            "total_quantity": 170
+            "Sales": 39073.5798,
+            "Quantity": 170,
+            "Sales_MA": 27955.352199999998
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 21906.3834,
-            "total_quantity": 71
+            "Sales": 21906.3834,
+            "Quantity": 71,
+            "Sales_MA": 30498.714399999997
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 14566.765,
-            "total_quantity": 72
+            "Sales": 14566.765,
+            "Quantity": 72,
+            "Sales_MA": 25182.24273333333
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 15978.3678,
-            "total_quantity": 121
+            "Sales": 15978.3678,
+            "Quantity": 121,
+            "Sales_MA": 17483.838733333334
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 16056.3568,
-            "total_quantity": 90
+            "Sales": 16056.3568,
+            "Quantity": 90,
+            "Sales_MA": 15533.829866666667
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 18888.8042,
-            "total_quantity": 136
+            "Sales": 18888.8042,
+            "Quantity": 136,
+            "Sales_MA": 16974.5096
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 39253.9201,
-            "total_quantity": 207
+            "Sales": 39253.9201,
+            "Quantity": 207,
+            "Sales_MA": 24733.027033333336
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 16459.642,
-            "total_quantity": 85
+            "Sales": 16459.642,
+            "Quantity": 85,
+            "Sales_MA": 24867.455433333333
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 19135.1732,
-            "total_quantity": 143
+            "Sales": 19135.1732,
+            "Quantity": 143,
+            "Sales_MA": 24949.578433333332
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 22304.3775,
-            "total_quantity": 202
+            "Sales": 22304.3775,
+            "Quantity": 202,
+            "Sales_MA": 19299.7309
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 23973.7148,
-            "total_quantity": 108
+            "Sales": 23973.7148,
+            "Quantity": 108,
+            "Sales_MA": 21804.421833333334
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 22976.8028,
-            "total_quantity": 168
+            "Sales": 22976.8028,
+            "Quantity": 168,
+            "Sales_MA": 23084.965033333337
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 23450.8219,
-            "total_quantity": 157
+            "Sales": 23450.8219,
+            "Quantity": 157,
+            "Sales_MA": 23467.113166666666
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 24614.169599999997,
-            "total_quantity": 131
+            "Sales": 24614.169599999997,
+            "Quantity": 131,
+            "Sales_MA": 23680.5981
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 22622.184,
-            "total_quantity": 153
+            "Sales": 22622.184,
+            "Quantity": 153,
+            "Sales_MA": 23562.39183333333
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 26459.4502,
-            "total_quantity": 198
+            "Sales": 26459.4502,
+            "Quantity": 198,
+            "Sales_MA": 24565.267933333333
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 34834.2182,
-            "total_quantity": 203
+            "Sales": 34834.2182,
+            "Quantity": 203,
+            "Sales_MA": 27971.950800000002
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 40213.3621,
-            "total_quantity": 223
+            "Sales": 40213.3621,
+            "Quantity": 223,
+            "Sales_MA": 33835.67683333333
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 46165.0694,
-            "total_quantity": 316
+            "Sales": 46165.0694,
+            "Quantity": 316,
+            "Sales_MA": 40404.21656666667
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 34278.3177,
-            "total_quantity": 187
+            "Sales": 34278.3177,
+            "Quantity": 187,
+            "Sales_MA": 40218.916399999995
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 62119.3313,
-            "total_quantity": 310
+            "Sales": 62119.3313,
+            "Quantity": 310,
+            "Sales_MA": 47520.90613333334
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 57796.905099999996,
-            "total_quantity": 355
+            "Sales": 57796.905099999996,
+            "Quantity": 355,
+            "Sales_MA": 51398.18469999999
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 42928.2544,
-            "total_quantity": 272
+            "Sales": 42928.2544,
+            "Quantity": 272,
+            "Sales_MA": 54281.496933333336
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 76133.19589999999,
-            "total_quantity": 444
+            "Sales": 76133.19589999999,
+            "Quantity": 444,
+            "Sales_MA": 58952.78513333333
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 64912.5487,
-            "total_quantity": 433
+            "Sales": 64912.5487,
+            "Quantity": 433,
+            "Sales_MA": 61324.66633333333
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 16244.1003,
-            "total_quantity": 76
+            "Sales": 16244.1003,
+            "Quantity": 76,
+            "Sales_MA": 52429.94829999999
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 2209.638,
-            "total_quantity": 36
+            "Sales": 2209.638,
+            "Quantity": 36,
+            "Sales_MA": 27788.762333333332
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 9597.173,
-            "total_quantity": 66
+            "Sales": 9597.173,
+            "Quantity": 66,
+            "Sales_MA": 9350.303766666666
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 8948.752,
-            "total_quantity": 83
+            "Sales": 8948.752,
+            "Quantity": 83,
+            "Sales_MA": 6918.521000000001
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 21333.843100000002,
-            "total_quantity": 150
+            "Sales": 21333.843100000002,
+            "Quantity": 150,
+            "Sales_MA": 13293.256033333333
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 18133.512,
-            "total_quantity": 79
+            "Sales": 18133.512,
+            "Quantity": 79,
+            "Sales_MA": 16138.702366666665
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 10502.9391,
-            "total_quantity": 54
+            "Sales": 10502.9391,
+            "Quantity": 54,
+            "Sales_MA": 16656.764733333333
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 33564.900799999996,
-            "total_quantity": 169
+            "Sales": 33564.900799999996,
+            "Quantity": 169,
+            "Sales_MA": 20733.783966666666
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 18481.36,
-            "total_quantity": 101
+            "Sales": 18481.36,
+            "Quantity": 101,
+            "Sales_MA": 20849.733299999996
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 14276.2968,
-            "total_quantity": 109
+            "Sales": 14276.2968,
+            "Quantity": 109,
+            "Sales_MA": 22107.519199999995
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 30516.18,
-            "total_quantity": 184
+            "Sales": 30516.18,
+            "Quantity": 184,
+            "Sales_MA": 21091.27893333333
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 39073.5798,
-            "total_quantity": 170
+            "Sales": 39073.5798,
+            "Quantity": 170,
+            "Sales_MA": 27955.352199999998
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 21906.3834,
-            "total_quantity": 71
+            "Sales": 21906.3834,
+            "Quantity": 71,
+            "Sales_MA": 30498.714399999997
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 14566.765,
-            "total_quantity": 72
+            "Sales": 14566.765,
+            "Quantity": 72,
+            "Sales_MA": 25182.24273333333
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 15978.3678,
-            "total_quantity": 121
+            "Sales": 15978.3678,
+            "Quantity": 121,
+            "Sales_MA": 17483.838733333334
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 16056.3568,
-            "total_quantity": 90
+            "Sales": 16056.3568,
+            "Quantity": 90,
+            "Sales_MA": 15533.829866666667
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 18792.2942,
-            "total_quantity": 127
+            "Sales": 18792.2942,
+            "Quantity": 127,
+            "Sales_MA": 16942.3396
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 39253.9201,
-            "total_quantity": 207
+            "Sales": 39253.9201,
+            "Quantity": 207,
+            "Sales_MA": 24700.857033333334
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 16459.642,
-            "total_quantity": 85
+            "Sales": 16459.642,
+            "Quantity": 85,
+            "Sales_MA": 24835.285433333334
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 19117.8332,
-            "total_quantity": 141
+            "Sales": 19117.8332,
+            "Quantity": 141,
+            "Sales_MA": 24943.798433333333
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 22304.3775,
-            "total_quantity": 202
+            "Sales": 22304.3775,
+            "Quantity": 202,
+            "Sales_MA": 19293.9509
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 23929.7948,
-            "total_quantity": 104
+            "Sales": 23929.7948,
+            "Quantity": 104,
+            "Sales_MA": 21784.001833333332
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 22976.8028,
-            "total_quantity": 168
+            "Sales": 22976.8028,
+            "Quantity": 168,
+            "Sales_MA": 23070.32503333333
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 23450.8219,
-            "total_quantity": 157
+            "Sales": 23450.8219,
+            "Quantity": 157,
+            "Sales_MA": 23452.473166666663
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 18843.7336,
-            "total_quantity": 96
+            "Sales": 18843.7336,
+            "Quantity": 96,
+            "Sales_MA": 21757.119433333333
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 17527.114,
-            "total_quantity": 93
+            "Sales": 17527.114,
+            "Quantity": 93,
+            "Sales_MA": 19940.556500000002
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 18356.5885,
-            "total_quantity": 138
+            "Sales": 18356.5885,
+            "Quantity": 138,
+            "Sales_MA": 18242.478700000003
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 21475.0428,
-            "total_quantity": 117
+            "Sales": 21475.0428,
+            "Quantity": 117,
+            "Sales_MA": 19119.581766666666
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 26557.9834,
-            "total_quantity": 142
+            "Sales": 26557.9834,
+            "Quantity": 142,
+            "Sales_MA": 22129.87156666667
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 26920.0363,
-            "total_quantity": 174
+            "Sales": 26920.0363,
+            "Quantity": 174,
+            "Sales_MA": 24984.354166666668
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 27050.506,
-            "total_quantity": 155
+            "Sales": 27050.506,
+            "Quantity": 155,
+            "Sales_MA": 26842.8419
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 50537.1103,
-            "total_quantity": 233
+            "Sales": 50537.1103,
+            "Quantity": 233,
+            "Sales_MA": 34835.8842
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 25192.504,
-            "total_quantity": 165
+            "Sales": 25192.504,
+            "Quantity": 165,
+            "Sales_MA": 34260.0401
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 31273.1816,
-            "total_quantity": 180
+            "Sales": 31273.1816,
+            "Quantity": 180,
+            "Sales_MA": 35667.598633333335
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 46568.3579,
-            "total_quantity": 282
+            "Sales": 46568.3579,
+            "Quantity": 282,
+            "Sales_MA": 34344.68116666667
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 49267.5098,
-            "total_quantity": 306
+            "Sales": 49267.5098,
+            "Quantity": 306,
+            "Sales_MA": 42369.6831
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "PJ-18835",
-            "total_spent": 8784.69,
-            "purchase_frequency": 2,
-            "average_order_value": 4392.345
+            "Customer Name": "Patrick Jones",
+            "total_spent": 17814.54,
+            "purchase_frequency": 6,
+            "average_order_value": 2969.09
         },
         {
-            "Customer ID": "DP-13165",
-            "total_spent": 8360.6211,
-            "purchase_frequency": 4,
+            "Customer Name": "David Philippe",
+            "total_spent": 16721.2422,
+            "purchase_frequency": 8,
             "average_order_value": 1672.1242200000002
         },
         {
-            "Customer ID": "TA-21385",
-            "total_spent": 8251.179,
-            "purchase_frequency": 2,
+            "Customer Name": "Tom Ashbrook",
+            "total_spent": 16502.358,
+            "purchase_frequency": 4,
             "average_order_value": 4125.5895
         },
         {
-            "Customer ID": "PJ-1883564",
-            "total_spent": 7958.58,
-            "purchase_frequency": 1,
-            "average_order_value": 7958.58
+            "Customer Name": "Daniel Raglin",
+            "total_spent": 14530.7268,
+            "purchase_frequency": 6,
+            "average_order_value": 2421.7878
         },
         {
-            "Customer ID": "DR-12940",
-            "total_spent": 7265.363400000001,
-            "purchase_frequency": 3,
-            "average_order_value": 2421.7878000000005
+            "Customer Name": "Rose O'Brian",
+            "total_spent": 13776.728000000001,
+            "purchase_frequency": 10,
+            "average_order_value": 1377.6728
         },
         {
-            "Customer ID": "ER-13855",
-            "total_spent": 6655.9439999999995,
-            "purchase_frequency": 3,
+            "Customer Name": "Elpida Rittenbach",
+            "total_spent": 13311.887999999999,
+            "purchase_frequency": 6,
             "average_order_value": 2218.6479999999997
         },
         {
-            "Customer ID": "ER-13855120",
-            "total_spent": 6517.08,
-            "purchase_frequency": 1,
-            "average_order_value": 6517.08
-        },
-        {
-            "Customer ID": "RO-19780",
-            "total_spent": 6375.49,
-            "purchase_frequency": 3,
-            "average_order_value": 2125.1633333333334
-        },
-        {
-            "Customer ID": "LB-16795",
-            "total_spent": 6259.4592,
-            "purchase_frequency": 4,
+            "Customer Name": "Laurel Beltran",
+            "total_spent": 12518.9184,
+            "purchase_frequency": 8,
             "average_order_value": 1564.8648
         },
         {
-            "Customer ID": "SB-20185",
-            "total_spent": 6209.0650000000005,
-            "purchase_frequency": 4,
+            "Customer Name": "Sarah Brown",
+            "total_spent": 12418.130000000001,
+            "purchase_frequency": 8,
             "average_order_value": 1552.2662500000001
         },
         {
-            "Customer ID": "BN-11470",
-            "total_spent": 6093.680000000001,
-            "purchase_frequency": 3,
-            "average_order_value": 2031.2266666666671
-        },
-        {
-            "Customer ID": "SP-20920",
-            "total_spent": 5998.554,
-            "purchase_frequency": 5,
-            "average_order_value": 1199.7108
-        },
-        {
-            "Customer ID": "FW-14395",
-            "total_spent": 5860.1903999999995,
+            "Customer Name": "Brad Norvell",
+            "total_spent": 12187.36,
             "purchase_frequency": 6,
-            "average_order_value": 732.5237999999999
+            "average_order_value": 2031.2266666666667
         },
         {
-            "Customer ID": "DB-13060",
-            "total_spent": 5845.536,
-            "purchase_frequency": 3,
-            "average_order_value": 1948.512
-        },
-        {
-            "Customer ID": "DK-12835",
-            "total_spent": 5764.118,
-            "purchase_frequency": 4,
-            "average_order_value": 1441.0295
-        },
-        {
-            "Customer ID": "AT-10735",
-            "total_spent": 5720.5869999999995,
-            "purchase_frequency": 6,
-            "average_order_value": 953.4311666666666
-        },
-        {
-            "Customer ID": "CP-12340",
-            "total_spent": 5717.84,
-            "purchase_frequency": 3,
-            "average_order_value": 1905.9466666666667
-        },
-        {
-            "Customer ID": "DP-131657",
-            "total_spent": 5599.584,
-            "purchase_frequency": 1,
-            "average_order_value": 2799.792
-        },
-        {
-            "Customer ID": "JK-16090",
-            "total_spent": 5364.366,
-            "purchase_frequency": 4,
-            "average_order_value": 1341.0915
-        },
-        {
-            "Customer ID": "LB-16795139",
-            "total_spent": 5273.7,
-            "purchase_frequency": 1,
-            "average_order_value": 5273.7
+            "Customer Name": "Juliana Krohn",
+            "total_spent": 12176.94,
+            "purchase_frequency": 10,
+            "average_order_value": 1217.694
         }
     ],
     "discount_analysis": [
@@ -2049,17 +2822,17 @@
             "Discount": 0.0,
             "total_sales": 1171874.65,
             "total_quantity": 6510,
-            "average_profit": 157.87939204781705
+            "average_profit": 157.8794
         },
         {
             "Discount": 0.1,
             "total_sales": 392628.258,
             "total_quantity": 1776,
-            "average_profit": 141.6849606837607
+            "average_profit": 141.685
         },
         {
             "Discount": 0.15,
-            "total_sales": 36288.335999999996,
+            "total_sales": 36288.336,
             "total_quantity": 158,
             "average_profit": 33.6924
         },
@@ -2067,43 +2840,43 @@
             "Discount": 0.17,
             "total_sales": 143282.07,
             "total_quantity": 564,
-            "average_profit": 107.1834375
+            "average_profit": 107.1834
         },
         {
             "Discount": 0.2,
             "total_sales": 85864.856,
             "total_quantity": 1109,
-            "average_profit": 37.160107876712324
+            "average_profit": 37.1601
         },
         {
             "Discount": 0.4,
             "total_sales": 76986.36,
             "total_quantity": 628,
-            "average_profit": -84.47241379310346
+            "average_profit": -84.4724
         },
         {
             "Discount": 0.5,
             "total_sales": 60120.81,
             "total_quantity": 392,
-            "average_profit": -334.37910000000005
+            "average_profit": -334.3791
         },
         {
             "Discount": 0.6,
             "total_sales": 31238.728,
             "total_quantity": 296,
-            "average_profit": -227.31977419354837
+            "average_profit": -227.3198
         },
         {
             "Discount": 0.7,
             "total_sales": 16553.088,
             "total_quantity": 202,
-            "average_profit": -275.566243902439
+            "average_profit": -275.5662
         },
         {
             "Discount": 0.8,
-            "total_sales": 6762.673999999999,
+            "total_sales": 6762.674,
             "total_quantity": 469,
-            "average_profit": -129.72134060150378
+            "average_profit": -129.7213
         }
     ],
     "geographic_distribution": [
@@ -2111,121 +2884,215 @@
             "State": "New York",
             "City": "New York City",
             "total_sales": 24553.17,
-            "total_quantity": 283
+            "total_quantity": 283,
+            "Location": "New York, New York City"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 21014.8032,
-            "total_quantity": 70
+            "total_quantity": 70,
+            "Location": "Jakarta, Jakarta"
         },
         {
             "State": "Madrid",
             "City": "Madrid",
             "total_sales": 20116.74,
-            "total_quantity": 50
+            "total_quantity": 50,
+            "Location": "Madrid, Madrid"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 19877.728,
-            "total_quantity": 120
+            "total_quantity": 120,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Ile-de-France",
             "City": "Paris",
             "total_sales": 18986.399999999998,
-            "total_quantity": 62
+            "total_quantity": 62,
+            "Location": "Ile-de-France, Paris"
         },
         {
             "State": "Jawa Timur",
             "City": "Surabaya",
             "total_sales": 17878.9968,
-            "total_quantity": 46
+            "total_quantity": 46,
+            "Location": "Jawa Timur, Surabaya"
         },
         {
             "State": "Managua",
             "City": "Managua",
             "total_sales": 17602.36,
-            "total_quantity": 84
+            "total_quantity": 84,
+            "Location": "Managua, Managua"
         },
         {
             "State": "Queensland",
             "City": "Gold Coast",
             "total_sales": 17420.561999999998,
-            "total_quantity": 56
+            "total_quantity": 56,
+            "Location": "Queensland, Gold Coast"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 17022.9,
-            "total_quantity": 276
+            "total_quantity": 276,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Tuscany",
             "City": "Prato",
             "total_sales": 15917.16,
-            "total_quantity": 28
+            "total_quantity": 28,
+            "Location": "Tuscany, Prato"
         },
         {
             "State": "Ho Ch\u00ed Minh City",
             "City": "Ho Chi Minh City",
             "total_sales": 15444.623399999999,
-            "total_quantity": 52
+            "total_quantity": 52,
+            "Location": "Ho Ch\u00ed Minh City, Ho Chi Minh City"
         },
         {
             "State": "Bangkok",
             "City": "Bangkok",
             "total_sales": 15208.720800000001,
-            "total_quantity": 68
+            "total_quantity": 68,
+            "Location": "Bangkok, Bangkok"
         },
         {
             "State": "Victoria",
             "City": "Melbourne",
             "total_sales": 15122.7,
-            "total_quantity": 56
+            "total_quantity": 56,
+            "Location": "Victoria, Melbourne"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 15044.12,
-            "total_quantity": 104
+            "total_quantity": 104,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "East Flanders",
             "City": "Ghent",
             "total_sales": 13673.76,
-            "total_quantity": 38
-        },
-        {
-            "State": "Francisco Moraz\u00e1n",
-            "City": "Tegucigalpa",
-            "total_sales": 13434.552,
-            "total_quantity": 136
-        },
-        {
-            "State": "Galicia",
-            "City": "Lugo",
-            "total_sales": 13245.72,
-            "total_quantity": 28
-        },
-        {
-            "State": "Delhi",
-            "City": "Delhi",
-            "total_sales": 13061.640000000001,
-            "total_quantity": 46
-        },
-        {
-            "State": "New South Wales",
-            "City": "Wollongong",
-            "total_sales": 12189.06,
-            "total_quantity": 34
-        },
-        {
-            "State": "California",
-            "City": "San Francisco",
-            "total_sales": 12000.07,
-            "total_quantity": 185
+            "total_quantity": 38,
+            "Location": "East Flanders, Ghent"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 550,
+            "avg_shipping_delay": 2.18,
+            "total_profit": 44709.57,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 178,
+            "avg_shipping_delay": 0.01,
+            "total_profit": 17429.62,
+            "shipping_cost_ratio": 0.17
+        },
+        "Second Class": {
+            "total_orders": 671,
+            "avg_shipping_delay": 3.22,
+            "total_profit": 64853.58,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 1965,
+            "avg_shipping_delay": 4.96,
+            "total_profit": 156250.41,
+            "shipping_cost_ratio": 0.09
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": -0.031163204023844267,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": -0.006133747606819706,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.1818830717904882,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": -0.007828845168622065,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 692.0,
+                "mean": 365.1835260115607,
+                "std": 352.8505947937522,
+                "min": 0.0,
+                "25%": 88.0,
+                "50%": 236.5,
+                "75%": 558.0,
+                "max": 2294.0
+            },
+            "frequency": {
+                "count": 692.0,
+                "mean": 4.86271676300578,
+                "std": 2.448886480905381,
+                "min": 1.0,
+                "25%": 2.0,
+                "50%": 4.0,
+                "75%": 6.0,
+                "max": 16.0
+            },
+            "monetary": {
+                "count": 692.0,
+                "mean": 2921.3870375722545,
+                "std": 2984.0819559568313,
+                "min": 8.67,
+                "25%": 697.1235,
+                "50%": 2000.788,
+                "75%": 4157.030000000001,
+                "max": 17814.54
+            }
+        },
+        "rfm_segments": {
+            "High": 232,
+            "Low": 231,
+            "Medium": 229
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 2526,
+        "churned_customers": 1971,
+        "churn_rate": 0.7802850356294537,
+        "avg_recency": 940.1342042755344,
+        "avg_frequency": 1.3844022169437846,
+        "avg_monetary": 800.3166389548693,
+        "churned_customer_characteristics": {
+            "avg_recency": 1163.2440385591071,
+            "avg_frequency": 1.4637239979705734,
+            "avg_monetary": 838.1595245053271,
+            "avg_discount": 0.14160470875311057,
+            "avg_quantity": 3.372030151482206,
+            "avg_shipping_cost": 60.47375930637095,
+            "avg_profit": 78.00306931011572
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 147.7927927927928,
+            "avg_frequency": 1.1027027027027028,
+            "avg_monetary": 665.9232562162161,
+            "avg_discount": 0.13566966966966967,
+            "avg_quantity": 3.529429429429429,
+            "avg_shipping_cost": 65.5046930930931,
+            "avg_profit": 88.92391654654655
+        }
+    }
 }

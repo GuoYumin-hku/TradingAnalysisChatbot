@@ -1233,288 +1233,1349 @@
         48,
         46
     ],
+    "yearly_sales": {
+        "2011": 113456.0076,
+        "2012": 172397.685,
+        "2013": 209895.1623,
+        "2014": 366944.1712,
+        "2015": 172397.685,
+        "2016": 209895.1623,
+        "2017": 253488.1636
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 7438.0190999999995,
+            "2012": 7473.416200000001,
+            "2013": 9932.2068,
+            "2014": 22667.774400000002,
+            "2015": 7473.4162,
+            "2016": 9932.2068,
+            "2017": 15480.4993
+        },
+        "August": {
+            "2011": 9816.0745,
+            "2012": 17307.7733,
+            "2013": 19605.431500000002,
+            "2014": 43213.2494,
+            "2015": 17307.7733,
+            "2016": 19605.4315,
+            "2017": 33420.3409
+        },
+        "December": {
+            "2011": 18158.7707,
+            "2012": 27198.5662,
+            "2013": 21705.5031,
+            "2014": 42996.8576,
+            "2015": 27198.5662,
+            "2016": 21705.503099999998,
+            "2017": 26710.6269
+        },
+        "February": {
+            "2011": 3693.3685,
+            "2012": 10015.0496,
+            "2013": 8899.795900000001,
+            "2014": 21144.4549,
+            "2015": 9656.7596,
+            "2016": 8899.7959,
+            "2017": 15828.9444
+        },
+        "January": {
+            "2011": 3284.4808000000003,
+            "2012": 6182.8366000000005,
+            "2013": 7804.039,
+            "2014": 14093.318800000001,
+            "2015": 6541.1266,
+            "2016": 7804.039,
+            "2017": 10808.838
+        },
+        "July": {
+            "2011": 7396.873500000001,
+            "2012": 12398.1465,
+            "2013": 12243.4605,
+            "2014": 26984.9645,
+            "2015": 12398.1465,
+            "2016": 12243.4605,
+            "2017": 19207.925
+        },
+        "June": {
+            "2011": 14742.974199999999,
+            "2012": 18469.3037,
+            "2013": 21715.8503,
+            "2014": 36257.8948,
+            "2015": 18469.3037,
+            "2016": 21715.8503,
+            "2017": 23269.2306
+        },
+        "March": {
+            "2011": 5715.281,
+            "2012": 8691.979,
+            "2013": 12514.382,
+            "2014": 14172.9489,
+            "2015": 8691.979,
+            "2016": 12514.382,
+            "2017": 9829.0659
+        },
+        "May": {
+            "2011": 10620.306,
+            "2012": 10647.1006,
+            "2013": 12693.8718,
+            "2014": 29251.5176,
+            "2015": 10647.1006,
+            "2016": 12693.8718,
+            "2017": 16876.9016
+        },
+        "November": {
+            "2011": 13312.4434,
+            "2012": 20026.038800000002,
+            "2013": 29434.6283,
+            "2014": 46121.5552,
+            "2015": 20026.038800000002,
+            "2016": 29434.6283,
+            "2017": 33387.5598
+        },
+        "October": {
+            "2011": 8475.3118,
+            "2012": 16287.7873,
+            "2013": 22636.0296,
+            "2014": 28031.5944,
+            "2015": 16287.7873,
+            "2016": 22636.0296,
+            "2017": 18121.9346
+        },
+        "September": {
+            "2011": 10802.1041,
+            "2012": 17699.6872,
+            "2013": 30709.9635,
+            "2014": 42008.0407,
+            "2015": 17699.6872,
+            "2016": 30709.963499999998,
+            "2017": 30546.2966
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 3.9,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Belkin Router, USB": 46940.816,
+        "Memorex Router, Erganomic": 43777.188,
+        "Belkin Router, Erganomic": 39777.0624,
+        "Memorex Router, USB": 39213.636,
+        "Memorex Router, Bluetooth": 34636.8228,
+        "Enermax Router, Erganomic": 28462.276800000003,
+        "SanDisk Router, Bluetooth": 28015.637,
+        "Logitech Router, USB": 25919.691400000003,
+        "Belkin Router, Bluetooth": 25754.25,
+        "Enermax Router, Bluetooth": 25154.4532
+    },
+    "top_10_products_by_profit": {
+        "Belkin Router, USB": 17910.036,
+        "Memorex Router, Erganomic": 14936.368,
+        "Memorex Router, Bluetooth": 9846.4828,
+        "SanDisk Router, Bluetooth": 8653.757000000001,
+        "Plantronics Savi W720 Multi-Device Wireless Headset System": 7392.564,
+        "SanDisk Router, USB": 6489.071199999999,
+        "Memorex Router, Programmable": 6379.275,
+        "Plantronics CS510 - Over-the-Head monaural Wireless Headset System": 6170.064999999999,
+        "SanDisk Router, Erganomic": 6003.252,
+        "Logitech Router, USB": 5812.7114
+    },
+    "top_10_products_by_turnover": {
+        "Enermax Numeric Keypad, Bluetooth": 334,
+        "SanDisk Numeric Keypad, Bluetooth": 260,
+        "Memorex Numeric Keypad, Bluetooth": 242,
+        "Enermax Memory Card, USB": 240,
+        "Memorex Router, Erganomic": 222,
+        "Belkin Router, USB": 220,
+        "Belkin Numeric Keypad, Bluetooth": 216,
+        "SanDisk Keyboard, Programmable": 208,
+        "Belkin Router, Erganomic": 198,
+        "Memorex Router, USB": 198
+    },
+    "top_5_loss_products": {
+        "Logitech Router, Bluetooth": -5392.3224,
+        "Belkin Router, Erganomic": -3989.737600000001,
+        "Memorex Router, USB": -3504.592,
+        "SanDisk Router, Programmable": -3244.3769999999995,
+        "Enermax Router, Erganomic": -3057.1352000000006
+    },
     "product_performance": [
         {
-            "Product ID": "TEC-AC-3405",
-            "total_sales": 23470.408,
-            "total_quantity": 110,
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 46940.816,
+            "total_quantity": 220,
             "average_price": 733.45025,
-            "total_profit": 8955.018,
+            "total_profit": 17910.036,
             "profit_margin": 0.3815450502607369
         },
         {
-            "Product ID": "TEC-AC-5224",
-            "total_sales": 21888.594,
-            "total_quantity": 111,
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 43777.188,
+            "total_quantity": 222,
             "average_price": 875.54376,
-            "total_profit": 7468.184,
+            "total_profit": 14936.368,
             "profit_margin": 0.3411906676143749
         },
         {
-            "Product ID": "TEC-AC-3403",
-            "total_sales": 19888.5312,
-            "total_quantity": 99,
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 39777.0624,
+            "total_quantity": 198,
             "average_price": 864.718747826087,
-            "total_profit": 1944.9712,
-            "profit_margin": 0.09779360679988273
+            "total_profit": 3889.942399999999,
+            "profit_margin": 0.0977936067998827
         },
         {
-            "Product ID": "TEC-AC-5226",
-            "total_sales": 19606.818,
-            "total_quantity": 99,
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 39213.636,
+            "total_quantity": 198,
             "average_price": 1153.3422352941177,
-            "total_profit": 628.9979999999999,
-            "profit_margin": 0.03208057523663452
+            "total_profit": 1257.996,
+            "profit_margin": 0.032080575236634525
         },
         {
-            "Product ID": "TEC-AC-5223",
-            "total_sales": 17318.4114,
-            "total_quantity": 96,
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 34636.8228,
+            "total_quantity": 192,
             "average_price": 787.2005181818182,
-            "total_profit": 4923.2414,
+            "total_profit": 9846.4828,
             "profit_margin": 0.2842778870583938
         },
         {
-            "Product ID": "TEC-AC-4186",
-            "total_sales": 14231.1384,
-            "total_quantity": 71,
-            "average_price": 677.6732571428571,
-            "total_profit": 1689.8784,
-            "profit_margin": 0.11874513145062239
+            "Product Name": "Enermax Router, Erganomic",
+            "total_sales": 28462.276800000003,
+            "total_quantity": 142,
+            "average_price": 677.6732571428572,
+            "total_profit": 3379.7567999999997,
+            "profit_margin": 0.11874513145062236
         },
         {
-            "Product ID": "TEC-AC-5894",
-            "total_sales": 14007.818500000001,
-            "total_quantity": 81,
-            "average_price": 636.7190227272728,
-            "total_profit": 4326.8785,
-            "profit_margin": 0.3088902458294987
+            "Product Name": "SanDisk Router, Bluetooth",
+            "total_sales": 28015.637,
+            "total_quantity": 162,
+            "average_price": 636.7190227272727,
+            "total_profit": 8653.757000000001,
+            "profit_margin": 0.30889024582949876
         },
         {
-            "Product ID": "TEC-AC-10002049",
-            "total_sales": 13756.536,
-            "total_quantity": 60,
-            "average_price": 917.1024,
-            "total_profit": 4425.3432,
-            "profit_margin": 0.32169022783061085
-        },
-        {
-            "Product ID": "TEC-AC-5137",
-            "total_sales": 12959.8457,
-            "total_quantity": 67,
+            "Product Name": "Logitech Router, USB",
+            "total_sales": 25919.691400000003,
+            "total_quantity": 134,
             "average_price": 647.992285,
-            "total_profit": 2906.3557,
-            "profit_margin": 0.2242585110407603
+            "total_profit": 5812.7114,
+            "profit_margin": 0.22425851104076028
         },
         {
-            "Product ID": "TEC-AC-3402",
-            "total_sales": 12877.125,
-            "total_quantity": 59,
+            "Product Name": "Belkin Router, Bluetooth",
+            "total_sales": 25754.25,
+            "total_quantity": 118,
             "average_price": 757.4779411764706,
-            "total_profit": 345.64500000000004,
+            "total_profit": 691.2900000000001,
             "profit_margin": 0.02684178339497365
         },
         {
-            "Product ID": "TEC-AC-4185",
-            "total_sales": 12577.2266,
-            "total_quantity": 64,
+            "Product Name": "Enermax Router, Bluetooth",
+            "total_sales": 25154.4532,
+            "total_quantity": 128,
             "average_price": 739.8368588235294,
-            "total_profit": 1180.1265999999998,
-            "profit_margin": 0.09383043158338261
+            "total_profit": 2360.2532,
+            "profit_margin": 0.09383043158338263
         },
         {
-            "Product ID": "TEC-AC-5134",
-            "total_sales": 12264.5988,
-            "total_quantity": 69,
+            "Product Name": "Logitech Router, Bluetooth",
+            "total_sales": 24529.1976,
+            "total_quantity": 138,
             "average_price": 584.0285142857143,
-            "total_profit": -1415.6412,
+            "total_profit": -2831.2824,
             "profit_margin": -0.11542499050193146
         },
         {
-            "Product ID": "TEC-AC-10003832",
-            "total_sales": 11203.756,
-            "total_quantity": 75,
-            "average_price": 622.4308888888888,
-            "total_profit": 1987.925299999999,
-            "profit_margin": 0.17743382665598922
-        },
-        {
-            "Product ID": "TEC-AC-5897",
-            "total_sales": 11034.6456,
-            "total_quantity": 56,
+            "Product Name": "SanDisk Router, USB",
+            "total_sales": 22069.2912,
+            "total_quantity": 112,
             "average_price": 580.7708210526316,
-            "total_profit": 3244.5356,
+            "total_profit": 6489.071199999999,
             "profit_margin": 0.2940316995771935
         },
         {
-            "Product ID": "TEC-AC-10003033",
-            "total_sales": 10822.36,
-            "total_quantity": 35,
+            "Product Name": "Plantronics CS510 - Over-the-Head monaural Wireless Headset System",
+            "total_sales": 21644.72,
+            "total_quantity": 70,
             "average_price": 1082.236,
-            "total_profit": 3085.032499999999,
-            "profit_margin": 0.28506097560975596
+            "total_profit": 6170.064999999999,
+            "profit_margin": 0.285060975609756
         },
         {
-            "Product ID": "TEC-AC-5605",
-            "total_sales": 10822.36,
-            "total_quantity": 35,
-            "average_price": 1082.236,
-            "total_profit": 3085.0325000000003,
-            "profit_margin": 0.28506097560975613
-        },
-        {
-            "Product ID": "TEC-AC-4166",
-            "total_sales": 10524.864,
-            "total_quantity": 120,
+            "Product Name": "Enermax Memory Card, USB",
+            "total_sales": 21049.728,
+            "total_quantity": 240,
             "average_price": 362.9263448275862,
-            "total_profit": 572.264,
-            "profit_margin": 0.0543725790661048
+            "total_profit": 1144.5280000000002,
+            "profit_margin": 0.05437257906610481
         },
         {
-            "Product ID": "TEC-AC-5135",
-            "total_sales": 10426.196,
-            "total_quantity": 50,
+            "Product Name": "Logitech Router, Erganomic",
+            "total_sales": 20852.392,
+            "total_quantity": 100,
             "average_price": 651.63725,
-            "total_profit": 2136.516,
+            "total_profit": 4273.032,
             "profit_margin": 0.2049180736675198
         },
         {
-            "Product ID": "TEC-AC-4188",
-            "total_sales": 10233.013200000001,
-            "total_quantity": 47,
+            "Product Name": "Enermax Router, USB",
+            "total_sales": 20466.026400000002,
+            "total_quantity": 94,
             "average_price": 730.9295142857144,
-            "total_profit": 1866.3432,
+            "total_profit": 3732.6864,
             "profit_margin": 0.18238451993788105
         },
         {
-            "Product ID": "TEC-AC-5150",
-            "total_sales": 10196.604,
-            "total_quantity": 41,
+            "Product Name": "Logitech\u00a0P710e Mobile Speakerphone",
+            "total_sales": 20393.208,
+            "total_quantity": 82,
             "average_price": 1132.956,
-            "total_profit": 1645.3611,
-            "profit_margin": 0.16136363636363638
+            "total_profit": 3290.7221999999992,
+            "profit_margin": 0.16136363636363635
+        },
+        {
+            "Product Name": "SanDisk Router, Erganomic",
+            "total_sales": 19960.032,
+            "total_quantity": 82,
+            "average_price": 554.4453333333333,
+            "total_profit": 6003.252,
+            "profit_margin": 0.3007636460703069
+        },
+        {
+            "Product Name": "Memorex Router, Programmable",
+            "total_sales": 18949.815,
+            "total_quantity": 86,
+            "average_price": 728.8390384615384,
+            "total_profit": 6379.275,
+            "profit_margin": 0.33664048963010984
+        },
+        {
+            "Product Name": "SanDisk Router, Programmable",
+            "total_sales": 18800.703,
+            "total_quantity": 104,
+            "average_price": 494.7553421052632,
+            "total_profit": 295.6830000000001,
+            "profit_margin": 0.015727231050881453
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Belkin Numeric Keypad, Bluetooth",
-            "total_sales": 69.3,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-04",
-            "Product Name": "Enermax Keyboard, Bluetooth",
-            "total_sales": 222.56,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-04",
-            "Product Name": "Memorex Mouse, USB",
-            "total_sales": 37.83999999999999,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-06",
-            "Product Name": "Logitech Flash Drive, Erganomic",
-            "total_sales": 28.32,
+            "Year_Month": "2011-03",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 219.618,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-07",
-            "Product Name": "Logitech Router, Programmable",
-            "total_sales": 273.702,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-09",
-            "Product Name": "Belkin Numeric Keypad, USB",
-            "total_sales": 176.68080000000003,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Memorex Micro Travel Drive 8 GB",
-            "total_sales": 31.200000000000003,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-12",
-            "Product Name": "Logitech Router, USB",
-            "total_sales": 495.06000000000006,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "Plantronics S12 Corded Telephone Headset System",
-            "total_sales": 646.74,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-16",
-            "Product Name": "Logitech 910-002974 M325 Wireless Mouse for Web Scrolling",
-            "total_sales": 149.95,
+            "Year_Month": "2011-04",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-19",
-            "Product Name": "SanDisk Flash Drive, Bluetooth",
-            "total_sales": 52.720000000000006,
-            "total_quantity": 2
+            "Year_Month": "2011-05",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 3335.2800000000007,
+            "total_quantity": 13
         },
         {
-            "Order Date": "2011-01-19",
-            "Product Name": "Belkin Mouse, USB",
-            "total_sales": 40.92,
+            "Year_Month": "2011-05",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 103.58400000000002,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-21",
-            "Product Name": "Memorex Router, Programmable",
-            "total_sales": 495.42,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-22",
-            "Product Name": "SanDisk Keyboard, USB",
-            "total_sales": 108.92,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "SanDisk Flash Drive, Programmable",
-            "total_sales": 110.808,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-26",
-            "Product Name": "Enermax Router, Erganomic",
-            "total_sales": 256.14000000000004,
+            "Year_Month": "2011-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 73.20600000000002,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-26",
-            "Product Name": "Memorex Flash Drive, Bluetooth",
-            "total_sales": 88.2,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-02-01",
-            "Product Name": "Memorex Memory Card, USB",
-            "total_sales": 81.98400000000001,
+            "Year_Month": "2011-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 345.2800000000001,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-02-02",
-            "Product Name": "Enermax Aurora Lite Keyboard",
-            "total_sales": 468.9,
+            "Year_Month": "2011-06",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 738.6299999999999,
             "total_quantity": 6
         },
         {
-            "Order Date": "2011-02-02",
-            "Product Name": "Logitech Numeric Keypad, Erganomic",
-            "total_sales": 44.13,
+            "Year_Month": "2011-06",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1952.16,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.0800000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 196.968,
             "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.2400000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 325.36,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 985.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1294.8000000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 2475.8040000000005,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 820.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1795.9200000000003,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1034.964,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 276.22400000000005,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1899.04,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1314.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1282.8000000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 488.0400000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 738.63,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1314.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1223.7912,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 776.8800000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 2602.88,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08000000000004,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 820.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1208.4800000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.9200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 2297.96,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1601.73,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.9200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.2400000000002,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1035.84,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 466.12800000000004,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 246.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1976.562,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 2217.78,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.2400000000002,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 492.4200000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 260.28800000000007,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 258.96000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 2052.4800000000005,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 621.5040000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 641.4000000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 3573.6480000000006,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1723.47,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1553.7600000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 3009.58,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 4454.112000000001,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1247.464,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1626.8000000000002,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 492.84,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1034.0819999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 307.87200000000007,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 344.988,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 219.618,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 684.1600000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 3677.3599999999997,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1139.424,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 561.246,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1774.2240000000002,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08000000000004,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 940.888,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 4983.2904,
+            "total_quantity": 27
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1952.16,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 394.272,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 102.62400000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 3741.64,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 513.1200000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1294.8000000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 689.388,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 4435.56,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.24,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 776.8800000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1057.42,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 513.1200000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 246.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 985.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1795.92,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1812.72,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 993.047,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1464.12,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1535.0840000000003,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 345.2800000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 984.84,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 820.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1795.92,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1034.964,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 276.224,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1899.04,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1314.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1282.8,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 488.04,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 738.63,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1314.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1223.7912,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 776.88,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 2602.88,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 820.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1208.48,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.92,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 2297.96,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1601.73,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.92,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1035.84,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 466.128,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 246.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1976.562,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 2217.78,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 492.42,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 260.288,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 258.96,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 2052.48,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 621.504,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 641.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 3573.648,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1723.47,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1553.76,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 3009.58,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 4454.112,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1247.464,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1626.8,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 492.84,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1034.0819999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 307.872,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 344.988,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 684.16,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1035.84,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 488.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1774.224,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 595.608,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 4244.6604,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 394.272,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 102.624,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 2765.56,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 513.12,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1294.8,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 492.42,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 4435.56,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 776.88,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 732.06,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 513.12,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 246.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.92,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 993.047,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1464.12,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 855.2,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 345.28,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 984.84,
+            "total_quantity": 4
         }
     ],
     "most_frequent_order_month": [
@@ -1602,545 +2663,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 3284.4808000000003,
-            "total_quantity": 48
+            "Sales": 3284.4808000000003,
+            "Quantity": 48,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 3693.3685,
-            "total_quantity": 60
+            "Sales": 3693.3685,
+            "Quantity": 60,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 5715.281,
-            "total_quantity": 87
+            "Sales": 5715.281,
+            "Quantity": 87,
+            "Sales_MA": 4231.043433333333
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 7438.0190999999995,
-            "total_quantity": 127
+            "Sales": 7438.0190999999995,
+            "Quantity": 127,
+            "Sales_MA": 5615.556199999999
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 10620.306,
-            "total_quantity": 133
+            "Sales": 10620.306,
+            "Quantity": 133,
+            "Sales_MA": 7924.535366666667
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 14742.974199999999,
-            "total_quantity": 212
+            "Sales": 14742.974199999999,
+            "Quantity": 212,
+            "Sales_MA": 10933.766433333332
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 7396.873500000001,
-            "total_quantity": 120
+            "Sales": 7396.873500000001,
+            "Quantity": 120,
+            "Sales_MA": 10920.051233333334
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 9816.0745,
-            "total_quantity": 216
+            "Sales": 9816.0745,
+            "Quantity": 216,
+            "Sales_MA": 10651.974066666668
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 10802.1041,
-            "total_quantity": 198
+            "Sales": 10802.1041,
+            "Quantity": 198,
+            "Sales_MA": 9338.3507
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 8475.3118,
-            "total_quantity": 130
+            "Sales": 8475.3118,
+            "Quantity": 130,
+            "Sales_MA": 9697.830133333335
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 13312.4434,
-            "total_quantity": 210
+            "Sales": 13312.4434,
+            "Quantity": 210,
+            "Sales_MA": 10863.286433333333
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 18158.7707,
-            "total_quantity": 298
+            "Sales": 18158.7707,
+            "Quantity": 298,
+            "Sales_MA": 13315.508633333333
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 6182.8366000000005,
-            "total_quantity": 91
+            "Sales": 6182.8366000000005,
+            "Quantity": 91,
+            "Sales_MA": 12551.350233333333
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 10015.0496,
-            "total_quantity": 155
+            "Sales": 10015.0496,
+            "Quantity": 155,
+            "Sales_MA": 11452.218966666667
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 8691.979,
-            "total_quantity": 128
+            "Sales": 8691.979,
+            "Quantity": 128,
+            "Sales_MA": 8296.621733333333
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 7473.416200000001,
-            "total_quantity": 137
+            "Sales": 7473.416200000001,
+            "Quantity": 137,
+            "Sales_MA": 8726.814933333333
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 10647.1006,
-            "total_quantity": 146
+            "Sales": 10647.1006,
+            "Quantity": 146,
+            "Sales_MA": 8937.4986
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 18469.3037,
-            "total_quantity": 235
+            "Sales": 18469.3037,
+            "Quantity": 235,
+            "Sales_MA": 12196.606833333333
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 12398.1465,
-            "total_quantity": 150
+            "Sales": 12398.1465,
+            "Quantity": 150,
+            "Sales_MA": 13838.183600000002
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 17307.7733,
-            "total_quantity": 265
+            "Sales": 17307.7733,
+            "Quantity": 265,
+            "Sales_MA": 16058.407833333336
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 17699.6872,
-            "total_quantity": 241
+            "Sales": 17699.6872,
+            "Quantity": 241,
+            "Sales_MA": 15801.869
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 16287.7873,
-            "total_quantity": 245
+            "Sales": 16287.7873,
+            "Quantity": 245,
+            "Sales_MA": 17098.415933333334
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 20026.038800000002,
-            "total_quantity": 302
+            "Sales": 20026.038800000002,
+            "Quantity": 302,
+            "Sales_MA": 18004.504433333335
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 27198.5662,
-            "total_quantity": 325
+            "Sales": 27198.5662,
+            "Quantity": 325,
+            "Sales_MA": 21170.797433333337
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 7804.039,
-            "total_quantity": 120
+            "Sales": 7804.039,
+            "Quantity": 120,
+            "Sales_MA": 18342.881333333335
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 8899.795900000001,
-            "total_quantity": 113
+            "Sales": 8899.795900000001,
+            "Quantity": 113,
+            "Sales_MA": 14634.1337
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 12514.382,
-            "total_quantity": 177
+            "Sales": 12514.382,
+            "Quantity": 177,
+            "Sales_MA": 9739.405633333334
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 9932.2068,
-            "total_quantity": 188
+            "Sales": 9932.2068,
+            "Quantity": 188,
+            "Sales_MA": 10448.7949
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 12693.8718,
-            "total_quantity": 201
+            "Sales": 12693.8718,
+            "Quantity": 201,
+            "Sales_MA": 11713.486866666666
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 21715.8503,
-            "total_quantity": 296
+            "Sales": 21715.8503,
+            "Quantity": 296,
+            "Sales_MA": 14780.642966666666
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 12243.4605,
-            "total_quantity": 201
+            "Sales": 12243.4605,
+            "Quantity": 201,
+            "Sales_MA": 15551.060866666667
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 19605.431500000002,
-            "total_quantity": 264
+            "Sales": 19605.431500000002,
+            "Quantity": 264,
+            "Sales_MA": 17854.914099999998
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 30709.9635,
-            "total_quantity": 336
+            "Sales": 30709.9635,
+            "Quantity": 336,
+            "Sales_MA": 20852.951833333336
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 22636.0296,
-            "total_quantity": 266
+            "Sales": 22636.0296,
+            "Quantity": 266,
+            "Sales_MA": 24317.14153333333
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 29434.6283,
-            "total_quantity": 426
+            "Sales": 29434.6283,
+            "Quantity": 426,
+            "Sales_MA": 27593.54046666667
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 21705.5031,
-            "total_quantity": 379
+            "Sales": 21705.5031,
+            "Quantity": 379,
+            "Sales_MA": 24592.05366666667
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 14093.318800000001,
-            "total_quantity": 229
+            "Sales": 14093.318800000001,
+            "Quantity": 229,
+            "Sales_MA": 21744.4834
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 21144.4549,
-            "total_quantity": 268
+            "Sales": 21144.4549,
+            "Quantity": 268,
+            "Sales_MA": 18981.09226666667
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 14172.9489,
-            "total_quantity": 277
+            "Sales": 14172.9489,
+            "Quantity": 277,
+            "Sales_MA": 16470.240866666667
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 22667.774400000002,
-            "total_quantity": 315
+            "Sales": 22667.774400000002,
+            "Quantity": 315,
+            "Sales_MA": 19328.392733333334
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 29251.5176,
-            "total_quantity": 435
+            "Sales": 29251.5176,
+            "Quantity": 435,
+            "Sales_MA": 22030.74696666667
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 36257.8948,
-            "total_quantity": 529
+            "Sales": 36257.8948,
+            "Quantity": 529,
+            "Sales_MA": 29392.3956
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 26984.9645,
-            "total_quantity": 379
+            "Sales": 26984.9645,
+            "Quantity": 379,
+            "Sales_MA": 30831.45896666667
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 43213.2494,
-            "total_quantity": 579
+            "Sales": 43213.2494,
+            "Quantity": 579,
+            "Sales_MA": 35485.36956666667
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 42008.0407,
-            "total_quantity": 657
+            "Sales": 42008.0407,
+            "Quantity": 657,
+            "Sales_MA": 37402.084866666664
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 28031.5944,
-            "total_quantity": 428
+            "Sales": 28031.5944,
+            "Quantity": 428,
+            "Sales_MA": 37750.961500000005
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 46121.5552,
-            "total_quantity": 715
+            "Sales": 46121.5552,
+            "Quantity": 715,
+            "Sales_MA": 38720.39676666667
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 42996.8576,
-            "total_quantity": 748
+            "Sales": 42996.8576,
+            "Quantity": 748,
+            "Sales_MA": 39050.002400000005
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 6541.1266,
-            "total_quantity": 99
+            "Sales": 6541.1266,
+            "Quantity": 99,
+            "Sales_MA": 31886.513133333337
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 9656.7596,
-            "total_quantity": 147
+            "Sales": 9656.7596,
+            "Quantity": 147,
+            "Sales_MA": 19731.58126666667
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 8691.979,
-            "total_quantity": 128
+            "Sales": 8691.979,
+            "Quantity": 128,
+            "Sales_MA": 8296.621733333335
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 7473.4162,
-            "total_quantity": 137
+            "Sales": 7473.4162,
+            "Quantity": 137,
+            "Sales_MA": 8607.384933333335
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 10647.1006,
-            "total_quantity": 146
+            "Sales": 10647.1006,
+            "Quantity": 146,
+            "Sales_MA": 8937.4986
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 18469.3037,
-            "total_quantity": 235
+            "Sales": 18469.3037,
+            "Quantity": 235,
+            "Sales_MA": 12196.606833333337
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 12398.1465,
-            "total_quantity": 150
+            "Sales": 12398.1465,
+            "Quantity": 150,
+            "Sales_MA": 13838.183600000004
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 17307.7733,
-            "total_quantity": 265
+            "Sales": 17307.7733,
+            "Quantity": 265,
+            "Sales_MA": 16058.407833333338
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 17699.6872,
-            "total_quantity": 241
+            "Sales": 17699.6872,
+            "Quantity": 241,
+            "Sales_MA": 15801.869000000004
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 16287.7873,
-            "total_quantity": 245
+            "Sales": 16287.7873,
+            "Quantity": 245,
+            "Sales_MA": 17098.415933333337
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 20026.038800000002,
-            "total_quantity": 302
+            "Sales": 20026.038800000002,
+            "Quantity": 302,
+            "Sales_MA": 18004.504433333335
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 27198.5662,
-            "total_quantity": 325
+            "Sales": 27198.5662,
+            "Quantity": 325,
+            "Sales_MA": 21170.797433333337
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 7804.039,
-            "total_quantity": 120
+            "Sales": 7804.039,
+            "Quantity": 120,
+            "Sales_MA": 18342.88133333334
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 8899.7959,
-            "total_quantity": 113
+            "Sales": 8899.7959,
+            "Quantity": 113,
+            "Sales_MA": 14634.1337
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 12514.382,
-            "total_quantity": 177
+            "Sales": 12514.382,
+            "Quantity": 177,
+            "Sales_MA": 9739.405633333336
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 9932.2068,
-            "total_quantity": 188
+            "Sales": 9932.2068,
+            "Quantity": 188,
+            "Sales_MA": 10448.7949
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 12693.8718,
-            "total_quantity": 201
+            "Sales": 12693.8718,
+            "Quantity": 201,
+            "Sales_MA": 11713.486866666668
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 21715.8503,
-            "total_quantity": 296
+            "Sales": 21715.8503,
+            "Quantity": 296,
+            "Sales_MA": 14780.642966666668
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 12243.4605,
-            "total_quantity": 201
+            "Sales": 12243.4605,
+            "Quantity": 201,
+            "Sales_MA": 15551.060866666669
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 19605.4315,
-            "total_quantity": 264
+            "Sales": 19605.4315,
+            "Quantity": 264,
+            "Sales_MA": 17854.9141
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 30709.963499999998,
-            "total_quantity": 336
+            "Sales": 30709.963499999998,
+            "Quantity": 336,
+            "Sales_MA": 20852.951833333336
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 22636.0296,
-            "total_quantity": 266
+            "Sales": 22636.0296,
+            "Quantity": 266,
+            "Sales_MA": 24317.14153333333
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 29434.6283,
-            "total_quantity": 426
+            "Sales": 29434.6283,
+            "Quantity": 426,
+            "Sales_MA": 27593.54046666667
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 21705.503099999998,
-            "total_quantity": 379
+            "Sales": 21705.503099999998,
+            "Quantity": 379,
+            "Sales_MA": 24592.05366666667
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 10808.838,
-            "total_quantity": 181
+            "Sales": 10808.838,
+            "Quantity": 181,
+            "Sales_MA": 20649.656466666667
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 15828.9444,
-            "total_quantity": 200
+            "Sales": 15828.9444,
+            "Quantity": 200,
+            "Sales_MA": 16114.428500000002
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 9829.0659,
-            "total_quantity": 192
+            "Sales": 9829.0659,
+            "Quantity": 192,
+            "Sales_MA": 12155.616100000001
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 15480.4993,
-            "total_quantity": 194
+            "Sales": 15480.4993,
+            "Quantity": 194,
+            "Sales_MA": 13712.836533333335
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 16876.9016,
-            "total_quantity": 274
+            "Sales": 16876.9016,
+            "Quantity": 274,
+            "Sales_MA": 14062.155600000004
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 23269.2306,
-            "total_quantity": 345
+            "Sales": 23269.2306,
+            "Quantity": 345,
+            "Sales_MA": 18542.2105
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 19207.925,
-            "total_quantity": 248
+            "Sales": 19207.925,
+            "Quantity": 248,
+            "Sales_MA": 19784.685733333336
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 33420.3409,
-            "total_quantity": 371
+            "Sales": 33420.3409,
+            "Quantity": 371,
+            "Sales_MA": 25299.165500000003
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 30546.2966,
-            "total_quantity": 458
+            "Sales": 30546.2966,
+            "Quantity": 458,
+            "Sales_MA": 27724.85416666667
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 18121.9346,
-            "total_quantity": 289
+            "Sales": 18121.9346,
+            "Quantity": 289,
+            "Sales_MA": 27362.857366666674
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 33387.5598,
-            "total_quantity": 508
+            "Sales": 33387.5598,
+            "Quantity": 508,
+            "Sales_MA": 27351.930333333337
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 26710.6269,
-            "total_quantity": 460
+            "Sales": 26710.6269,
+            "Quantity": 460,
+            "Sales_MA": 26073.37376666667
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "KC-16540",
-            "total_spent": 4654.2300000000005,
-            "purchase_frequency": 5,
-            "average_order_value": 775.705
+            "Customer Name": "Sally Hughsby",
+            "total_spent": 10170.464,
+            "purchase_frequency": 14,
+            "average_order_value": 726.4617142857143
         },
         {
-            "Customer ID": "JF-15295",
-            "total_spent": 4539.662,
-            "purchase_frequency": 7,
-            "average_order_value": 648.523142857143
+            "Customer Name": "Kelly Collister",
+            "total_spent": 9308.46,
+            "purchase_frequency": 10,
+            "average_order_value": 775.7049999999999
         },
         {
-            "Customer ID": "MC-17635",
-            "total_spent": 4464.674,
-            "purchase_frequency": 6,
-            "average_order_value": 744.1123333333334
+            "Customer Name": "Jason Fortune-",
+            "total_spent": 9189.604,
+            "purchase_frequency": 16,
+            "average_order_value": 574.35025
         },
         {
-            "Customer ID": "SH-9975",
-            "total_spent": 4147.74,
-            "purchase_frequency": 2,
-            "average_order_value": 2073.87
+            "Customer Name": "Matthew Clasen",
+            "total_spent": 9104.86,
+            "purchase_frequency": 16,
+            "average_order_value": 569.05375
         },
         {
-            "Customer ID": "HM-14860",
-            "total_spent": 4021.5009,
-            "purchase_frequency": 5,
+            "Customer Name": "Harry Marie",
+            "total_spent": 8043.0018,
+            "purchase_frequency": 10,
             "average_order_value": 804.30018
         },
         {
-            "Customer ID": "RH-19495",
-            "total_spent": 3933.406,
-            "purchase_frequency": 5,
+            "Customer Name": "Rick Hansen",
+            "total_spent": 7866.812,
+            "purchase_frequency": 10,
             "average_order_value": 786.6812
         },
         {
-            "Customer ID": "KC-165401404",
-            "total_spent": 3795.2999999999997,
-            "purchase_frequency": 2,
-            "average_order_value": 1897.6499999999999
+            "Customer Name": "Jim Karlsson",
+            "total_spent": 7423.665,
+            "purchase_frequency": 14,
+            "average_order_value": 463.9790625
         },
         {
-            "Customer ID": "GZ-14470",
-            "total_spent": 3662.4300000000003,
-            "purchase_frequency": 3,
-            "average_order_value": 915.6075000000001
-        },
-        {
-            "Customer ID": "DK-13375",
-            "total_spent": 3625.7180000000003,
+            "Customer Name": "Gary Zandusky",
+            "total_spent": 7404.360000000001,
             "purchase_frequency": 8,
-            "average_order_value": 453.21475000000004
+            "average_order_value": 740.436
         },
         {
-            "Customer ID": "HW-14935",
-            "total_spent": 3505.4700000000003,
-            "purchase_frequency": 4,
-            "average_order_value": 584.245
+            "Customer Name": "Jill Fjeld",
+            "total_spent": 7333.3679999999995,
+            "purchase_frequency": 14,
+            "average_order_value": 523.812
         },
         {
-            "Customer ID": "NF-18385",
-            "total_spent": 3463.1,
-            "purchase_frequency": 5,
-            "average_order_value": 692.62
-        },
-        {
-            "Customer ID": "SH-997557",
-            "total_spent": 3449.88,
-            "purchase_frequency": 1,
-            "average_order_value": 3449.88
-        },
-        {
-            "Customer ID": "BE-11335",
-            "total_spent": 3397.66,
-            "purchase_frequency": 4,
-            "average_order_value": 849.415
-        },
-        {
-            "Customer ID": "CC-12145",
-            "total_spent": 3276.5400000000004,
-            "purchase_frequency": 3,
-            "average_order_value": 1092.18
-        },
-        {
-            "Customer ID": "MM-17920",
-            "total_spent": 3267.4240000000004,
-            "purchase_frequency": 5,
-            "average_order_value": 653.4848000000001
-        },
-        {
-            "Customer ID": "HM-14860139",
-            "total_spent": 3200.73,
-            "purchase_frequency": 1,
-            "average_order_value": 3200.73
-        },
-        {
-            "Customer ID": "NC-18625",
-            "total_spent": 3165.120000000001,
-            "purchase_frequency": 3,
-            "average_order_value": 1055.0400000000002
-        },
-        {
-            "Customer ID": "NC-1862511",
-            "total_spent": 3078.72,
-            "purchase_frequency": 1,
-            "average_order_value": 3078.72
-        },
-        {
-            "Customer ID": "CC-1214548",
-            "total_spent": 3047.2200000000003,
-            "purchase_frequency": 2,
-            "average_order_value": 1523.6100000000001
-        },
-        {
-            "Customer ID": "AM-10705",
-            "total_spent": 3026.7079000000003,
-            "purchase_frequency": 3,
-            "average_order_value": 605.34158
+            "Customer Name": "Dennis Kane",
+            "total_spent": 7251.436,
+            "purchase_frequency": 16,
+            "average_order_value": 453.21475
         }
     ],
     "discount_analysis": [
@@ -2148,55 +3233,55 @@
             "Discount": 0.0,
             "total_sales": 1108784.72,
             "total_quantity": 13960,
-            "average_profit": 75.62959143436392
+            "average_profit": 75.6296
         },
         {
             "Discount": 0.1,
             "total_sales": 106439.778,
             "total_quantity": 1332,
-            "average_profit": 55.67143103448276
+            "average_profit": 55.6714
         },
         {
             "Discount": 0.2,
             "total_sales": 119494.832,
             "total_quantity": 2640,
-            "average_profit": 23.140597720797718
+            "average_profit": 23.1406
         },
         {
             "Discount": 0.4,
             "total_sales": 54435.084,
             "total_quantity": 1398,
-            "average_profit": -31.226909090909096
+            "average_profit": -31.2269
         },
         {
             "Discount": 0.45,
-            "total_sales": 12281.247000000001,
+            "total_sales": 12281.247,
             "total_quantity": 284,
-            "average_profit": -59.34855405405405
+            "average_profit": -59.3486
         },
         {
             "Discount": 0.47,
             "total_sales": 43832.802,
             "total_quantity": 928,
-            "average_profit": -75.9036050420168
+            "average_profit": -75.9036
         },
         {
             "Discount": 0.5,
             "total_sales": 32133.96,
             "total_quantity": 672,
-            "average_profit": -114.92549999999999
+            "average_profit": -114.9255
         },
         {
             "Discount": 0.6,
             "total_sales": 14764.792,
             "total_quantity": 482,
-            "average_profit": -75.84982222222222
+            "average_profit": -75.8498
         },
         {
             "Discount": 0.7,
             "total_sales": 6306.822,
             "total_quantity": 196,
-            "average_profit": -74.87130188679245
+            "average_profit": -74.8713
         }
     ],
     "geographic_distribution": [
@@ -2204,121 +3289,215 @@
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 36926.1,
-            "total_quantity": 472
+            "total_quantity": 472,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "New York",
             "City": "New York City",
             "total_sales": 34211.82,
-            "total_quantity": 482
+            "total_quantity": 482,
+            "Location": "New York, New York City"
         },
         {
             "State": "Washington",
             "City": "Seattle",
             "total_sales": 26175.96,
-            "total_quantity": 332
+            "total_quantity": 332,
+            "Location": "Washington, Seattle"
         },
         {
             "State": "Ile-de-France",
             "City": "Paris",
             "total_sales": 15333.48,
-            "total_quantity": 120
+            "total_quantity": 120,
+            "Location": "Ile-de-France, Paris"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 14555.104,
-            "total_quantity": 274
+            "total_quantity": 274,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "California",
             "City": "San Diego",
             "total_sales": 13027.960000000001,
-            "total_quantity": 144
+            "total_quantity": 144,
+            "Location": "California, San Diego"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 12648.32,
-            "total_quantity": 278
+            "total_quantity": 278,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Queensland",
             "City": "Brisbane",
             "total_sales": 10376.316,
-            "total_quantity": 98
+            "total_quantity": 98,
+            "Location": "Queensland, Brisbane"
         },
         {
             "State": "Vienna",
             "City": "Vienna",
             "total_sales": 10159.8,
-            "total_quantity": 88
+            "total_quantity": 88,
+            "Location": "Vienna, Vienna"
         },
         {
             "State": "San Salvador",
             "City": "San Salvador",
             "total_sales": 10152.0,
-            "total_quantity": 122
+            "total_quantity": 122,
+            "Location": "San Salvador, San Salvador"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 9974.432,
-            "total_quantity": 210
+            "total_quantity": 210,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Madrid",
             "City": "Madrid",
             "total_sales": 9561.18,
-            "total_quantity": 60
+            "total_quantity": 60,
+            "Location": "Madrid, Madrid"
         },
         {
             "State": "Dhaka",
             "City": "Dhaka",
             "total_sales": 9094.44,
-            "total_quantity": 44
+            "total_quantity": 44,
+            "Location": "Dhaka, Dhaka"
         },
         {
             "State": "South Australia",
             "City": "Adelaide",
             "total_sales": 9025.56,
-            "total_quantity": 114
+            "total_quantity": 114,
+            "Location": "South Australia, Adelaide"
         },
         {
             "State": "New South Wales",
             "City": "Newcastle",
             "total_sales": 8929.655999999999,
-            "total_quantity": 78
-        },
-        {
-            "State": "San Salvador",
-            "City": "Soyapango",
-            "total_sales": 8617.880000000001,
-            "total_quantity": 124
-        },
-        {
-            "State": "New South Wales",
-            "City": "Sydney",
-            "total_sales": 8278.416,
-            "total_quantity": 112
-        },
-        {
-            "State": "Managua",
-            "City": "Managua",
-            "total_sales": 8242.56,
-            "total_quantity": 186
-        },
-        {
-            "State": "Al Qahirah",
-            "City": "Cairo",
-            "total_sales": 7257.36,
-            "total_quantity": 88
-        },
-        {
-            "State": "Francisco Moraz\u00e1n",
-            "City": "Tegucigalpa",
-            "total_sales": 7205.112,
-            "total_quantity": 202
+            "total_quantity": 78,
+            "Location": "New South Wales, Newcastle"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 862,
+            "avg_shipping_delay": 2.21,
+            "total_profit": 35007.88,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 314,
+            "avg_shipping_delay": 0.06,
+            "total_profit": 14956.56,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 1200,
+            "avg_shipping_delay": 3.26,
+            "total_profit": 58952.63,
+            "shipping_cost_ratio": 0.13
+        },
+        "Standard Class": {
+            "total_orders": 3408,
+            "avg_shipping_delay": 4.95,
+            "total_profit": 150335.54,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.0949279144877663,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.09000507046723862,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.05131160336236521,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.08712168255550452,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 774.0,
+                "mean": 265.7015503875969,
+                "std": 284.58794355569046,
+                "min": 0.0,
+                "25%": 55.25,
+                "50%": 151.5,
+                "75%": 393.75,
+                "max": 1457.0
+            },
+            "frequency": {
+                "count": 774.0,
+                "mean": 7.475452196382429,
+                "std": 3.6337916704072937,
+                "min": 2.0,
+                "25%": 4.0,
+                "50%": 8.0,
+                "75%": 10.0,
+                "max": 22.0
+            },
+            "monetary": {
+                "count": 774.0,
+                "mean": 1936.0129677002585,
+                "std": 1637.845699840474,
+                "min": 15.76,
+                "25%": 693.82,
+                "50%": 1464.234,
+                "75%": 2592.444,
+                "max": 10170.464
+            }
+        },
+        "rfm_segments": {
+            "High": 259,
+            "Medium": 258,
+            "Low": 257
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3828,
+        "churned_customers": 2878,
+        "churn_rate": 0.7518286311389759,
+        "avg_recency": 841.4239811912225,
+        "avg_frequency": 1.6065830721003134,
+        "avg_monetary": 391.45089785788923,
+        "churned_customer_characteristics": {
+            "avg_recency": 1069.6382904794996,
+            "avg_frequency": 1.7480889506601807,
+            "avg_monetary": 425.5913260597637,
+            "avg_discount": 0.12677988875652185,
+            "avg_quantity": 3.4387334954829742,
+            "avg_shipping_cost": 26.643686288427812,
+            "avg_profit": 40.07570976708914
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 150.05473684210526,
+            "avg_frequency": 1.1778947368421053,
+            "avg_monetary": 288.02336905263155,
+            "avg_discount": 0.12250526315789474,
+            "avg_quantity": 3.58719298245614,
+            "avg_shipping_cost": 26.420080701754383,
+            "avg_profit": 36.687527921052634
+        }
+    }
 }

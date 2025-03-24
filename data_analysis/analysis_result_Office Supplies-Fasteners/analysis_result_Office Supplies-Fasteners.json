@@ -1251,288 +1251,1949 @@
         38,
         38
     ],
+    "yearly_sales": {
+        "2011": 13608.5666,
+        "2012": 19477.693900000002,
+        "2013": 21596.8929,
+        "2014": 43569.2091,
+        "2015": 20841.4679,
+        "2016": 22890.3369,
+        "2017": 30753.1945
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 623.182,
+            "2012": 1328.0234,
+            "2013": 1171.5638,
+            "2014": 2879.0231,
+            "2015": 1403.5234,
+            "2016": 1235.4038,
+            "2017": 2196.5291
+        },
+        "August": {
+            "2011": 1353.7645,
+            "2012": 2339.7909,
+            "2013": 3171.6427,
+            "2014": 3705.0101,
+            "2015": 2348.9189,
+            "2016": 3299.3347,
+            "2017": 2743.3256
+        },
+        "December": {
+            "2011": 1564.0245,
+            "2012": 2014.0964000000001,
+            "2013": 3060.493,
+            "2014": 4494.8996,
+            "2015": 2140.0084,
+            "2016": 3207.753,
+            "2017": 3069.1431
+        },
+        "February": {
+            "2011": 878.9,
+            "2012": 864.1019,
+            "2013": 764.74,
+            "2014": 2249.0287,
+            "2015": 987.7419,
+            "2016": 820.13,
+            "2017": 1284.9047
+        },
+        "January": {
+            "2011": 557.4447,
+            "2012": 830.9692,
+            "2013": 686.4367000000001,
+            "2014": 1900.9258,
+            "2015": 937.2891999999999,
+            "2016": 766.4967,
+            "2017": 1355.8811
+        },
+        "July": {
+            "2011": 673.7905000000001,
+            "2012": 951.34,
+            "2013": 1152.1395,
+            "2014": 2503.3037,
+            "2015": 973.252,
+            "2016": 1161.6915000000001,
+            "2017": 1606.4232
+        },
+        "June": {
+            "2011": 1559.3612,
+            "2012": 2278.8561,
+            "2013": 1979.3691000000001,
+            "2014": 5764.0547,
+            "2015": 2336.0881,
+            "2016": 2073.5331,
+            "2017": 4374.2855
+        },
+        "March": {
+            "2011": 1351.4544,
+            "2012": 1168.5608,
+            "2013": 871.1002,
+            "2014": 2849.8271,
+            "2015": 1364.1108,
+            "2016": 926.8202,
+            "2017": 1702.5527
+        },
+        "May": {
+            "2011": 861.999,
+            "2012": 1619.0199,
+            "2013": 1679.41,
+            "2014": 3038.1816,
+            "2015": 1726.3639,
+            "2016": 1960.904,
+            "2017": 2057.9166
+        },
+        "November": {
+            "2011": 1054.0851,
+            "2012": 2445.7355000000002,
+            "2013": 2747.9845,
+            "2014": 5263.4119,
+            "2015": 2704.2755,
+            "2016": 2890.2245,
+            "2017": 4339.5748
+        },
+        "October": {
+            "2011": 1352.1342,
+            "2012": 2253.2694,
+            "2013": 1920.1663,
+            "2014": 4296.2771,
+            "2015": 2355.2614,
+            "2016": 2059.1903,
+            "2017": 3075.0609
+        },
+        "September": {
+            "2011": 1778.4265,
+            "2012": 1383.9304,
+            "2013": 2391.8471,
+            "2014": 4625.2657,
+            "2015": 1564.6344,
+            "2016": 2488.8551,
+            "2017": 2947.5972
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 8
+    },
+    "top_10_products_by_sales": {
+        "Staples": 7763.67,
+        "Stockwell Paper Clips, Assorted Sizes": 4790.8756,
+        "Stockwell Clamps, 12 Pack": 4561.3516,
+        "Stockwell Clamps, Assorted Sizes": 4267.6759999999995,
+        "Stockwell Clamps, Bulk Pack": 4169.6118,
+        "Stockwell Rubber Bands, Metal": 3417.4298,
+        "Stockwell Thumb Tacks, Bulk Pack": 3284.459,
+        "Stockwell Thumb Tacks, 12 Pack": 3147.2562000000003,
+        "Stockwell Clamps, Metal": 3100.9,
+        "Stockwell Rubber Bands, Bulk Pack": 3089.5708
+    },
+    "top_10_products_by_profit": {
+        "Staples": 2903.274,
+        "Stockwell Clamps, Assorted Sizes": 1130.556,
+        "Stockwell Rubber Bands, Metal": 991.4098,
+        "Accos Clamps, Bulk Pack": 981.4200000000001,
+        "Stockwell Clamps, 12 Pack": 785.9516,
+        "Stockwell Paper Clips, Bulk Pack": 676.554,
+        "OIC Clamps, Bulk Pack": 676.112,
+        "Stockwell Thumb Tacks, Bulk Pack": 649.9190000000001,
+        "Stockwell Staples, Assorted Sizes": 599.5124,
+        "Stockwell Rubber Bands, Assorted Sizes": 584.6212
+    },
+    "top_10_products_by_turnover": {
+        "Staples": 1091,
+        "Stockwell Paper Clips, Assorted Sizes": 506,
+        "Stockwell Thumb Tacks, 12 Pack": 340,
+        "Stockwell Clamps, 12 Pack": 336,
+        "Stockwell Clamps, Assorted Sizes": 320,
+        "Stockwell Thumb Tacks, Bulk Pack": 318,
+        "Stockwell Push Pins, 12 Pack": 310,
+        "Stockwell Push Pins, Assorted Sizes": 302,
+        "Stockwell Staples, Metal": 300,
+        "Stockwell Staples, Assorted Sizes": 290
+    },
+    "top_5_loss_products": {
+        "Stockwell Clamps, Metal": -456.85200000000003,
+        "Stockwell Paper Clips, Assorted Sizes": -455.3184,
+        "Advantus Clamps, Assorted Sizes": -453.1048,
+        "Accos Clamps, 12 Pack": -407.49140000000006,
+        "Stockwell Push Pins, 12 Pack": -381.984
+    },
     "product_performance": [
         {
-            "Product ID": "OFF-FA-6129",
-            "total_sales": 7008.2,
-            "total_quantity": 876,
-            "average_price": 30.873127753303965,
-            "total_profit": 2611.0694,
-            "profit_margin": 0.37257347107673866
+            "Product Name": "Staples",
+            "total_sales": 7763.67,
+            "total_quantity": 1091,
+            "average_price": 28.43835164835165,
+            "total_profit": 2903.274,
+            "profit_margin": 0.37395638918192037
         },
         {
-            "Product ID": "OFF-FA-6189",
-            "total_sales": 2395.4378,
-            "total_quantity": 253,
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 4790.8756,
+            "total_quantity": 506,
             "average_price": 36.852889230769236,
-            "total_profit": 251.2878,
+            "total_profit": 502.5756,
             "profit_margin": 0.10490266121708523
         },
         {
-            "Product ID": "OFF-FA-6184",
-            "total_sales": 2280.6758,
-            "total_quantity": 168,
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 4561.3516,
+            "total_quantity": 336,
             "average_price": 48.5250170212766,
-            "total_profit": 392.9758,
+            "total_profit": 785.9516,
             "profit_margin": 0.1723067346967947
         },
         {
-            "Product ID": "OFF-FA-6185",
-            "total_sales": 2133.838,
-            "total_quantity": 160,
-            "average_price": 47.418622222222226,
-            "total_profit": 565.278,
-            "profit_margin": 0.26491139439826267
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 4267.6759999999995,
+            "total_quantity": 320,
+            "average_price": 47.41862222222222,
+            "total_profit": 1130.556,
+            "profit_margin": 0.2649113943982627
         },
         {
-            "Product ID": "OFF-FA-6186",
-            "total_sales": 2084.8059,
-            "total_quantity": 128,
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 4169.6118,
+            "total_quantity": 256,
             "average_price": 67.25180322580644,
-            "total_profit": 183.6859,
+            "total_profit": 367.3718,
             "profit_margin": 0.08810695518465293
         },
         {
-            "Product ID": "OFF-FA-6200",
-            "total_sales": 1708.7149,
-            "total_quantity": 129,
+            "Product Name": "Stockwell Rubber Bands, Metal",
+            "total_sales": 3417.4298,
+            "total_quantity": 258,
             "average_price": 42.7178725,
-            "total_profit": 495.7049,
+            "total_profit": 991.4098,
             "profit_margin": 0.2901039254705393
         },
         {
-            "Product ID": "OFF-FA-6207",
-            "total_sales": 1642.2295,
-            "total_quantity": 159,
+            "Product Name": "Stockwell Thumb Tacks, Bulk Pack",
+            "total_sales": 3284.459,
+            "total_quantity": 318,
             "average_price": 40.054378048780485,
-            "total_profit": 324.9595,
-            "profit_margin": 0.19787703241233945
+            "total_profit": 649.9190000000001,
+            "profit_margin": 0.19787703241233948
         },
         {
-            "Product ID": "OFF-FA-6205",
-            "total_sales": 1573.6281000000001,
-            "total_quantity": 170,
+            "Product Name": "Stockwell Thumb Tacks, 12 Pack",
+            "total_sales": 3147.2562000000003,
+            "total_quantity": 340,
             "average_price": 29.691096226415098,
-            "total_profit": 238.4081,
-            "profit_margin": 0.15150218784222266
+            "total_profit": 476.81620000000004,
+            "profit_margin": 0.1515021878422227
         },
         {
-            "Product ID": "OFF-FA-6187",
-            "total_sales": 1550.45,
-            "total_quantity": 111,
+            "Product Name": "Stockwell Clamps, Metal",
+            "total_sales": 3100.9,
+            "total_quantity": 222,
             "average_price": 57.42407407407408,
-            "total_profit": -129.17000000000002,
-            "profit_margin": -0.08331129672030702
+            "total_profit": -258.3400000000001,
+            "profit_margin": -0.08331129672030703
         },
         {
-            "Product ID": "OFF-FA-6199",
-            "total_sales": 1544.7854,
-            "total_quantity": 124,
+            "Product Name": "Stockwell Rubber Bands, Bulk Pack",
+            "total_sales": 3089.5708,
+            "total_quantity": 248,
             "average_price": 40.65224736842105,
-            "total_profit": 278.1654,
+            "total_profit": 556.3308,
             "profit_margin": 0.18006734139253258
         },
         {
-            "Product ID": "OFF-FA-6193",
-            "total_sales": 1481.3566,
-            "total_quantity": 155,
+            "Product Name": "Stockwell Push Pins, 12 Pack",
+            "total_sales": 2962.7132,
+            "total_quantity": 310,
             "average_price": 32.20340434782609,
-            "total_profit": 121.11660000000002,
-            "profit_margin": 0.08176059700952493
+            "total_profit": 242.2332,
+            "profit_margin": 0.08176059700952491
         },
         {
-            "Product ID": "OFF-FA-5464",
-            "total_sales": 1432.666,
-            "total_quantity": 87,
-            "average_price": 57.306639999999994,
-            "total_profit": 338.056,
-            "profit_margin": 0.2359628831842174
+            "Product Name": "OIC Clamps, Bulk Pack",
+            "total_sales": 2865.3320000000003,
+            "total_quantity": 174,
+            "average_price": 57.30664000000001,
+            "total_profit": 676.112,
+            "profit_margin": 0.23596288318421735
         },
         {
-            "Product ID": "OFF-FA-6198",
-            "total_sales": 1417.8806,
-            "total_quantity": 128,
+            "Product Name": "Stockwell Rubber Bands, Assorted Sizes",
+            "total_sales": 2835.7612,
+            "total_quantity": 256,
             "average_price": 32.97396744186047,
-            "total_profit": 292.3106,
+            "total_profit": 584.6212,
             "profit_margin": 0.2061602366235916
         },
         {
-            "Product ID": "OFF-FA-3044",
-            "total_sales": 1377.594,
-            "total_quantity": 139,
+            "Product Name": "Advantus Paper Clips, Assorted Sizes",
+            "total_sales": 2755.188,
+            "total_quantity": 278,
             "average_price": 28.699875000000002,
-            "total_profit": 147.12400000000002,
-            "profit_margin": 0.10679779383475829
+            "total_profit": 294.248,
+            "profit_margin": 0.10679779383475828
         },
         {
-            "Product ID": "OFF-FA-3020",
-            "total_sales": 1376.6976,
-            "total_quantity": 112,
+            "Product Name": "Advantus Clamps, Assorted Sizes",
+            "total_sales": 2753.3952,
+            "total_quantity": 224,
             "average_price": 52.94990769230769,
-            "total_profit": -114.2024,
+            "total_profit": -228.4048,
             "profit_margin": -0.08295387454732252
         },
         {
-            "Product ID": "OFF-FA-2942",
-            "total_sales": 1317.84,
-            "total_quantity": 76,
-            "average_price": 59.90181818181818,
-            "total_profit": 490.71000000000004,
-            "profit_margin": 0.37235931524312516
+            "Product Name": "Accos Clamps, Bulk Pack",
+            "total_sales": 2635.6800000000003,
+            "total_quantity": 152,
+            "average_price": 59.901818181818186,
+            "total_profit": 981.4200000000001,
+            "profit_margin": 0.3723593152431251
         },
         {
-            "Product ID": "OFF-FA-6194",
-            "total_sales": 1311.333,
-            "total_quantity": 151,
+            "Product Name": "Stockwell Push Pins, Assorted Sizes",
+            "total_sales": 2622.666,
+            "total_quantity": 302,
             "average_price": 28.507239130434783,
-            "total_profit": 175.16299999999998,
+            "total_profit": 350.32599999999996,
             "profit_margin": 0.13357629221563094
         },
         {
-            "Product ID": "OFF-FA-2944",
-            "total_sales": 1259.1615,
-            "total_quantity": 120,
+            "Product Name": "Accos Paper Clips, Assorted Sizes",
+            "total_sales": 2518.323,
+            "total_quantity": 240,
             "average_price": 33.13582894736842,
-            "total_profit": -19.9885,
+            "total_profit": -39.977,
             "profit_margin": -0.015874452959370185
         },
         {
-            "Product ID": "OFF-FA-6190",
-            "total_sales": 1254.687,
-            "total_quantity": 112,
+            "Product Name": "Stockwell Paper Clips, Bulk Pack",
+            "total_sales": 2509.374,
+            "total_quantity": 224,
             "average_price": 35.8482,
-            "total_profit": 338.277,
+            "total_profit": 676.554,
             "profit_margin": 0.26961066783986765
         },
         {
-            "Product ID": "OFF-FA-6204",
-            "total_sales": 1236.69,
-            "total_quantity": 150,
+            "Product Name": "Stockwell Staples, Metal",
+            "total_sales": 2473.38,
+            "total_quantity": 300,
             "average_price": 30.917250000000003,
-            "total_profit": 225.77999999999997,
+            "total_profit": 451.56,
             "profit_margin": 0.18256798389248718
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Advantus Rubber Bands, Metal",
-            "total_sales": 16.71,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-03",
-            "Product Name": "Stockwell Staples, Metal",
-            "total_sales": 6.005999999999999,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-06",
-            "Product Name": "Advantus Staples, Metal",
-            "total_sales": 40.735800000000005,
-            "total_quantity": 7
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Stockwell Rubber Bands, Bulk Pack",
-            "total_sales": 43.04,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Accos Thumb Tacks, Assorted Sizes",
-            "total_sales": 33.39,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Alliance Super-Size Bands, Assorted Sizes",
-            "total_sales": 31.12,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-09",
-            "Product Name": "Stockwell Push Pins, 12 Pack",
-            "total_sales": 51.6285,
-            "total_quantity": 7
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Stockwell Staples, Assorted Sizes",
-            "total_sales": 12.4974,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-12",
-            "Product Name": "Advantus Staples, 12 Pack",
-            "total_sales": 3.087,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-15",
-            "Product Name": "Advantus Staples, 12 Pack",
-            "total_sales": 18.522,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-18",
-            "Product Name": "Stockwell Thumb Tacks, Bulk Pack",
-            "total_sales": 108.24,
-            "total_quantity": 8
-        },
-        {
-            "Order Date": "2011-01-18",
-            "Product Name": "OIC Clamps, 12 Pack",
-            "total_sales": 38.4,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-19",
+            "Year_Month": "2011-01",
             "Product Name": "Stockwell Clamps, Assorted Sizes",
             "total_sales": 16.29,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-22",
-            "Product Name": "Stockwell Staples, Metal",
-            "total_sales": 6.318,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-23",
-            "Product Name": "OIC Clamps, Assorted Sizes",
-            "total_sales": 34.44,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Advantus Staples, 12 Pack",
-            "total_sales": 41.16,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "OIC Clamps, 12 Pack",
-            "total_sales": 15.360000000000005,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Alliance Big Bands Rubber Bands, 12/Pack",
-            "total_sales": 5.94,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-27",
-            "Product Name": "Stockwell Thumb Tacks, 12 Pack",
-            "total_sales": 34.56000000000001,
+            "Year_Month": "2011-02",
+            "Product Name": "Staples",
+            "total_sales": 12.35,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-02-03",
-            "Product Name": "OIC Push Pins, Bulk Pack",
-            "total_sales": 29.82,
+            "Year_Month": "2011-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 109.62,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 97.74,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 173.07,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Staples",
+            "total_sales": 18.936,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 93.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 43.43999999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 195.4989,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Staples",
+            "total_sales": 30.992,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Staples",
+            "total_sales": 7.104000000000001,
             "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 84.36600000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 50.868,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Staples",
+            "total_sales": 27.392000000000003,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 130.32,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 145.848,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 10.95,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.27,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 42.596,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 21.924,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 66.6,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Staples",
+            "total_sales": 16.012,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 32.58,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 23.076,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 98.185,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Staples",
+            "total_sales": 54.304,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 29.232,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 18.144,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Staples",
+            "total_sales": 7.86,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 21.9,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 48.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 16.68,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Staples",
+            "total_sales": 50.424,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 55.98,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 145.524,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Staples",
+            "total_sales": 18.416,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 37.32000000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 14.723400000000002,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 48.87,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 13.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 65.772,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 97.73999999999998,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 249.156,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 29.322,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Staples",
+            "total_sales": 12.032,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 81.84,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 114.24599999999998,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Staples",
+            "total_sales": 4.5120000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 36.93,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 114.03,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 22.68,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 181.2234,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 22.68,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Staples",
+            "total_sales": 3.008,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 117.558,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 18.84,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 64.8375,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Staples",
+            "total_sales": 30.060000000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 78.372,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 57.824,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 55.905,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 59.506,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Staples",
+            "total_sales": 36.48,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 48.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 136.582,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Staples",
+            "total_sales": 31.56,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 27.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 45.767999999999994,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 19.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 76.788,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 99.52000000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 65.16,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 22.608,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 97.2,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Staples",
+            "total_sales": 20.44,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 20.894,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Staples",
+            "total_sales": 11.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 37.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 247.47,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 65.69999999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Staples",
+            "total_sales": 43.836,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 120.97200000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 15.012,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 263.76,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 4.536,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Staples",
+            "total_sales": 25.248,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 74.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 81.44999999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 94.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 130.68,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Staples",
+            "total_sales": 58.36800000000001,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 142.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 166.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 14.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 138.084,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Staples",
+            "total_sales": 63.35,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 16.29,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 6.57,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Staples",
+            "total_sales": 104.382,
+            "total_quantity": 34
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 128.28,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 131.1,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 173.07,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 109.58,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Staples",
+            "total_sales": 55.416,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 93.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 43.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 195.4989,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 168.57,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Staples",
+            "total_sales": 289.992,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 55.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 75.36,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Staples",
+            "total_sales": 147.708,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 212.59799999999998,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 70.098,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Staples",
+            "total_sales": 131.792,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 118.20859999999999,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 213.72,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 371.928,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 351.954,
+            "total_quantity": 31
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Staples",
+            "total_sales": 255.12,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.27,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 20.016,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 122.25,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Staples",
+            "total_sales": 45.68000000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 108.441,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 110.6,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Staples",
+            "total_sales": 193.44799999999998,
+            "total_quantity": 34
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 21.924,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 32.97,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 265.46999999999997,
+            "total_quantity": 29
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Staples",
+            "total_sales": 111.34,
+            "total_quantity": 33
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 444.7038,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 45.611999999999995,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 23.076,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 147.7462,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Staples",
+            "total_sales": 237.496,
+            "total_quantity": 33
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 89.95400000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 137.04999999999998,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 139.416,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 242.544,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Staples",
+            "total_sales": 175.162,
+            "total_quantity": 31
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 7.464,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 114.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 85.57169999999999,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Staples",
+            "total_sales": 106.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 48.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Staples",
+            "total_sales": 123.63999999999999,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 16.68,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Staples",
+            "total_sales": 245.974,
+            "total_quantity": 27
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 55.98,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 145.524,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Staples",
+            "total_sales": 93.916,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 37.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 14.7234,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Staples",
+            "total_sales": 107.344,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 48.87,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 13.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Staples",
+            "total_sales": 57.232,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 65.772,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 97.74,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 249.156,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Staples",
+            "total_sales": 21.912,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 29.322,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Staples",
+            "total_sales": 21.16,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 81.84,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 114.24600000000001,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Staples",
+            "total_sales": 185.216,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 36.93,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 114.03,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 22.68,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Staples",
+            "total_sales": 101.992,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 181.2234,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 22.68,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Staples",
+            "total_sales": 261.548,
+            "total_quantity": 29
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 117.558,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 18.84,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 64.8375,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Staples",
+            "total_sales": 155.972,
+            "total_quantity": 32
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 78.372,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 57.824,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 55.905,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Staples",
+            "total_sales": 80.06,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 59.506,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Staples",
+            "total_sales": 91.87,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 48.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Staples",
+            "total_sales": 55.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 136.582,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Staples",
+            "total_sales": 95.4,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 27.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Staples",
+            "total_sales": 281.494,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 45.767999999999994,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 19.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 76.788,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Staples",
+            "total_sales": 94.164,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 99.52,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 65.16,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 22.608,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 97.2,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Staples",
+            "total_sales": 29.992,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 20.894,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Staples",
+            "total_sales": 139.37199999999999,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 37.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 247.47,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 65.7,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Staples",
+            "total_sales": 140.844,
+            "total_quantity": 37
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 120.97200000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 15.012,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 263.76,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 4.536,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Staples",
+            "total_sales": 164.272,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 74.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 81.45,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 94.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 130.68,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Staples",
+            "total_sales": 200.608,
+            "total_quantity": 32
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 142.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 166.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 14.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Staples",
+            "total_sales": 147.26,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 138.084,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Staples",
+            "total_sales": 75.75,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 6.57,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Staples",
+            "total_sales": 38.008,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 33.36,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 109.58000000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Staples",
+            "total_sales": 209.46,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 168.57,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Staples",
+            "total_sales": 199.688,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 55.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 75.36,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Staples",
+            "total_sales": 54.378,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 128.232,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 19.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Staples",
+            "total_sales": 241.952,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 118.20859999999999,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 83.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 226.08,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 341.004,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Staples",
+            "total_sales": 131.51999999999998,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 20.016,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 122.25,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Staples",
+            "total_sales": 338.27,
+            "total_quantity": 34
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 108.441,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 68.004,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Staples",
+            "total_sales": 320.916,
+            "total_quantity": 35
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 32.97,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 198.87,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Staples",
+            "total_sales": 223.176,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 444.7038,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 13.032,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 49.5612,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Staples",
+            "total_sales": 328.932,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 60.721999999999994,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 137.05,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 139.416,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 224.4,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Staples",
+            "total_sales": 266.438,
+            "total_quantity": 51
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 7.464,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 114.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 63.6717,
+            "total_quantity": 9
         }
     ],
     "most_frequent_order_month": [
@@ -1620,545 +3281,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 557.4447,
-            "total_quantity": 66
+            "Sales": 557.4447,
+            "Quantity": 66,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 878.9,
-            "total_quantity": 66
+            "Sales": 878.9,
+            "Quantity": 66,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 1351.4544,
-            "total_quantity": 118
+            "Sales": 1351.4544,
+            "Quantity": 118,
+            "Sales_MA": 929.2663666666667
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 623.182,
-            "total_quantity": 77
+            "Sales": 623.182,
+            "Quantity": 77,
+            "Sales_MA": 951.1788
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 861.999,
-            "total_quantity": 87
+            "Sales": 861.999,
+            "Quantity": 87,
+            "Sales_MA": 945.5451333333334
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 1559.3612,
-            "total_quantity": 131
+            "Sales": 1559.3612,
+            "Quantity": 131,
+            "Sales_MA": 1014.8474
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 673.7905000000001,
-            "total_quantity": 68
+            "Sales": 673.7905000000001,
+            "Quantity": 68,
+            "Sales_MA": 1031.7169000000001
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 1353.7645,
-            "total_quantity": 138
+            "Sales": 1353.7645,
+            "Quantity": 138,
+            "Sales_MA": 1195.6387333333334
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 1778.4265,
-            "total_quantity": 188
+            "Sales": 1778.4265,
+            "Quantity": 188,
+            "Sales_MA": 1268.6605
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 1352.1342,
-            "total_quantity": 129
+            "Sales": 1352.1342,
+            "Quantity": 129,
+            "Sales_MA": 1494.7750666666668
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 1054.0851,
-            "total_quantity": 135
+            "Sales": 1054.0851,
+            "Quantity": 135,
+            "Sales_MA": 1394.8819333333333
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 1564.0245,
-            "total_quantity": 163
+            "Sales": 1564.0245,
+            "Quantity": 163,
+            "Sales_MA": 1323.4146
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 830.9692,
-            "total_quantity": 77
+            "Sales": 830.9692,
+            "Quantity": 77,
+            "Sales_MA": 1149.6929333333333
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 864.1019,
-            "total_quantity": 65
+            "Sales": 864.1019,
+            "Quantity": 65,
+            "Sales_MA": 1086.3652
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 1168.5608,
-            "total_quantity": 110
+            "Sales": 1168.5608,
+            "Quantity": 110,
+            "Sales_MA": 954.5439666666666
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 1328.0234,
-            "total_quantity": 136
+            "Sales": 1328.0234,
+            "Quantity": 136,
+            "Sales_MA": 1120.2287
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 1619.0199,
-            "total_quantity": 155
+            "Sales": 1619.0199,
+            "Quantity": 155,
+            "Sales_MA": 1371.8680333333332
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 2278.8561,
-            "total_quantity": 207
+            "Sales": 2278.8561,
+            "Quantity": 207,
+            "Sales_MA": 1741.9664666666667
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 951.34,
-            "total_quantity": 100
+            "Sales": 951.34,
+            "Quantity": 100,
+            "Sales_MA": 1616.4053333333331
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 2339.7909,
-            "total_quantity": 208
+            "Sales": 2339.7909,
+            "Quantity": 208,
+            "Sales_MA": 1856.662333333333
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 1383.9304,
-            "total_quantity": 137
+            "Sales": 1383.9304,
+            "Quantity": 137,
+            "Sales_MA": 1558.3537666666664
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 2253.2694,
-            "total_quantity": 234
+            "Sales": 2253.2694,
+            "Quantity": 234,
+            "Sales_MA": 1992.3302333333331
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 2445.7355000000002,
-            "total_quantity": 259
+            "Sales": 2445.7355000000002,
+            "Quantity": 259,
+            "Sales_MA": 2027.6450999999997
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 2014.0964000000001,
-            "total_quantity": 199
+            "Sales": 2014.0964000000001,
+            "Quantity": 199,
+            "Sales_MA": 2237.700433333333
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 686.4367000000001,
-            "total_quantity": 72
+            "Sales": 686.4367000000001,
+            "Quantity": 72,
+            "Sales_MA": 1715.4228666666666
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 764.74,
-            "total_quantity": 83
+            "Sales": 764.74,
+            "Quantity": 83,
+            "Sales_MA": 1155.0910333333331
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 871.1002,
-            "total_quantity": 88
+            "Sales": 871.1002,
+            "Quantity": 88,
+            "Sales_MA": 774.0922999999997
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 1171.5638,
-            "total_quantity": 128
+            "Sales": 1171.5638,
+            "Quantity": 128,
+            "Sales_MA": 935.8013333333329
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 1679.41,
-            "total_quantity": 186
+            "Sales": 1679.41,
+            "Quantity": 186,
+            "Sales_MA": 1240.691333333333
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 1979.3691000000001,
-            "total_quantity": 214
+            "Sales": 1979.3691000000001,
+            "Quantity": 214,
+            "Sales_MA": 1610.1142999999995
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 1152.1395,
-            "total_quantity": 140
+            "Sales": 1152.1395,
+            "Quantity": 140,
+            "Sales_MA": 1603.639533333333
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 3171.6427,
-            "total_quantity": 292
+            "Sales": 3171.6427,
+            "Quantity": 292,
+            "Sales_MA": 2101.0504333333333
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 2391.8471,
-            "total_quantity": 247
+            "Sales": 2391.8471,
+            "Quantity": 247,
+            "Sales_MA": 2238.5430999999994
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 1920.1663,
-            "total_quantity": 210
+            "Sales": 1920.1663,
+            "Quantity": 210,
+            "Sales_MA": 2494.552033333333
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 2747.9845,
-            "total_quantity": 295
+            "Sales": 2747.9845,
+            "Quantity": 295,
+            "Sales_MA": 2353.332633333333
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 3060.493,
-            "total_quantity": 303
+            "Sales": 3060.493,
+            "Quantity": 303,
+            "Sales_MA": 2576.2146
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 1900.9258,
-            "total_quantity": 227
+            "Sales": 1900.9258,
+            "Quantity": 227,
+            "Sales_MA": 2569.801099999999
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 2249.0287,
-            "total_quantity": 224
+            "Sales": 2249.0287,
+            "Quantity": 224,
+            "Sales_MA": 2403.4824999999996
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 2849.8271,
-            "total_quantity": 275
+            "Sales": 2849.8271,
+            "Quantity": 275,
+            "Sales_MA": 2333.2605333333327
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 2879.0231,
-            "total_quantity": 285
+            "Sales": 2879.0231,
+            "Quantity": 285,
+            "Sales_MA": 2659.2929666666664
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 3038.1816,
-            "total_quantity": 293
+            "Sales": 3038.1816,
+            "Quantity": 293,
+            "Sales_MA": 2922.343933333333
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 5764.0547,
-            "total_quantity": 497
+            "Sales": 5764.0547,
+            "Quantity": 497,
+            "Sales_MA": 3893.753133333333
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 2503.3037,
-            "total_quantity": 244
+            "Sales": 2503.3037,
+            "Quantity": 244,
+            "Sales_MA": 3768.5133333333324
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 3705.0101,
-            "total_quantity": 349
+            "Sales": 3705.0101,
+            "Quantity": 349,
+            "Sales_MA": 3990.789499999999
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 4625.2657,
-            "total_quantity": 523
+            "Sales": 4625.2657,
+            "Quantity": 523,
+            "Sales_MA": 3611.1931666666665
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 4296.2771,
-            "total_quantity": 431
+            "Sales": 4296.2771,
+            "Quantity": 431,
+            "Sales_MA": 4208.850966666666
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 5263.4119,
-            "total_quantity": 570
+            "Sales": 5263.4119,
+            "Quantity": 570,
+            "Sales_MA": 4728.3182333333325
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 4494.8996,
-            "total_quantity": 478
+            "Sales": 4494.8996,
+            "Quantity": 478,
+            "Sales_MA": 4684.862866666666
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 937.2891999999999,
-            "total_quantity": 80
+            "Sales": 937.2891999999999,
+            "Quantity": 80,
+            "Sales_MA": 3565.200233333333
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 987.7419,
-            "total_quantity": 78
+            "Sales": 987.7419,
+            "Quantity": 78,
+            "Sales_MA": 2139.9768999999997
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 1364.1108,
-            "total_quantity": 124
+            "Sales": 1364.1108,
+            "Quantity": 124,
+            "Sales_MA": 1096.380633333333
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 1403.5234,
-            "total_quantity": 141
+            "Sales": 1403.5234,
+            "Quantity": 141,
+            "Sales_MA": 1251.792033333333
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 1726.3639,
-            "total_quantity": 165
+            "Sales": 1726.3639,
+            "Quantity": 165,
+            "Sales_MA": 1497.9993666666662
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 2336.0881,
-            "total_quantity": 217
+            "Sales": 2336.0881,
+            "Quantity": 217,
+            "Sales_MA": 1821.9917999999998
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 973.252,
-            "total_quantity": 105
+            "Sales": 973.252,
+            "Quantity": 105,
+            "Sales_MA": 1678.568
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 2348.9189,
-            "total_quantity": 213
+            "Sales": 2348.9189,
+            "Quantity": 213,
+            "Sales_MA": 1886.086333333333
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 1564.6344,
-            "total_quantity": 147
+            "Sales": 1564.6344,
+            "Quantity": 147,
+            "Sales_MA": 1628.9350999999997
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 2355.2614,
-            "total_quantity": 246
+            "Sales": 2355.2614,
+            "Quantity": 246,
+            "Sales_MA": 2089.6049
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 2704.2755,
-            "total_quantity": 286
+            "Sales": 2704.2755,
+            "Quantity": 286,
+            "Sales_MA": 2208.0570999999995
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 2140.0084,
-            "total_quantity": 224
+            "Sales": 2140.0084,
+            "Quantity": 224,
+            "Sales_MA": 2399.848433333333
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 766.4967,
-            "total_quantity": 79
+            "Sales": 766.4967,
+            "Quantity": 79,
+            "Sales_MA": 1870.2602
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 820.13,
-            "total_quantity": 91
+            "Sales": 820.13,
+            "Quantity": 91,
+            "Sales_MA": 1242.2116999999998
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 926.8202,
-            "total_quantity": 92
+            "Sales": 926.8202,
+            "Quantity": 92,
+            "Sales_MA": 837.815633333333
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 1235.4038,
-            "total_quantity": 136
+            "Sales": 1235.4038,
+            "Quantity": 136,
+            "Sales_MA": 994.1179999999996
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 1960.904,
-            "total_quantity": 206
+            "Sales": 1960.904,
+            "Quantity": 206,
+            "Sales_MA": 1374.3759999999995
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 2073.5331,
-            "total_quantity": 229
+            "Sales": 2073.5331,
+            "Quantity": 229,
+            "Sales_MA": 1756.6136333333332
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 1161.6915000000001,
-            "total_quantity": 143
+            "Sales": 1161.6915000000001,
+            "Quantity": 143,
+            "Sales_MA": 1732.0428666666664
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 3299.3347,
-            "total_quantity": 304
+            "Sales": 3299.3347,
+            "Quantity": 304,
+            "Sales_MA": 2178.186433333333
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 2488.8551,
-            "total_quantity": 266
+            "Sales": 2488.8551,
+            "Quantity": 266,
+            "Sales_MA": 2316.6270999999997
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 2059.1903,
-            "total_quantity": 229
+            "Sales": 2059.1903,
+            "Quantity": 229,
+            "Sales_MA": 2615.7933666666663
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 2890.2245,
-            "total_quantity": 315
+            "Sales": 2890.2245,
+            "Quantity": 315,
+            "Sales_MA": 2479.4233
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 3207.753,
-            "total_quantity": 317
+            "Sales": 3207.753,
+            "Quantity": 317,
+            "Sales_MA": 2719.055933333333
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 1355.8811,
-            "total_quantity": 161
+            "Sales": 1355.8811,
+            "Quantity": 161,
+            "Sales_MA": 2484.619533333333
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 1284.9047,
-            "total_quantity": 140
+            "Sales": 1284.9047,
+            "Quantity": 140,
+            "Sales_MA": 1949.5129333333334
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 1702.5527,
-            "total_quantity": 187
+            "Sales": 1702.5527,
+            "Quantity": 187,
+            "Sales_MA": 1447.7794999999999
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 2196.5291,
-            "total_quantity": 215
+            "Sales": 2196.5291,
+            "Quantity": 215,
+            "Sales_MA": 1727.9954999999998
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 2057.9166,
-            "total_quantity": 197
+            "Sales": 2057.9166,
+            "Quantity": 197,
+            "Sales_MA": 1985.6661333333332
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 4374.2855,
-            "total_quantity": 372
+            "Sales": 4374.2855,
+            "Quantity": 372,
+            "Sales_MA": 2876.243733333333
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 1606.4232,
-            "total_quantity": 164
+            "Sales": 1606.4232,
+            "Quantity": 164,
+            "Sales_MA": 2679.5417666666667
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 2743.3256,
-            "total_quantity": 248
+            "Sales": 2743.3256,
+            "Quantity": 248,
+            "Sales_MA": 2908.011433333333
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 2947.5972,
-            "total_quantity": 333
+            "Sales": 2947.5972,
+            "Quantity": 333,
+            "Sales_MA": 2432.4486666666667
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 3075.0609,
-            "total_quantity": 304
+            "Sales": 3075.0609,
+            "Quantity": 304,
+            "Sales_MA": 2921.9945666666663
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 4339.5748,
-            "total_quantity": 435
+            "Sales": 4339.5748,
+            "Quantity": 435,
+            "Sales_MA": 3454.077633333333
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 3069.1431,
-            "total_quantity": 345
+            "Sales": 3069.1431,
+            "Quantity": 345,
+            "Sales_MA": 3494.592933333333
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "MD-17860",
-            "total_spent": 452.164,
-            "purchase_frequency": 6,
+            "Customer Name": "Michael Dominguez",
+            "total_spent": 904.328,
+            "purchase_frequency": 12,
             "average_order_value": 75.36066666666666
         },
         {
-            "Customer ID": "KE-16420",
-            "total_spent": 415.27689999999996,
-            "purchase_frequency": 7,
-            "average_order_value": 59.32527142857142
+            "Customer Name": "Katrina Edelman",
+            "total_spent": 841.7138,
+            "purchase_frequency": 15,
+            "average_order_value": 56.11425333333333
         },
         {
-            "Customer ID": "ML-18265",
-            "total_spent": 401.62,
+            "Customer Name": "Jane Waco",
+            "total_spent": 824.7280000000001,
             "purchase_frequency": 8,
+            "average_order_value": 68.72733333333333
+        },
+        {
+            "Customer Name": "Muhammed Lee",
+            "total_spent": 803.24,
+            "purchase_frequency": 16,
             "average_order_value": 50.2025
         },
         {
-            "Customer ID": "FA-14230",
-            "total_spent": 369.79580000000004,
-            "purchase_frequency": 4,
+            "Customer Name": "Brosina Hoffman",
+            "total_spent": 802.0716,
+            "purchase_frequency": 18,
+            "average_order_value": 40.10358
+        },
+        {
+            "Customer Name": "Frank Atkinson",
+            "total_spent": 739.5916000000001,
+            "purchase_frequency": 8,
             "average_order_value": 92.44895000000001
         },
         {
-            "Customer ID": "AY-10555",
-            "total_spent": 357.12000000000006,
-            "purchase_frequency": 3,
-            "average_order_value": 119.04000000000002
+            "Customer Name": "Erica Bern",
+            "total_spent": 716.4316,
+            "purchase_frequency": 18,
+            "average_order_value": 39.80175555555556
         },
         {
-            "Customer ID": "BH-11710",
-            "total_spent": 347.3958,
-            "purchase_frequency": 7,
-            "average_order_value": 49.62797142857143
-        },
-        {
-            "Customer ID": "MC-18130",
-            "total_spent": 324.06,
+            "Customer Name": "Andy Yotov",
+            "total_spent": 714.24,
             "purchase_frequency": 6,
-            "average_order_value": 54.01
+            "average_order_value": 119.04
         },
         {
-            "Customer ID": "LS-17230",
-            "total_spent": 314.913,
-            "purchase_frequency": 6,
-            "average_order_value": 44.98757142857143
+            "Customer Name": "Lycoris Saunders",
+            "total_spent": 704.1360000000001,
+            "purchase_frequency": 17,
+            "average_order_value": 37.05978947368421
         },
         {
-            "Customer ID": "ON-18715",
-            "total_spent": 308.4984,
-            "purchase_frequency": 5,
-            "average_order_value": 61.69968
-        },
-        {
-            "Customer ID": "CV-12295",
-            "total_spent": 301.18,
-            "purchase_frequency": 4,
-            "average_order_value": 75.295
-        },
-        {
-            "Customer ID": "BM-11140",
-            "total_spent": 299.52,
-            "purchase_frequency": 1,
-            "average_order_value": 149.76
-        },
-        {
-            "Customer ID": "BM-1114066",
-            "total_spent": 299.52,
-            "purchase_frequency": 1,
-            "average_order_value": 149.76
-        },
-        {
-            "Customer ID": "TZ-21445",
-            "total_spent": 298.668,
-            "purchase_frequency": 7,
-            "average_order_value": 42.66685714285715
-        },
-        {
-            "Customer ID": "SC-20695",
-            "total_spent": 292.40999999999997,
-            "purchase_frequency": 3,
-            "average_order_value": 58.48199999999999
-        },
-        {
-            "Customer ID": "EB-13975",
-            "total_spent": 292.3358,
-            "purchase_frequency": 8,
-            "average_order_value": 36.541975
-        },
-        {
-            "Customer ID": "DL-13330",
-            "total_spent": 291.32,
-            "purchase_frequency": 6,
-            "average_order_value": 48.553333333333335
-        },
-        {
-            "Customer ID": "GT-14755",
-            "total_spent": 280.772,
-            "purchase_frequency": 6,
-            "average_order_value": 46.79533333333333
-        },
-        {
-            "Customer ID": "SW-20755",
-            "total_spent": 275.64,
-            "purchase_frequency": 6,
-            "average_order_value": 45.94
-        },
-        {
-            "Customer ID": "AY-1055548",
-            "total_spent": 271.32,
-            "purchase_frequency": 1,
-            "average_order_value": 271.32
-        },
-        {
-            "Customer ID": "DL-13315",
-            "total_spent": 266.52,
-            "purchase_frequency": 3,
-            "average_order_value": 88.83999999999999
+            "Customer Name": "Luke Foster",
+            "total_spent": 669.06,
+            "purchase_frequency": 9,
+            "average_order_value": 74.33999999999999
         }
     ],
     "discount_analysis": [
@@ -2166,13 +3851,13 @@
             "Discount": 0.0,
             "total_sales": 125016.48,
             "total_quantity": 10880,
-            "average_profit": 10.723023959326342
+            "average_profit": 10.723
         },
         {
             "Discount": 0.1,
             "total_sales": 13476.618,
             "total_quantity": 1038,
-            "average_profit": 6.80866
+            "average_profit": 6.8087
         },
         {
             "Discount": 0.17,
@@ -2184,31 +3869,31 @@
             "Discount": 0.2,
             "total_sales": 7314.008,
             "total_quantity": 1496,
-            "average_profit": 3.878633611111111
+            "average_profit": 3.8786
         },
         {
             "Discount": 0.4,
             "total_sales": 7847.772,
             "total_quantity": 1206,
-            "average_profit": -6.400420454545455
+            "average_profit": -6.4004
         },
         {
             "Discount": 0.45,
-            "total_sales": 2012.2740000000001,
+            "total_sales": 2012.274,
             "total_quantity": 270,
-            "average_profit": -10.524405405405407
+            "average_profit": -10.5244
         },
         {
             "Discount": 0.47,
             "total_sales": 6795.501,
             "total_quantity": 892,
-            "average_profit": -13.756662162162163
+            "average_profit": -13.7567
         },
         {
             "Discount": 0.5,
             "total_sales": 5507.28,
             "total_quantity": 798,
-            "average_profit": -12.002727272727272
+            "average_profit": -12.0027
         },
         {
             "Discount": 0.6,
@@ -2220,7 +3905,7 @@
             "Discount": 0.7,
             "total_sales": 1239.498,
             "total_quantity": 286,
-            "average_profit": -12.647476190476189
+            "average_profit": -12.6475
         },
         {
             "Discount": 0.8,
@@ -2234,121 +3919,215 @@
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 1956.608,
-            "total_quantity": 268
+            "total_quantity": 268,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 1550.1228,
-            "total_quantity": 208
+            "total_quantity": 208,
+            "Location": "Jakarta, Jakarta"
         },
         {
             "State": "Managua",
             "City": "Managua",
             "total_sales": 1443.76,
-            "total_quantity": 162
+            "total_quantity": 162,
+            "Location": "Managua, Managua"
         },
         {
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 1362.96,
-            "total_quantity": 104
+            "total_quantity": 104,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "Queensland",
             "City": "Gold Coast",
             "total_sales": 1238.148,
-            "total_quantity": 102
+            "total_quantity": 102,
+            "Location": "Queensland, Gold Coast"
         },
         {
             "State": "England",
             "City": "London",
             "total_sales": 1173.7440000000001,
-            "total_quantity": 88
+            "total_quantity": 88,
+            "Location": "England, London"
         },
         {
             "State": "Western Australia",
             "City": "Perth",
             "total_sales": 1165.8600000000001,
-            "total_quantity": 86
+            "total_quantity": 86,
+            "Location": "Western Australia, Perth"
         },
         {
             "State": "San Salvador",
             "City": "San Salvador",
             "total_sales": 1135.72,
-            "total_quantity": 130
+            "total_quantity": 130,
+            "Location": "San Salvador, San Salvador"
         },
         {
             "State": "New York",
             "City": "New York City",
             "total_sales": 1113.418,
-            "total_quantity": 218
+            "total_quantity": 218,
+            "Location": "New York, New York City"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 1039.36,
-            "total_quantity": 114
+            "total_quantity": 114,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "Queensland",
             "City": "Brisbane",
             "total_sales": 973.89,
-            "total_quantity": 84
+            "total_quantity": 84,
+            "Location": "Queensland, Brisbane"
         },
         {
             "State": "Australian Capital Territory",
             "City": "Canberra",
             "total_sales": 941.8679999999999,
-            "total_quantity": 104
+            "total_quantity": 104,
+            "Location": "Australian Capital Territory, Canberra"
         },
         {
             "State": "South Australia",
             "City": "Adelaide",
             "total_sales": 879.606,
-            "total_quantity": 64
+            "total_quantity": 64,
+            "Location": "South Australia, Adelaide"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 839.464,
-            "total_quantity": 184
+            "total_quantity": 184,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Vienna",
             "City": "Vienna",
             "total_sales": 834.42,
-            "total_quantity": 60
-        },
-        {
-            "State": "New South Wales",
-            "City": "Wollongong",
-            "total_sales": 821.6700000000001,
-            "total_quantity": 56
-        },
-        {
-            "State": "National Capital",
-            "City": "Manila",
-            "total_sales": 820.0830000000001,
-            "total_quantity": 106
-        },
-        {
-            "State": "National Capital Region",
-            "City": "Manila",
-            "total_sales": 820.083,
-            "total_quantity": 106
-        },
-        {
-            "State": "Francisco Moraz\u00e1n",
-            "City": "Tegucigalpa",
-            "total_sales": 767.808,
-            "total_quantity": 126
-        },
-        {
-            "State": "Berlin",
-            "City": "Berlin",
-            "total_sales": 748.818,
-            "total_quantity": 56
+            "total_quantity": 60,
+            "Location": "Vienna, Vienna"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 673,
+            "avg_shipping_delay": 2.2,
+            "total_profit": 3393.31,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 232,
+            "avg_shipping_delay": 0.01,
+            "total_profit": 1279.1,
+            "shipping_cost_ratio": 0.2
+        },
+        "Second Class": {
+            "total_orders": 961,
+            "avg_shipping_delay": 3.16,
+            "total_profit": 5358.36,
+            "shipping_cost_ratio": 0.14
+        },
+        "Standard Class": {
+            "total_orders": 2920,
+            "avg_shipping_delay": 4.98,
+            "total_profit": 15338.94,
+            "shipping_cost_ratio": 0.1
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.12503370239526776,
+            "common_ship_mode": "Second Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.03845370894942633,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.09223488252299639,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.0682902693422982,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 763.0,
+                "mean": 283.80471821756225,
+                "std": 287.9981451871739,
+                "min": 0.0,
+                "25%": 63.5,
+                "50%": 190.0,
+                "75%": 409.0,
+                "max": 1458.0
+            },
+            "frequency": {
+                "count": 763.0,
+                "mean": 6.275229357798165,
+                "std": 3.2260020183082827,
+                "min": 1.0,
+                "25%": 4.0,
+                "50%": 6.0,
+                "75%": 8.0,
+                "max": 18.0
+            },
+            "monetary": {
+                "count": 763.0,
+                "mean": 226.39234836173003,
+                "std": 158.56605432111945,
+                "min": 7.44,
+                "25%": 109.72800000000001,
+                "50%": 189.4,
+                "75%": 318.5072,
+                "max": 904.328
+            }
+        },
+        "rfm_segments": {
+            "High": 258,
+            "Low": 255,
+            "Medium": 250
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3422,
+        "churned_customers": 2587,
+        "churn_rate": 0.7559906487434249,
+        "avg_recency": 866.7238457042665,
+        "avg_frequency": 1.467270601987142,
+        "avg_monetary": 50.478480946814734,
+        "churned_customer_characteristics": {
+            "avg_recency": 1096.2725164282954,
+            "avg_frequency": 1.5763432547352145,
+            "avg_monetary": 54.1255885581755,
+            "avg_discount": 0.13730654186684338,
+            "avg_quantity": 3.3864901430228063,
+            "avg_shipping_cost": 3.825329762825115,
+            "avg_profit": 5.235668477644634
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 155.53532934131738,
+            "avg_frequency": 1.1293413173652695,
+            "avg_monetary": 39.178999041916164,
+            "avg_discount": 0.14356087824351296,
+            "avg_quantity": 3.485329341317365,
+            "avg_shipping_cost": 3.9259705588822356,
+            "avg_profit": 5.2147885828343306
+        }
+    }
 }

@@ -1251,288 +1251,1331 @@
         54,
         46
     ],
+    "yearly_sales": {
+        "2011": 63933.6284,
+        "2012": 81804.4719,
+        "2013": 111819.84520000001,
+        "2014": 191845.7708,
+        "2015": 81723.7439,
+        "2016": 111725.3732,
+        "2017": 127881.3904
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 5934.1395,
+            "2012": 5120.103999999999,
+            "2013": 4594.2402,
+            "2014": 13892.1816,
+            "2015": 5120.104,
+            "2016": 4594.2402,
+            "2017": 7952.6821
+        },
+        "August": {
+            "2011": 4628.6252,
+            "2012": 6979.0109999999995,
+            "2013": 8877.9684,
+            "2014": 15891.02,
+            "2015": 6979.011,
+            "2016": 8868.4164,
+            "2017": 11303.6428
+        },
+        "December": {
+            "2011": 7679.716600000001,
+            "2012": 8175.9391000000005,
+            "2013": 15543.8897,
+            "2014": 23649.1583,
+            "2015": 8146.7191,
+            "2016": 15543.8897,
+            "2017": 16527.9025
+        },
+        "February": {
+            "2011": 3916.3240000000005,
+            "2012": 4493.6556,
+            "2013": 6139.5935,
+            "2014": 9460.1948,
+            "2015": 4493.6556,
+            "2016": 6139.5935,
+            "2017": 5128.5688
+        },
+        "January": {
+            "2011": 2415.0860000000002,
+            "2012": 5847.005,
+            "2013": 4855.847000000001,
+            "2014": 10349.3178,
+            "2015": 5847.005,
+            "2016": 4855.847,
+            "2017": 7934.2318
+        },
+        "July": {
+            "2011": 3086.6412,
+            "2012": 5539.5508,
+            "2013": 7196.0375,
+            "2014": 12633.8014,
+            "2015": 5539.5508,
+            "2016": 7186.4855,
+            "2017": 9501.3202
+        },
+        "June": {
+            "2011": 5112.02,
+            "2012": 10290.957,
+            "2013": 12753.262200000001,
+            "2014": 16278.5026,
+            "2015": 10290.957,
+            "2016": 12741.5742,
+            "2017": 11128.2466
+        },
+        "March": {
+            "2011": 3730.567,
+            "2012": 4558.5425000000005,
+            "2013": 5699.0598,
+            "2014": 10885.9321,
+            "2015": 4558.5425,
+            "2016": 5699.0598,
+            "2017": 7550.5551000000005
+        },
+        "May": {
+            "2011": 3556.2156,
+            "2012": 5500.252,
+            "2013": 7825.395,
+            "2014": 11006.644400000001,
+            "2015": 5477.964,
+            "2016": 7761.715,
+            "2017": 7428.2288
+        },
+        "November": {
+            "2011": 7497.8395,
+            "2012": 12873.5316,
+            "2013": 14375.3863,
+            "2014": 26146.4195,
+            "2015": 12844.311599999999,
+            "2016": 14375.3863,
+            "2017": 18162.3512
+        },
+        "October": {
+            "2011": 6577.5034,
+            "2012": 4334.1584,
+            "2013": 9734.793000000001,
+            "2014": 16635.6329,
+            "2015": 4334.1584,
+            "2016": 9734.793,
+            "2017": 9957.7455
+        },
+        "September": {
+            "2011": 9798.9504,
+            "2012": 8091.7649,
+            "2013": 14224.3726,
+            "2014": 25016.9654,
+            "2015": 8091.7649,
+            "2016": 14224.3726,
+            "2017": 15305.915
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Rubbermaid Frame, Duo Pack": 19666.390000000003,
+        "Eldon Frame, Durable": 14249.8688,
+        "Deflect-O Frame, Erganomic": 14212.728,
+        "Deflect-O Frame, Durable": 13490.820000000002,
+        "Deflect-O Frame, Black": 13479.9,
+        "Rubbermaid Frame, Erganomic": 13285.9644,
+        "Advantus Frame, Durable": 12671.575,
+        "Rubbermaid Frame, Durable": 11282.9112,
+        "Eldon Frame, Duo Pack": 11037.819,
+        "Advantus Frame, Erganomic": 10832.8012
+    },
+    "top_10_products_by_profit": {
+        "Deflect-O Frame, Durable": 4406.34,
+        "Deflect-O Frame, Black": 3052.7,
+        "Eldon Frame, Durable": 2928.7688,
+        "Advantus Frame, Erganomic": 2805.2012,
+        "GE 48\" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box": 2520.442,
+        "Rubbermaid Frame, Erganomic": 2483.5044,
+        "Rubbermaid Clock, Erganomic": 2243.3076,
+        "Advantus Photo Frame, Erganomic": 2014.08,
+        "Tenex Frame, Erganomic": 1974.672,
+        "Advantus Frame, Duo Pack": 1832.5415999999998
+    },
+    "top_10_products_by_turnover": {
+        "Tenex Stacking Tray, Erganomic": 284,
+        "Rubbermaid Stacking Tray, Erganomic": 282,
+        "Advantus Stacking Tray, Erganomic": 262,
+        "Deflect-O Stacking Tray, Erganomic": 230,
+        "Advantus Door Stop, Erganomic": 208,
+        "Deflect-O Clock, Black": 204,
+        "Rubbermaid Frame, Duo Pack": 204,
+        "Rubbermaid Light Bulb, Erganomic": 196,
+        "Advantus Photo Frame, Black": 192,
+        "Rubbermaid Light Bulb, Durable": 182
+    },
+    "top_5_loss_products": {
+        "Deflect-O Clock, Black": -1893.8946,
+        "Deflect-O Frame, Erganomic": -1799.7359999999999,
+        "Advantus Frame, Durable": -1647.855,
+        "Rubbermaid Frame, Duo Pack": -1511.0100000000002,
+        "Advantus Frame, Black": -1460.3519999999999
+    },
     "product_performance": [
         {
-            "Product ID": "FUR-FU-5728",
-            "total_sales": 9833.195,
-            "total_quantity": 102,
-            "average_price": 393.32779999999997,
-            "total_profit": 760.5350000000001,
-            "profit_margin": 0.07734363042734331
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 19666.390000000003,
+            "total_quantity": 204,
+            "average_price": 393.3278000000001,
+            "total_profit": 1521.07,
+            "profit_margin": 0.07734363042734328
         },
         {
-            "Product ID": "FUR-FU-4066",
-            "total_sales": 7124.9344,
-            "total_quantity": 80,
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 14249.8688,
+            "total_quantity": 160,
             "average_price": 339.2825904761905,
-            "total_profit": 1464.3844,
+            "total_profit": 2928.7688,
             "profit_margin": 0.20552952740168384
         },
         {
-            "Product ID": "FUR-FU-3943",
-            "total_sales": 7106.364,
-            "total_quantity": 84,
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 14212.728,
+            "total_quantity": 168,
             "average_price": 296.0985,
-            "total_profit": -337.026,
-            "profit_margin": -0.04742594102975868
+            "total_profit": -674.0519999999999,
+            "profit_margin": -0.047425941029758674
         },
         {
-            "Product ID": "FUR-FU-3942",
-            "total_sales": 6745.41,
-            "total_quantity": 77,
-            "average_price": 293.2786956521739,
-            "total_profit": 2203.17,
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 13490.820000000002,
+            "total_quantity": 154,
+            "average_price": 293.27869565217395,
+            "total_profit": 4406.34,
             "profit_margin": 0.32661765556133726
         },
         {
-            "Product ID": "FUR-FU-3940",
-            "total_sales": 6739.95,
-            "total_quantity": 85,
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 13479.9,
+            "total_quantity": 170,
             "average_price": 336.9975,
-            "total_profit": 1526.35,
+            "total_profit": 3052.7,
             "profit_margin": 0.22646310432569974
         },
         {
-            "Product ID": "FUR-FU-5730",
-            "total_sales": 6642.9822,
-            "total_quantity": 79,
+            "Product Name": "Rubbermaid Frame, Erganomic",
+            "total_sales": 13285.9644,
+            "total_quantity": 158,
             "average_price": 316.3324857142857,
-            "total_profit": 1241.7522000000001,
-            "profit_margin": 0.18692691965966732
+            "total_profit": 2483.5044,
+            "profit_margin": 0.1869269196596673
         },
         {
-            "Product ID": "FUR-FU-3034",
-            "total_sales": 6335.7875,
-            "total_quantity": 77,
+            "Product Name": "Advantus Frame, Durable",
+            "total_sales": 12671.575,
+            "total_quantity": 154,
             "average_price": 287.99034090909095,
-            "total_profit": -205.76250000000002,
-            "profit_margin": -0.03247623124986436
+            "total_profit": -411.5250000000001,
+            "profit_margin": -0.03247623124986437
         },
         {
-            "Product ID": "FUR-FU-5729",
-            "total_sales": 5641.4556,
-            "total_quantity": 68,
+            "Product Name": "Rubbermaid Frame, Durable",
+            "total_sales": 11282.9112,
+            "total_quantity": 136,
             "average_price": 256.4298,
-            "total_profit": 114.24559999999998,
-            "profit_margin": 0.020251085553168225
+            "total_profit": 228.49119999999982,
+            "profit_margin": 0.02025108555316821
         },
         {
-            "Product ID": "FUR-FU-4065",
-            "total_sales": 5518.9095,
-            "total_quantity": 65,
+            "Product Name": "Eldon Frame, Duo Pack",
+            "total_sales": 11037.819,
+            "total_quantity": 130,
             "average_price": 290.4689210526316,
-            "total_profit": 735.5295000000001,
-            "profit_margin": 0.13327442676854914
+            "total_profit": 1471.059,
+            "profit_margin": 0.13327442676854911
         },
         {
-            "Product ID": "FUR-FU-3035",
-            "total_sales": 5416.4006,
-            "total_quantity": 65,
+            "Product Name": "Advantus Frame, Erganomic",
+            "total_sales": 10832.8012,
+            "total_quantity": 130,
             "average_price": 270.82003,
-            "total_profit": 1402.6006,
+            "total_profit": 2805.2012,
             "profit_margin": 0.2589543690693779
         },
         {
-            "Product ID": "FUR-FU-6256",
-            "total_sales": 5060.036,
-            "total_quantity": 62,
+            "Product Name": "Tenex Frame, Erganomic",
+            "total_sales": 10120.072,
+            "total_quantity": 124,
             "average_price": 230.00163636363638,
-            "total_profit": 987.336,
+            "total_profit": 1974.672,
             "profit_margin": 0.1951243034634536
         },
         {
-            "Product ID": "FUR-FU-6254",
-            "total_sales": 5018.5576,
-            "total_quantity": 64,
+            "Product Name": "Tenex Frame, Duo Pack",
+            "total_sales": 10037.1152,
+            "total_quantity": 128,
             "average_price": 278.80875555555554,
-            "total_profit": -60.75240000000001,
-            "profit_margin": -0.012105550009030484
+            "total_profit": -121.50479999999986,
+            "profit_margin": -0.012105550009030469
         },
         {
-            "Product ID": "FUR-FU-10001438",
-            "total_sales": 4936.755000000001,
-            "total_quantity": 49,
-            "average_price": 548.5283333333334,
-            "total_profit": 141.6149999999999,
-            "profit_margin": 0.02868584728227345
-        },
-        {
-            "Product ID": "FUR-FU-3032",
-            "total_sales": 4881.872,
-            "total_quantity": 67,
+            "Product Name": "Advantus Frame, Black",
+            "total_sales": 9763.744,
+            "total_quantity": 134,
             "average_price": 271.2151111111111,
-            "total_profit": -308.75800000000004,
-            "profit_margin": -0.06324582045575959
+            "total_profit": -617.5159999999998,
+            "profit_margin": -0.06324582045575958
         },
         {
-            "Product ID": "FUR-FU-3941",
-            "total_sales": 4879.632,
-            "total_quantity": 59,
+            "Product Name": "Deflect-O Frame, Duo Pack",
+            "total_sales": 9759.264,
+            "total_quantity": 118,
             "average_price": 271.09066666666666,
-            "total_profit": -527.328,
-            "profit_margin": -0.10806716572069369
+            "total_profit": -1054.6560000000002,
+            "profit_margin": -0.10806716572069372
         },
         {
-            "Product ID": "FUR-FU-6253",
-            "total_sales": 4652.154,
-            "total_quantity": 53,
-            "average_price": 273.65611764705886,
-            "total_profit": 370.544,
-            "profit_margin": 0.07964998579152796
+            "Product Name": "Tenex Frame, Black",
+            "total_sales": 9304.307999999999,
+            "total_quantity": 106,
+            "average_price": 273.6561176470588,
+            "total_profit": 741.088,
+            "profit_margin": 0.07964998579152797
         },
         {
-            "Product ID": "FUR-FU-10001477",
-            "total_sales": 4637.028,
-            "total_quantity": 71,
-            "average_price": 309.1352,
-            "total_profit": 630.1380000000001,
-            "profit_margin": 0.1358926450303945
-        },
-        {
-            "Product ID": "FUR-FU-10003664",
-            "total_sales": 4492.799999999999,
-            "total_quantity": 48,
-            "average_price": 449.2799999999999,
-            "total_profit": 1164.4721999999997,
-            "profit_margin": 0.25918629807692306
-        },
-        {
-            "Product ID": "FUR-FU-3033",
-            "total_sales": 4453.870800000001,
-            "total_quantity": 55,
+            "Product Name": "Advantus Frame, Duo Pack",
+            "total_sales": 8907.741600000001,
+            "total_quantity": 110,
             "average_price": 296.92472000000004,
-            "total_profit": 916.2707999999999,
+            "total_profit": 1832.5415999999998,
             "profit_margin": 0.2057246025187798
         },
         {
-            "Product ID": "FUR-FU-4067",
-            "total_sales": 4349.744,
-            "total_quantity": 56,
+            "Product Name": "Eldon Frame, Erganomic",
+            "total_sales": 8699.488,
+            "total_quantity": 112,
             "average_price": 434.97439999999995,
-            "total_profit": -310.786,
-            "profit_margin": -0.0714492623014136
+            "total_profit": -621.5719999999999,
+            "profit_margin": -0.07144926230141359
+        },
+        {
+            "Product Name": "Tenex Frame, Durable",
+            "total_sales": 8608.5978,
+            "total_quantity": 104,
+            "average_price": 430.42989,
+            "total_profit": 1042.2977999999998,
+            "profit_margin": 0.12107637320447238
+        },
+        {
+            "Product Name": "Rubbermaid Frame, Black",
+            "total_sales": 8139.186000000001,
+            "total_quantity": 108,
+            "average_price": 271.30620000000005,
+            "total_profit": 588.9060000000001,
+            "profit_margin": 0.07235440988816326
+        },
+        {
+            "Product Name": "Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base",
+            "total_sales": 7722.112,
+            "total_quantity": 46,
+            "average_price": 772.2112,
+            "total_profit": 579.1584,
+            "profit_margin": 0.075
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-01",
-            "Product Name": "Eldon Light Bulb, Duo Pack",
-            "total_sales": 113.67,
+            "Year_Month": "2011-03",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 220.08,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-05",
-            "Product Name": "Rubbermaid Photo Frame, Durable",
-            "total_sales": 48.78,
+            "Year_Month": "2011-03",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 113.28000000000002,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-06",
-            "Product Name": "Advantus Frame, Durable",
-            "total_sales": 324.45000000000005,
-            "total_quantity": 3
+            "Year_Month": "2011-03",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 769.6500000000001,
+            "total_quantity": 7
         },
         {
-            "Order Date": "2011-01-07",
-            "Product Name": "Advantus Stacking Tray, Black",
-            "total_sales": 26.43,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-08",
-            "Product Name": "Howard Miller 14-1/2\" Diameter Chrome Round Wall Clock",
-            "total_sales": 76.72800000000001,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Advantus Clock, Black",
-            "total_sales": 187.5735,
+            "Year_Month": "2011-04",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 401.646,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-11",
-            "Product Name": "Eldon Door Stop, Durable",
-            "total_sales": 141.57,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Rubbermaid Photo Frame, Duo Pack",
-            "total_sales": 77.715,
+            "Year_Month": "2011-04",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 192.72600000000008,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-11",
-            "Product Name": "Howard Miller 11-1/2\" Diameter Ridgewood Wall Clock",
-            "total_sales": 51.94,
-            "total_quantity": 1
+            "Year_Month": "2011-04",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 880.146,
+            "total_quantity": 9
         },
         {
-            "Order Date": "2011-01-12",
-            "Product Name": "DAX Value U-Channel Document Frames, Easel Back",
-            "total_sales": 9.94,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "Tenex Door Stop, Black",
-            "total_sales": 98.7525,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-17",
-            "Product Name": "DAX Black Cherry Wood-Tone Poster Frame",
-            "total_sales": 127.104,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-20",
-            "Product Name": "Advantus Clock, Black",
-            "total_sales": 138.753,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Eldon ClusterMat Chair Mat with Cordless Antistatic Protection",
-            "total_sales": 272.94,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",
-            "total_sales": 57.900000000000006,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Ultra Door Push Plate",
-            "total_sales": 14.73,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-22",
-            "Product Name": "Advantus Clock, Durable",
-            "total_sales": 77.47200000000001,
+            "Year_Month": "2011-04",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 453.12000000000006,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-01-22",
-            "Product Name": "Ultra Door Pull Handle",
-            "total_sales": 25.248,
+            "Year_Month": "2011-04",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 109.95000000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 169.92000000000002,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-01-24",
-            "Product Name": "Tenex Frame, Black",
-            "total_sales": 219.96,
+            "Year_Month": "2011-06",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 64.24200000000002,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-25",
-            "Product Name": "Advantus Light Bulb, Duo Pack",
-            "total_sales": 20.13,
+            "Year_Month": "2011-06",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 325.98,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 219.90000000000003,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 132.048,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 108.66,
             "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 109.95000000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 82.69440000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 879.6000000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 109.95000000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 220.08,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 131.94000000000003,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 521.568,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 226.56000000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 963.6300000000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 989.5500000000002,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 293.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 615.7200000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 108.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 906.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 71.38,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 149.89800000000002,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 695.424,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 880.3199999999999,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 293.382,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 175.92000000000004,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 88.03200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 278.382,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 434.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 749.4900000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 203.904,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 88.03200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 128.48399999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 86.928,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 181.248,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 214.14000000000004,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 451.164,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 642.4200000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 108.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 339.84000000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 302.08000000000004,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 330.12,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 174.881,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 220.08,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 217.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 581.504,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 879.6000000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 535.35,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 604.1600000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 1086.6,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 395.8200000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 963.6300000000002,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 217.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 1019.52,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 495.18,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 220.08,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 566.4000000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 1715.2200000000003,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 1392.006,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 192.726,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 1532.106,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 453.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 109.95,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 86.928,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 849.6,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 109.95000000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 64.242,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 325.98,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 717.44,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 366.5,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 828.968,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 325.98,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 219.90000000000003,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 99.036,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 214.14000000000004,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 86.928,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 90.624,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 1143.4800000000002,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 856.5600000000002,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 769.6500000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 484.176,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 82.6944,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 879.6,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 220.08,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 217.32,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 1330.3950000000002,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 649.236,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 546.0570000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 760.62,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 131.94,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 521.568,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 226.56,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 963.63,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 989.55,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 293.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 615.72,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 108.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 906.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 71.38,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 149.898,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 695.424,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 880.32,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 293.382,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 175.92,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 88.032,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 278.382,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 434.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 749.49,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 203.904,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 88.032,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 128.484,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 86.928,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 181.248,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 214.14,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 451.164,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 642.42,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 108.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 339.84,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 302.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 330.12,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 174.881,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 220.08,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 217.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 581.5039999999999,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 879.6,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 535.3499999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 604.16,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 1086.6,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 395.82,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 963.63,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 217.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 1019.52,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 495.18,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 453.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 945.57,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 990.36,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 651.96,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 86.928,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 679.68,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 109.95,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 717.44,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 146.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 696.9200000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 217.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 219.9,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 99.036,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 214.14,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 86.928,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Eldon Frame, Durable",
+            "total_sales": 90.624,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 1143.48,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 856.56,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 659.7,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 484.176,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 217.32,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Rubbermaid Frame, Duo Pack",
+            "total_sales": 1220.445,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Deflect-O Frame, Black",
+            "total_sales": 649.236,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Deflect-O Frame, Durable",
+            "total_sales": 546.057,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Deflect-O Frame, Erganomic",
+            "total_sales": 760.62,
+            "total_quantity": 7
         }
     ],
     "most_frequent_order_month": [
@@ -1620,545 +2663,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 2415.0860000000002,
-            "total_quantity": 76
+            "Sales": 2415.0860000000002,
+            "Quantity": 76,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 3916.3240000000005,
-            "total_quantity": 96
+            "Sales": 3916.3240000000005,
+            "Quantity": 96,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 3730.567,
-            "total_quantity": 106
+            "Sales": 3730.567,
+            "Quantity": 106,
+            "Sales_MA": 3353.9923333333336
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 5934.1395,
-            "total_quantity": 127
+            "Sales": 5934.1395,
+            "Quantity": 127,
+            "Sales_MA": 4527.010166666667
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 3556.2156,
-            "total_quantity": 122
+            "Sales": 3556.2156,
+            "Quantity": 122,
+            "Sales_MA": 4406.974033333333
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 5112.02,
-            "total_quantity": 208
+            "Sales": 5112.02,
+            "Quantity": 208,
+            "Sales_MA": 4867.458366666667
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 3086.6412,
-            "total_quantity": 121
+            "Sales": 3086.6412,
+            "Quantity": 121,
+            "Sales_MA": 3918.292266666667
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 4628.6252,
-            "total_quantity": 165
+            "Sales": 4628.6252,
+            "Quantity": 165,
+            "Sales_MA": 4275.762133333334
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 9798.9504,
-            "total_quantity": 241
+            "Sales": 9798.9504,
+            "Quantity": 241,
+            "Sales_MA": 5838.072266666667
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 6577.5034,
-            "total_quantity": 181
+            "Sales": 6577.5034,
+            "Quantity": 181,
+            "Sales_MA": 7001.692999999999
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 7497.8395,
-            "total_quantity": 231
+            "Sales": 7497.8395,
+            "Quantity": 231,
+            "Sales_MA": 7958.097766666666
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 7679.716600000001,
-            "total_quantity": 308
+            "Sales": 7679.716600000001,
+            "Quantity": 308,
+            "Sales_MA": 7251.6865
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 5847.005,
-            "total_quantity": 171
+            "Sales": 5847.005,
+            "Quantity": 171,
+            "Sales_MA": 7008.187033333333
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 4493.6556,
-            "total_quantity": 102
+            "Sales": 4493.6556,
+            "Quantity": 102,
+            "Sales_MA": 6006.792400000001
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 4558.5425000000005,
-            "total_quantity": 141
+            "Sales": 4558.5425000000005,
+            "Quantity": 141,
+            "Sales_MA": 4966.401033333334
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 5120.103999999999,
-            "total_quantity": 116
+            "Sales": 5120.103999999999,
+            "Quantity": 116,
+            "Sales_MA": 4724.1007
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 5500.252,
-            "total_quantity": 157
+            "Sales": 5500.252,
+            "Quantity": 157,
+            "Sales_MA": 5059.632833333333
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 10290.957,
-            "total_quantity": 245
+            "Sales": 10290.957,
+            "Quantity": 245,
+            "Sales_MA": 6970.437666666668
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 5539.5508,
-            "total_quantity": 142
+            "Sales": 5539.5508,
+            "Quantity": 142,
+            "Sales_MA": 7110.2532666666675
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 6979.0109999999995,
-            "total_quantity": 214
+            "Sales": 6979.0109999999995,
+            "Quantity": 214,
+            "Sales_MA": 7603.172933333334
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 8091.7649,
-            "total_quantity": 265
+            "Sales": 8091.7649,
+            "Quantity": 265,
+            "Sales_MA": 6870.108899999999
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 4334.1584,
-            "total_quantity": 182
+            "Sales": 4334.1584,
+            "Quantity": 182,
+            "Sales_MA": 6468.311433333333
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 12873.5316,
-            "total_quantity": 384
+            "Sales": 12873.5316,
+            "Quantity": 384,
+            "Sales_MA": 8433.151633333333
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 8175.9391000000005,
-            "total_quantity": 230
+            "Sales": 8175.9391000000005,
+            "Quantity": 230,
+            "Sales_MA": 8461.209700000001
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 4855.847000000001,
-            "total_quantity": 137
+            "Sales": 4855.847000000001,
+            "Quantity": 137,
+            "Sales_MA": 8635.1059
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 6139.5935,
-            "total_quantity": 167
+            "Sales": 6139.5935,
+            "Quantity": 167,
+            "Sales_MA": 6390.459866666667
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 5699.0598,
-            "total_quantity": 164
+            "Sales": 5699.0598,
+            "Quantity": 164,
+            "Sales_MA": 5564.833433333333
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 4594.2402,
-            "total_quantity": 166
+            "Sales": 4594.2402,
+            "Quantity": 166,
+            "Sales_MA": 5477.631166666666
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 7825.395,
-            "total_quantity": 282
+            "Sales": 7825.395,
+            "Quantity": 282,
+            "Sales_MA": 6039.565
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 12753.262200000001,
-            "total_quantity": 342
+            "Sales": 12753.262200000001,
+            "Quantity": 342,
+            "Sales_MA": 8390.9658
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 7196.0375,
-            "total_quantity": 227
+            "Sales": 7196.0375,
+            "Quantity": 227,
+            "Sales_MA": 9258.231566666667
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 8877.9684,
-            "total_quantity": 243
+            "Sales": 8877.9684,
+            "Quantity": 243,
+            "Sales_MA": 9609.089366666667
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 14224.3726,
-            "total_quantity": 382
+            "Sales": 14224.3726,
+            "Quantity": 382,
+            "Sales_MA": 10099.459499999999
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 9734.793000000001,
-            "total_quantity": 302
+            "Sales": 9734.793000000001,
+            "Quantity": 302,
+            "Sales_MA": 10945.711333333335
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 14375.3863,
-            "total_quantity": 368
+            "Sales": 14375.3863,
+            "Quantity": 368,
+            "Sales_MA": 12778.18396666667
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 15543.8897,
-            "total_quantity": 419
+            "Sales": 15543.8897,
+            "Quantity": 419,
+            "Sales_MA": 13218.023000000001
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 10349.3178,
-            "total_quantity": 281
+            "Sales": 10349.3178,
+            "Quantity": 281,
+            "Sales_MA": 13422.8646
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 9460.1948,
-            "total_quantity": 244
+            "Sales": 9460.1948,
+            "Quantity": 244,
+            "Sales_MA": 11784.467433333333
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 10885.9321,
-            "total_quantity": 319
+            "Sales": 10885.9321,
+            "Quantity": 319,
+            "Sales_MA": 10231.8149
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 13892.1816,
-            "total_quantity": 366
+            "Sales": 13892.1816,
+            "Quantity": 366,
+            "Sales_MA": 11412.7695
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 11006.644400000001,
-            "total_quantity": 372
+            "Sales": 11006.644400000001,
+            "Quantity": 372,
+            "Sales_MA": 11928.252700000003
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 16278.5026,
-            "total_quantity": 544
+            "Sales": 16278.5026,
+            "Quantity": 544,
+            "Sales_MA": 13725.7762
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 12633.8014,
-            "total_quantity": 375
+            "Sales": 12633.8014,
+            "Quantity": 375,
+            "Sales_MA": 13306.316133333334
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 15891.02,
-            "total_quantity": 455
+            "Sales": 15891.02,
+            "Quantity": 455,
+            "Sales_MA": 14934.441333333334
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 25016.9654,
-            "total_quantity": 691
+            "Sales": 25016.9654,
+            "Quantity": 691,
+            "Sales_MA": 17847.26226666667
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 16635.6329,
-            "total_quantity": 481
+            "Sales": 16635.6329,
+            "Quantity": 481,
+            "Sales_MA": 19181.2061
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 26146.4195,
-            "total_quantity": 735
+            "Sales": 26146.4195,
+            "Quantity": 735,
+            "Sales_MA": 22599.6726
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 23649.1583,
-            "total_quantity": 801
+            "Sales": 23649.1583,
+            "Quantity": 801,
+            "Sales_MA": 22143.7369
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 5847.005,
-            "total_quantity": 171
+            "Sales": 5847.005,
+            "Quantity": 171,
+            "Sales_MA": 18547.5276
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 4493.6556,
-            "total_quantity": 102
+            "Sales": 4493.6556,
+            "Quantity": 102,
+            "Sales_MA": 11329.939633333333
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 4558.5425,
-            "total_quantity": 141
+            "Sales": 4558.5425,
+            "Quantity": 141,
+            "Sales_MA": 4966.401033333333
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 5120.104,
-            "total_quantity": 116
+            "Sales": 5120.104,
+            "Quantity": 116,
+            "Sales_MA": 4724.1007
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 5477.964,
-            "total_quantity": 150
+            "Sales": 5477.964,
+            "Quantity": 150,
+            "Sales_MA": 5052.2035
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 10290.957,
-            "total_quantity": 245
+            "Sales": 10290.957,
+            "Quantity": 245,
+            "Sales_MA": 6963.008333333334
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 5539.5508,
-            "total_quantity": 142
+            "Sales": 5539.5508,
+            "Quantity": 142,
+            "Sales_MA": 7102.823933333333
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 6979.011,
-            "total_quantity": 214
+            "Sales": 6979.011,
+            "Quantity": 214,
+            "Sales_MA": 7603.172933333334
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 8091.7649,
-            "total_quantity": 265
+            "Sales": 8091.7649,
+            "Quantity": 265,
+            "Sales_MA": 6870.1089
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 4334.1584,
-            "total_quantity": 182
+            "Sales": 4334.1584,
+            "Quantity": 182,
+            "Sales_MA": 6468.311433333333
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 12844.311599999999,
-            "total_quantity": 381
+            "Sales": 12844.311599999999,
+            "Quantity": 381,
+            "Sales_MA": 8423.411633333333
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 8146.7191,
-            "total_quantity": 227
+            "Sales": 8146.7191,
+            "Quantity": 227,
+            "Sales_MA": 8441.729699999998
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 4855.847,
-            "total_quantity": 137
+            "Sales": 4855.847,
+            "Quantity": 137,
+            "Sales_MA": 8615.6259
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 6139.5935,
-            "total_quantity": 167
+            "Sales": 6139.5935,
+            "Quantity": 167,
+            "Sales_MA": 6380.719866666666
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 5699.0598,
-            "total_quantity": 164
+            "Sales": 5699.0598,
+            "Quantity": 164,
+            "Sales_MA": 5564.833433333333
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 4594.2402,
-            "total_quantity": 166
+            "Sales": 4594.2402,
+            "Quantity": 166,
+            "Sales_MA": 5477.631166666666
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 7761.715,
-            "total_quantity": 274
+            "Sales": 7761.715,
+            "Quantity": 274,
+            "Sales_MA": 6018.338333333333
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 12741.5742,
-            "total_quantity": 339
+            "Sales": 12741.5742,
+            "Quantity": 339,
+            "Sales_MA": 8365.843133333334
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 7186.4855,
-            "total_quantity": 224
+            "Sales": 7186.4855,
+            "Quantity": 224,
+            "Sales_MA": 9229.9249
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 8868.4164,
-            "total_quantity": 240
+            "Sales": 8868.4164,
+            "Quantity": 240,
+            "Sales_MA": 9598.825366666666
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 14224.3726,
-            "total_quantity": 382
+            "Sales": 14224.3726,
+            "Quantity": 382,
+            "Sales_MA": 10093.0915
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 9734.793,
-            "total_quantity": 302
+            "Sales": 9734.793,
+            "Quantity": 302,
+            "Sales_MA": 10942.527333333333
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 14375.3863,
-            "total_quantity": 368
+            "Sales": 14375.3863,
+            "Quantity": 368,
+            "Sales_MA": 12778.183966666666
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 15543.8897,
-            "total_quantity": 419
+            "Sales": 15543.8897,
+            "Quantity": 419,
+            "Sales_MA": 13218.023
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 7934.2318,
-            "total_quantity": 205
+            "Sales": 7934.2318,
+            "Quantity": 205,
+            "Sales_MA": 12617.835933333334
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 5128.5688,
-            "total_quantity": 135
+            "Sales": 5128.5688,
+            "Quantity": 135,
+            "Sales_MA": 9535.563433333335
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 7550.5551000000005,
-            "total_quantity": 224
+            "Sales": 7550.5551000000005,
+            "Quantity": 224,
+            "Sales_MA": 6871.118566666667
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 7952.6821,
-            "total_quantity": 237
+            "Sales": 7952.6821,
+            "Quantity": 237,
+            "Sales_MA": 6877.268666666667
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 7428.2288,
-            "total_quantity": 244
+            "Sales": 7428.2288,
+            "Quantity": 244,
+            "Sales_MA": 7643.822
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 11128.2466,
-            "total_quantity": 336
+            "Sales": 11128.2466,
+            "Quantity": 336,
+            "Sales_MA": 8836.385833333334
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 9501.3202,
-            "total_quantity": 255
+            "Sales": 9501.3202,
+            "Quantity": 255,
+            "Sales_MA": 9352.598533333334
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 11303.6428,
-            "total_quantity": 294
+            "Sales": 11303.6428,
+            "Quantity": 294,
+            "Sales_MA": 10644.4032
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 15305.915,
-            "total_quantity": 452
+            "Sales": 15305.915,
+            "Quantity": 452,
+            "Sales_MA": 12036.959333333332
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 9957.7455,
-            "total_quantity": 292
+            "Sales": 9957.7455,
+            "Quantity": 292,
+            "Sales_MA": 12189.1011
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 18162.3512,
-            "total_quantity": 498
+            "Sales": 18162.3512,
+            "Quantity": 498,
+            "Sales_MA": 14475.337233333334
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 16527.9025,
-            "total_quantity": 504
+            "Sales": 16527.9025,
+            "Quantity": 504,
+            "Sales_MA": 14882.6664
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "LL-16840",
-            "total_spent": 2591.59,
-            "purchase_frequency": 6,
-            "average_order_value": 431.9316666666667
+            "Customer Name": "Lauren Leatherbury",
+            "total_spent": 5487.38,
+            "purchase_frequency": 16,
+            "average_order_value": 342.96125
         },
         {
-            "Customer ID": "DN-13690",
-            "total_spent": 2141.86,
-            "purchase_frequency": 7,
+            "Customer Name": "Duane Noonan",
+            "total_spent": 4283.72,
+            "purchase_frequency": 14,
             "average_order_value": 267.7325
         },
         {
-            "Customer ID": "AF-10870",
-            "total_spent": 2087.0127,
-            "purchase_frequency": 6,
-            "average_order_value": 260.8765875
+            "Customer Name": "Art Ferguson",
+            "total_spent": 4274.4654,
+            "purchase_frequency": 14,
+            "average_order_value": 237.4703
         },
         {
-            "Customer ID": "LW-17125",
-            "total_spent": 1885.325,
-            "purchase_frequency": 5,
-            "average_order_value": 314.22083333333336
+            "Customer Name": "Chuck Clark",
+            "total_spent": 4157.52,
+            "purchase_frequency": 14,
+            "average_order_value": 296.96571428571434
         },
         {
-            "Customer ID": "SP-20620",
-            "total_spent": 1666.052,
-            "purchase_frequency": 8,
+            "Customer Name": "Laurel Beltran",
+            "total_spent": 3953.188,
+            "purchase_frequency": 14,
+            "average_order_value": 282.37057142857145
+        },
+        {
+            "Customer Name": "Liz Willingham",
+            "total_spent": 3861.514,
+            "purchase_frequency": 12,
+            "average_order_value": 275.8224285714286
+        },
+        {
+            "Customer Name": "Erin Mull",
+            "total_spent": 3494.496,
+            "purchase_frequency": 10,
+            "average_order_value": 349.44960000000003
+        },
+        {
+            "Customer Name": "Paul Stevenson",
+            "total_spent": 3405.556,
+            "purchase_frequency": 12,
+            "average_order_value": 243.254
+        },
+        {
+            "Customer Name": "Stefania Perrino",
+            "total_spent": 3332.104,
+            "purchase_frequency": 16,
             "average_order_value": 208.2565
         },
         {
-            "Customer ID": "RB-19795",
-            "total_spent": 1661.51,
-            "purchase_frequency": 3,
-            "average_order_value": 415.3775
-        },
-        {
-            "Customer ID": "EM-4065",
-            "total_spent": 1656.6480000000001,
-            "purchase_frequency": 3,
-            "average_order_value": 552.216
-        },
-        {
-            "Customer ID": "AG-10270",
-            "total_spent": 1605.9679999999998,
-            "purchase_frequency": 3,
-            "average_order_value": 535.3226666666666
-        },
-        {
-            "Customer ID": "RB-197951406",
-            "total_spent": 1523.72,
-            "purchase_frequency": 1,
-            "average_order_value": 761.86
-        },
-        {
-            "Customer ID": "EM-406522",
-            "total_spent": 1519.14,
-            "purchase_frequency": 1,
-            "average_order_value": 1519.14
-        },
-        {
-            "Customer ID": "BM-11785",
-            "total_spent": 1493.064,
-            "purchase_frequency": 7,
-            "average_order_value": 213.29485714285715
-        },
-        {
-            "Customer ID": "JL-15835",
-            "total_spent": 1483.528,
-            "purchase_frequency": 9,
-            "average_order_value": 164.83644444444445
-        },
-        {
-            "Customer ID": "SS-20590",
-            "total_spent": 1482.1289000000002,
-            "purchase_frequency": 6,
-            "average_order_value": 247.02148333333335
-        },
-        {
-            "Customer ID": "LS-16975",
-            "total_spent": 1437.0330000000001,
-            "purchase_frequency": 4,
-            "average_order_value": 287.4066
-        },
-        {
-            "Customer ID": "DB-13270",
-            "total_spent": 1424.1006000000002,
-            "purchase_frequency": 4,
-            "average_order_value": 237.35010000000003
-        },
-        {
-            "Customer ID": "MH-17290",
-            "total_spent": 1408.9458,
-            "purchase_frequency": 4,
-            "average_order_value": 352.23645
-        },
-        {
-            "Customer ID": "DB-13060",
-            "total_spent": 1368.718,
-            "purchase_frequency": 5,
-            "average_order_value": 228.1196666666667
-        },
-        {
-            "Customer ID": "SE-20110",
-            "total_spent": 1358.4763,
-            "purchase_frequency": 6,
-            "average_order_value": 194.06804285714287
-        },
-        {
-            "Customer ID": "AG-102701402",
-            "total_spent": 1336.44,
-            "purchase_frequency": 1,
-            "average_order_value": 1336.44
-        },
-        {
-            "Customer ID": "CM-2445",
-            "total_spent": 1332.7200000000003,
-            "purchase_frequency": 2,
-            "average_order_value": 666.3600000000001
+            "Customer Name": "Alejandro Grove",
+            "total_spent": 3325.3959999999997,
+            "purchase_frequency": 8,
+            "average_order_value": 415.67449999999997
         }
     ],
     "discount_analysis": [
@@ -2166,65 +3233,65 @@
             "Discount": 0.0,
             "total_sales": 509947.68,
             "total_quantity": 12454,
-            "average_profit": 35.522262146582484
+            "average_profit": 35.5223
         },
         {
             "Discount": 0.1,
             "total_sales": 45964.476,
             "total_quantity": 1124,
-            "average_profit": 28.957795620437956
+            "average_profit": 28.9578
         },
         {
             "Discount": 0.2,
             "total_sales": 64757.744,
             "total_quantity": 2268,
-            "average_profit": 8.453212786885244
+            "average_profit": 8.4532
         },
         {
             "Discount": 0.25,
-            "total_sales": 17127.135000000002,
+            "total_sales": 17127.135,
             "total_quantity": 464,
-            "average_profit": 7.084852941176471
+            "average_profit": 7.0849
         },
         {
             "Discount": 0.27,
             "total_sales": 33401.2668,
             "total_quantity": 1002,
-            "average_profit": 3.153204651162789
+            "average_profit": 3.1532
         },
         {
             "Discount": 0.3,
             "total_sales": 12274.458,
             "total_quantity": 366,
-            "average_profit": -14.870999999999999
+            "average_profit": -14.871
         },
         {
             "Discount": 0.4,
             "total_sales": 49320.756,
             "total_quantity": 2296,
-            "average_profit": -20.4173949044586
+            "average_profit": -20.4174
         },
         {
             "Discount": 0.5,
             "total_sales": 8565.27,
             "total_quantity": 440,
-            "average_profit": -51.50617647058824
+            "average_profit": -51.5062
         },
         {
             "Discount": 0.6,
             "total_sales": 24808.616,
             "total_quantity": 1632,
-            "average_profit": -48.2923002096436
+            "average_profit": -48.2923
         },
         {
             "Discount": 0.7,
-            "total_sales": 4248.990000000001,
+            "total_sales": 4248.99,
             "total_quantity": 304,
-            "average_profit": -55.61024999999999
+            "average_profit": -55.6102
         },
         {
             "Discount": 0.8,
-            "total_sales": 317.83199999999994,
+            "total_sales": 317.832,
             "total_quantity": 38,
             "average_profit": -115.071
         }
@@ -2234,121 +3301,215 @@
             "State": "New York",
             "City": "New York City",
             "total_sales": 15052.78,
-            "total_quantity": 556
+            "total_quantity": 556,
+            "Location": "New York, New York City"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 13782.608,
-            "total_quantity": 416
+            "total_quantity": 416,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 13574.72,
-            "total_quantity": 512
+            "total_quantity": 512,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Madrid",
             "City": "Madrid",
             "total_sales": 9161.82,
-            "total_quantity": 122
+            "total_quantity": 122,
+            "Location": "Madrid, Madrid"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 6963.7182,
-            "total_quantity": 194
+            "total_quantity": 194,
+            "Location": "Jakarta, Jakarta"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 6753.44,
-            "total_quantity": 358
+            "total_quantity": 358,
+            "Location": "California, San Francisco"
         },
         {
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 6709.986,
-            "total_quantity": 142
+            "total_quantity": 142,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "Bangkok",
             "City": "Bangkok",
             "total_sales": 6407.502,
-            "total_quantity": 150
+            "total_quantity": 150,
+            "Location": "Bangkok, Bangkok"
         },
         {
             "State": "Washington",
             "City": "Seattle",
             "total_sales": 5581.64,
-            "total_quantity": 285
+            "total_quantity": 285,
+            "Location": "Washington, Seattle"
         },
         {
             "State": "National Capital Region",
             "City": "Manila",
             "total_sales": 5297.9400000000005,
-            "total_quantity": 141
+            "total_quantity": 141,
+            "Location": "National Capital Region, Manila"
         },
         {
             "State": "National Capital",
             "City": "Manila",
             "total_sales": 5297.9400000000005,
-            "total_quantity": 141
+            "total_quantity": 141,
+            "Location": "National Capital, Manila"
         },
         {
             "State": "Vienna",
             "City": "Vienna",
             "total_sales": 5246.22,
-            "total_quantity": 88
+            "total_quantity": 88,
+            "Location": "Vienna, Vienna"
         },
         {
             "State": "Queensland",
             "City": "Gold Coast",
             "total_sales": 4914.198,
-            "total_quantity": 118
+            "total_quantity": 118,
+            "Location": "Queensland, Gold Coast"
         },
         {
             "State": "Managua",
             "City": "Managua",
             "total_sales": 4781.96,
-            "total_quantity": 136
+            "total_quantity": 136,
+            "Location": "Managua, Managua"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 4386.64,
-            "total_quantity": 214
-        },
-        {
-            "State": "Lombardy",
-            "City": "Milan",
-            "total_sales": 4267.68,
-            "total_quantity": 66
-        },
-        {
-            "State": "Dhaka",
-            "City": "Dhaka",
-            "total_sales": 4092.0,
-            "total_quantity": 74
-        },
-        {
-            "State": "Al Qahirah",
-            "City": "Cairo",
-            "total_sales": 4078.7400000000002,
-            "total_quantity": 94
-        },
-        {
-            "State": "Ile-de-France",
-            "City": "Paris",
-            "total_sales": 4057.86,
-            "total_quantity": 52
-        },
-        {
-            "State": "S\u00e3o Paulo",
-            "City": "S\u00e3o Paulo",
-            "total_sales": 3934.08,
-            "total_quantity": 84
+            "total_quantity": 214,
+            "Location": "Santo Domingo, Santo Domingo"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 798,
+            "avg_shipping_delay": 2.18,
+            "total_profit": 10065.0,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 305,
+            "avg_shipping_delay": 0.03,
+            "total_profit": 6028.77,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 1162,
+            "avg_shipping_delay": 3.24,
+            "total_profit": 16511.55,
+            "shipping_cost_ratio": 0.13
+        },
+        "Standard Class": {
+            "total_orders": 3659,
+            "avg_shipping_delay": 5.0,
+            "total_profit": 61207.54,
+            "shipping_cost_ratio": 0.09
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.11472483281035199,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.04874900594050973,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.02354546535775767,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.05202542077492959,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 773.0,
+                "mean": 240.79172056921087,
+                "std": 259.1344587340382,
+                "min": 0.0,
+                "25%": 50.0,
+                "50%": 140.0,
+                "75%": 371.0,
+                "max": 1409.0
+            },
+            "frequency": {
+                "count": 773.0,
+                "mean": 7.667529107373868,
+                "std": 3.5119254606533636,
+                "min": 2.0,
+                "25%": 6.0,
+                "50%": 8.0,
+                "75%": 10.0,
+                "max": 24.0
+            },
+            "monetary": {
+                "count": 773.0,
+                "mean": 997.068853557568,
+                "std": 762.8268158166023,
+                "min": 9.856000000000002,
+                "25%": 425.36400000000003,
+                "50%": 825.932,
+                "75%": 1361.12,
+                "max": 5487.38
+            }
+        },
+        "rfm_segments": {
+            "High": 261,
+            "Low": 258,
+            "Medium": 254
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3876,
+        "churned_customers": 2906,
+        "churn_rate": 0.7497420020639834,
+        "avg_recency": 838.5012899896801,
+        "avg_frequency": 1.631578947368421,
+        "avg_monetary": 198.84783895768834,
+        "churned_customer_characteristics": {
+            "avg_recency": 1068.6593255333792,
+            "avg_frequency": 1.7856159669649,
+            "avg_monetary": 218.2514522711631,
+            "avg_discount": 0.15282577694157184,
+            "avg_quantity": 3.4669281920572357,
+            "avg_shipping_cost": 12.6873111091497,
+            "avg_profit": 14.177456900053281
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 148.97628865979382,
+            "avg_frequency": 1.1701030927835052,
+            "avg_monetary": 140.71701391752578,
+            "avg_discount": 0.14789690721649482,
+            "avg_quantity": 3.491529209621993,
+            "avg_shipping_cost": 13.358581237113402,
+            "avg_profit": 14.665431546391753
+        }
+    }
 }

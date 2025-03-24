@@ -1215,288 +1215,1397 @@
         34,
         32
     ],
+    "yearly_sales": {
+        "2011": 259396.2858,
+        "2012": 317953.4498,
+        "2013": 376025.7999,
+        "2014": 772592.9921,
+        "2015": 317953.4498,
+        "2016": 376025.7999,
+        "2017": 513196.7063
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 6405.308,
+            "2012": 16175.065499999999,
+            "2013": 16594.9605,
+            "2014": 37338.3925,
+            "2015": 16175.0655,
+            "2016": 16594.9605,
+            "2017": 31500.6845
+        },
+        "August": {
+            "2011": 24770.0855,
+            "2012": 35400.7633,
+            "2013": 41399.8946,
+            "2014": 75787.8166,
+            "2015": 35400.7633,
+            "2016": 41399.8946,
+            "2017": 50922.7346
+        },
+        "December": {
+            "2011": 40245.3504,
+            "2012": 33798.5572,
+            "2013": 44172.889800000004,
+            "2014": 93095.7257,
+            "2015": 33798.5572,
+            "2016": 44172.8898,
+            "2017": 53925.1753
+        },
+        "February": {
+            "2011": 11956.586,
+            "2012": 12021.613,
+            "2013": 16959.5443,
+            "2014": 39513.0374,
+            "2015": 12021.613,
+            "2016": 16959.5443,
+            "2017": 26045.2614
+        },
+        "January": {
+            "2011": 13402.003,
+            "2012": 16617.8201,
+            "2013": 32256.561,
+            "2014": 29053.0204,
+            "2015": 16617.8201,
+            "2016": 32256.561,
+            "2017": 15651.0174
+        },
+        "July": {
+            "2011": 9480.66,
+            "2012": 13230.9616,
+            "2013": 23720.064,
+            "2014": 48972.778,
+            "2015": 13230.9616,
+            "2016": 23720.064,
+            "2017": 39702.1945
+        },
+        "June": {
+            "2011": 26425.9265,
+            "2012": 29771.198,
+            "2013": 32511.8958,
+            "2014": 78173.6579,
+            "2015": 29771.198,
+            "2016": 32511.8958,
+            "2017": 52796.1464
+        },
+        "March": {
+            "2011": 11470.793,
+            "2012": 21301.0851,
+            "2013": 21750.6799,
+            "2014": 43523.8443,
+            "2015": 21301.0851,
+            "2016": 21750.6799,
+            "2017": 32996.6413
+        },
+        "May": {
+            "2011": 14966.7142,
+            "2012": 28612.4745,
+            "2013": 17765.2013,
+            "2014": 46387.832800000004,
+            "2015": 28612.4745,
+            "2016": 17765.2013,
+            "2017": 29909.2636
+        },
+        "November": {
+            "2011": 38598.7454,
+            "2012": 40625.3007,
+            "2013": 41279.1479,
+            "2014": 94546.98700000001,
+            "2015": 40625.3007,
+            "2016": 41279.1479,
+            "2017": 55939.4496
+        },
+        "October": {
+            "2011": 24852.494,
+            "2012": 32382.067300000002,
+            "2013": 34164.855,
+            "2014": 76949.2874,
+            "2015": 32382.0673,
+            "2016": 34164.855,
+            "2017": 51030.7854
+        },
+        "September": {
+            "2011": 36821.6198,
+            "2012": 38016.5435,
+            "2013": 53450.105800000005,
+            "2014": 109250.6121,
+            "2015": 38016.5435,
+            "2016": 53450.1058,
+            "2017": 72777.3523
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 3.9,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Sauder Classic Bookcase, Traditional": 78216.606,
+        "Bush Library with Doors, Metal": 57033.428400000004,
+        "Safco Classic Bookcase, Mobile": 55392.219,
+        "Safco Library with Doors, Pine": 54527.5236,
+        "Bush Classic Bookcase, Traditional": 53070.648,
+        "Safco Classic Bookcase, Traditional": 52461.16,
+        "Dania Classic Bookcase, Pine": 51260.989199999996,
+        "Safco Classic Bookcase, Metal": 50552.707200000004,
+        "Ikea Classic Bookcase, Metal": 50110.0506,
+        "Sauder Classic Bookcase, Pine": 48151.134
+    },
+    "top_10_products_by_profit": {
+        "Sauder Classic Bookcase, Traditional": 21344.146,
+        "Dania Classic Bookcase, Pine": 13130.0292,
+        "Bush Classic Bookcase, Pine": 13021.348000000002,
+        "Bush Classic Bookcase, Metal": 11743.566,
+        "Safco Classic Bookcase, Metal": 10832.307200000001,
+        "Ikea Classic Bookcase, Traditional": 10734.345,
+        "Ikea Classic Bookcase, Mobile": 10696.162,
+        "Dania Classic Bookcase, Traditional": 9087.796,
+        "Sauder Classic Bookcase, Mobile": 8777.3148,
+        "Sauder Stackable Bookrack, Pine": 8545.7966
+    },
+    "top_10_products_by_turnover": {
+        "Bush Stackable Bookrack, Pine": 330,
+        "Safco Stackable Bookrack, Pine": 270,
+        "Sauder Stackable Bookrack, Pine": 266,
+        "Dania Stackable Bookrack, Pine": 252,
+        "Sauder Classic Bookcase, Traditional": 226,
+        "Sauder Floating Shelf Set, Pine": 190,
+        "Ikea Floating Shelf Set, Traditional": 188,
+        "Ikea Library with Doors, Pine": 188,
+        "Sauder Corner Shelving, Pine": 182,
+        "Sauder 3-Shelf Cabinet, Mobile": 180
+    },
+    "top_5_loss_products": {
+        "Ikea Library with Doors, Pine": -8644.992,
+        "Bush Library with Doors, Traditional": -5482.228,
+        "Safco Library with Doors, Traditional": -5380.017,
+        "Bush Library with Doors, Pine": -5305.5414,
+        "Ikea Classic Bookcase, Metal": -5222.741999999999
+    },
     "product_performance": [
         {
-            "Product ID": "FUR-BO-5951",
-            "total_sales": 39108.303,
-            "total_quantity": 113,
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 78216.606,
+            "total_quantity": 226,
             "average_price": 1348.5621724137932,
-            "total_profit": 10672.073,
+            "total_profit": 21344.146,
             "profit_margin": 0.2728850955256228
         },
         {
-            "Product ID": "FUR-BO-3639",
-            "total_sales": 28516.7142,
-            "total_quantity": 88,
-            "average_price": 1239.8571391304347,
-            "total_profit": 719.3542,
-            "profit_margin": 0.025225704299410484
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 57033.428400000004,
+            "total_quantity": 176,
+            "average_price": 1239.857139130435,
+            "total_profit": 1438.7083999999995,
+            "profit_margin": 0.025225704299410474
         },
         {
-            "Product ID": "FUR-BO-5761",
-            "total_sales": 27696.1095,
-            "total_quantity": 85,
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 55392.219,
+            "total_quantity": 170,
             "average_price": 1154.0045625,
-            "total_profit": 1451.1095,
-            "profit_margin": 0.052393983349899746
+            "total_profit": 2902.2190000000005,
+            "profit_margin": 0.05239398334989975
         },
         {
-            "Product ID": "FUR-BO-5787",
-            "total_sales": 27263.7618,
-            "total_quantity": 89,
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 54527.5236,
+            "total_quantity": 178,
             "average_price": 1090.550472,
-            "total_profit": 3360.8318,
+            "total_profit": 6721.6636,
             "profit_margin": 0.12327102270971278
         },
         {
-            "Product ID": "FUR-BO-3627",
-            "total_sales": 26535.324,
-            "total_quantity": 79,
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 53070.648,
+            "total_quantity": 158,
             "average_price": 1206.151090909091,
-            "total_profit": 2821.6139999999996,
-            "profit_margin": 0.10633425843980648
+            "total_profit": 5643.228,
+            "profit_margin": 0.1063342584398065
         },
         {
-            "Product ID": "FUR-BO-5763",
-            "total_sales": 26230.579999999998,
-            "total_quantity": 80,
-            "average_price": 1049.2232,
-            "total_profit": 2073.48,
-            "profit_margin": 0.07904819489313619
+            "Product Name": "Safco Classic Bookcase, Traditional",
+            "total_sales": 52461.16,
+            "total_quantity": 160,
+            "average_price": 1049.2232000000001,
+            "total_profit": 4146.96,
+            "profit_margin": 0.07904819489313618
         },
         {
-            "Product ID": "FUR-BO-3891",
-            "total_sales": 25630.494599999998,
-            "total_quantity": 88,
+            "Product Name": "Dania Classic Bookcase, Pine",
+            "total_sales": 51260.989199999996,
+            "total_quantity": 176,
             "average_price": 1165.0224818181816,
-            "total_profit": 6565.0146,
+            "total_profit": 13130.0292,
             "profit_margin": 0.25614076912897343
         },
         {
-            "Product ID": "FUR-BO-5760",
-            "total_sales": 25276.353600000002,
-            "total_quantity": 75,
+            "Product Name": "Safco Classic Bookcase, Metal",
+            "total_sales": 50552.707200000004,
+            "total_quantity": 150,
             "average_price": 1263.81768,
-            "total_profit": 5416.153600000001,
+            "total_profit": 10832.307200000001,
             "profit_margin": 0.21427748977210068
         },
         {
-            "Product ID": "FUR-BO-4848",
-            "total_sales": 25055.0253,
-            "total_quantity": 80,
+            "Product Name": "Ikea Classic Bookcase, Metal",
+            "total_sales": 50110.0506,
+            "total_quantity": 160,
             "average_price": 1089.3489260869567,
-            "total_profit": 735.5253000000002,
+            "total_profit": 1471.0506000000005,
             "profit_margin": 0.02935639821525146
         },
         {
-            "Product ID": "FUR-BO-5950",
-            "total_sales": 24075.567,
-            "total_quantity": 73,
+            "Product Name": "Sauder Classic Bookcase, Pine",
+            "total_sales": 48151.134,
+            "total_quantity": 146,
             "average_price": 1094.3439545454546,
-            "total_profit": 4267.767,
+            "total_profit": 8535.534,
             "profit_margin": 0.17726548247025709
         },
         {
-            "Product ID": "FUR-BO-3624",
-            "total_sales": 23540.063,
-            "total_quantity": 72,
+            "Product Name": "Bush Classic Bookcase, Metal",
+            "total_sales": 47080.126,
+            "total_quantity": 144,
             "average_price": 1023.4809999999999,
-            "total_profit": 5871.783,
+            "total_profit": 11743.566,
             "profit_margin": 0.24943786259195655
         },
         {
-            "Product ID": "FUR-BO-5948",
-            "total_sales": 23194.97,
-            "total_quantity": 69,
+            "Product Name": "Sauder Classic Bookcase, Metal",
+            "total_sales": 46389.94,
+            "total_quantity": 138,
             "average_price": 1546.3313333333333,
-            "total_profit": 4043.4500000000003,
-            "profit_margin": 0.17432443327152397
+            "total_profit": 8086.9,
+            "profit_margin": 0.17432443327152394
         },
         {
-            "Product ID": "FUR-BO-4851",
-            "total_sales": 22751.9325,
-            "total_quantity": 62,
+            "Product Name": "Ikea Classic Bookcase, Traditional",
+            "total_sales": 45503.865,
+            "total_quantity": 124,
             "average_price": 1083.4253571428571,
-            "total_profit": 5367.1725,
+            "total_profit": 10734.345,
             "profit_margin": 0.23589963182248364
         },
         {
-            "Product ID": "FUR-BO-4862",
-            "total_sales": 22536.0688,
-            "total_quantity": 94,
+            "Product Name": "Ikea Library with Doors, Pine",
+            "total_sales": 45072.1376,
+            "total_quantity": 188,
             "average_price": 804.8596,
-            "total_profit": -277.9512,
-            "profit_margin": -0.012333615168941974
+            "total_profit": -555.9024000000004,
+            "profit_margin": -0.012333615168941985
         },
         {
-            "Product ID": "FUR-BO-4849",
-            "total_sales": 21804.411,
-            "total_quantity": 65,
-            "average_price": 1362.7756875,
-            "total_profit": 5348.081,
-            "profit_margin": 0.24527518766730275
+            "Product Name": "Ikea Classic Bookcase, Mobile",
+            "total_sales": 43608.82199999999,
+            "total_quantity": 130,
+            "average_price": 1362.7756874999998,
+            "total_profit": 10696.162,
+            "profit_margin": 0.24527518766730277
         },
         {
-            "Product ID": "FUR-BO-5762",
-            "total_sales": 21799.2,
-            "total_quantity": 60,
+            "Product Name": "Safco Classic Bookcase, Pine",
+            "total_sales": 43598.4,
+            "total_quantity": 120,
             "average_price": 1282.3058823529411,
-            "total_profit": -1273.49,
-            "profit_margin": -0.05841911629784579
+            "total_profit": -2546.9800000000005,
+            "profit_margin": -0.058419116297845804
         },
         {
-            "Product ID": "FUR-BO-3904",
-            "total_sales": 21495.152,
-            "total_quantity": 76,
+            "Product Name": "Dania Library with Doors, Traditional",
+            "total_sales": 42990.304,
+            "total_quantity": 152,
             "average_price": 895.6313333333333,
-            "total_profit": 3263.712,
+            "total_profit": 6527.424,
             "profit_margin": 0.15183479512031364
         },
         {
-            "Product ID": "FUR-BO-5949",
-            "total_sales": 20057.4474,
-            "total_quantity": 58,
+            "Product Name": "Sauder Classic Bookcase, Mobile",
+            "total_sales": 40114.8948,
+            "total_quantity": 116,
             "average_price": 1055.6551263157896,
-            "total_profit": 4388.6574,
+            "total_profit": 8777.3148,
             "profit_margin": 0.2188043828548193
         },
         {
-            "Product ID": "FUR-BO-4861",
-            "total_sales": 19259.063000000002,
-            "total_quantity": 67,
+            "Product Name": "Ikea Library with Doors, Mobile",
+            "total_sales": 38518.126000000004,
+            "total_quantity": 134,
             "average_price": 962.95315,
-            "total_profit": 763.663,
+            "total_profit": 1527.326,
             "profit_margin": 0.03965213676283212
         },
         {
-            "Product ID": "FUR-BO-3625",
-            "total_sales": 19021.696,
-            "total_quantity": 55,
+            "Product Name": "Bush Classic Bookcase, Mobile",
+            "total_sales": 38043.392,
+            "total_quantity": 110,
             "average_price": 1001.1418947368421,
-            "total_profit": 3672.576,
+            "total_profit": 7345.152,
             "profit_margin": 0.19307300463638993
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Dania Corner Shelving, Traditional",
-            "total_sales": 854.49,
+            "Year_Month": "2011-01",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1650.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-01",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 435.99,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 1743.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 417.216,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 194.016,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 834.432,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 1133.574,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 619.02,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 704.052,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 566.787,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 5056.542,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 705.072,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 3110.0620000000004,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1375.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 873.0720000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2063.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1175.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 312.91200000000003,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 3051.9300000000003,
             "total_quantity": 7
         },
         {
-            "Order Date": "2011-01-04",
-            "Product Name": "Dania Classic Bookcase, Pine",
-            "total_sales": 1648.44,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Bush Floating Shelf Set, Pine",
-            "total_sales": 155.358,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-08",
-            "Product Name": "Ikea Classic Bookcase, Pine",
-            "total_sales": 2478.6,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-08",
-            "Product Name": "Ikea Classic Bookcase, Metal",
-            "total_sales": 986.904,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Ikea Library with Doors, Traditional",
-            "total_sales": 363.39,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Dania Floating Shelf Set, Traditional",
-            "total_sales": 451.5999999999999,
+            "Year_Month": "2011-12",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1983.015,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-11",
-            "Product Name": "Safco Floating Shelf Set, Metal",
-            "total_sales": 156.96000000000004,
+            "Year_Month": "2012-01",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 3637.602,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 2092.752,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 2737.98,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 742.8240000000001,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-12",
-            "Product Name": "Ikea Stackable Bookrack, Traditional",
-            "total_sales": 551.61,
+            "Year_Month": "2012-04",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 2182.6800000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 859.3064999999999,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1815.792,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 2546.46,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 176.268,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 782.28,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 391.14,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1857.06,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-14",
-            "Product Name": "Safco Floating Shelf Set, Traditional",
-            "total_sales": 393.48,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "O'Sullivan Elevations Bookcase, Cherry Finish",
-            "total_sales": 333.999,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-15",
-            "Product Name": "Dania Library with Doors, Traditional",
-            "total_sales": 652.3199999999999,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-15",
-            "Product Name": "Sauder Cornerstone Collection Library",
-            "total_sales": 61.96,
+            "Year_Month": "2012-08",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1309.6080000000002,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-01-19",
-            "Product Name": "Ikea Floating Shelf Set, Metal",
-            "total_sales": 226.4,
+            "Year_Month": "2012-09",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 352.536,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-20",
+            "Year_Month": "2012-09",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 156.456,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 945.828,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1455.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 235.02400000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 782.28,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 2615.94,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 2182.6800000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2751.2,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1637.0100000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1322.0099999999998,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 4359.9,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 1961.955,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1455.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 697.5840000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2476.08,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 2115.2159999999994,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 174.39600000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2888.76,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1091.34,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1586.412,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
             "Product Name": "Bush Classic Bookcase, Traditional",
             "total_sales": 825.36,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-20",
-            "Product Name": "Bush Library with Doors, Mobile",
-            "total_sales": 195.648,
+            "Year_Month": "2013-10",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 242.52,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-20",
-            "Product Name": "O'Sullivan 4-Shelf Bookcase in Odessa Pine",
-            "total_sales": 181.47000000000003,
+            "Year_Month": "2013-10",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1260.3162000000002,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-22",
+            "Year_Month": "2013-10",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1564.56,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 697.5840000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1485.6480000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 2115.2160000000003,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 782.28,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 3911.4,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 435.99,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1650.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 654.8040000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 435.99,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1564.56,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 1743.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1114.236,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 291.024,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 417.216,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 825.3599999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 2485.8300000000004,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 834.432,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 871.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 945.828,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 2179.95,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 3562.804,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1095.192,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 3705.915,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 3278.5848,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 3066.5375999999997,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 348.79200000000003,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
             "Product Name": "Bush Classic Bookcase, Traditional",
             "total_sales": 825.36,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-22",
-            "Product Name": "Sauder Floating Shelf Set, Traditional",
-            "total_sales": 259.44,
+            "Year_Month": "2014-08",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 5394.8574,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 881.3399999999999,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-23",
-            "Product Name": "Dania Classic Bookcase, Mobile",
-            "total_sales": 1102.0799999999997,
+            "Year_Month": "2014-08",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 260.76,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 1307.97,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1637.0100000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 5067.705,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1173.42,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 12425.715,
+            "total_quantity": 33
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1375.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 873.072,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 2701.4736000000003,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2338.52,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1185.9228,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1880.192,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 312.912,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 3051.9300000000003,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 6565.982999999999,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1091.2805999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 3637.602,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 2092.752,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 2737.98,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 742.824,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 2182.68,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 859.3065,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1815.792,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 2546.46,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 176.268,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 782.28,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 391.14,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1857.06,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1309.608,
             "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 352.536,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 156.456,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 945.828,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1455.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 235.024,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 782.28,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 2615.94,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 2182.68,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2751.2,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1637.01,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1322.01,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 4359.9,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 1961.955,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1455.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 697.584,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2476.08,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 2115.216,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 174.396,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2888.76,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1091.34,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1586.412,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 825.36,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 242.52,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 1260.3162,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1564.56,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 697.584,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1485.6480000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 2115.216,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 782.28,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 3911.4,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 435.99,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 654.804,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1564.56,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 1114.236,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 291.024,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 825.36,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 2291.814,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 871.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 945.828,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 1046.376,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 2943.784,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 391.14,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 3139.128,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 3278.5848,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 3066.5376,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 348.792,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 825.36,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 338.3154,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 881.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 260.76,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 1307.97,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1637.01,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 4362.633,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1173.42,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Sauder Classic Bookcase, Traditional",
+            "total_sales": 9315.653,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 2701.4736000000003,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Bush Classic Bookcase, Traditional",
+            "total_sales": 275.12,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Bush Library with Doors, Metal",
+            "total_sales": 1185.9227999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 705.072,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Safco Classic Bookcase, Mobile",
+            "total_sales": 4582.968000000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Safco Library with Doors, Pine",
+            "total_sales": 1091.2806,
+            "total_quantity": 3
         }
     ],
     "most_frequent_order_month": [
@@ -1584,545 +2693,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 13402.003,
-            "total_quantity": 74
+            "Sales": 13402.003,
+            "Quantity": 74,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 11956.586,
-            "total_quantity": 45
+            "Sales": 11956.586,
+            "Quantity": 45,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 11470.793,
-            "total_quantity": 70
+            "Sales": 11470.793,
+            "Quantity": 70,
+            "Sales_MA": 12276.460666666666
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 6405.308,
-            "total_quantity": 52
+            "Sales": 6405.308,
+            "Quantity": 52,
+            "Sales_MA": 9944.229
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 14966.7142,
-            "total_quantity": 87
+            "Sales": 14966.7142,
+            "Quantity": 87,
+            "Sales_MA": 10947.605066666665
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 26425.9265,
-            "total_quantity": 152
+            "Sales": 26425.9265,
+            "Quantity": 152,
+            "Sales_MA": 15932.649566666669
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 9480.66,
-            "total_quantity": 68
+            "Sales": 9480.66,
+            "Quantity": 68,
+            "Sales_MA": 16957.7669
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 24770.0855,
-            "total_quantity": 139
+            "Sales": 24770.0855,
+            "Quantity": 139,
+            "Sales_MA": 20225.557333333334
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 36821.6198,
-            "total_quantity": 205
+            "Sales": 36821.6198,
+            "Quantity": 205,
+            "Sales_MA": 23690.788433333335
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 24852.494,
-            "total_quantity": 125
+            "Sales": 24852.494,
+            "Quantity": 125,
+            "Sales_MA": 28814.7331
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 38598.7454,
-            "total_quantity": 182
+            "Sales": 38598.7454,
+            "Quantity": 182,
+            "Sales_MA": 33424.286400000005
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 40245.3504,
-            "total_quantity": 223
+            "Sales": 40245.3504,
+            "Quantity": 223,
+            "Sales_MA": 34565.52993333333
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 16617.8201,
-            "total_quantity": 92
+            "Sales": 16617.8201,
+            "Quantity": 92,
+            "Sales_MA": 31820.638633333336
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 12021.613,
-            "total_quantity": 45
+            "Sales": 12021.613,
+            "Quantity": 45,
+            "Sales_MA": 22961.594500000003
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 21301.0851,
-            "total_quantity": 129
+            "Sales": 21301.0851,
+            "Quantity": 129,
+            "Sales_MA": 16646.8394
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 16175.065499999999,
-            "total_quantity": 101
+            "Sales": 16175.065499999999,
+            "Quantity": 101,
+            "Sales_MA": 16499.25453333333
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 28612.4745,
-            "total_quantity": 146
+            "Sales": 28612.4745,
+            "Quantity": 146,
+            "Sales_MA": 22029.5417
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 29771.198,
-            "total_quantity": 165
+            "Sales": 29771.198,
+            "Quantity": 165,
+            "Sales_MA": 24852.912666666667
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 13230.9616,
-            "total_quantity": 93
+            "Sales": 13230.9616,
+            "Quantity": 93,
+            "Sales_MA": 23871.544700000002
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 35400.7633,
-            "total_quantity": 205
+            "Sales": 35400.7633,
+            "Quantity": 205,
+            "Sales_MA": 26134.307633333334
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 38016.5435,
-            "total_quantity": 200
+            "Sales": 38016.5435,
+            "Quantity": 200,
+            "Sales_MA": 28882.756133333332
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 32382.067300000002,
-            "total_quantity": 172
+            "Sales": 32382.067300000002,
+            "Quantity": 172,
+            "Sales_MA": 35266.458033333336
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 40625.3007,
-            "total_quantity": 224
+            "Sales": 40625.3007,
+            "Quantity": 224,
+            "Sales_MA": 37007.970499999996
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 33798.5572,
-            "total_quantity": 216
+            "Sales": 33798.5572,
+            "Quantity": 216,
+            "Sales_MA": 35601.975066666666
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 32256.561,
-            "total_quantity": 179
+            "Sales": 32256.561,
+            "Quantity": 179,
+            "Sales_MA": 35560.13963333333
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 16959.5443,
-            "total_quantity": 75
+            "Sales": 16959.5443,
+            "Quantity": 75,
+            "Sales_MA": 27671.55416666667
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 21750.6799,
-            "total_quantity": 128
+            "Sales": 21750.6799,
+            "Quantity": 128,
+            "Sales_MA": 23655.595066666665
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 16594.9605,
-            "total_quantity": 101
+            "Sales": 16594.9605,
+            "Quantity": 101,
+            "Sales_MA": 18435.061566666667
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 17765.2013,
-            "total_quantity": 107
+            "Sales": 17765.2013,
+            "Quantity": 107,
+            "Sales_MA": 18703.6139
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 32511.8958,
-            "total_quantity": 186
+            "Sales": 32511.8958,
+            "Quantity": 186,
+            "Sales_MA": 22290.685866666667
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 23720.064,
-            "total_quantity": 145
+            "Sales": 23720.064,
+            "Quantity": 145,
+            "Sales_MA": 24665.720366666665
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 41399.8946,
-            "total_quantity": 211
+            "Sales": 41399.8946,
+            "Quantity": 211,
+            "Sales_MA": 32543.951466666666
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 53450.105800000005,
-            "total_quantity": 339
+            "Sales": 53450.105800000005,
+            "Quantity": 339,
+            "Sales_MA": 39523.3548
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 34164.855,
-            "total_quantity": 205
+            "Sales": 34164.855,
+            "Quantity": 205,
+            "Sales_MA": 43004.9518
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 41279.1479,
-            "total_quantity": 242
+            "Sales": 41279.1479,
+            "Quantity": 242,
+            "Sales_MA": 42964.702900000004
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 44172.889800000004,
-            "total_quantity": 272
+            "Sales": 44172.889800000004,
+            "Quantity": 272,
+            "Sales_MA": 39872.29756666667
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 29053.0204,
-            "total_quantity": 156
+            "Sales": 29053.0204,
+            "Quantity": 156,
+            "Sales_MA": 38168.35270000001
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 39513.0374,
-            "total_quantity": 190
+            "Sales": 39513.0374,
+            "Quantity": 190,
+            "Sales_MA": 37579.64920000001
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 43523.8443,
-            "total_quantity": 247
+            "Sales": 43523.8443,
+            "Quantity": 247,
+            "Sales_MA": 37363.3007
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 37338.3925,
-            "total_quantity": 278
+            "Sales": 37338.3925,
+            "Quantity": 278,
+            "Sales_MA": 40125.0914
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 46387.832800000004,
-            "total_quantity": 303
+            "Sales": 46387.832800000004,
+            "Quantity": 303,
+            "Sales_MA": 42416.68986666666
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 78173.6579,
-            "total_quantity": 429
+            "Sales": 78173.6579,
+            "Quantity": 429,
+            "Sales_MA": 53966.627733333335
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 48972.778,
-            "total_quantity": 274
+            "Sales": 48972.778,
+            "Quantity": 274,
+            "Sales_MA": 57844.75623333334
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 75787.8166,
-            "total_quantity": 444
+            "Sales": 75787.8166,
+            "Quantity": 444,
+            "Sales_MA": 67644.75083333334
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 109250.6121,
-            "total_quantity": 538
+            "Sales": 109250.6121,
+            "Quantity": 538,
+            "Sales_MA": 78003.73556666667
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 76949.2874,
-            "total_quantity": 439
+            "Sales": 76949.2874,
+            "Quantity": 439,
+            "Sales_MA": 87329.2387
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 94546.98700000001,
-            "total_quantity": 516
+            "Sales": 94546.98700000001,
+            "Quantity": 516,
+            "Sales_MA": 93582.29550000001
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 93095.7257,
-            "total_quantity": 518
+            "Sales": 93095.7257,
+            "Quantity": 518,
+            "Sales_MA": 88197.33336666667
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 16617.8201,
-            "total_quantity": 92
+            "Sales": 16617.8201,
+            "Quantity": 92,
+            "Sales_MA": 68086.84426666667
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 12021.613,
-            "total_quantity": 45
+            "Sales": 12021.613,
+            "Quantity": 45,
+            "Sales_MA": 40578.38626666666
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 21301.0851,
-            "total_quantity": 129
+            "Sales": 21301.0851,
+            "Quantity": 129,
+            "Sales_MA": 16646.8394
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 16175.0655,
-            "total_quantity": 101
+            "Sales": 16175.0655,
+            "Quantity": 101,
+            "Sales_MA": 16499.25453333333
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 28612.4745,
-            "total_quantity": 146
+            "Sales": 28612.4745,
+            "Quantity": 146,
+            "Sales_MA": 22029.5417
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 29771.198,
-            "total_quantity": 165
+            "Sales": 29771.198,
+            "Quantity": 165,
+            "Sales_MA": 24852.912666666667
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 13230.9616,
-            "total_quantity": 93
+            "Sales": 13230.9616,
+            "Quantity": 93,
+            "Sales_MA": 23871.544700000002
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 35400.7633,
-            "total_quantity": 205
+            "Sales": 35400.7633,
+            "Quantity": 205,
+            "Sales_MA": 26134.307633333334
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 38016.5435,
-            "total_quantity": 200
+            "Sales": 38016.5435,
+            "Quantity": 200,
+            "Sales_MA": 28882.756133333332
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 32382.0673,
-            "total_quantity": 172
+            "Sales": 32382.0673,
+            "Quantity": 172,
+            "Sales_MA": 35266.458033333336
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 40625.3007,
-            "total_quantity": 224
+            "Sales": 40625.3007,
+            "Quantity": 224,
+            "Sales_MA": 37007.970499999996
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 33798.5572,
-            "total_quantity": 216
+            "Sales": 33798.5572,
+            "Quantity": 216,
+            "Sales_MA": 35601.975066666666
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 32256.561,
-            "total_quantity": 179
+            "Sales": 32256.561,
+            "Quantity": 179,
+            "Sales_MA": 35560.13963333333
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 16959.5443,
-            "total_quantity": 75
+            "Sales": 16959.5443,
+            "Quantity": 75,
+            "Sales_MA": 27671.55416666667
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 21750.6799,
-            "total_quantity": 128
+            "Sales": 21750.6799,
+            "Quantity": 128,
+            "Sales_MA": 23655.595066666665
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 16594.9605,
-            "total_quantity": 101
+            "Sales": 16594.9605,
+            "Quantity": 101,
+            "Sales_MA": 18435.061566666667
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 17765.2013,
-            "total_quantity": 107
+            "Sales": 17765.2013,
+            "Quantity": 107,
+            "Sales_MA": 18703.6139
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 32511.8958,
-            "total_quantity": 186
+            "Sales": 32511.8958,
+            "Quantity": 186,
+            "Sales_MA": 22290.685866666667
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 23720.064,
-            "total_quantity": 145
+            "Sales": 23720.064,
+            "Quantity": 145,
+            "Sales_MA": 24665.720366666665
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 41399.8946,
-            "total_quantity": 211
+            "Sales": 41399.8946,
+            "Quantity": 211,
+            "Sales_MA": 32543.951466666666
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 53450.1058,
-            "total_quantity": 339
+            "Sales": 53450.1058,
+            "Quantity": 339,
+            "Sales_MA": 39523.3548
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 34164.855,
-            "total_quantity": 205
+            "Sales": 34164.855,
+            "Quantity": 205,
+            "Sales_MA": 43004.9518
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 41279.1479,
-            "total_quantity": 242
+            "Sales": 41279.1479,
+            "Quantity": 242,
+            "Sales_MA": 42964.702900000004
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 44172.8898,
-            "total_quantity": 272
+            "Sales": 44172.8898,
+            "Quantity": 272,
+            "Sales_MA": 39872.29756666667
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 15651.0174,
-            "total_quantity": 82
+            "Sales": 15651.0174,
+            "Quantity": 82,
+            "Sales_MA": 33701.01836666666
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 26045.2614,
-            "total_quantity": 141
+            "Sales": 26045.2614,
+            "Quantity": 141,
+            "Sales_MA": 28623.056200000003
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 32996.6413,
-            "total_quantity": 176
+            "Sales": 32996.6413,
+            "Quantity": 176,
+            "Sales_MA": 24897.640033333333
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 31500.6845,
-            "total_quantity": 231
+            "Sales": 31500.6845,
+            "Quantity": 231,
+            "Sales_MA": 30180.8624
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 29909.2636,
-            "total_quantity": 209
+            "Sales": 29909.2636,
+            "Quantity": 209,
+            "Sales_MA": 31468.863133333332
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 52796.1464,
-            "total_quantity": 280
+            "Sales": 52796.1464,
+            "Quantity": 280,
+            "Sales_MA": 38068.69816666666
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 39702.1945,
-            "total_quantity": 209
+            "Sales": 39702.1945,
+            "Quantity": 209,
+            "Sales_MA": 40802.53483333333
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 50922.7346,
-            "total_quantity": 304
+            "Sales": 50922.7346,
+            "Quantity": 304,
+            "Sales_MA": 47807.025166666666
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 72777.3523,
-            "total_quantity": 335
+            "Sales": 72777.3523,
+            "Quantity": 335,
+            "Sales_MA": 54467.42713333334
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 51030.7854,
-            "total_quantity": 308
+            "Sales": 51030.7854,
+            "Quantity": 308,
+            "Sales_MA": 58243.62410000001
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 55939.4496,
-            "total_quantity": 328
+            "Sales": 55939.4496,
+            "Quantity": 328,
+            "Sales_MA": 59915.862433333336
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 53925.1753,
-            "total_quantity": 307
+            "Sales": 53925.1753,
+            "Quantity": 307,
+            "Sales_MA": 53631.80343333334
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "VG-21805",
-            "total_spent": 10971.630000000001,
-            "purchase_frequency": 3,
-            "average_order_value": 2194.326
+            "Customer Name": "Vivek Grady",
+            "total_spent": 22668.96,
+            "purchase_frequency": 8,
+            "average_order_value": 1889.08
         },
         {
-            "Customer ID": "MB-17305",
-            "total_spent": 8633.804,
-            "purchase_frequency": 6,
+            "Customer Name": "Maria Bertelson",
+            "total_spent": 17267.608,
+            "purchase_frequency": 12,
             "average_order_value": 1438.9673333333333
         },
         {
-            "Customer ID": "VG-2180558",
-            "total_spent": 8539.41,
-            "purchase_frequency": 1,
-            "average_order_value": 4269.705
+            "Customer Name": "Corey Roper",
+            "total_spent": 17190.33,
+            "purchase_frequency": 10,
+            "average_order_value": 1719.0330000000001
         },
         {
-            "Customer ID": "YC-21895",
-            "total_spent": 7156.173,
-            "purchase_frequency": 4,
+            "Customer Name": "Darrin Van Huff",
+            "total_spent": 15381.0196,
+            "purchase_frequency": 10,
+            "average_order_value": 1281.7516333333333
+        },
+        {
+            "Customer Name": "Yoseph Carroll",
+            "total_spent": 14312.346,
+            "purchase_frequency": 8,
             "average_order_value": 1192.6955
         },
         {
-            "Customer ID": "PF-19120",
-            "total_spent": 6589.3780000000015,
-            "purchase_frequency": 3,
-            "average_order_value": 1647.3445000000004
+            "Customer Name": "Cari Sayre",
+            "total_spent": 13751.652,
+            "purchase_frequency": 12,
+            "average_order_value": 1145.971
         },
         {
-            "Customer ID": "MG-17695",
-            "total_spent": 6552.477000000001,
+            "Customer Name": "Tony Sayre",
+            "total_spent": 13393.386,
+            "purchase_frequency": 10,
+            "average_order_value": 1339.3386
+        },
+        {
+            "Customer Name": "Peter Fuller",
+            "total_spent": 13178.756000000001,
             "purchase_frequency": 6,
-            "average_order_value": 819.0596250000001
+            "average_order_value": 1647.3445000000002
         },
         {
-            "Customer ID": "CS-11845",
-            "total_spent": 6448.29,
-            "purchase_frequency": 4,
-            "average_order_value": 1612.0725
+            "Customer Name": "Maureen Gnade",
+            "total_spent": 13104.954,
+            "purchase_frequency": 12,
+            "average_order_value": 819.059625
         },
         {
-            "Customer ID": "GT-14710",
-            "total_spent": 6366.8150000000005,
-            "purchase_frequency": 3,
-            "average_order_value": 2122.271666666667
-        },
-        {
-            "Customer ID": "AS-10225",
-            "total_spent": 6364.198,
-            "purchase_frequency": 5,
-            "average_order_value": 1272.8396
-        },
-        {
-            "Customer ID": "PF-191201406",
-            "total_spent": 6232.624,
-            "purchase_frequency": 1,
-            "average_order_value": 3116.312
-        },
-        {
-            "Customer ID": "DV-13045",
-            "total_spent": 6226.8697999999995,
-            "purchase_frequency": 4,
-            "average_order_value": 1245.37396
-        },
-        {
-            "Customer ID": "QJ-19255",
-            "total_spent": 6099.516,
-            "purchase_frequency": 6,
-            "average_order_value": 1016.5859999999999
-        },
-        {
-            "Customer ID": "JE-15715",
-            "total_spent": 6095.5249,
-            "purchase_frequency": 3,
-            "average_order_value": 1219.10498
-        },
-        {
-            "Customer ID": "KD-16495",
-            "total_spent": 6092.135,
-            "purchase_frequency": 6,
-            "average_order_value": 1015.3558333333334
-        },
-        {
-            "Customer ID": "JF-15190",
-            "total_spent": 6084.729,
-            "purchase_frequency": 5,
-            "average_order_value": 1216.9458
-        },
-        {
-            "Customer ID": "SA-20830",
-            "total_spent": 6055.134,
-            "purchase_frequency": 4,
-            "average_order_value": 1211.0268
-        },
-        {
-            "Customer ID": "JF-15565",
-            "total_spent": 6003.6105,
-            "purchase_frequency": 6,
-            "average_order_value": 857.6586428571428
-        },
-        {
-            "Customer ID": "RB-19435",
-            "total_spent": 5914.8168,
-            "purchase_frequency": 5,
-            "average_order_value": 985.8027999999999
-        },
-        {
-            "Customer ID": "JK-16120",
-            "total_spent": 5676.1728,
-            "purchase_frequency": 4,
-            "average_order_value": 1419.0432
-        },
-        {
-            "Customer ID": "PL-18925",
-            "total_spent": 5638.678,
-            "purchase_frequency": 5,
-            "average_order_value": 805.5254285714285
+            "Customer Name": "Alan Schoenberger",
+            "total_spent": 12963.836,
+            "purchase_frequency": 12,
+            "average_order_value": 1080.3196666666665
         }
     ],
     "discount_analysis": [
@@ -2130,79 +3263,79 @@
             "Discount": 0.0,
             "total_sales": 1538871.02,
             "total_quantity": 7398,
-            "average_profit": 166.7139234250222
+            "average_profit": 166.7139
         },
         {
             "Discount": 0.07,
             "total_sales": 118994.3928,
             "total_quantity": 506,
-            "average_profit": 141.4882086956522
+            "average_profit": 141.4882
         },
         {
             "Discount": 0.1,
             "total_sales": 566857.926,
             "total_quantity": 2674,
-            "average_profit": 134.34736056338028
+            "average_profit": 134.3474
         },
         {
             "Discount": 0.15,
             "total_sales": 55117.043,
             "total_quantity": 396,
-            "average_profit": 27.28829807692307
+            "average_profit": 27.2883
         },
         {
             "Discount": 0.2,
             "total_sales": 246998.208,
             "total_quantity": 1752,
-            "average_profit": 23.72461949152542
+            "average_profit": 23.7246
         },
         {
             "Discount": 0.3,
-            "total_sales": 8565.395999999999,
+            "total_sales": 8565.396,
             "total_quantity": 86,
-            "average_profit": -55.58725999999999
+            "average_profit": -55.5873
         },
         {
             "Discount": 0.32,
             "total_sales": 28986.9176,
             "total_quantity": 210,
-            "average_profit": -88.56065555555557
+            "average_profit": -88.5607
         },
         {
             "Discount": 0.35,
             "total_sales": 37344.684,
             "total_quantity": 268,
-            "average_profit": -57.16832432432432
+            "average_profit": -57.1683
         },
         {
             "Discount": 0.37,
             "total_sales": 34835.3082,
             "total_quantity": 262,
-            "average_profit": -108.95637567567567
+            "average_profit": -108.9564
         },
         {
             "Discount": 0.4,
             "total_sales": 143740.704,
             "total_quantity": 1376,
-            "average_profit": -107.04004081632654
+            "average_profit": -107.04
         },
         {
             "Discount": 0.5,
             "total_sales": 74047.94,
             "total_quantity": 630,
-            "average_profit": -251.2655346153846
+            "average_profit": -251.2655
         },
         {
             "Discount": 0.6,
             "total_sales": 54775.704,
             "total_quantity": 648,
-            "average_profit": -201.047125
+            "average_profit": -201.0471
         },
         {
             "Discount": 0.7,
             "total_sales": 24009.24,
             "total_quantity": 414,
-            "average_profit": -243.28948533333335
+            "average_profit": -243.2895
         }
     ],
     "geographic_distribution": [
@@ -2210,121 +3343,215 @@
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 39158.91,
-            "total_quantity": 154
+            "total_quantity": 154,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "Managua",
             "City": "Managua",
             "total_sales": 37002.92,
-            "total_quantity": 244
+            "total_quantity": 244,
+            "Location": "Managua, Managua"
         },
         {
             "State": "New York",
             "City": "New York City",
             "total_sales": 34038.064,
-            "total_quantity": 190
+            "total_quantity": 190,
+            "Location": "New York, New York City"
         },
         {
             "State": "England",
             "City": "London",
             "total_sales": 31832.136,
-            "total_quantity": 140
+            "total_quantity": 140,
+            "Location": "England, London"
         },
         {
             "State": "Victoria",
             "City": "Melbourne",
             "total_sales": 23430.654,
-            "total_quantity": 108
+            "total_quantity": 108,
+            "Location": "Victoria, Melbourne"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 22471.441199999997,
-            "total_quantity": 90
+            "total_quantity": 90,
+            "Location": "Jakarta, Jakarta"
         },
         {
             "State": "Queensland",
             "City": "Brisbane",
             "total_sales": 20794.32,
-            "total_quantity": 86
+            "total_quantity": 86,
+            "Location": "Queensland, Brisbane"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 20309.73,
-            "total_quantity": 122
+            "total_quantity": 122,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Queensland",
             "City": "Gold Coast",
             "total_sales": 19768.626,
-            "total_quantity": 94
+            "total_quantity": 94,
+            "Location": "Queensland, Gold Coast"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 19581.416,
-            "total_quantity": 152
+            "total_quantity": 152,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 18123.104,
-            "total_quantity": 148
+            "total_quantity": 148,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 18094.56,
-            "total_quantity": 198
+            "total_quantity": 198,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Bangkok",
             "City": "Bangkok",
             "total_sales": 17820.243000000002,
-            "total_quantity": 116
+            "total_quantity": 116,
+            "Location": "Bangkok, Bangkok"
         },
         {
             "State": "Khulna",
             "City": "Khulna",
             "total_sales": 17596.56,
-            "total_quantity": 46
+            "total_quantity": 46,
+            "Location": "Khulna, Khulna"
         },
         {
             "State": "Texas",
             "City": "Houston",
             "total_sales": 17485.5608,
-            "total_quantity": 98
-        },
-        {
-            "State": "Kerala",
-            "City": "Thiruvananthapuram",
-            "total_sales": 17078.82,
-            "total_quantity": 40
-        },
-        {
-            "State": "Dhaka",
-            "City": "Dhaka",
-            "total_sales": 16999.5,
-            "total_quantity": 78
-        },
-        {
-            "State": "Francisco Moraz\u00e1n",
-            "City": "Tegucigalpa",
-            "total_sales": 16959.936,
-            "total_quantity": 170
-        },
-        {
-            "State": "Guatemala",
-            "City": "Mixco",
-            "total_sales": 16430.2,
-            "total_quantity": 96
-        },
-        {
-            "State": "South Australia",
-            "City": "Adelaide",
-            "total_sales": 14479.668000000001,
-            "total_quantity": 74
+            "total_quantity": 98,
+            "Location": "Texas, Houston"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 706,
+            "avg_shipping_delay": 2.1,
+            "total_profit": 56957.98,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 234,
+            "avg_shipping_delay": 0.02,
+            "total_profit": 13999.5,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 870,
+            "avg_shipping_delay": 3.19,
+            "total_profit": 47658.37,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 2760,
+            "avg_shipping_delay": 4.97,
+            "total_profit": 205233.0,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.017323982660914186,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.013552252189483093,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.07148451766426163,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.009797381721696637,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 750.0,
+                "mean": 299.47333333333336,
+                "std": 301.53974903687435,
+                "min": 0.0,
+                "25%": 73.25,
+                "50%": 186.5,
+                "75%": 446.75,
+                "max": 1401.0
+            },
+            "frequency": {
+                "count": 750.0,
+                "mean": 6.093333333333334,
+                "std": 3.073958552713524,
+                "min": 2.0,
+                "25%": 4.0,
+                "50%": 6.0,
+                "75%": 8.0,
+                "max": 16.0
+            },
+            "monetary": {
+                "count": 750.0,
+                "mean": 3910.8593114666664,
+                "std": 3017.4208585343813,
+                "min": 142.8,
+                "25%": 1719.43125,
+                "50%": 3124.416,
+                "75%": 5442.9974999999995,
+                "max": 22668.96
+            }
+        },
+        "rfm_segments": {
+            "High": 251,
+            "Medium": 250,
+            "Low": 249
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3240,
+        "churned_customers": 2454,
+        "churn_rate": 0.7574074074074074,
+        "avg_recency": 875.1956790123456,
+        "avg_frequency": 1.4882716049382716,
+        "avg_monetary": 905.2915072839506,
+        "churned_customer_characteristics": {
+            "avg_recency": 1107.321923390383,
+            "avg_frequency": 1.604319478402608,
+            "avg_monetary": 974.6028852893234,
+            "avg_discount": 0.15499185974308224,
+            "avg_quantity": 3.341003997360965,
+            "avg_shipping_cost": 63.09794547725773,
+            "avg_profit": 63.58935134668374
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 150.46564885496184,
+            "avg_frequency": 1.1259541984732824,
+            "avg_monetary": 688.8918614503816,
+            "avg_discount": 0.15310432569974555,
+            "avg_quantity": 3.4617684478371507,
+            "avg_shipping_cost": 66.31227396098387,
+            "avg_profit": 76.06379289652247
+        }
+    }
 }

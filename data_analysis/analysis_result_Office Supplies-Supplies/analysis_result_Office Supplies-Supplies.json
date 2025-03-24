@@ -1188,288 +1188,1115 @@
         36,
         34
     ],
+    "yearly_sales": {
+        "2011": 47580.6123,
+        "2012": 43297.4164,
+        "2013": 65913.1001,
+        "2014": 133848.9841,
+        "2015": 43253.5604,
+        "2016": 65814.4121,
+        "2017": 86177.2678
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 5511.102999999999,
+            "2012": 2171.4159,
+            "2013": 4285.2199,
+            "2014": 9978.755000000001,
+            "2015": 2171.4159,
+            "2016": 4221.3799,
+            "2017": 4467.652
+        },
+        "August": {
+            "2011": 2879.2312,
+            "2012": 4484.9944000000005,
+            "2013": 6552.4702,
+            "2014": 11194.1497,
+            "2015": 4481.5064,
+            "2016": 6552.4702,
+            "2017": 8411.0925
+        },
+        "December": {
+            "2011": 4840.4601,
+            "2012": 5843.5248,
+            "2013": 6679.6457,
+            "2014": 17485.7079,
+            "2015": 5811.8768,
+            "2016": 6679.6457,
+            "2017": 12596.1998
+        },
+        "February": {
+            "2011": 1629.7730000000001,
+            "2012": 1568.9248,
+            "2013": 2875.728,
+            "2014": 5149.9132,
+            "2015": 1511.9248,
+            "2016": 2875.728,
+            "2017": 3495.7862
+        },
+        "January": {
+            "2011": 1536.4825,
+            "2012": 2367.484,
+            "2013": 2839.381,
+            "2014": 8611.266,
+            "2015": 2424.484,
+            "2016": 2839.381,
+            "2017": 7074.7835
+        },
+        "July": {
+            "2011": 9843.1268,
+            "2012": 1961.5405,
+            "2013": 4833.0359,
+            "2014": 14834.8923,
+            "2015": 1961.5405,
+            "2016": 4833.0359,
+            "2017": 4755.0415
+        },
+        "June": {
+            "2011": 5190.4704,
+            "2012": 4885.3863,
+            "2013": 5850.061000000001,
+            "2014": 11529.342200000001,
+            "2015": 4885.3863,
+            "2016": 5850.061,
+            "2017": 6346.2318
+        },
+        "March": {
+            "2011": 1328.1145000000001,
+            "2012": 1517.6224,
+            "2013": 12048.3539,
+            "2014": 8102.1939,
+            "2015": 1517.6224,
+            "2016": 12048.3539,
+            "2017": 6791.4574
+        },
+        "May": {
+            "2011": 1915.1681,
+            "2012": 3793.574,
+            "2013": 3398.0493,
+            "2014": 8245.3228,
+            "2015": 3793.574,
+            "2016": 3398.0493,
+            "2017": 6330.1547
+        },
+        "November": {
+            "2011": 4589.0219,
+            "2012": 5110.2528,
+            "2013": 6178.5546,
+            "2014": 11561.8676,
+            "2015": 5101.5328,
+            "2016": 6163.8346,
+            "2017": 7381.1867
+        },
+        "October": {
+            "2011": 3685.2146000000002,
+            "2012": 4208.2779,
+            "2013": 4930.4965,
+            "2014": 10134.3094,
+            "2015": 4208.2779,
+            "2016": 4910.3685000000005,
+            "2017": 6040.8098
+        },
+        "September": {
+            "2011": 4632.4462,
+            "2012": 5384.4186,
+            "2013": 5442.1041,
+            "2014": 17021.2641,
+            "2015": 5384.4186,
+            "2016": 5442.1041,
+            "2017": 12486.8719
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "High Speed Automatic Electric Letter Opener": 34060.623999999996,
+        "Martin Yale Chadless Opener Electric Letter Opener": 33312.4,
+        "Fiskars Trimmer, Easy Grip": 8933.6208,
+        "Kleencut Shears, Steel": 6918.7284,
+        "Stiletto Shears, High Speed": 6568.4528,
+        "Kleencut Trimmer, Steel": 6527.0838,
+        "Fiskars Trimmer, Serrated": 6498.4400000000005,
+        "Fiskars Letter Opener, Easy Grip": 6413.0288,
+        "Kleencut Letter Opener, Easy Grip": 6384.802,
+        "Stiletto Shears, Steel": 6363.660000000001
+    },
+    "top_10_products_by_profit": {
+        "Fiskars Trimmer, Easy Grip": 2763.8808,
+        "Fiskars Shears, High Speed": 2461.744,
+        "Elite Trimmer, Steel": 1986.8596,
+        "Elite Trimmer, Serrated": 1557.892,
+        "Kleencut Letter Opener, Easy Grip": 1537.762,
+        "Fiskars Letter Opener, Easy Grip": 1496.1088,
+        "Kleencut Shears, Steel": 1377.6284,
+        "Acme Letter Opener, Easy Grip": 1366.4906,
+        "Acme Shears, High Speed": 1333.704,
+        "Acme Box Cutter, High Speed": 1272.588
+    },
+    "top_10_products_by_turnover": {
+        "Kleencut Letter Opener, Easy Grip": 282,
+        "Fiskars Letter Opener, Easy Grip": 278,
+        "Stiletto Letter Opener, Easy Grip": 240,
+        "Fiskars Trimmer, Easy Grip": 238,
+        "Kleencut Box Cutter, High Speed": 230,
+        "Elite Letter Opener, High Speed": 224,
+        "Fiskars Trimmer, Serrated": 224,
+        "Acme Letter Opener, Steel": 220,
+        "Fiskars Box Cutter, Serrated": 218,
+        "Elite Trimmer, Steel": 208
+    },
+    "top_5_loss_products": {
+        "Martin Yale Chadless Opener Electric Letter Opener": -2998.116,
+        "High Speed Automatic Electric Letter Opener": -1572.0288000000003,
+        "Kleencut Box Cutter, High Speed": -1186.692,
+        "Acme Shears, Easy Grip": -1074.1299999999999,
+        "Fiskars Trimmer, Serrated": -952.3800000000002
+    },
     "product_performance": [
         {
-            "Product ID": "OFF-SU-10000151",
-            "total_sales": 17030.311999999998,
-            "total_quantity": 11,
-            "average_price": 5676.770666666666,
-            "total_profit": -262.00480000000084,
-            "profit_margin": -0.015384615384615436
-        },
-        {
-            "Product ID": "OFF-SU-4601",
-            "total_sales": 17030.311999999998,
-            "total_quantity": 11,
-            "average_price": 5676.770666666666,
-            "total_profit": -262.00480000000005,
-            "profit_margin": -0.015384615384615389
-        },
-        {
-            "Product ID": "OFF-SU-5168",
-            "total_sales": 16656.2,
+            "Product Name": "High Speed Automatic Electric Letter Opener",
+            "total_sales": 34060.623999999996,
             "total_quantity": 22,
-            "average_price": 2776.0333333333333,
-            "total_profit": -1299.1836,
-            "profit_margin": -0.078
+            "average_price": 5676.770666666666,
+            "total_profit": -524.0096000000009,
+            "profit_margin": -0.015384615384615413
         },
         {
-            "Product ID": "OFF-SU-10002881",
-            "total_sales": 16656.2,
-            "total_quantity": 22,
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 33312.4,
+            "total_quantity": 44,
             "average_price": 2776.0333333333333,
-            "total_profit": -1299.1835999999998,
+            "total_profit": -2598.3671999999997,
             "profit_margin": -0.07799999999999999
         },
         {
-            "Product ID": "OFF-SU-4325",
-            "total_sales": 4466.8104,
-            "total_quantity": 119,
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 8933.6208,
+            "total_quantity": 238,
             "average_price": 159.52894285714288,
-            "total_profit": 1381.9404,
+            "total_profit": 2763.8808,
             "profit_margin": 0.3093796862297983
         },
         {
-            "Product ID": "OFF-SU-4992",
-            "total_sales": 3459.3642,
-            "total_quantity": 96,
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 6918.7284,
+            "total_quantity": 192,
             "average_price": 157.24382727272726,
-            "total_profit": 688.8142,
+            "total_profit": 1377.6284,
             "profit_margin": 0.19911583752875747
         },
         {
-            "Product ID": "OFF-SU-6177",
-            "total_sales": 3284.2264,
-            "total_quantity": 82,
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 6568.4528,
+            "total_quantity": 164,
             "average_price": 117.2938,
-            "total_profit": 358.29640000000006,
-            "profit_margin": 0.1090961329584343
+            "total_profit": 716.5928,
+            "profit_margin": 0.10909613295843429
         },
         {
-            "Product ID": "OFF-SU-4996",
-            "total_sales": 3263.5419,
-            "total_quantity": 102,
+            "Product Name": "Kleencut Trimmer, Steel",
+            "total_sales": 6527.0838,
+            "total_quantity": 204,
             "average_price": 125.52084230769232,
-            "total_profit": 28.311899999999984,
-            "profit_margin": 0.00867520652944581
+            "total_profit": 56.623799999999996,
+            "profit_margin": 0.008675206529445813
         },
         {
-            "Product ID": "OFF-SU-4327",
-            "total_sales": 3249.2200000000003,
-            "total_quantity": 112,
+            "Product Name": "Fiskars Trimmer, Serrated",
+            "total_sales": 6498.4400000000005,
+            "total_quantity": 224,
             "average_price": 116.04357142857144,
-            "total_profit": -63.44000000000004,
-            "profit_margin": -0.01952468592462192
+            "total_profit": -126.8800000000003,
+            "profit_margin": -0.019524685924621952
         },
         {
-            "Product ID": "OFF-SU-4308",
-            "total_sales": 3206.5144,
-            "total_quantity": 139,
+            "Product Name": "Fiskars Letter Opener, Easy Grip",
+            "total_sales": 6413.0288,
+            "total_quantity": 278,
             "average_price": 97.16710303030302,
-            "total_profit": 748.0544,
+            "total_profit": 1496.1088,
             "profit_margin": 0.2332920756569813
         },
         {
-            "Product ID": "OFF-SU-4978",
-            "total_sales": 3192.401,
-            "total_quantity": 141,
+            "Product Name": "Kleencut Letter Opener, Easy Grip",
+            "total_sales": 6384.802,
+            "total_quantity": 282,
             "average_price": 86.2811081081081,
-            "total_profit": 768.881,
+            "total_profit": 1537.762,
             "profit_margin": 0.24084724945268468
         },
         {
-            "Product ID": "OFF-SU-6179",
-            "total_sales": 3181.83,
-            "total_quantity": 88,
-            "average_price": 144.62863636363636,
-            "total_profit": -76.36999999999998,
-            "profit_margin": -0.024001910850045407
+            "Product Name": "Stiletto Shears, Steel",
+            "total_sales": 6363.660000000001,
+            "total_quantity": 176,
+            "average_price": 144.6286363636364,
+            "total_profit": -152.7400000000001,
+            "profit_margin": -0.024001910850045428
         },
         {
-            "Product ID": "OFF-SU-4138",
-            "total_sales": 3113.3798,
-            "total_quantity": 104,
+            "Product Name": "Elite Trimmer, Steel",
+            "total_sales": 6226.7596,
+            "total_quantity": 208,
             "average_price": 124.53519200000001,
-            "total_profit": 993.4298,
+            "total_profit": 1986.8596,
             "profit_margin": 0.3190840385101747
         },
         {
-            "Product ID": "OFF-SU-4320",
-            "total_sales": 3079.132,
-            "total_quantity": 71,
+            "Product Name": "Fiskars Shears, High Speed",
+            "total_sales": 6158.264,
+            "total_quantity": 142,
             "average_price": 139.96054545454547,
-            "total_profit": 1230.872,
+            "total_profit": 2461.744,
             "profit_margin": 0.3997464220436149
         },
         {
-            "Product ID": "OFF-SU-4137",
-            "total_sales": 2985.186,
-            "total_quantity": 95,
+            "Product Name": "Elite Trimmer, Serrated",
+            "total_sales": 5970.372,
+            "total_quantity": 190,
             "average_price": 129.79069565217392,
-            "total_profit": 778.946,
+            "total_profit": 1557.892,
             "profit_margin": 0.26093717443402187
         },
         {
-            "Product ID": "OFF-SU-3839",
-            "total_sales": 2982.75,
-            "total_quantity": 26,
+            "Product Name": "Compact Automatic Electric Letter Opener",
+            "total_sales": 5965.5,
+            "total_quantity": 52,
             "average_price": 372.84375,
-            "total_profit": -57.268800000000006,
-            "profit_margin": -0.019200000000000002
+            "total_profit": -114.53759999999996,
+            "profit_margin": -0.01919999999999999
         },
         {
-            "Product ID": "OFF-SU-10000157",
-            "total_sales": 2982.75,
-            "total_quantity": 26,
-            "average_price": 372.84375,
-            "total_profit": -57.268799999999956,
-            "profit_margin": -0.019199999999999984
-        },
-        {
-            "Product ID": "OFF-SU-3001",
-            "total_sales": 2955.722,
-            "total_quantity": 78,
+            "Product Name": "Acme Trimmer, Easy Grip",
+            "total_sales": 5911.444,
+            "total_quantity": 156,
             "average_price": 147.7861,
-            "total_profit": 152.722,
-            "profit_margin": 0.051669947308982375
+            "total_profit": 305.44399999999996,
+            "profit_margin": 0.05166994730898236
         },
         {
-            "Product ID": "OFF-SU-5634",
-            "total_sales": 2836.366,
-            "total_quantity": 14,
+            "Product Name": "Premier Automatic Letter Opener",
+            "total_sales": 5672.732,
+            "total_quantity": 28,
             "average_price": 567.2732,
-            "total_profit": -427.8586,
-            "profit_margin": -0.15084745762711865
+            "total_profit": -855.7171999999998,
+            "profit_margin": -0.15084745762711863
         },
         {
-            "Product ID": "OFF-SU-10000646",
-            "total_sales": 2836.366,
-            "total_quantity": 14,
-            "average_price": 567.2732,
-            "total_profit": -427.85859999999985,
-            "profit_margin": -0.1508474576271186
+            "Product Name": "Elite Shears, Easy Grip",
+            "total_sales": 5651.7786,
+            "total_quantity": 154,
+            "average_price": 100.92461785714285,
+            "total_profit": -371.5014,
+            "profit_margin": -0.06573176804908812
+        },
+        {
+            "Product Name": "Stiletto Letter Opener, Easy Grip",
+            "total_sales": 5546.496,
+            "total_quantity": 240,
+            "average_price": 74.95264864864865,
+            "total_profit": 778.816,
+            "profit_margin": 0.14041585894950614
+        },
+        {
+            "Product Name": "Fiskars Shears, Easy Grip",
+            "total_sales": 5357.1892,
+            "total_quantity": 142,
+            "average_price": 140.97866315789474,
+            "total_profit": 671.0692,
+            "profit_margin": 0.12526516703946167
+        },
+        {
+            "Product Name": "Kleencut Trimmer, Easy Grip",
+            "total_sales": 5330.451,
+            "total_quantity": 144,
+            "average_price": 140.27502631578946,
+            "total_profit": 747.0110000000001,
+            "profit_margin": 0.14014029957315058
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-01",
-            "Product Name": "Acme Trimmer, High Speed",
-            "total_sales": 120.366,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-03",
-            "Product Name": "Stiletto Scissors, Serrated",
-            "total_sales": 81.24,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-04",
-            "Product Name": "Fiskars Letter Opener, Easy Grip",
-            "total_sales": 148.95999999999998,
-            "total_quantity": 8
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Kleencut Ruler, Steel",
-            "total_sales": 25.92,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Elite Scissors, Easy Grip",
-            "total_sales": 16.099999999999998,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-12",
-            "Product Name": "Kleencut Ruler, Easy Grip",
-            "total_sales": 4.554,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-13",
-            "Product Name": "Elite Ruler, Steel",
-            "total_sales": 26.4,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "Acme Trimmer, Easy Grip",
-            "total_sales": 73.92,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-15",
-            "Product Name": "Elite Letter Opener, Easy Grip",
-            "total_sales": 54.6,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Fiskars Box Cutter, Serrated",
-            "total_sales": 107.4,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Fiskars Trimmer, High Speed",
-            "total_sales": 84.60000000000001,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-23",
-            "Product Name": "Stiletto Box Cutter, High Speed",
-            "total_sales": 47.96,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-26",
-            "Product Name": "Elite Trimmer, Serrated",
-            "total_sales": 345.33000000000004,
-            "total_quantity": 9
-        },
-        {
-            "Order Date": "2011-01-27",
-            "Product Name": "Kleencut Trimmer, Serrated",
-            "total_sales": 76.26,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-27",
-            "Product Name": "Stiletto Scissors, Steel",
-            "total_sales": 30.68,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-28",
-            "Product Name": "Kleencut Box Cutter, Steel",
-            "total_sales": 90.2325,
-            "total_quantity": 5
-        },
-        {
-            "Order Date": "2011-01-29",
+            "Year_Month": "2011-01",
             "Product Name": "Fiskars Trimmer, Easy Grip",
             "total_sales": 43.92,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-31",
-            "Product Name": "Kleencut Letter Opener, Steel",
-            "total_sales": 95.04,
+            "Year_Month": "2011-02",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 307.44,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 204.96,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 175.68,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-01-31",
-            "Product Name": "Elite Ruler, Serrated",
-            "total_sales": 63.0,
+            "Year_Month": "2011-04",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 4164.049999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 219.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 646.38,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "High Speed Automatic Electric Letter Opener",
+            "total_sales": 8187.65,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 87.84,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 13.851000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 316.224,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 336.63,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 43.92,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 288.54,
             "total_quantity": 6
         },
         {
-            "Order Date": "2011-02-01",
-            "Product Name": "Kleencut Ruler, High Speed",
-            "total_sales": 40.67999999999999,
+            "Year_Month": "2012-02",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 263.52,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 48.09,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 263.52000000000004,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 32.06,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 292.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 32.06,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 138.51,
             "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 666.248,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 474.4824,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 19.236,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 503.0214,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 92.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "High Speed Automatic Electric Letter Opener",
+            "total_sales": 8842.662,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 351.36,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 126.96750000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 288.54,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 175.68,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 123.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 184.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 384.72,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 87.84,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 175.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 263.52,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 504.3303,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 230.85000000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 43.92,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 4164.049999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 48.09,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 307.44,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 292.8,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 1332.496,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 240.45,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 351.36,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 138.51,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 4164.05,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 86.56200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 184.68,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 129.84300000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 248.88,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 646.38,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 144.27,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "High Speed Automatic Electric Letter Opener",
+            "total_sales": 8187.65,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 46.17,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 175.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 167.1354,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 447.984,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 586.359,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 4663.736000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 384.72,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 123.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 144.27,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 250.34400000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 166.212,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 201.978,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 1665.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 115.416,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 263.52,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 48.09,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 263.52,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 32.06,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 292.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 32.06,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 138.51,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 666.248,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 474.4824,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 19.236,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 503.02139999999997,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 92.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "High Speed Automatic Electric Letter Opener",
+            "total_sales": 8842.662,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 351.36,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 126.9675,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 288.53999999999996,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 175.68,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 123.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 184.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 384.72,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 87.84,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 175.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 263.52,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 504.3303,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 96.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 230.85000000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 4164.05,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 48.09,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 87.84,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 1332.496,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 240.45,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 175.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 138.51,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 86.562,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 184.68,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 129.843,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 29.28,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 144.27,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 46.17,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 87.84,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 153.2844,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 131.76,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 586.3589999999999,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 4663.736,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 48.09,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 123.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Fiskars Trimmer, Easy Grip",
+            "total_sales": 206.424,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Kleencut Shears, Steel",
+            "total_sales": 166.212,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 57.708,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "total_sales": 1665.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Stiletto Shears, High Speed",
+            "total_sales": 115.416,
+            "total_quantity": 6
         }
     ],
     "most_frequent_order_month": [
@@ -1557,545 +2384,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 1536.4825,
-            "total_quantity": 68
+            "Sales": 1536.4825,
+            "Quantity": 68,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 1629.7730000000001,
-            "total_quantity": 57
+            "Sales": 1629.7730000000001,
+            "Quantity": 57,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 1328.1145000000001,
-            "total_quantity": 59
+            "Sales": 1328.1145000000001,
+            "Quantity": 59,
+            "Sales_MA": 1498.1233333333337
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 5511.102999999999,
-            "total_quantity": 72
+            "Sales": 5511.102999999999,
+            "Quantity": 72,
+            "Sales_MA": 2822.996833333333
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 1915.1681,
-            "total_quantity": 95
+            "Sales": 1915.1681,
+            "Quantity": 95,
+            "Sales_MA": 2918.128533333333
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 5190.4704,
-            "total_quantity": 201
+            "Sales": 5190.4704,
+            "Quantity": 201,
+            "Sales_MA": 4205.5805
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 9843.1268,
-            "total_quantity": 78
+            "Sales": 9843.1268,
+            "Quantity": 78,
+            "Sales_MA": 5649.588433333333
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 2879.2312,
-            "total_quantity": 129
+            "Sales": 2879.2312,
+            "Quantity": 129,
+            "Sales_MA": 5970.9428
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 4632.4462,
-            "total_quantity": 158
+            "Sales": 4632.4462,
+            "Quantity": 158,
+            "Sales_MA": 5784.934733333334
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 3685.2146000000002,
-            "total_quantity": 131
+            "Sales": 3685.2146000000002,
+            "Quantity": 131,
+            "Sales_MA": 3732.2973333333334
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 4589.0219,
-            "total_quantity": 196
+            "Sales": 4589.0219,
+            "Quantity": 196,
+            "Sales_MA": 4302.227566666667
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 4840.4601,
-            "total_quantity": 208
+            "Sales": 4840.4601,
+            "Quantity": 208,
+            "Sales_MA": 4371.565533333333
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 2367.484,
-            "total_quantity": 107
+            "Sales": 2367.484,
+            "Quantity": 107,
+            "Sales_MA": 3932.322
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 1568.9248,
-            "total_quantity": 63
+            "Sales": 1568.9248,
+            "Quantity": 63,
+            "Sales_MA": 2925.6229666666663
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 1517.6224,
-            "total_quantity": 52
+            "Sales": 1517.6224,
+            "Quantity": 52,
+            "Sales_MA": 1818.0104
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 2171.4159,
-            "total_quantity": 90
+            "Sales": 2171.4159,
+            "Quantity": 90,
+            "Sales_MA": 1752.6543666666666
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 3793.574,
-            "total_quantity": 146
+            "Sales": 3793.574,
+            "Quantity": 146,
+            "Sales_MA": 2494.2041000000004
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 4885.3863,
-            "total_quantity": 186
+            "Sales": 4885.3863,
+            "Quantity": 186,
+            "Sales_MA": 3616.792066666667
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 1961.5405,
-            "total_quantity": 92
+            "Sales": 1961.5405,
+            "Quantity": 92,
+            "Sales_MA": 3546.8336000000004
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 4484.9944000000005,
-            "total_quantity": 168
+            "Sales": 4484.9944000000005,
+            "Quantity": 168,
+            "Sales_MA": 3777.3070666666667
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 5384.4186,
-            "total_quantity": 207
+            "Sales": 5384.4186,
+            "Quantity": 207,
+            "Sales_MA": 3943.6511666666665
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 4208.2779,
-            "total_quantity": 184
+            "Sales": 4208.2779,
+            "Quantity": 184,
+            "Sales_MA": 4692.563633333334
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 5110.2528,
-            "total_quantity": 243
+            "Sales": 5110.2528,
+            "Quantity": 243,
+            "Sales_MA": 4900.9831
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 5843.5248,
-            "total_quantity": 225
+            "Sales": 5843.5248,
+            "Quantity": 225,
+            "Sales_MA": 5054.018499999999
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 2839.381,
-            "total_quantity": 108
+            "Sales": 2839.381,
+            "Quantity": 108,
+            "Sales_MA": 4597.719533333334
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 2875.728,
-            "total_quantity": 108
+            "Sales": 2875.728,
+            "Quantity": 108,
+            "Sales_MA": 3852.877933333333
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 12048.3539,
-            "total_quantity": 139
+            "Sales": 12048.3539,
+            "Quantity": 139,
+            "Sales_MA": 5921.154299999999
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 4285.2199,
-            "total_quantity": 164
+            "Sales": 4285.2199,
+            "Quantity": 164,
+            "Sales_MA": 6403.100600000001
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 3398.0493,
-            "total_quantity": 152
+            "Sales": 3398.0493,
+            "Quantity": 152,
+            "Sales_MA": 6577.2077
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 5850.061000000001,
-            "total_quantity": 210
+            "Sales": 5850.061000000001,
+            "Quantity": 210,
+            "Sales_MA": 4511.110066666667
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 4833.0359,
-            "total_quantity": 190
+            "Sales": 4833.0359,
+            "Quantity": 190,
+            "Sales_MA": 4693.7154
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 6552.4702,
-            "total_quantity": 257
+            "Sales": 6552.4702,
+            "Quantity": 257,
+            "Sales_MA": 5745.189033333333
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 5442.1041,
-            "total_quantity": 257
+            "Sales": 5442.1041,
+            "Quantity": 257,
+            "Sales_MA": 5609.203399999999
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 4930.4965,
-            "total_quantity": 225
+            "Sales": 4930.4965,
+            "Quantity": 225,
+            "Sales_MA": 5641.690266666667
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 6178.5546,
-            "total_quantity": 254
+            "Sales": 6178.5546,
+            "Quantity": 254,
+            "Sales_MA": 5517.051733333334
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 6679.6457,
-            "total_quantity": 226
+            "Sales": 6679.6457,
+            "Quantity": 226,
+            "Sales_MA": 5929.565600000001
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 8611.266,
-            "total_quantity": 180
+            "Sales": 8611.266,
+            "Quantity": 180,
+            "Sales_MA": 7156.488766666666
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 5149.9132,
-            "total_quantity": 204
+            "Sales": 5149.9132,
+            "Quantity": 204,
+            "Sales_MA": 6813.6083
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 8102.1939,
-            "total_quantity": 263
+            "Sales": 8102.1939,
+            "Quantity": 263,
+            "Sales_MA": 7287.791033333334
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 9978.755000000001,
-            "total_quantity": 223
+            "Sales": 9978.755000000001,
+            "Quantity": 223,
+            "Sales_MA": 7743.6207
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 8245.3228,
-            "total_quantity": 375
+            "Sales": 8245.3228,
+            "Quantity": 375,
+            "Sales_MA": 8775.423900000002
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 11529.342200000001,
-            "total_quantity": 500
+            "Sales": 11529.342200000001,
+            "Quantity": 500,
+            "Sales_MA": 9917.806666666667
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 14834.8923,
-            "total_quantity": 284
+            "Sales": 14834.8923,
+            "Quantity": 284,
+            "Sales_MA": 11536.5191
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 11194.1497,
-            "total_quantity": 461
+            "Sales": 11194.1497,
+            "Quantity": 461,
+            "Sales_MA": 12519.4614
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 17021.2641,
-            "total_quantity": 479
+            "Sales": 17021.2641,
+            "Quantity": 479,
+            "Sales_MA": 14350.102033333334
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 10134.3094,
-            "total_quantity": 405
+            "Sales": 10134.3094,
+            "Quantity": 405,
+            "Sales_MA": 12783.241066666667
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 11561.8676,
-            "total_quantity": 490
+            "Sales": 11561.8676,
+            "Quantity": 490,
+            "Sales_MA": 12905.813699999999
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 17485.7079,
-            "total_quantity": 622
+            "Sales": 17485.7079,
+            "Quantity": 622,
+            "Sales_MA": 13060.628300000002
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 2424.484,
-            "total_quantity": 109
+            "Sales": 2424.484,
+            "Quantity": 109,
+            "Sales_MA": 10490.686500000002
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 1511.9248,
-            "total_quantity": 61
+            "Sales": 1511.9248,
+            "Quantity": 61,
+            "Sales_MA": 7140.705566666667
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 1517.6224,
-            "total_quantity": 52
+            "Sales": 1517.6224,
+            "Quantity": 52,
+            "Sales_MA": 1818.0104
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 2171.4159,
-            "total_quantity": 90
+            "Sales": 2171.4159,
+            "Quantity": 90,
+            "Sales_MA": 1733.6543666666666
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 3793.574,
-            "total_quantity": 146
+            "Sales": 3793.574,
+            "Quantity": 146,
+            "Sales_MA": 2494.2041000000004
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 4885.3863,
-            "total_quantity": 186
+            "Sales": 4885.3863,
+            "Quantity": 186,
+            "Sales_MA": 3616.792066666667
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 1961.5405,
-            "total_quantity": 92
+            "Sales": 1961.5405,
+            "Quantity": 92,
+            "Sales_MA": 3546.8336000000004
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 4481.5064,
-            "total_quantity": 166
+            "Sales": 4481.5064,
+            "Quantity": 166,
+            "Sales_MA": 3776.1443999999997
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 5384.4186,
-            "total_quantity": 207
+            "Sales": 5384.4186,
+            "Quantity": 207,
+            "Sales_MA": 3942.4885
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 4208.2779,
-            "total_quantity": 184
+            "Sales": 4208.2779,
+            "Quantity": 184,
+            "Sales_MA": 4691.400966666667
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 5101.5328,
-            "total_quantity": 238
+            "Sales": 5101.5328,
+            "Quantity": 238,
+            "Sales_MA": 4898.076433333334
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 5811.8768,
-            "total_quantity": 216
+            "Sales": 5811.8768,
+            "Quantity": 216,
+            "Sales_MA": 5040.5625
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 2839.381,
-            "total_quantity": 108
+            "Sales": 2839.381,
+            "Quantity": 108,
+            "Sales_MA": 4584.263533333333
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 2875.728,
-            "total_quantity": 108
+            "Sales": 2875.728,
+            "Quantity": 108,
+            "Sales_MA": 3842.3286000000003
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 12048.3539,
-            "total_quantity": 139
+            "Sales": 12048.3539,
+            "Quantity": 139,
+            "Sales_MA": 5921.154299999999
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 4221.3799,
-            "total_quantity": 156
+            "Sales": 4221.3799,
+            "Quantity": 156,
+            "Sales_MA": 6381.8206
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 3398.0493,
-            "total_quantity": 152
+            "Sales": 3398.0493,
+            "Quantity": 152,
+            "Sales_MA": 6555.9277
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 5850.061,
-            "total_quantity": 210
+            "Sales": 5850.061,
+            "Quantity": 210,
+            "Sales_MA": 4489.830066666666
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 4833.0359,
-            "total_quantity": 190
+            "Sales": 4833.0359,
+            "Quantity": 190,
+            "Sales_MA": 4693.7154
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 6552.4702,
-            "total_quantity": 257
+            "Sales": 6552.4702,
+            "Quantity": 257,
+            "Sales_MA": 5745.189033333333
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 5442.1041,
-            "total_quantity": 257
+            "Sales": 5442.1041,
+            "Quantity": 257,
+            "Sales_MA": 5609.203399999999
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 4910.3685000000005,
-            "total_quantity": 221
+            "Sales": 4910.3685000000005,
+            "Quantity": 221,
+            "Sales_MA": 5634.980933333333
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 6163.8346,
-            "total_quantity": 249
+            "Sales": 6163.8346,
+            "Quantity": 249,
+            "Sales_MA": 5505.435733333335
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 6679.6457,
-            "total_quantity": 226
+            "Sales": 6679.6457,
+            "Quantity": 226,
+            "Sales_MA": 5917.9496
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 7074.7835,
-            "total_quantity": 112
+            "Sales": 7074.7835,
+            "Quantity": 112,
+            "Sales_MA": 6639.421266666667
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 3495.7862,
-            "total_quantity": 146
+            "Sales": 3495.7862,
+            "Quantity": 146,
+            "Sales_MA": 5750.071800000001
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 6791.4574,
-            "total_quantity": 201
+            "Sales": 6791.4574,
+            "Quantity": 201,
+            "Sales_MA": 5787.342366666667
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 4467.652,
-            "total_quantity": 151
+            "Sales": 4467.652,
+            "Quantity": 151,
+            "Sales_MA": 4918.298533333334
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 6330.1547,
-            "total_quantity": 280
+            "Sales": 6330.1547,
+            "Quantity": 280,
+            "Sales_MA": 5863.088033333333
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 6346.2318,
-            "total_quantity": 301
+            "Sales": 6346.2318,
+            "Quantity": 301,
+            "Sales_MA": 5714.679499999999
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 4755.0415,
-            "total_quantity": 196
+            "Sales": 4755.0415,
+            "Quantity": 196,
+            "Sales_MA": 5810.476
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 8411.0925,
-            "total_quantity": 332
+            "Sales": 8411.0925,
+            "Quantity": 332,
+            "Sales_MA": 6504.121933333333
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 12486.8719,
-            "total_quantity": 323
+            "Sales": 12486.8719,
+            "Quantity": 323,
+            "Sales_MA": 8551.001966666667
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 6040.8098,
-            "total_quantity": 261
+            "Sales": 6040.8098,
+            "Quantity": 261,
+            "Sales_MA": 8979.5914
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 7381.1867,
-            "total_quantity": 306
+            "Sales": 7381.1867,
+            "Quantity": 306,
+            "Sales_MA": 8636.289466666667
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 12596.1998,
-            "total_quantity": 405
+            "Sales": 12596.1998,
+            "Quantity": 405,
+            "Sales_MA": 8672.7321
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "KL-16645",
-            "total_spent": 8204.678,
-            "purchase_frequency": 2,
-            "average_order_value": 4102.339
+            "Customer Name": "Ken Lonsdale",
+            "total_spent": 16469.356,
+            "purchase_frequency": 6,
+            "average_order_value": 2744.8926666666666
         },
         {
-            "Customer ID": "KL-166451404",
-            "total_spent": 8187.65,
-            "purchase_frequency": 1,
-            "average_order_value": 8187.65
+            "Customer Name": "Edward Hooks",
+            "total_spent": 10118.376,
+            "purchase_frequency": 8,
+            "average_order_value": 1264.797
         },
         {
-            "Customer ID": "EH-13765",
-            "total_spent": 5044.9800000000005,
-            "purchase_frequency": 3,
-            "average_order_value": 1681.66
-        },
-        {
-            "Customer ID": "EH-137651404",
-            "total_spent": 4912.59,
-            "purchase_frequency": 1,
-            "average_order_value": 4912.59
-        },
-        {
-            "Customer ID": "JA-15970",
-            "total_spent": 4900.862000000001,
-            "purchase_frequency": 3,
+            "Customer Name": "Joseph Airdo",
+            "total_spent": 9801.724000000002,
+            "purchase_frequency": 6,
             "average_order_value": 1225.2155000000002
         },
         {
-            "Customer ID": "JA-159701406",
-            "total_spent": 4663.736,
-            "purchase_frequency": 1,
-            "average_order_value": 4663.736
+            "Customer Name": "Greg Maxwell",
+            "total_spent": 9259.92,
+            "purchase_frequency": 10,
+            "average_order_value": 661.4228571428572
         },
         {
-            "Customer ID": "GM-14695",
-            "total_spent": 4629.959999999999,
-            "purchase_frequency": 5,
-            "average_order_value": 661.422857142857
-        },
-        {
-            "Customer ID": "AA-10315",
-            "total_spent": 4260.633,
-            "purchase_frequency": 2,
+            "Customer Name": "Alex Avila",
+            "total_spent": 8521.266,
+            "purchase_frequency": 4,
             "average_order_value": 1420.211
         },
         {
-            "Customer ID": "CP-12085",
-            "total_spent": 4205.089999999999,
-            "purchase_frequency": 2,
-            "average_order_value": 2102.5449999999996
+            "Customer Name": "Cathy Prescott",
+            "total_spent": 8410.18,
+            "purchase_frequency": 4,
+            "average_order_value": 2102.545
         },
         {
-            "Customer ID": "GM-146951408",
-            "total_spent": 4164.05,
-            "purchase_frequency": 1,
-            "average_order_value": 4164.05
-        },
-        {
-            "Customer ID": "CP-120851402",
-            "total_spent": 4164.05,
-            "purchase_frequency": 1,
-            "average_order_value": 4164.05
-        },
-        {
-            "Customer ID": "AA-103151402",
-            "total_spent": 3930.072,
-            "purchase_frequency": 1,
-            "average_order_value": 3930.072
-        },
-        {
-            "Customer ID": "AC-10450",
-            "total_spent": 1683.212,
-            "purchase_frequency": 2,
+            "Customer Name": "Amy Cox",
+            "total_spent": 3366.424,
+            "purchase_frequency": 4,
             "average_order_value": 841.606
         },
         {
-            "Customer ID": "AC-104501408",
-            "total_spent": 1665.62,
-            "purchase_frequency": 1,
-            "average_order_value": 1665.62
-        },
-        {
-            "Customer ID": "SE-20110",
-            "total_spent": 1645.236,
-            "purchase_frequency": 4,
+            "Customer Name": "Sanjit Engle",
+            "total_spent": 3290.472,
+            "purchase_frequency": 8,
             "average_order_value": 411.309
         },
         {
-            "Customer ID": "SE-201101404",
-            "total_spent": 1332.496,
-            "purchase_frequency": 1,
-            "average_order_value": 1332.496
+            "Customer Name": "Henry Goldwyn",
+            "total_spent": 3016.92,
+            "purchase_frequency": 16,
+            "average_order_value": 150.846
         },
         {
-            "Customer ID": "HG-14965",
-            "total_spent": 1280.1299999999999,
-            "purchase_frequency": 7,
-            "average_order_value": 160.01624999999999
-        },
-        {
-            "Customer ID": "AH-10195",
-            "total_spent": 1214.4560000000001,
-            "purchase_frequency": 4,
+            "Customer Name": "Alan Haines",
+            "total_spent": 2428.9120000000003,
+            "purchase_frequency": 8,
             "average_order_value": 303.61400000000003
-        },
-        {
-            "Customer ID": "JH-16180",
-            "total_spent": 1207.9843,
-            "purchase_frequency": 6,
-            "average_order_value": 201.3307166666667
-        },
-        {
-            "Customer ID": "SJ-20215",
-            "total_spent": 1201.939,
-            "purchase_frequency": 5,
-            "average_order_value": 171.70557142857143
         }
     ],
     "discount_analysis": [
@@ -2103,61 +2954,61 @@
             "Discount": 0.0,
             "total_sales": 349765.58,
             "total_quantity": 10811,
-            "average_profit": 23.34699759493671
+            "average_profit": 23.347
         },
         {
             "Discount": 0.1,
             "total_sales": 36988.92,
             "total_quantity": 1294,
-            "average_profit": 17.799056603773582
+            "average_profit": 17.7991
         },
         {
             "Discount": 0.17,
             "total_sales": 4537.0788,
             "total_quantity": 170,
-            "average_profit": 7.318669565217391
+            "average_profit": 7.3187
         },
         {
             "Discount": 0.2,
             "total_sales": 35498.08,
             "total_quantity": 804,
-            "average_profit": -22.33003076923077
+            "average_profit": -22.33
         },
         {
             "Discount": 0.4,
             "total_sales": 18559.308,
             "total_quantity": 1250,
-            "average_profit": -15.191086419753088
+            "average_profit": -15.1911
         },
         {
             "Discount": 0.45,
-            "total_sales": 7023.918000000001,
+            "total_sales": 7023.918,
             "total_quantity": 364,
-            "average_profit": -38.093133333333334
+            "average_profit": -38.0931
         },
         {
             "Discount": 0.47,
             "total_sales": 13823.0784,
             "total_quantity": 814,
-            "average_profit": -28.480007142857144
+            "average_profit": -28.48
         },
         {
             "Discount": 0.5,
             "total_sales": 10866.03,
             "total_quantity": 682,
-            "average_profit": -33.275178571428576
+            "average_profit": -33.2752
         },
         {
             "Discount": 0.6,
             "total_sales": 5892.384,
             "total_quantity": 528,
-            "average_profit": -32.11290666666667
+            "average_profit": -32.1129
         },
         {
             "Discount": 0.7,
             "total_sales": 2930.976,
             "total_quantity": 308,
-            "average_profit": -36.17461016949153
+            "average_profit": -36.1746
         }
     ],
     "geographic_distribution": [
@@ -2165,121 +3016,215 @@
             "State": "California",
             "City": "San Francisco",
             "total_sales": 27126.14,
-            "total_quantity": 82
+            "total_quantity": 82,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 12458.960000000001,
-            "total_quantity": 54
+            "total_quantity": 54,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "Virginia",
             "City": "Alexandria",
             "total_sales": 8328.099999999999,
-            "total_quantity": 10
+            "total_quantity": 10,
+            "Location": "Virginia, Alexandria"
         },
         {
             "State": "Missouri",
             "City": "Springfield",
             "total_sales": 8328.099999999999,
-            "total_quantity": 10
+            "total_quantity": 10,
+            "Location": "Missouri, Springfield"
         },
         {
             "State": "Texas",
             "City": "Round Rock",
             "total_sales": 7860.144,
-            "total_quantity": 6
+            "total_quantity": 6,
+            "Location": "Texas, Round Rock"
         },
         {
             "State": "Western Australia",
             "City": "Perth",
             "total_sales": 4471.0380000000005,
-            "total_quantity": 136
+            "total_quantity": 136,
+            "Location": "Western Australia, Perth"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 4264.44,
-            "total_quantity": 198
+            "total_quantity": 198,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 3496.192,
-            "total_quantity": 220
+            "total_quantity": 220,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Singapore",
             "City": "Singapore",
             "total_sales": 3362.94,
-            "total_quantity": 94
+            "total_quantity": 94,
+            "Location": "Singapore, Singapore"
         },
         {
             "State": "Louisiana",
             "City": "Lafayette",
             "total_sales": 3331.24,
-            "total_quantity": 4
+            "total_quantity": 4,
+            "Location": "Louisiana, Lafayette"
         },
         {
             "State": "Victoria",
             "City": "Melbourne",
             "total_sales": 3259.062,
-            "total_quantity": 108
+            "total_quantity": 108,
+            "Location": "Victoria, Melbourne"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 3248.1156,
-            "total_quantity": 188
+            "total_quantity": 188,
+            "Location": "Jakarta, Jakarta"
         },
         {
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 3229.4700000000003,
-            "total_quantity": 108
+            "total_quantity": 108,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "New York",
             "City": "New York City",
             "total_sales": 3144.34,
-            "total_quantity": 146
+            "total_quantity": 146,
+            "Location": "New York, New York City"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 3042.66,
-            "total_quantity": 73
-        },
-        {
-            "State": "Francisco Moraz\u00e1n",
-            "City": "Tegucigalpa",
-            "total_sales": 2856.384,
-            "total_quantity": 212
-        },
-        {
-            "State": "Bangkok",
-            "City": "Bangkok",
-            "total_sales": 2737.185,
-            "total_quantity": 146
-        },
-        {
-            "State": "Queensland",
-            "City": "Brisbane",
-            "total_sales": 2732.832,
-            "total_quantity": 82
-        },
-        {
-            "State": "Ile-de-France",
-            "City": "Paris",
-            "total_sales": 2712.12,
-            "total_quantity": 78
-        },
-        {
-            "State": "Ho Ch\u00ed Minh City",
-            "City": "Ho Chi Minh City",
-            "total_sales": 2707.626,
-            "total_quantity": 104
+            "total_quantity": 73,
+            "Location": "California, Los Angeles"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 679,
+            "avg_shipping_delay": 2.24,
+            "total_profit": 6556.01,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 203,
+            "avg_shipping_delay": 0.03,
+            "total_profit": 1961.14,
+            "shipping_cost_ratio": 0.19
+        },
+        "Second Class": {
+            "total_orders": 990,
+            "avg_shipping_delay": 3.2,
+            "total_profit": 10902.12,
+            "shipping_cost_ratio": 0.13
+        },
+        "Standard Class": {
+            "total_orders": 2691,
+            "avg_shipping_delay": 5.06,
+            "total_profit": 25723.19,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.11425417466964281,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.027355608140395542,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": -0.020995705271304173,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.048956883521024314,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 745.0,
+                "mean": 308.03087248322146,
+                "std": 308.5282926717452,
+                "min": 0.0,
+                "25%": 75.0,
+                "50%": 196.0,
+                "75%": 466.0,
+                "max": 1845.0
+            },
+            "frequency": {
+                "count": 745.0,
+                "mean": 6.128859060402685,
+                "std": 3.2523005774327727,
+                "min": 1.0,
+                "25%": 4.0,
+                "50%": 6.0,
+                "75%": 8.0,
+                "max": 20.0
+            },
+            "monetary": {
+                "count": 745.0,
+                "mean": 652.195104966443,
+                "std": 1019.6094931894049,
+                "min": 20.43,
+                "25%": 257.76,
+                "50%": 479.646,
+                "75%": 777.328,
+                "max": 16469.356
+            }
+        },
+        "rfm_segments": {
+            "Medium": 249,
+            "High": 248,
+            "Low": 248
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3230,
+        "churned_customers": 2445,
+        "churn_rate": 0.7569659442724458,
+        "avg_recency": 886.6300309597523,
+        "avg_frequency": 1.4959752321981423,
+        "avg_monetary": 150.42890191950465,
+        "churned_customer_characteristics": {
+            "avg_recency": 1121.437218813906,
+            "avg_frequency": 1.6118609406952966,
+            "avg_monetary": 161.7710261758691,
+            "avg_discount": 0.12817490180803065,
+            "avg_quantity": 3.4250675171227325,
+            "avg_shipping_cost": 9.940827083617359,
+            "avg_profit": 9.752783012513389
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 155.28789808917196,
+            "avg_frequency": 1.135031847133758,
+            "avg_monetary": 115.10215821656051,
+            "avg_discount": 0.1305732484076433,
+            "avg_quantity": 3.538683651804671,
+            "avg_shipping_cost": 10.818885732484077,
+            "avg_profit": 8.400753163481953
+        }
+    }
 }

@@ -1224,288 +1224,1379 @@
         30,
         30
     ],
+    "yearly_sales": {
+        "2011": 216367.89214,
+        "2012": 327168.5988,
+        "2013": 415514.88857999997,
+        "2014": 766752.7859,
+        "2015": 327168.5988,
+        "2016": 415514.88858,
+        "2017": 550384.89376
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 5667.47308,
+            "2012": 28857.65172,
+            "2013": 19043.73564,
+            "2014": 31375.813280000002,
+            "2015": 28857.65172,
+            "2016": 19043.73564,
+            "2017": 25708.3402
+        },
+        "August": {
+            "2011": 25272.38412,
+            "2012": 39637.08478,
+            "2013": 38194.86586,
+            "2014": 66175.53788,
+            "2015": 39637.08478,
+            "2016": 38194.86586,
+            "2017": 42060.73376
+        },
+        "December": {
+            "2011": 32563.7138,
+            "2012": 45195.8009,
+            "2013": 42036.84822,
+            "2014": 87618.61328,
+            "2015": 45195.8009,
+            "2016": 42036.84822,
+            "2017": 57790.26408
+        },
+        "February": {
+            "2011": 9910.23908,
+            "2012": 7047.72498,
+            "2013": 21244.2082,
+            "2014": 34201.93004,
+            "2015": 6952.20798,
+            "2016": 21244.2082,
+            "2017": 23703.99096
+        },
+        "January": {
+            "2011": 8965.63376,
+            "2012": 14819.33784,
+            "2013": 17250.410780000002,
+            "2014": 43517.80492,
+            "2015": 14914.85484,
+            "2016": 17250.41078,
+            "2017": 34552.17116
+        },
+        "July": {
+            "2011": 12280.23902,
+            "2012": 13592.55522,
+            "2013": 31743.054500000002,
+            "2014": 39250.6056,
+            "2015": 13592.55522,
+            "2016": 31743.0545,
+            "2017": 25812.78658
+        },
+        "June": {
+            "2011": 18588.35032,
+            "2012": 31414.93422,
+            "2013": 47010.561499999996,
+            "2014": 62737.00422,
+            "2015": 31414.93422,
+            "2016": 47010.561499999996,
+            "2017": 44148.6539
+        },
+        "March": {
+            "2011": 11088.95406,
+            "2012": 19511.070359999998,
+            "2013": 17545.87932,
+            "2014": 63121.244679999996,
+            "2015": 19511.070359999998,
+            "2016": 17545.87932,
+            "2017": 52619.99062
+        },
+        "May": {
+            "2011": 15480.1558,
+            "2012": 31806.21924,
+            "2013": 46200.0935,
+            "2014": 47679.81894,
+            "2015": 31806.21924,
+            "2016": 46200.0935,
+            "2017": 32199.66314
+        },
+        "November": {
+            "2011": 28415.89312,
+            "2012": 30172.1,
+            "2013": 43241.5005,
+            "2014": 98044.63646,
+            "2015": 30172.1,
+            "2016": 43241.5005,
+            "2017": 69855.8213
+        },
+        "October": {
+            "2011": 22691.95954,
+            "2012": 30620.8434,
+            "2013": 48800.20088,
+            "2014": 100236.64774,
+            "2015": 30620.8434,
+            "2016": 48800.200880000004,
+            "2017": 74814.22076
+        },
+        "September": {
+            "2011": 25442.89644,
+            "2012": 34493.27614,
+            "2013": 43203.52968,
+            "2014": 92793.12886,
+            "2015": 34493.27614,
+            "2016": 43203.52968,
+            "2017": 67118.2573
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Canon imageCLASS 2200 Advanced Copier": 123199.64799999999,
+        "Hewlett Copy Machine, Color": 59418.3864,
+        "Canon Wireless Fax, Color": 53171.4288,
+        "Brother Copy Machine, Color": 52453.86012,
+        "Brother Wireless Fax, Laser": 47810.36772,
+        "Hewlett Wireless Fax, High-Speed": 47621.13828,
+        "Hewlett Wireless Fax, Color": 46531.89148,
+        "Brother Fax Machine, High-Speed": 44863.0536,
+        "Canon Fax Machine, High-Speed": 44680.97988,
+        "HP Copy Machine, Color": 44594.64292
+    },
+    "top_10_products_by_profit": {
+        "Canon imageCLASS 2200 Advanced Copier": 50399.856,
+        "Hewlett Wireless Fax, High-Speed": 17355.87828,
+        "Canon Wireless Fax, Laser": 15983.095840000002,
+        "Hewlett Packard LaserJet 3310 Copier": 13967.7672,
+        "Brother Copy Machine, Color": 13040.100120000001,
+        "HP Copy Machine, Color": 12199.00292,
+        "HP Fax Machine, Laser": 11802.16848,
+        "Hewlett Wireless Fax, Digital": 11766.3864,
+        "Brother Fax Machine, Laser": 11302.95304,
+        "Brother Fax Machine, Digital": 10394.73712
+    },
+    "top_10_products_by_turnover": {
+        "Hewlett Copy Machine, Color": 304,
+        "Brother Copy Machine, Color": 250,
+        "Sharp Copy Machine, Color": 240,
+        "HP Copy Machine, Color": 220,
+        "Canon Wireless Fax, Color": 194,
+        "Brother Ink, Color": 184,
+        "Sharp Personal Copier, Digital": 184,
+        "Brother Wireless Fax, Laser": 172,
+        "Brother Fax Machine, High-Speed": 168,
+        "Hewlett Fax Machine, High-Speed": 168
+    },
+    "top_5_loss_products": {
+        "Hewlett Copy Machine, Color": -6206.36824,
+        "Canon Wireless Fax, Color": -5571.1416,
+        "Canon Fax Machine, Color": -4877.15484,
+        "HP Wireless Fax, Laser": -4447.16304,
+        "Sharp Fax Machine, Digital": -4182.73304
+    },
     "product_performance": [
         {
-            "Product ID": "TEC-CO-3691",
-            "total_sales": 61599.824,
-            "total_quantity": 20,
-            "average_price": 12319.9648,
-            "total_profit": 25199.928,
-            "profit_margin": 0.40909090909090906
-        },
-        {
-            "Product ID": "TEC-CO-10004722",
-            "total_sales": 61599.82399999999,
-            "total_quantity": 20,
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 123199.64799999999,
+            "total_quantity": 40,
             "average_price": 12319.964799999998,
-            "total_profit": 25199.927999999996,
-            "profit_margin": 0.40909090909090906
+            "total_profit": 50399.856,
+            "profit_margin": 0.4090909090909091
         },
         {
-            "Product ID": "TEC-CO-4568",
-            "total_sales": 29709.1932,
-            "total_quantity": 152,
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 59418.3864,
+            "total_quantity": 304,
             "average_price": 660.2042933333333,
-            "total_profit": 2103.4432,
+            "total_profit": 4206.8864,
             "profit_margin": 0.07080108792722113
         },
         {
-            "Product ID": "TEC-CO-3707",
-            "total_sales": 26585.7144,
-            "total_quantity": 97,
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 53171.4288,
+            "total_quantity": 194,
             "average_price": 1265.9864,
-            "total_profit": 2615.2344,
+            "total_profit": 5230.4688,
             "profit_margin": 0.09836991252715781
         },
         {
-            "Product ID": "TEC-CO-3587",
-            "total_sales": 26226.93006,
-            "total_quantity": 125,
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 52453.86012,
+            "total_quantity": 250,
             "average_price": 609.9286060465116,
-            "total_profit": 6520.05006,
-            "profit_margin": 0.24860134392717406
+            "total_profit": 13040.100120000001,
+            "profit_margin": 0.2486013439271741
         },
         {
-            "Product ID": "TEC-CO-3611",
-            "total_sales": 23905.18386,
-            "total_quantity": 86,
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 47810.36772,
+            "total_quantity": 172,
             "average_price": 956.2073544,
-            "total_profit": 4000.64386,
+            "total_profit": 8001.287719999999,
             "profit_margin": 0.16735465761023433
         },
         {
-            "Product ID": "TEC-CO-4592",
-            "total_sales": 23810.56914,
-            "total_quantity": 75,
+            "Product Name": "Hewlett Wireless Fax, High-Speed",
+            "total_sales": 47621.13828,
+            "total_quantity": 150,
             "average_price": 1082.2985972727272,
-            "total_profit": 8677.93914,
+            "total_profit": 17355.87828,
             "profit_margin": 0.3644574427841669
         },
         {
-            "Product ID": "TEC-CO-4590",
-            "total_sales": 23265.94574,
-            "total_quantity": 74,
+            "Product Name": "Hewlett Wireless Fax, Color",
+            "total_sales": 46531.89148,
+            "total_quantity": 148,
             "average_price": 1057.5429881818181,
-            "total_profit": 5054.20574,
+            "total_profit": 10108.41148,
             "profit_margin": 0.21723620421372136
         },
         {
-            "Product ID": "TEC-CO-3597",
-            "total_sales": 22431.5268,
-            "total_quantity": 84,
+            "Product Name": "Brother Fax Machine, High-Speed",
+            "total_sales": 44863.0536,
+            "total_quantity": 168,
             "average_price": 1121.57634,
-            "total_profit": 4160.9268,
+            "total_profit": 8321.8536,
             "profit_margin": 0.18549458702026472
         },
         {
-            "Product ID": "TEC-CO-3688",
-            "total_sales": 22340.48994,
-            "total_quantity": 82,
+            "Product Name": "Canon Fax Machine, High-Speed",
+            "total_sales": 44680.97988,
+            "total_quantity": 164,
             "average_price": 1015.4768154545454,
-            "total_profit": 2011.58994,
+            "total_profit": 4023.17988,
             "profit_margin": 0.09004233771965343
         },
         {
-            "Product ID": "TEC-CO-4765",
-            "total_sales": 22297.32146,
-            "total_quantity": 110,
+            "Product Name": "HP Copy Machine, Color",
+            "total_sales": 44594.64292,
+            "total_quantity": 220,
             "average_price": 602.6303097297297,
-            "total_profit": 6099.50146,
+            "total_profit": 12199.00292,
             "profit_margin": 0.2735531023734005
         },
         {
-            "Product ID": "TEC-CO-4591",
-            "total_sales": 22045.3332,
-            "total_quantity": 66,
-            "average_price": 1224.7407333333333,
-            "total_profit": 5883.1932,
-            "profit_margin": 0.26686796459941914
+            "Product Name": "Hewlett Wireless Fax, Digital",
+            "total_sales": 44090.666399999995,
+            "total_quantity": 132,
+            "average_price": 1224.740733333333,
+            "total_profit": 11766.3864,
+            "profit_margin": 0.2668679645994192
         },
         {
-            "Product ID": "TEC-CO-3710",
-            "total_sales": 21928.95792,
-            "total_quantity": 66,
+            "Product Name": "Canon Wireless Fax, Laser",
+            "total_sales": 43857.91584,
+            "total_quantity": 132,
             "average_price": 1289.9387011764707,
-            "total_profit": 7991.547920000001,
+            "total_profit": 15983.095840000002,
             "profit_margin": 0.3644289869657427
         },
         {
-            "Product ID": "TEC-CO-5990",
-            "total_sales": 21914.04312,
-            "total_quantity": 120,
+            "Product Name": "Sharp Copy Machine, Color",
+            "total_sales": 43828.08624,
+            "total_quantity": 240,
             "average_price": 664.0619127272727,
-            "total_profit": 1633.2331199999999,
-            "profit_margin": 0.07452906390009878
+            "total_profit": 3266.4662400000007,
+            "profit_margin": 0.0745290639000988
         },
         {
-            "Product ID": "TEC-CO-4593",
-            "total_sales": 21542.57924,
-            "total_quantity": 73,
+            "Product Name": "Hewlett Wireless Fax, Laser",
+            "total_sales": 43085.15848,
+            "total_quantity": 146,
             "average_price": 1077.128962,
-            "total_profit": 1757.62924,
+            "total_profit": 3515.2584800000004,
             "profit_margin": 0.08158861668413667
         },
         {
-            "Product ID": "TEC-CO-6009",
-            "total_sales": 21430.64096,
-            "total_quantity": 69,
+            "Product Name": "Sharp Wireless Fax, Color",
+            "total_sales": 42861.28192,
+            "total_quantity": 138,
             "average_price": 1020.5067123809524,
-            "total_profit": 3882.93096,
+            "total_profit": 7765.86192,
             "profit_margin": 0.18118594619952982
         },
         {
-            "Product ID": "TEC-CO-4577",
-            "total_sales": 20987.4368,
-            "total_quantity": 84,
+            "Product Name": "Hewlett Fax Machine, High-Speed",
+            "total_sales": 41974.8736,
+            "total_quantity": 168,
             "average_price": 874.4765333333334,
-            "total_profit": 1808.4868,
+            "total_profit": 3616.9736000000003,
             "profit_margin": 0.08616997002702112
         },
         {
-            "Product ID": "TEC-CO-6010",
-            "total_sales": 20745.97784,
-            "total_quantity": 76,
+            "Product Name": "Sharp Wireless Fax, Digital",
+            "total_sales": 41491.95568,
+            "total_quantity": 152,
             "average_price": 942.9989927272727,
-            "total_profit": 2505.11784,
+            "total_profit": 5010.23568,
             "profit_margin": 0.12075197704925342
         },
         {
-            "Product ID": "TEC-CO-3598",
-            "total_sales": 20547.31652,
-            "total_quantity": 75,
+            "Product Name": "Brother Fax Machine, Laser",
+            "total_sales": 41094.63304,
+            "total_quantity": 150,
             "average_price": 1027.365826,
-            "total_profit": 5651.47652,
+            "total_profit": 11302.95304,
             "profit_margin": 0.2750469393168233
         },
         {
-            "Product ID": "TEC-CO-3709",
-            "total_sales": 19595.71504,
-            "total_quantity": 63,
+            "Product Name": "Canon Wireless Fax, High-Speed",
+            "total_sales": 39191.43008,
+            "total_quantity": 126,
             "average_price": 1224.73219,
-            "total_profit": 1186.25504,
-            "profit_margin": 0.06053645083011985
+            "total_profit": 2372.5100799999996,
+            "profit_margin": 0.06053645083011984
+        },
+        {
+            "Product Name": "Hewlett Packard LaserJet 3310 Copier",
+            "total_sales": 37679.372,
+            "total_quantity": 76,
+            "average_price": 2354.96075,
+            "total_profit": 13967.7672,
+            "profit_margin": 0.37070063694267513
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Hewlett Wireless Fax, Laser",
-            "total_sales": 912.456,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-03",
-            "Product Name": "Hewlett Fax and Copier, Laser",
-            "total_sales": 192.87,
+            "Year_Month": "2011-02",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 378.81000000000006,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-04",
-            "Product Name": "Sharp Ink, Laser",
-            "total_sales": 165.54824,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "HP Fax and Copier, Color",
-            "total_sales": 174.32999999999998,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Canon Ink, Laser",
-            "total_sales": 588.5999999999999,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Sharp Wireless Fax, Digital",
-            "total_sales": 425.24976,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Sharp Wireless Fax, Color",
-            "total_sales": 696.852,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-12",
-            "Product Name": "Hewlett Fax and Copier, Laser",
-            "total_sales": 384.96852000000007,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-13",
-            "Product Name": "HP Fax Machine, Laser",
-            "total_sales": 1199.76,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-15",
-            "Product Name": "Hewlett Copy Machine, Laser",
-            "total_sales": 526.62,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-17",
-            "Product Name": "Hewlett Fax and Copier, Laser",
-            "total_sales": 1411.5512400000002,
-            "total_quantity": 11
-        },
-        {
-            "Order Date": "2011-01-19",
-            "Product Name": "Brother Ink, Laser",
-            "total_sales": 278.39700000000005,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-24",
-            "Product Name": "Sharp Fax Machine, Laser",
-            "total_sales": 591.3,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-26",
-            "Product Name": "Hewlett Wireless Fax, Laser",
-            "total_sales": 570.285,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-26",
-            "Product Name": "HP Personal Copier, Laser",
-            "total_sales": 124.29,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-28",
-            "Product Name": "Sharp Fax Machine, Digital",
-            "total_sales": 531.5219999999999,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-30",
-            "Product Name": "Canon Fax Machine, Laser",
-            "total_sales": 191.03400000000005,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-02-01",
-            "Product Name": "Brother Personal Copier, Laser",
-            "total_sales": 285.78000000000003,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-02-02",
+            "Year_Month": "2011-02",
             "Product Name": "Hewlett Copy Machine, Color",
             "total_sales": 549.927,
             "total_quantity": 6
         },
         {
-            "Order Date": "2011-02-02",
-            "Product Name": "Brother Wireless Fax, Laser",
-            "total_sales": 378.81000000000006,
+            "Year_Month": "2011-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 105.49200000000002,
             "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1833.0900000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1512.20952,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 820.0736,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 529.15956,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 665.63878,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 417.59536,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 316.476,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1292.34,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 526.4050799999999,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 786.8950799999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1894.05,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 530.2199999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 520.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 636.2639999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1900.5,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1264.466,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1219.6158799999998,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1641.087,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 529.15956,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1157.0229,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3068.361000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1366.8813,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 346.62536,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 704.1321600000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 527.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 3416.3388,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 159.066,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2052.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 492.36283999999995,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1518.47808,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 302.03784,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 606.1328,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1398.3858,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1590.66,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2808.7245000000003,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 806.1076800000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 303.0664,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3533.034600000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 3040.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 8399.975999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 969.0228,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 2144.5696800000005,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1558.8467999999996,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 238.65030000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 520.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1248.0526800000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 114.03000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1094.30772,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 504.06984,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2746.8559999999998,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 175.46836,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 17499.949999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1661.4990000000005,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2052.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 877.3417999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 3002.8125999999997,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1051.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 318.13199999999995,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 378.81,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 549.927,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 13999.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 4360.002,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 643.9770000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 228.0600000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 369.22200000000004,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1770.2524,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1965.645,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1301.40804,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 2646.11412,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 380.1,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 820.0736,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1040.9986000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 448.341,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 477.3006000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1492.659,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2510.48354,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2280.6000000000004,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1093.6258599999999,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2161.5310799999997,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3596.1696000000006,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1292.34,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 11199.968,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 176.38652000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 3250.9118,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 2423.87892,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1872.6260000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 10499.97,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 2582.45668,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 786.89508,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1894.0500000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1264.466,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 2651.1,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 520.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 636.264,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1900.5,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1264.466,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1219.61588,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1641.087,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 529.15956,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1157.0229,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3068.361,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1366.8813,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 346.62536,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 704.13216,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 527.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 3416.3387999999995,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 159.066,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2052.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 492.36284,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1518.47808,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 302.03784,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 606.1328,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1398.3858,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1590.66,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2808.7245000000003,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 806.10768,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 303.0664,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3533.0346,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 3040.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 8399.976,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 969.0228,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 2144.56968,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1558.8467999999998,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 238.6503,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 520.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1248.05268,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 114.03,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1094.30772,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 504.06984,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2746.8559999999998,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 175.46836,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 17499.95,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1661.499,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2052.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 877.3418,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 3002.8126,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1051.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 318.132,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 13999.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 4360.002,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 643.977,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 228.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1770.2524,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 132.555,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1301.40804,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1133.9046,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 380.1,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 511.83904,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 448.341,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 477.3006,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1492.659,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1844.84476,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2280.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 676.0305,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1845.05508,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3596.1696,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 11199.968,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 176.38652,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2724.50672,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 529.82892,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1872.626,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 10499.97,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 2582.45668,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1894.05,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1264.466,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 2120.88,
+            "total_quantity": 8
         }
     ],
     "most_frequent_order_month": [
@@ -1593,545 +2684,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 8965.63376,
-            "total_quantity": 51
+            "Sales": 8965.63376,
+            "Quantity": 51,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 9910.23908,
-            "total_quantity": 60
+            "Sales": 9910.23908,
+            "Quantity": 60,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 11088.95406,
-            "total_quantity": 68
+            "Sales": 11088.95406,
+            "Quantity": 68,
+            "Sales_MA": 9988.275633333333
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 5667.47308,
-            "total_quantity": 46
+            "Sales": 5667.47308,
+            "Quantity": 46,
+            "Sales_MA": 8888.88874
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 15480.1558,
-            "total_quantity": 77
+            "Sales": 15480.1558,
+            "Quantity": 77,
+            "Sales_MA": 10745.527646666667
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 18588.35032,
-            "total_quantity": 103
+            "Sales": 18588.35032,
+            "Quantity": 103,
+            "Sales_MA": 13245.3264
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 12280.23902,
-            "total_quantity": 67
+            "Sales": 12280.23902,
+            "Quantity": 67,
+            "Sales_MA": 15449.581713333335
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 25272.38412,
-            "total_quantity": 122
+            "Sales": 25272.38412,
+            "Quantity": 122,
+            "Sales_MA": 18713.65782
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 25442.89644,
-            "total_quantity": 114
+            "Sales": 25442.89644,
+            "Quantity": 114,
+            "Sales_MA": 20998.506526666664
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 22691.95954,
-            "total_quantity": 123
+            "Sales": 22691.95954,
+            "Quantity": 123,
+            "Sales_MA": 24469.08003333333
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 28415.89312,
-            "total_quantity": 148
+            "Sales": 28415.89312,
+            "Quantity": 148,
+            "Sales_MA": 25516.91636666667
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 32563.7138,
-            "total_quantity": 159
+            "Sales": 32563.7138,
+            "Quantity": 159,
+            "Sales_MA": 27890.522153333335
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 14819.33784,
-            "total_quantity": 68
+            "Sales": 14819.33784,
+            "Quantity": 68,
+            "Sales_MA": 25266.31492
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 7047.72498,
-            "total_quantity": 42
+            "Sales": 7047.72498,
+            "Quantity": 42,
+            "Sales_MA": 18143.592206666668
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 19511.070359999998,
-            "total_quantity": 102
+            "Sales": 19511.070359999998,
+            "Quantity": 102,
+            "Sales_MA": 13792.71106
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 28857.65172,
-            "total_quantity": 159
+            "Sales": 28857.65172,
+            "Quantity": 159,
+            "Sales_MA": 18472.14902
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 31806.21924,
-            "total_quantity": 138
+            "Sales": 31806.21924,
+            "Quantity": 138,
+            "Sales_MA": 26724.98044
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 31414.93422,
-            "total_quantity": 140
+            "Sales": 31414.93422,
+            "Quantity": 140,
+            "Sales_MA": 30692.93506
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 13592.55522,
-            "total_quantity": 85
+            "Sales": 13592.55522,
+            "Quantity": 85,
+            "Sales_MA": 25604.56956
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 39637.08478,
-            "total_quantity": 187
+            "Sales": 39637.08478,
+            "Quantity": 187,
+            "Sales_MA": 28214.858073333333
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 34493.27614,
-            "total_quantity": 183
+            "Sales": 34493.27614,
+            "Quantity": 183,
+            "Sales_MA": 29240.972046666666
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 30620.8434,
-            "total_quantity": 154
+            "Sales": 30620.8434,
+            "Quantity": 154,
+            "Sales_MA": 34917.068106666666
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 30172.1,
-            "total_quantity": 168
+            "Sales": 30172.1,
+            "Quantity": 168,
+            "Sales_MA": 31762.073180000003
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 45195.8009,
-            "total_quantity": 217
+            "Sales": 45195.8009,
+            "Quantity": 217,
+            "Sales_MA": 35329.58143333333
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 17250.410780000002,
-            "total_quantity": 100
+            "Sales": 17250.410780000002,
+            "Quantity": 100,
+            "Sales_MA": 30872.770560000004
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 21244.2082,
-            "total_quantity": 104
+            "Sales": 21244.2082,
+            "Quantity": 104,
+            "Sales_MA": 27896.80662666667
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 17545.87932,
-            "total_quantity": 108
+            "Sales": 17545.87932,
+            "Quantity": 108,
+            "Sales_MA": 18680.166100000002
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 19043.73564,
-            "total_quantity": 107
+            "Sales": 19043.73564,
+            "Quantity": 107,
+            "Sales_MA": 19277.941053333332
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 46200.0935,
-            "total_quantity": 194
+            "Sales": 46200.0935,
+            "Quantity": 194,
+            "Sales_MA": 27596.56948666667
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 47010.561499999996,
-            "total_quantity": 257
+            "Sales": 47010.561499999996,
+            "Quantity": 257,
+            "Sales_MA": 37418.13021333333
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 31743.054500000002,
-            "total_quantity": 159
+            "Sales": 31743.054500000002,
+            "Quantity": 159,
+            "Sales_MA": 41651.2365
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 38194.86586,
-            "total_quantity": 195
+            "Sales": 38194.86586,
+            "Quantity": 195,
+            "Sales_MA": 38982.82728666667
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 43203.52968,
-            "total_quantity": 200
+            "Sales": 43203.52968,
+            "Quantity": 200,
+            "Sales_MA": 37713.816679999996
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 48800.20088,
-            "total_quantity": 165
+            "Sales": 48800.20088,
+            "Quantity": 165,
+            "Sales_MA": 43399.53214
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 43241.5005,
-            "total_quantity": 226
+            "Sales": 43241.5005,
+            "Quantity": 226,
+            "Sales_MA": 45081.74368666666
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 42036.84822,
-            "total_quantity": 216
+            "Sales": 42036.84822,
+            "Quantity": 216,
+            "Sales_MA": 44692.849866666664
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 43517.80492,
-            "total_quantity": 200
+            "Sales": 43517.80492,
+            "Quantity": 200,
+            "Sales_MA": 42932.05121333333
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 34201.93004,
-            "total_quantity": 190
+            "Sales": 34201.93004,
+            "Quantity": 190,
+            "Sales_MA": 39918.86106
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 63121.244679999996,
-            "total_quantity": 261
+            "Sales": 63121.244679999996,
+            "Quantity": 261,
+            "Sales_MA": 46946.99321333333
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 31375.813280000002,
-            "total_quantity": 184
+            "Sales": 31375.813280000002,
+            "Quantity": 184,
+            "Sales_MA": 42899.66266666666
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 47679.81894,
-            "total_quantity": 226
+            "Sales": 47679.81894,
+            "Quantity": 226,
+            "Sales_MA": 47392.2923
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 62737.00422,
-            "total_quantity": 345
+            "Sales": 62737.00422,
+            "Quantity": 345,
+            "Sales_MA": 47264.212146666665
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 39250.6056,
-            "total_quantity": 212
+            "Sales": 39250.6056,
+            "Quantity": 212,
+            "Sales_MA": 49889.142920000006
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 66175.53788,
-            "total_quantity": 344
+            "Sales": 66175.53788,
+            "Quantity": 344,
+            "Sales_MA": 56054.38256666667
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 92793.12886,
-            "total_quantity": 468
+            "Sales": 92793.12886,
+            "Quantity": 468,
+            "Sales_MA": 66073.09078
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 100236.64774,
-            "total_quantity": 450
+            "Sales": 100236.64774,
+            "Quantity": 450,
+            "Sales_MA": 86401.77149333333
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 98044.63646,
-            "total_quantity": 449
+            "Sales": 98044.63646,
+            "Quantity": 449,
+            "Sales_MA": 97024.80435333333
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 87618.61328,
-            "total_quantity": 451
+            "Sales": 87618.61328,
+            "Quantity": 451,
+            "Sales_MA": 95299.96582666667
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 14914.85484,
-            "total_quantity": 69
+            "Sales": 14914.85484,
+            "Quantity": 69,
+            "Sales_MA": 66859.36819333334
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 6952.20798,
-            "total_quantity": 41
+            "Sales": 6952.20798,
+            "Quantity": 41,
+            "Sales_MA": 36495.22536666667
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 19511.070359999998,
-            "total_quantity": 102
+            "Sales": 19511.070359999998,
+            "Quantity": 102,
+            "Sales_MA": 13792.71106
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 28857.65172,
-            "total_quantity": 159
+            "Sales": 28857.65172,
+            "Quantity": 159,
+            "Sales_MA": 18440.31002
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 31806.21924,
-            "total_quantity": 138
+            "Sales": 31806.21924,
+            "Quantity": 138,
+            "Sales_MA": 26724.98044
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 31414.93422,
-            "total_quantity": 140
+            "Sales": 31414.93422,
+            "Quantity": 140,
+            "Sales_MA": 30692.93506
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 13592.55522,
-            "total_quantity": 85
+            "Sales": 13592.55522,
+            "Quantity": 85,
+            "Sales_MA": 25604.56956
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 39637.08478,
-            "total_quantity": 187
+            "Sales": 39637.08478,
+            "Quantity": 187,
+            "Sales_MA": 28214.858073333333
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 34493.27614,
-            "total_quantity": 183
+            "Sales": 34493.27614,
+            "Quantity": 183,
+            "Sales_MA": 29240.972046666666
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 30620.8434,
-            "total_quantity": 154
+            "Sales": 30620.8434,
+            "Quantity": 154,
+            "Sales_MA": 34917.068106666666
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 30172.1,
-            "total_quantity": 168
+            "Sales": 30172.1,
+            "Quantity": 168,
+            "Sales_MA": 31762.073180000003
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 45195.8009,
-            "total_quantity": 217
+            "Sales": 45195.8009,
+            "Quantity": 217,
+            "Sales_MA": 35329.58143333333
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 17250.41078,
-            "total_quantity": 100
+            "Sales": 17250.41078,
+            "Quantity": 100,
+            "Sales_MA": 30872.770560000004
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 21244.2082,
-            "total_quantity": 104
+            "Sales": 21244.2082,
+            "Quantity": 104,
+            "Sales_MA": 27896.80662666667
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 17545.87932,
-            "total_quantity": 108
+            "Sales": 17545.87932,
+            "Quantity": 108,
+            "Sales_MA": 18680.1661
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 19043.73564,
-            "total_quantity": 107
+            "Sales": 19043.73564,
+            "Quantity": 107,
+            "Sales_MA": 19277.941053333332
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 46200.0935,
-            "total_quantity": 194
+            "Sales": 46200.0935,
+            "Quantity": 194,
+            "Sales_MA": 27596.569486666664
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 47010.561499999996,
-            "total_quantity": 257
+            "Sales": 47010.561499999996,
+            "Quantity": 257,
+            "Sales_MA": 37418.13021333333
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 31743.0545,
-            "total_quantity": 159
+            "Sales": 31743.0545,
+            "Quantity": 159,
+            "Sales_MA": 41651.2365
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 38194.86586,
-            "total_quantity": 195
+            "Sales": 38194.86586,
+            "Quantity": 195,
+            "Sales_MA": 38982.82728666667
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 43203.52968,
-            "total_quantity": 200
+            "Sales": 43203.52968,
+            "Quantity": 200,
+            "Sales_MA": 37713.816679999996
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 48800.200880000004,
-            "total_quantity": 165
+            "Sales": 48800.200880000004,
+            "Quantity": 165,
+            "Sales_MA": 43399.53214
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 43241.5005,
-            "total_quantity": 226
+            "Sales": 43241.5005,
+            "Quantity": 226,
+            "Sales_MA": 45081.74368666666
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 42036.84822,
-            "total_quantity": 216
+            "Sales": 42036.84822,
+            "Quantity": 216,
+            "Sales_MA": 44692.849866666664
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 34552.17116,
-            "total_quantity": 149
+            "Sales": 34552.17116,
+            "Quantity": 149,
+            "Sales_MA": 39943.50662666667
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 23703.99096,
-            "total_quantity": 128
+            "Sales": 23703.99096,
+            "Quantity": 128,
+            "Sales_MA": 33431.00344666667
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 52619.99062,
-            "total_quantity": 195
+            "Sales": 52619.99062,
+            "Quantity": 195,
+            "Sales_MA": 36958.71758
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 25708.3402,
-            "total_quantity": 138
+            "Sales": 25708.3402,
+            "Quantity": 138,
+            "Sales_MA": 34010.77392666667
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 32199.66314,
-            "total_quantity": 149
+            "Sales": 32199.66314,
+            "Quantity": 149,
+            "Sales_MA": 36842.66465333333
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 44148.6539,
-            "total_quantity": 242
+            "Sales": 44148.6539,
+            "Quantity": 242,
+            "Sales_MA": 34018.88574666667
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 25812.78658,
-            "total_quantity": 139
+            "Sales": 25812.78658,
+            "Quantity": 139,
+            "Sales_MA": 34053.701206666665
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 42060.73376,
-            "total_quantity": 228
+            "Sales": 42060.73376,
+            "Quantity": 228,
+            "Sales_MA": 37340.72474666667
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 67118.2573,
-            "total_quantity": 352
+            "Sales": 67118.2573,
+            "Quantity": 352,
+            "Sales_MA": 44997.25921333333
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 74814.22076,
-            "total_quantity": 316
+            "Sales": 74814.22076,
+            "Quantity": 316,
+            "Sales_MA": 61331.07060666667
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 69855.8213,
-            "total_quantity": 305
+            "Sales": 69855.8213,
+            "Quantity": 305,
+            "Sales_MA": 70596.09978666667
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 57790.26408,
-            "total_quantity": 301
+            "Sales": 57790.26408,
+            "Quantity": 301,
+            "Sales_MA": 67486.76871333334
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "TC-20980",
-            "total_spent": 20915.728999999996,
+            "Customer Name": "Tamara Chand",
+            "total_spent": 42911.121999999996,
+            "purchase_frequency": 16,
+            "average_order_value": 2681.9451249999997
+        },
+        {
+            "Customer Name": "Raymond Buch",
+            "total_spent": 32450.42,
             "purchase_frequency": 6,
-            "average_order_value": 3485.9548333333328
-        },
-        {
-            "Customer ID": "TC-209801402",
-            "total_spent": 17499.95,
-            "purchase_frequency": 1,
-            "average_order_value": 17499.95
-        },
-        {
-            "Customer ID": "RB-19360",
-            "total_spent": 16225.21,
-            "purchase_frequency": 3,
             "average_order_value": 5408.403333333333
         },
         {
-            "Customer ID": "TA-21385",
-            "total_spent": 16160.6988,
-            "purchase_frequency": 7,
+            "Customer Name": "Tom Ashbrook",
+            "total_spent": 32321.3976,
+            "purchase_frequency": 13,
             "average_order_value": 1795.6332
         },
         {
-            "Customer ID": "HL-15040",
-            "total_spent": 14040.69168,
-            "purchase_frequency": 5,
+            "Customer Name": "Hunter Lopez",
+            "total_spent": 28081.38336,
+            "purchase_frequency": 10,
             "average_order_value": 2808.138336
         },
         {
-            "Customer ID": "RB-193601404",
-            "total_spent": 13999.96,
-            "purchase_frequency": 1,
-            "average_order_value": 13999.96
+            "Customer Name": "Christopher Conant",
+            "total_spent": 26146.0512,
+            "purchase_frequency": 8,
+            "average_order_value": 3268.2564
         },
         {
-            "Customer ID": "CC-12370",
-            "total_spent": 13073.025599999999,
-            "purchase_frequency": 4,
-            "average_order_value": 3268.2563999999998
+            "Customer Name": "Patrick O'Donnell",
+            "total_spent": 17854.5576,
+            "purchase_frequency": 14,
+            "average_order_value": 1115.90985
         },
         {
-            "Customer ID": "TA-213851406",
-            "total_spent": 11199.968,
-            "purchase_frequency": 1,
-            "average_order_value": 11199.968
-        },
-        {
-            "Customer ID": "HL-150401406",
-            "total_spent": 10499.97,
-            "purchase_frequency": 1,
-            "average_order_value": 10499.97
-        },
-        {
-            "Customer ID": "CC-123701406",
-            "total_spent": 8399.976,
-            "purchase_frequency": 1,
-            "average_order_value": 8399.976
-        },
-        {
-            "Customer ID": "PO-19180",
-            "total_spent": 8167.7475,
-            "purchase_frequency": 6,
+            "Customer Name": "Philisse Overcash",
+            "total_spent": 16335.495,
+            "purchase_frequency": 12,
             "average_order_value": 1020.9684375
         },
         {
-            "Customer ID": "ML-18265",
-            "total_spent": 6859.44776,
-            "purchase_frequency": 7,
-            "average_order_value": 857.43097
+            "Customer Name": "Aaron Bergman",
+            "total_spent": 14707.365600000001,
+            "purchase_frequency": 12,
+            "average_order_value": 1050.5261142857144
         },
         {
-            "Customer ID": "HM-14860",
-            "total_spent": 6813.33,
-            "purchase_frequency": 2,
-            "average_order_value": 3406.665
+            "Customer Name": "Muhammed Lee",
+            "total_spent": 14613.85552,
+            "purchase_frequency": 18,
+            "average_order_value": 730.692776
         },
         {
-            "Customer ID": "PO-18865",
-            "total_spent": 6724.7088,
-            "purchase_frequency": 5,
-            "average_order_value": 1120.7848000000001
-        },
-        {
-            "Customer ID": "DR-12940",
-            "total_spent": 6409.12752,
-            "purchase_frequency": 2,
-            "average_order_value": 1602.28188
-        },
-        {
-            "Customer ID": "RP-19270",
-            "total_spent": 6219.015000000001,
-            "purchase_frequency": 3,
-            "average_order_value": 1554.7537500000003
-        },
-        {
-            "Customer ID": "EM-14140",
-            "total_spent": 6113.0513599999995,
-            "purchase_frequency": 7,
-            "average_order_value": 873.2930514285714
-        },
-        {
-            "Customer ID": "DB-13060",
-            "total_spent": 5931.46996,
-            "purchase_frequency": 4,
-            "average_order_value": 1186.2939920000001
-        },
-        {
-            "Customer ID": "MY-18295",
-            "total_spent": 5920.46868,
-            "purchase_frequency": 7,
-            "average_order_value": 845.78124
-        },
-        {
-            "Customer ID": "DK-12895",
-            "total_spent": 5881.819959999999,
-            "purchase_frequency": 4,
-            "average_order_value": 980.3033266666665
+            "Customer Name": "Dave Poirier",
+            "total_spent": 14251.958400000001,
+            "purchase_frequency": 10,
+            "average_order_value": 1187.6632000000002
         }
     ],
     "discount_analysis": [
@@ -2139,97 +3254,97 @@
             "Discount": 0.0,
             "total_sales": 1441451.16,
             "total_quantity": 5602,
-            "average_profit": 225.71758434684685
+            "average_profit": 225.7176
         },
         {
             "Discount": 0.002,
-            "total_sales": 522791.24215999997,
+            "total_sales": 522791.2422,
             "total_quantity": 3314,
-            "average_profit": 125.7626487635575
+            "average_profit": 125.7626
         },
         {
             "Discount": 0.07,
-            "total_sales": 124239.31379999999,
+            "total_sales": 124239.3138,
             "total_quantity": 560,
-            "average_profit": 140.56564074074075
+            "average_profit": 140.5656
         },
         {
             "Discount": 0.1,
-            "total_sales": 285522.13800000004,
+            "total_sales": 285522.138,
             "total_quantity": 1338,
-            "average_profit": 136.6954107142857
+            "average_profit": 136.6954
         },
         {
             "Discount": 0.15,
             "total_sales": 185021.829,
             "total_quantity": 946,
-            "average_profit": 62.419559523809525
+            "average_profit": 62.4196
         },
         {
             "Discount": 0.2,
             "total_sales": 112318.096,
             "total_quantity": 238,
-            "average_profit": 483.20850810810805
+            "average_profit": 483.2085
         },
         {
             "Discount": 0.202,
-            "total_sales": 32431.294560000002,
+            "total_sales": 32431.2946,
             "total_quantity": 270,
-            "average_profit": -14.518846829268297
+            "average_profit": -14.5188
         },
         {
             "Discount": 0.35,
             "total_sales": 45748.209,
             "total_quantity": 300,
-            "average_profit": -73.2943875
+            "average_profit": -73.2944
         },
         {
             "Discount": 0.37,
-            "total_sales": 28400.727600000002,
+            "total_sales": 28400.7276,
             "total_quantity": 230,
-            "average_profit": -47.9680054054054
+            "average_profit": -47.968
         },
         {
             "Discount": 0.4,
             "total_sales": 68390.64,
             "total_quantity": 334,
-            "average_profit": -52.037225000000014
+            "average_profit": -52.0372
         },
         {
             "Discount": 0.402,
-            "total_sales": 67467.74736,
+            "total_sales": 67467.7474,
             "total_quantity": 682,
-            "average_profit": -109.9081376923077
+            "average_profit": -109.9081
         },
         {
             "Discount": 0.5,
             "total_sales": 61091.16,
             "total_quantity": 506,
-            "average_profit": -232.99455882352942
+            "average_profit": -232.9946
         },
         {
             "Discount": 0.6,
             "total_sales": 14531.928,
             "total_quantity": 156,
-            "average_profit": -144.45146666666668
+            "average_profit": -144.4515
         },
         {
             "Discount": 0.602,
-            "total_sales": 9954.36208,
+            "total_sales": 9954.3621,
             "total_quantity": 156,
-            "average_profit": -213.2790852173913
+            "average_profit": -213.2791
         },
         {
             "Discount": 0.65,
             "total_sales": 5246.745,
             "total_quantity": 64,
-            "average_profit": -406.67125000000004
+            "average_profit": -406.6713
         },
         {
             "Discount": 0.7,
-            "total_sales": 14265.954000000002,
+            "total_sales": 14265.954,
             "total_quantity": 212,
-            "average_profit": -220.41966
+            "average_profit": -220.4197
         }
     ],
     "geographic_distribution": [
@@ -2237,121 +3352,215 @@
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 42649.524000000005,
-            "total_quantity": 186
+            "total_quantity": 186,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "Indiana",
             "City": "Lafayette",
             "total_sales": 34999.899999999994,
-            "total_quantity": 10
+            "total_quantity": 10,
+            "Location": "Indiana, Lafayette"
         },
         {
             "State": "Washington",
             "City": "Seattle",
             "total_sales": 34899.759999999995,
-            "total_quantity": 24
+            "total_quantity": 24,
+            "Location": "Washington, Seattle"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 34463.17552,
-            "total_quantity": 192
+            "total_quantity": 192,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "New York",
             "City": "New York City",
             "total_sales": 33439.712,
-            "total_quantity": 36
+            "total_quantity": 36,
+            "Location": "New York, New York City"
         },
         {
             "State": "Queensland",
             "City": "Brisbane",
             "total_sales": 31916.052,
-            "total_quantity": 122
+            "total_quantity": 122,
+            "Location": "Queensland, Brisbane"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 29129.385599999998,
-            "total_quantity": 140
+            "total_quantity": 140,
+            "Location": "Jakarta, Jakarta"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 26159.736,
-            "total_quantity": 44
+            "total_quantity": 44,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "Managua",
             "City": "Managua",
             "total_sales": 24081.70008,
-            "total_quantity": 118
+            "total_quantity": 118,
+            "Location": "Managua, Managua"
         },
         {
             "State": "Berlin",
             "City": "Berlin",
             "total_sales": 24072.822,
-            "total_quantity": 110
+            "total_quantity": 110,
+            "Location": "Berlin, Berlin"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 23199.568,
-            "total_quantity": 54
+            "total_quantity": 54,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 21694.874880000003,
-            "total_quantity": 174
+            "total_quantity": 174,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Delaware",
             "City": "Newark",
             "total_sales": 20999.94,
-            "total_quantity": 6
+            "total_quantity": 6,
+            "Location": "Delaware, Newark"
         },
         {
             "State": "Jawa Barat",
             "City": "Bandung",
             "total_sales": 20912.1102,
-            "total_quantity": 76
+            "total_quantity": 76,
+            "Location": "Jawa Barat, Bandung"
         },
         {
             "State": "Queensland",
             "City": "Gold Coast",
             "total_sales": 20363.94,
-            "total_quantity": 102
-        },
-        {
-            "State": "South Australia",
-            "City": "Adelaide",
-            "total_sales": 20294.712,
-            "total_quantity": 98
-        },
-        {
-            "State": "San Salvador",
-            "City": "San Salvador",
-            "total_sales": 19957.6048,
-            "total_quantity": 124
-        },
-        {
-            "State": "S\u00e3o Paulo",
-            "City": "S\u00e3o Paulo",
-            "total_sales": 19826.786959999998,
-            "total_quantity": 112
-        },
-        {
-            "State": "Vienna",
-            "City": "Vienna",
-            "total_sales": 18743.46,
-            "total_quantity": 80
-        },
-        {
-            "State": "Victoria",
-            "City": "Melbourne",
-            "total_sales": 17081.604,
-            "total_quantity": 98
+            "total_quantity": 102,
+            "Location": "Queensland, Gold Coast"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 592,
+            "avg_shipping_delay": 2.13,
+            "total_profit": 87855.02,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 220,
+            "avg_shipping_delay": 0.08,
+            "total_profit": 31236.59,
+            "shipping_cost_ratio": 0.19
+        },
+        "Second Class": {
+            "total_orders": 838,
+            "avg_shipping_delay": 3.18,
+            "total_profit": 101846.93,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 2599,
+            "avg_shipping_delay": 5.01,
+            "total_profit": 296196.56,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.14722676850907387,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.057708661397938246,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.06675193381494357,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.0694543689804123,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 736.0,
+                "mean": 311.53125,
+                "std": 311.0476641324363,
+                "min": 0.0,
+                "25%": 75.0,
+                "50%": 196.0,
+                "75%": 481.0,
+                "max": 1370.0
+            },
+            "frequency": {
+                "count": 736.0,
+                "mean": 5.773097826086956,
+                "std": 3.032052657126374,
+                "min": 1.0,
+                "25%": 4.0,
+                "50%": 6.0,
+                "75%": 8.0,
+                "max": 20.0
+            },
+            "monetary": {
+                "count": 736.0,
+                "mean": 4101.729003478261,
+                "std": 3700.844587748142,
+                "min": 138.99912,
+                "25%": 1699.1655,
+                "50%": 3426.8439,
+                "75%": 5421.6386,
+                "max": 42911.121999999996
+            }
+        },
+        "rfm_segments": {
+            "High": 246,
+            "Low": 246,
+            "Medium": 244
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3065,
+        "churned_customers": 2328,
+        "churn_rate": 0.7595432300163132,
+        "avg_recency": 891.0486133768352,
+        "avg_frequency": 1.4505709624796084,
+        "avg_monetary": 984.9502598890703,
+        "churned_customer_characteristics": {
+            "avg_recency": 1125.1121134020618,
+            "avg_frequency": 1.5579896907216495,
+            "avg_monetary": 1049.216890524055,
+            "avg_discount": 0.12149196530846017,
+            "avg_quantity": 3.264260486554301,
+            "avg_shipping_cost": 70.2050382935826,
+            "avg_profit": 107.2069201257875
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 151.7001356852103,
+            "avg_frequency": 1.1112618724559022,
+            "avg_monetary": 781.9479313704207,
+            "avg_discount": 0.11716327453640886,
+            "avg_quantity": 3.3543193125282675,
+            "avg_shipping_cost": 72.76719317955676,
+            "avg_profit": 131.49393750339215
+        }
+    }
 }

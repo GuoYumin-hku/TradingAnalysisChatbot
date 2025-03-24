@@ -1170,288 +1170,1007 @@
         24,
         22
     ],
+    "yearly_sales": {
+        "2011": 160545.6814,
+        "2012": 159858.9511,
+        "2013": 198376.1987,
+        "2014": 420824.91730000003,
+        "2015": 159858.9511,
+        "2016": 198376.1987,
+        "2017": 260279.2359
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 4170.328,
+            "2012": 5605.3469000000005,
+            "2013": 17276.2315,
+            "2014": 23403.184800000003,
+            "2015": 5605.3469000000005,
+            "2016": 17276.2315,
+            "2017": 19232.8568
+        },
+        "August": {
+            "2011": 8041.9348,
+            "2012": 16647.8825,
+            "2013": 17620.940000000002,
+            "2014": 34733.3291,
+            "2015": 16647.8825,
+            "2016": 17620.94,
+            "2017": 25975.4743
+        },
+        "December": {
+            "2011": 21722.7595,
+            "2012": 21361.3535,
+            "2013": 19683.823,
+            "2014": 46422.387200000005,
+            "2015": 21361.3535,
+            "2016": 19683.823,
+            "2017": 24699.6277
+        },
+        "February": {
+            "2011": 6953.7155999999995,
+            "2012": 4648.3608,
+            "2013": 13743.686000000002,
+            "2014": 16508.3336,
+            "2015": 4648.3607999999995,
+            "2016": 13743.686000000002,
+            "2017": 8805.92
+        },
+        "January": {
+            "2011": 7102.682500000001,
+            "2012": 11919.057,
+            "2013": 4509.3935,
+            "2014": 28910.060400000002,
+            "2015": 11919.057,
+            "2016": 4509.3935,
+            "2017": 21807.3779
+        },
+        "July": {
+            "2011": 6527.334600000001,
+            "2012": 10176.763500000001,
+            "2013": 6931.2983,
+            "2014": 22762.383100000003,
+            "2015": 10176.7635,
+            "2016": 6931.2983,
+            "2017": 15718.0885
+        },
+        "June": {
+            "2011": 8664.715400000001,
+            "2012": 12796.058500000001,
+            "2013": 32300.959100000004,
+            "2014": 32829.6387,
+            "2015": 12796.0585,
+            "2016": 32300.9591,
+            "2017": 24164.9233
+        },
+        "March": {
+            "2011": 31761.1412,
+            "2012": 8325.013200000001,
+            "2013": 15282.629,
+            "2014": 39858.4868,
+            "2015": 8325.0132,
+            "2016": 15282.629,
+            "2017": 8846.043599999999
+        },
+        "May": {
+            "2011": 6718.359000000001,
+            "2012": 13569.895400000001,
+            "2013": 21039.5896,
+            "2014": 17918.0875,
+            "2015": 13569.8954,
+            "2016": 21039.5896,
+            "2017": 11199.7285
+        },
+        "November": {
+            "2011": 18145.590200000002,
+            "2012": 25473.148200000003,
+            "2013": 18516.595,
+            "2014": 58946.7667,
+            "2015": 25473.1482,
+            "2016": 18516.595,
+            "2017": 41362.3205
+        },
+        "October": {
+            "2011": 8912.796200000003,
+            "2012": 14390.0452,
+            "2013": 19671.1984,
+            "2014": 44633.9325,
+            "2015": 14390.045199999999,
+            "2016": 19671.1984,
+            "2017": 35159.9923
+        },
+        "September": {
+            "2011": 31824.3244,
+            "2012": 14946.0264,
+            "2013": 11799.855300000001,
+            "2014": 53898.3269,
+            "2015": 14946.0264,
+            "2016": 11799.8553,
+            "2017": 23306.8825
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Okidata Inkjet, Wireless": 46008.6024,
+        "Cisco TelePresence System EX90 Videoconferencing Unit": 45276.96,
+        "Konica Inkjet, Wireless": 39822.752,
+        "HP Designjet T520 Inkjet Large Format Printer - 24\" Color": 36749.79,
+        "Konica Inkjet, White": 34657.7028,
+        "Lexmark MX611dhe Monochrome Laser Printer": 33659.801999999996,
+        "Epson Inkjet, Wireless": 32846.6952,
+        "StarTech Inkjet, Wireless": 31278.247,
+        "3D Systems Cube Printer, 2nd Generation, Magenta": 28599.78,
+        "Okidata Printer, White": 25735.4622
+    },
+    "top_10_products_by_profit": {
+        "Konica Inkjet, White": 8915.4428,
+        "HP Designjet T520 Inkjet Large Format Printer - 24\" Color": 8189.953199999999,
+        "Ativa V4110MDD Micro-Cut Shredder": 7545.8922,
+        "3D Systems Cube Printer, 2nd Generation, Magenta": 7435.9428,
+        "Zebra ZM400 Thermal Label Printer": 6687.072,
+        "Okidata Inkjet, Wireless": 6629.9024,
+        "Epson Inkjet, Durable": 5701.518,
+        "Konica Inkjet, Wireless": 5045.672,
+        "Konica Printer, White": 4828.995,
+        "StarTech Inkjet, White": 4710.576
+    },
+    "top_10_products_by_turnover": {
+        "Okidata Inkjet, Wireless": 176,
+        "Konica Phone, Wireless": 158,
+        "Konica Inkjet, Wireless": 152,
+        "StarTech Card Printer, White": 144,
+        "Epson Card Printer, Durable": 138,
+        "Epson Inkjet, Wireless": 134,
+        "Konica Card Printer, Red": 134,
+        "StarTech Calculator, Red": 130,
+        "Okidata Card Printer, White": 126,
+        "Epson Phone, Durable": 124
+    },
+    "top_5_loss_products": {
+        "Cubify CubeX 3D Printer Double Head Print": -18479.938400000003,
+        "Lexmark MX611dhe Monochrome Laser Printer": -10539.938000000004,
+        "Cubify CubeX 3D Printer Triple Head Print": -7679.980799999999,
+        "Okidata Inkjet, Wireless": -5172.8640000000005,
+        "Epson Inkjet, Wireless": -4409.646000000001
+    },
     "product_performance": [
         {
-            "Product ID": "TEC-MA-5503",
-            "total_sales": 23004.3012,
-            "total_quantity": 88,
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 46008.6024,
+            "total_quantity": 176,
             "average_price": 884.7808153846155,
-            "total_profit": 3314.9512,
+            "total_profit": 6629.9024,
             "profit_margin": 0.14410136483519873
         },
         {
-            "Product ID": "TEC-MA-10002412",
-            "total_sales": 22638.48,
-            "total_quantity": 6,
+            "Product Name": "Cisco TelePresence System EX90 Videoconferencing Unit",
+            "total_sales": 45276.96,
+            "total_quantity": 12,
             "average_price": 22638.48,
-            "total_profit": -1811.078400000002,
-            "profit_margin": -0.08000000000000008
+            "total_profit": -3622.156800000002,
+            "profit_margin": -0.08000000000000004
         },
         {
-            "Product ID": "TEC-MA-3819",
-            "total_sales": 22638.48,
-            "total_quantity": 6,
-            "average_price": 22638.48,
-            "total_profit": -1811.0784,
-            "profit_margin": -0.08
-        },
-        {
-            "Product ID": "TEC-MA-5008",
-            "total_sales": 19911.376,
-            "total_quantity": 76,
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 39822.752,
+            "total_quantity": 152,
             "average_price": 905.0625454545454,
-            "total_profit": 2522.836,
+            "total_profit": 5045.672,
             "profit_margin": 0.12670324743001185
         },
         {
-            "Product ID": "TEC-MA-10001127",
-            "total_sales": 19145.745000000003,
-            "total_quantity": 17,
-            "average_price": 4786.436250000001,
-            "total_profit": 3647.826599999999,
-            "profit_margin": 0.19052936305168583
-        },
-        {
-            "Product ID": "TEC-MA-4768",
-            "total_sales": 18374.895,
-            "total_quantity": 12,
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "total_sales": 36749.79,
+            "total_quantity": 24,
             "average_price": 6124.965,
-            "total_profit": 4094.9766,
+            "total_profit": 8189.953199999999,
             "profit_margin": 0.22285714285714284
         },
         {
-            "Product ID": "TEC-MA-5007",
-            "total_sales": 17328.8514,
-            "total_quantity": 62,
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 34657.7028,
+            "total_quantity": 124,
             "average_price": 962.7139666666667,
-            "total_profit": 4457.7214,
+            "total_profit": 8915.4428,
             "profit_margin": 0.25724275066494023
         },
         {
-            "Product ID": "TEC-MA-10000822",
-            "total_sales": 16829.900999999998,
-            "total_quantity": 18,
+            "Product Name": "Lexmark MX611dhe Monochrome Laser Printer",
+            "total_sales": 33659.801999999996,
+            "total_quantity": 36,
             "average_price": 4207.4752499999995,
-            "total_profit": -4589.973000000004,
-            "profit_margin": -0.272727272727273
+            "total_profit": -9179.946000000004,
+            "profit_margin": -0.2727272727272729
         },
         {
-            "Product ID": "TEC-MA-5082",
-            "total_sales": 16829.900999999998,
-            "total_quantity": 18,
-            "average_price": 4207.4752499999995,
-            "total_profit": -4589.973,
-            "profit_margin": -0.27272727272727276
-        },
-        {
-            "Product ID": "TEC-MA-4199",
-            "total_sales": 16423.3476,
-            "total_quantity": 67,
+            "Product Name": "Epson Inkjet, Wireless",
+            "total_sales": 32846.6952,
+            "total_quantity": 134,
             "average_price": 821.1673800000001,
-            "total_profit": -226.53239999999994,
-            "profit_margin": -0.013793314585876506
+            "total_profit": -453.0648000000004,
+            "profit_margin": -0.013793314585876522
         },
         {
-            "Product ID": "TEC-MA-6142",
-            "total_sales": 15639.1235,
-            "total_quantity": 59,
+            "Product Name": "StarTech Inkjet, Wireless",
+            "total_sales": 31278.247,
+            "total_quantity": 118,
             "average_price": 679.9618913043478,
-            "total_profit": -66.37650000000002,
-            "profit_margin": -0.00424425959677344
+            "total_profit": -132.75300000000055,
+            "profit_margin": -0.0042442595967734555
         },
         {
-            "Product ID": "TEC-MA-2865",
-            "total_sales": 14299.89,
-            "total_quantity": 11,
+            "Product Name": "3D Systems Cube Printer, 2nd Generation, Magenta",
+            "total_sales": 28599.78,
+            "total_quantity": 22,
             "average_price": 7149.945,
-            "total_profit": 3717.9714000000004,
+            "total_profit": 7435.9428,
             "profit_margin": 0.26
         },
         {
-            "Product ID": "TEC-MA-10001047",
-            "total_sales": 14299.89,
-            "total_quantity": 11,
-            "average_price": 7149.945,
-            "total_profit": 3717.9714000000004,
-            "profit_margin": 0.26
-        },
-        {
-            "Product ID": "TEC-MA-5512",
-            "total_sales": 12867.7311,
-            "total_quantity": 58,
+            "Product Name": "Okidata Printer, White",
+            "total_sales": 25735.4622,
+            "total_quantity": 116,
             "average_price": 714.87395,
-            "total_profit": -932.6889000000001,
+            "total_profit": -1865.3778000000002,
             "profit_margin": -0.0724827782576215
         },
         {
-            "Product ID": "TEC-MA-5547",
-            "total_sales": 11874.815999999999,
-            "total_quantity": 45,
+            "Product Name": "Panasonic Inkjet, Red",
+            "total_sales": 23749.631999999998,
+            "total_quantity": 90,
             "average_price": 989.5679999999999,
-            "total_profit": 247.11599999999999,
+            "total_profit": 494.23199999999997,
             "profit_margin": 0.02081009086793429
         },
         {
-            "Product ID": "TEC-MA-5502",
-            "total_sales": 11329.5,
-            "total_quantity": 42,
+            "Product Name": "Okidata Inkjet, White",
+            "total_sales": 22659.0,
+            "total_quantity": 84,
             "average_price": 755.3,
-            "total_profit": -144.12,
-            "profit_margin": -0.012720773202700915
+            "total_profit": -288.24000000000046,
+            "profit_margin": -0.012720773202700934
         },
         {
-            "Product ID": "TEC-MA-10000418",
-            "total_sales": 11099.963,
-            "total_quantity": 9,
+            "Product Name": "Cubify CubeX 3D Printer Double Head Print",
+            "total_sales": 22199.926,
+            "total_quantity": 18,
             "average_price": 3699.9876666666664,
-            "total_profit": -8879.970400000002,
-            "profit_margin": -0.8000000000000002
-        },
-        {
-            "Product ID": "TEC-MA-3854",
-            "total_sales": 11099.963,
-            "total_quantity": 9,
-            "average_price": 3699.9876666666664,
-            "total_profit": -8879.9704,
+            "total_profit": -17759.9408,
             "profit_margin": -0.8
         },
         {
-            "Product ID": "TEC-MA-4205",
-            "total_sales": 10422.02,
-            "total_quantity": 46,
+            "Product Name": "Epson Printer, Durable",
+            "total_sales": 20844.04,
+            "total_quantity": 92,
             "average_price": 744.4300000000001,
-            "total_profit": 1979.84,
-            "profit_margin": 0.18996701215311426
+            "total_profit": 3959.6800000000003,
+            "profit_margin": 0.1899670121531143
         },
         {
-            "Product ID": "TEC-MA-5548",
-            "total_sales": 10401.75,
-            "total_quantity": 42,
-            "average_price": 945.6136363636364,
-            "total_profit": -12.629999999999981,
-            "profit_margin": -0.0012142187612661313
+            "Product Name": "Panasonic Inkjet, White",
+            "total_sales": 20803.500000000004,
+            "total_quantity": 84,
+            "average_price": 945.6136363636365,
+            "total_profit": -25.26000000000043,
+            "profit_margin": -0.0012142187612661536
+        },
+        {
+            "Product Name": "Epson Card Printer, Durable",
+            "total_sales": 20612.484,
+            "total_quantity": 138,
+            "average_price": 572.569,
+            "total_profit": 4202.604,
+            "profit_margin": 0.20388634382930268
+        },
+        {
+            "Product Name": "Okidata Printer, Wireless",
+            "total_sales": 20329.030000000002,
+            "total_quantity": 96,
+            "average_price": 597.9126470588236,
+            "total_profit": -372.85000000000025,
+            "profit_margin": -0.018340766873776084
+        },
+        {
+            "Product Name": "Epson Inkjet, Durable",
+            "total_sales": 19195.038,
+            "total_quantity": 68,
+            "average_price": 959.7519,
+            "total_profit": 5701.518,
+            "profit_margin": 0.2970308264041988
+        },
+        {
+            "Product Name": "Okidata Inkjet, Durable",
+            "total_sales": 18869.3538,
+            "total_quantity": 66,
+            "average_price": 725.744376923077,
+            "total_profit": -550.4862000000002,
+            "profit_margin": -0.029173558662088372
+        },
+        {
+            "Product Name": "Panasonic Printer, Wireless",
+            "total_sales": 18627.651,
+            "total_quantity": 82,
+            "average_price": 716.4481153846154,
+            "total_profit": 3452.0309999999995,
+            "profit_margin": 0.18531756902681928
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-02",
+            "Year_Month": "2011-01",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1149.1830000000002,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-01",
             "Product Name": "Okidata Inkjet, Wireless",
             "total_sales": 314.22,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-07",
-            "Product Name": "Panasonic Phone, Wireless",
-            "total_sales": 445.41,
-            "total_quantity": 7
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Panasonic Card Printer, White",
-            "total_sales": 387.5175,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-08",
-            "Product Name": "Panasonic Inkjet, White",
-            "total_sales": 2173.5000000000005,
-            "total_quantity": 7
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Epson Phone, Red",
-            "total_sales": 156.24,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "StarTech Calculator, Red",
-            "total_sales": 37.11,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-12",
-            "Product Name": "Epson Printer, White",
-            "total_sales": 522.0600000000001,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-13",
-            "Product Name": "StarTech Inkjet, Wireless",
-            "total_sales": 201.26,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "StarTech Card Printer, White",
-            "total_sales": 485.7300000000001,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-19",
-            "Product Name": "Okidata Printer, Wireless",
-            "total_sales": 716.0000000000001,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-25",
-            "Product Name": "Panasonic Phone, Red",
-            "total_sales": 147.58200000000002,
+            "Year_Month": "2011-03",
+            "Product Name": "Cisco TelePresence System EX90 Videoconferencing Unit",
+            "total_sales": 22638.48,
             "total_quantity": 6
         },
         {
-            "Order Date": "2011-01-26",
-            "Product Name": "Konica Inkjet, White",
-            "total_sales": 310.59000000000003,
-            "total_quantity": 1
+            "Year_Month": "2011-05",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1413.4500000000005,
+            "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-27",
-            "Product Name": "Okidata Calculator, Durable",
-            "total_sales": 366.87,
-            "total_quantity": 7
+            "Year_Month": "2011-06",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 628.44,
+            "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-31",
-            "Product Name": "Konica Inkjet, White",
-            "total_sales": 838.5930000000002,
+            "Year_Month": "2011-09",
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "total_sales": 2624.985,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-02-02",
-            "Product Name": "Epson Receipt Printer, Wireless",
-            "total_sales": 468.12,
+            "Year_Month": "2011-09",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1366.596,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1253.76,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-02-02",
-            "Product Name": "Konica Phone, White",
-            "total_sales": 88.82999999999998,
+            "Year_Month": "2011-11",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1320.0075000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 732.9000000000001,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-02-04",
-            "Product Name": "Epson Receipt Printer, White",
-            "total_sales": 115.44,
+            "Year_Month": "2011-12",
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "total_sales": 6999.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 208.96,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-02-07",
-            "Product Name": "Konica Receipt Printer, Wireless",
-            "total_sales": 207.825,
-            "total_quantity": 2
+            "Year_Month": "2012-04",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 439.86,
+            "total_quantity": 3
         },
         {
-            "Order Date": "2011-02-09",
-            "Product Name": "Okidata Calculator, White",
-            "total_sales": 25.35,
+            "Year_Month": "2012-05",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 792.0045,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 314.1,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-02-10",
-            "Product Name": "Panasonic Receipt Printer, Wireless",
-            "total_sales": 205.53,
+            "Year_Month": "2012-06",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 846.6120000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 2198.7000000000003,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 2402.865,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 314.1,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1677.1860000000004,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 628.44,
             "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 313.56,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1825.6182,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 2821.2000000000003,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "total_sales": 8749.95,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1508.256,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 621.1800000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 621.1800000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 799.2719999999999,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1447.3494,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 418.80000000000007,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 94.068,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1567.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 376.128,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 628.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1035.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 94.032,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1728.21,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1149.183,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 846.288,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 314.22,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1128.384,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Cisco TelePresence System EX90 Videoconferencing Unit",
+            "total_sales": 22638.48,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1884.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1599.156,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 2174.13,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 846.288,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1413.45,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 559.0620000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 628.44,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 313.44,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1863.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1316.448,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 502.75200000000007,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "total_sales": 2624.985,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 2608.956,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1253.76,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1476.2700000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 528.003,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1885.32,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1320.0075,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 3605.94,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 2491.86,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "total_sales": 6999.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 931.77,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1880.64,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 208.96,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 439.86,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 792.0045,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 314.1,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 846.612,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 2198.7,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 2402.865,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 314.1,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1677.186,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 628.44,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 313.56,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1825.6182,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 2821.2000000000003,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "total_sales": 8749.95,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1508.256,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 621.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 621.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 799.272,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1447.3494,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 418.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 94.068,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1567.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 376.128,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 628.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1035.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 94.032,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1728.21,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 846.288,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1128.384,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1884.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1599.156,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 2174.13,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 846.288,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 559.062,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 313.44,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1863.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1316.448,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 502.75200000000007,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 1242.36,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1476.27,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 528.003,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1885.32,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 3605.94,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Okidata Inkjet, Wireless",
+            "total_sales": 1758.96,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Konica Inkjet, White",
+            "total_sales": 931.77,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Konica Inkjet, Wireless",
+            "total_sales": 1880.64,
+            "total_quantity": 6
         }
     ],
     "most_frequent_order_month": [
@@ -1539,619 +2258,643 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 7102.682500000001,
-            "total_quantity": 48
+            "Sales": 7102.682500000001,
+            "Quantity": 48,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 6953.7155999999995,
-            "total_quantity": 62
+            "Sales": 6953.7155999999995,
+            "Quantity": 62,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 31761.1412,
-            "total_quantity": 68
+            "Sales": 31761.1412,
+            "Quantity": 68,
+            "Sales_MA": 15272.513099999998
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 4170.328,
-            "total_quantity": 30
+            "Sales": 4170.328,
+            "Quantity": 30,
+            "Sales_MA": 14295.061599999999
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 6718.359000000001,
-            "total_quantity": 63
+            "Sales": 6718.359000000001,
+            "Quantity": 63,
+            "Sales_MA": 14216.609400000001
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 8664.715400000001,
-            "total_quantity": 82
+            "Sales": 8664.715400000001,
+            "Quantity": 82,
+            "Sales_MA": 6517.800800000001
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 6527.334600000001,
-            "total_quantity": 48
+            "Sales": 6527.334600000001,
+            "Quantity": 48,
+            "Sales_MA": 7303.469666666668
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 8041.9348,
-            "total_quantity": 78
+            "Sales": 8041.9348,
+            "Quantity": 78,
+            "Sales_MA": 7744.6616
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 31824.3244,
-            "total_quantity": 99
+            "Sales": 31824.3244,
+            "Quantity": 99,
+            "Sales_MA": 15464.531266666667
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 8912.796200000003,
-            "total_quantity": 76
+            "Sales": 8912.796200000003,
+            "Quantity": 76,
+            "Sales_MA": 16259.685133333334
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 18145.590200000002,
-            "total_quantity": 141
+            "Sales": 18145.590200000002,
+            "Quantity": 141,
+            "Sales_MA": 19627.57026666667
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 21722.7595,
-            "total_quantity": 142
+            "Sales": 21722.7595,
+            "Quantity": 142,
+            "Sales_MA": 16260.381966666668
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 11919.057,
-            "total_quantity": 77
+            "Sales": 11919.057,
+            "Quantity": 77,
+            "Sales_MA": 17262.4689
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 4648.3608,
-            "total_quantity": 39
+            "Sales": 4648.3608,
+            "Quantity": 39,
+            "Sales_MA": 12763.392433333334
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 8325.013200000001,
-            "total_quantity": 62
+            "Sales": 8325.013200000001,
+            "Quantity": 62,
+            "Sales_MA": 8297.477
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 5605.3469000000005,
-            "total_quantity": 46
+            "Sales": 5605.3469000000005,
+            "Quantity": 46,
+            "Sales_MA": 6192.906966666666
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 13569.895400000001,
-            "total_quantity": 80
+            "Sales": 13569.895400000001,
+            "Quantity": 80,
+            "Sales_MA": 9166.751833333334
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 12796.058500000001,
-            "total_quantity": 108
+            "Sales": 12796.058500000001,
+            "Quantity": 108,
+            "Sales_MA": 10657.100266666668
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 10176.763500000001,
-            "total_quantity": 54
+            "Sales": 10176.763500000001,
+            "Quantity": 54,
+            "Sales_MA": 12180.9058
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 16647.8825,
-            "total_quantity": 101
+            "Sales": 16647.8825,
+            "Quantity": 101,
+            "Sales_MA": 13206.9015
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 14946.0264,
-            "total_quantity": 132
+            "Sales": 14946.0264,
+            "Quantity": 132,
+            "Sales_MA": 13923.557466666667
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 14390.0452,
-            "total_quantity": 104
+            "Sales": 14390.0452,
+            "Quantity": 104,
+            "Sales_MA": 15327.9847
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 25473.148200000003,
-            "total_quantity": 143
+            "Sales": 25473.148200000003,
+            "Quantity": 143,
+            "Sales_MA": 18269.739933333334
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 21361.3535,
-            "total_quantity": 143
+            "Sales": 21361.3535,
+            "Quantity": 143,
+            "Sales_MA": 20408.1823
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 4509.3935,
-            "total_quantity": 42
+            "Sales": 4509.3935,
+            "Quantity": 42,
+            "Sales_MA": 17114.631733333335
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 13743.686000000002,
-            "total_quantity": 40
+            "Sales": 13743.686000000002,
+            "Quantity": 40,
+            "Sales_MA": 13204.811000000002
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 15282.629,
-            "total_quantity": 69
+            "Sales": 15282.629,
+            "Quantity": 69,
+            "Sales_MA": 11178.5695
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 17276.2315,
-            "total_quantity": 51
+            "Sales": 17276.2315,
+            "Quantity": 51,
+            "Sales_MA": 15434.182166666667
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 21039.5896,
-            "total_quantity": 106
+            "Sales": 21039.5896,
+            "Quantity": 106,
+            "Sales_MA": 17866.150033333335
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 32300.959100000004,
-            "total_quantity": 178
+            "Sales": 32300.959100000004,
+            "Quantity": 178,
+            "Sales_MA": 23538.926733333337
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 6931.2983,
-            "total_quantity": 61
+            "Sales": 6931.2983,
+            "Quantity": 61,
+            "Sales_MA": 20090.61566666667
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 17620.940000000002,
-            "total_quantity": 128
+            "Sales": 17620.940000000002,
+            "Quantity": 128,
+            "Sales_MA": 18951.0658
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 11799.855300000001,
-            "total_quantity": 80
+            "Sales": 11799.855300000001,
+            "Quantity": 80,
+            "Sales_MA": 12117.364533333333
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 19671.1984,
-            "total_quantity": 132
+            "Sales": 19671.1984,
+            "Quantity": 132,
+            "Sales_MA": 16363.9979
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 18516.595,
-            "total_quantity": 102
+            "Sales": 18516.595,
+            "Quantity": 102,
+            "Sales_MA": 16662.549566666665
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 19683.823,
-            "total_quantity": 157
+            "Sales": 19683.823,
+            "Quantity": 157,
+            "Sales_MA": 19290.5388
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 28910.060400000002,
-            "total_quantity": 169
+            "Sales": 28910.060400000002,
+            "Quantity": 169,
+            "Sales_MA": 22370.159466666664
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 16508.3336,
-            "total_quantity": 138
+            "Sales": 16508.3336,
+            "Quantity": 138,
+            "Sales_MA": 21700.738999999998
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 39858.4868,
-            "total_quantity": 144
+            "Sales": 39858.4868,
+            "Quantity": 144,
+            "Sales_MA": 28425.626933333333
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 23403.184800000003,
-            "total_quantity": 129
+            "Sales": 23403.184800000003,
+            "Quantity": 129,
+            "Sales_MA": 26590.001733333334
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 17918.0875,
-            "total_quantity": 147
+            "Sales": 17918.0875,
+            "Quantity": 147,
+            "Sales_MA": 27059.9197
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 32829.6387,
-            "total_quantity": 264
+            "Sales": 32829.6387,
+            "Quantity": 264,
+            "Sales_MA": 24716.97033333333
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 22762.383100000003,
-            "total_quantity": 161
+            "Sales": 22762.383100000003,
+            "Quantity": 161,
+            "Sales_MA": 24503.369766666667
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 34733.3291,
-            "total_quantity": 258
+            "Sales": 34733.3291,
+            "Quantity": 258,
+            "Sales_MA": 30108.450299999997
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 53898.3269,
-            "total_quantity": 263
+            "Sales": 53898.3269,
+            "Quantity": 263,
+            "Sales_MA": 37131.346366666665
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 44633.9325,
-            "total_quantity": 299
+            "Sales": 44633.9325,
+            "Quantity": 299,
+            "Sales_MA": 44421.862833333325
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 58946.7667,
-            "total_quantity": 354
+            "Sales": 58946.7667,
+            "Quantity": 354,
+            "Sales_MA": 52493.0087
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 46422.387200000005,
-            "total_quantity": 345
+            "Sales": 46422.387200000005,
+            "Quantity": 345,
+            "Sales_MA": 50001.0288
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 11919.057,
-            "total_quantity": 77
+            "Sales": 11919.057,
+            "Quantity": 77,
+            "Sales_MA": 39096.0703
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 4648.3607999999995,
-            "total_quantity": 39
+            "Sales": 4648.3607999999995,
+            "Quantity": 39,
+            "Sales_MA": 20996.601666666666
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 8325.0132,
-            "total_quantity": 62
+            "Sales": 8325.0132,
+            "Quantity": 62,
+            "Sales_MA": 8297.476999999995
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 5605.3469000000005,
-            "total_quantity": 46
+            "Sales": 5605.3469000000005,
+            "Quantity": 46,
+            "Sales_MA": 6192.906966666662
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 13569.8954,
-            "total_quantity": 80
+            "Sales": 13569.8954,
+            "Quantity": 80,
+            "Sales_MA": 9166.751833333328
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 12796.0585,
-            "total_quantity": 108
+            "Sales": 12796.0585,
+            "Quantity": 108,
+            "Sales_MA": 10657.10026666666
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 10176.7635,
-            "total_quantity": 54
+            "Sales": 10176.7635,
+            "Quantity": 54,
+            "Sales_MA": 12180.905799999993
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 16647.8825,
-            "total_quantity": 101
+            "Sales": 16647.8825,
+            "Quantity": 101,
+            "Sales_MA": 13206.901499999993
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 14946.0264,
-            "total_quantity": 132
+            "Sales": 14946.0264,
+            "Quantity": 132,
+            "Sales_MA": 13923.55746666666
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 14390.045199999999,
-            "total_quantity": 104
+            "Sales": 14390.045199999999,
+            "Quantity": 104,
+            "Sales_MA": 15327.984699999995
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 25473.1482,
-            "total_quantity": 143
+            "Sales": 25473.1482,
+            "Quantity": 143,
+            "Sales_MA": 18269.739933333327
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 21361.3535,
-            "total_quantity": 143
+            "Sales": 21361.3535,
+            "Quantity": 143,
+            "Sales_MA": 20408.182299999997
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 4509.3935,
-            "total_quantity": 42
+            "Sales": 4509.3935,
+            "Quantity": 42,
+            "Sales_MA": 17114.63173333333
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 13743.686000000002,
-            "total_quantity": 40
+            "Sales": 13743.686000000002,
+            "Quantity": 40,
+            "Sales_MA": 13204.810999999996
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 15282.629,
-            "total_quantity": 69
+            "Sales": 15282.629,
+            "Quantity": 69,
+            "Sales_MA": 11178.569499999996
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 17276.2315,
-            "total_quantity": 51
+            "Sales": 17276.2315,
+            "Quantity": 51,
+            "Sales_MA": 15434.182166666664
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 21039.5896,
-            "total_quantity": 106
+            "Sales": 21039.5896,
+            "Quantity": 106,
+            "Sales_MA": 17866.150033333328
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 32300.9591,
-            "total_quantity": 178
+            "Sales": 32300.9591,
+            "Quantity": 178,
+            "Sales_MA": 23538.926733333326
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 6931.2983,
-            "total_quantity": 61
+            "Sales": 6931.2983,
+            "Quantity": 61,
+            "Sales_MA": 20090.61566666666
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 17620.94,
-            "total_quantity": 128
+            "Sales": 17620.94,
+            "Quantity": 128,
+            "Sales_MA": 18951.065799999993
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 11799.8553,
-            "total_quantity": 80
+            "Sales": 11799.8553,
+            "Quantity": 80,
+            "Sales_MA": 12117.364533333326
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 19671.1984,
-            "total_quantity": 132
+            "Sales": 19671.1984,
+            "Quantity": 132,
+            "Sales_MA": 16363.997899999993
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 18516.595,
-            "total_quantity": 102
+            "Sales": 18516.595,
+            "Quantity": 102,
+            "Sales_MA": 16662.549566666665
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 19683.823,
-            "total_quantity": 157
+            "Sales": 19683.823,
+            "Quantity": 157,
+            "Sales_MA": 19290.5388
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 21807.3779,
-            "total_quantity": 121
+            "Sales": 21807.3779,
+            "Quantity": 121,
+            "Sales_MA": 20002.59863333333
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 8805.92,
-            "total_quantity": 70
+            "Sales": 8805.92,
+            "Quantity": 70,
+            "Sales_MA": 16765.70696666666
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 8846.043599999999,
-            "total_quantity": 82
+            "Sales": 8846.043599999999,
+            "Quantity": 82,
+            "Sales_MA": 13153.113833333327
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 19232.8568,
-            "total_quantity": 99
+            "Sales": 19232.8568,
+            "Quantity": 99,
+            "Sales_MA": 12294.940133333328
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 11199.7285,
-            "total_quantity": 84
+            "Sales": 11199.7285,
+            "Quantity": 84,
+            "Sales_MA": 13092.876299999996
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 24164.9233,
-            "total_quantity": 182
+            "Sales": 24164.9233,
+            "Quantity": 182,
+            "Sales_MA": 18199.16953333333
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 15718.0885,
-            "total_quantity": 110
+            "Sales": 15718.0885,
+            "Quantity": 110,
+            "Sales_MA": 17027.580099999996
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 25975.4743,
-            "total_quantity": 179
+            "Sales": 25975.4743,
+            "Quantity": 179,
+            "Sales_MA": 21952.828699999995
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 23306.8825,
-            "total_quantity": 168
+            "Sales": 23306.8825,
+            "Quantity": 168,
+            "Sales_MA": 21666.815099999996
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 35159.9923,
-            "total_quantity": 213
+            "Sales": 35159.9923,
+            "Quantity": 213,
+            "Sales_MA": 28147.449699999997
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 41362.3205,
-            "total_quantity": 223
+            "Sales": 41362.3205,
+            "Quantity": 223,
+            "Sales_MA": 33276.39843333333
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 24699.6277,
-            "total_quantity": 203
+            "Sales": 24699.6277,
+            "Quantity": 203,
+            "Sales_MA": 33740.646833333325
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "SM-20320",
-            "total_spent": 23459.78,
-            "purchase_frequency": 1,
-            "average_order_value": 11729.89
+            "Customer Name": "Sean Miller",
+            "total_spent": 49427.08,
+            "purchase_frequency": 4,
+            "average_order_value": 8237.846666666666
         },
         {
-            "Customer ID": "SM-203201408",
-            "total_spent": 23459.78,
-            "purchase_frequency": 1,
-            "average_order_value": 11729.89
-        },
-        {
-            "Customer ID": "BS-11365",
-            "total_spent": 11502.795,
-            "purchase_frequency": 2,
+            "Customer Name": "Bill Shonely",
+            "total_spent": 23005.59,
+            "purchase_frequency": 4,
             "average_order_value": 5751.3975
         },
         {
-            "Customer ID": "SE-20110",
-            "total_spent": 10218.883000000002,
-            "purchase_frequency": 3,
-            "average_order_value": 3406.2943333333337
+            "Customer Name": "Becky Martin",
+            "total_spent": 20624.1966,
+            "purchase_frequency": 12,
+            "average_order_value": 1718.6830499999999
         },
         {
-            "Customer ID": "BM-11140",
-            "total_spent": 10035.0423,
-            "purchase_frequency": 5,
-            "average_order_value": 2007.0084599999998
+            "Customer Name": "Sanjit Engle",
+            "total_spent": 20597.606,
+            "purchase_frequency": 8,
+            "average_order_value": 2574.70075
         },
         {
-            "Customer ID": "BS-113651406",
-            "total_spent": 9099.93,
-            "purchase_frequency": 1,
-            "average_order_value": 9099.93
-        },
-        {
-            "Customer ID": "SE-201101408",
-            "total_spent": 8749.95,
-            "purchase_frequency": 1,
-            "average_order_value": 8749.95
-        },
-        {
-            "Customer ID": "BM-111401402",
-            "total_spent": 8159.952,
-            "purchase_frequency": 1,
-            "average_order_value": 8159.952
-        },
-        {
-            "Customer ID": "GT-146351408",
-            "total_spent": 7999.98,
-            "purchase_frequency": 1,
-            "average_order_value": 7999.98
-        },
-        {
-            "Customer ID": "GT-14635",
-            "total_spent": 7999.98,
-            "purchase_frequency": 1,
-            "average_order_value": 7999.98
-        },
-        {
-            "Customer ID": "KD-16270",
-            "total_spent": 7470.481200000001,
+            "Customer Name": "Grant Thornton",
+            "total_spent": 16639.32,
             "purchase_frequency": 4,
-            "average_order_value": 1867.6203000000003
+            "average_order_value": 4159.83
         },
         {
-            "Customer ID": "TB-21400",
-            "total_spent": 7385.76,
-            "purchase_frequency": 2,
+            "Customer Name": "Sean Braxton",
+            "total_spent": 15168.8028,
+            "purchase_frequency": 12,
+            "average_order_value": 1083.4859142857142
+        },
+        {
+            "Customer Name": "Karen Daniels",
+            "total_spent": 14940.9624,
+            "purchase_frequency": 8,
+            "average_order_value": 1867.6203
+        },
+        {
+            "Customer Name": "Tom Boeckenhauer",
+            "total_spent": 14771.52,
+            "purchase_frequency": 4,
             "average_order_value": 3692.88
         },
         {
-            "Customer ID": "TB-214001406",
-            "total_spent": 6999.96,
-            "purchase_frequency": 1,
-            "average_order_value": 6999.96
+            "Customer Name": "Max Jones",
+            "total_spent": 14698.396,
+            "purchase_frequency": 12,
+            "average_order_value": 1049.8854285714285
         },
         {
-            "Customer ID": "SB-20290",
-            "total_spent": 6889.1214,
-            "purchase_frequency": 5,
-            "average_order_value": 1148.1869
-        },
-        {
-            "Customer ID": "MJ-17740",
-            "total_spent": 6589.238,
-            "purchase_frequency": 5,
-            "average_order_value": 1317.8476
-        },
-        {
-            "Customer ID": "BW-11110",
-            "total_spent": 6370.254,
-            "purchase_frequency": 5,
-            "average_order_value": 1274.0508
-        },
-        {
-            "Customer ID": "SB-202901402",
-            "total_spent": 5579.9400000000005,
-            "purchase_frequency": 1,
-            "average_order_value": 2789.9700000000003
-        },
-        {
-            "Customer ID": "TS-21370",
-            "total_spent": 5480.625,
-            "purchase_frequency": 2,
-            "average_order_value": 2740.3125
-        },
-        {
-            "Customer ID": "SR-20740",
-            "total_spent": 5459.650000000001,
-            "purchase_frequency": 3,
-            "average_order_value": 1819.8833333333334
-        },
-        {
-            "Customer ID": "TS-213701406",
-            "total_spent": 5199.96,
-            "purchase_frequency": 1,
-            "average_order_value": 5199.96
+            "Customer Name": "Bart Watters",
+            "total_spent": 13088.148000000001,
+            "purchase_frequency": 12,
+            "average_order_value": 1090.679
         }
     ],
     "discount_analysis": [
         {
             "Discount": 0.0,
-            "total_sales": 827851.3200000001,
+            "total_sales": 827851.32,
             "total_quantity": 4852,
-            "average_profit": 141.20766883289124
+            "average_profit": 141.2077
         },
         {
             "Discount": 0.1,
             "total_sales": 133971.552,
             "total_quantity": 884,
-            "average_profit": 81.4888424
+            "average_profit": 81.4888
         },
         {
             "Discount": 0.15,
             "total_sales": 154273.98,
             "total_quantity": 992,
-            "average_profit": 44.097518796992475
+            "average_profit": 44.0975
         },
         {
             "Discount": 0.17,
             "total_sales": 65139.3462,
             "total_quantity": 520,
-            "average_profit": 63.44943230769229
+            "average_profit": 63.4494
         },
         {
             "Discount": 0.2,
             "total_sales": 75909.136,
             "total_quantity": 234,
-            "average_profit": 160.32910967741932
+            "average_profit": 160.3291
         },
         {
             "Discount": 0.25,
             "total_sales": 27989.82,
             "total_quantity": 240,
-            "average_profit": -29.659687500000008
+            "average_profit": -29.6597
         },
         {
             "Discount": 0.3,
             "total_sales": 7512.61,
             "total_quantity": 24,
-            "average_profit": 65.20789999999998
+            "average_profit": 65.2079
         },
         {
             "Discount": 0.4,
             "total_sales": 86860.776,
             "total_quantity": 560,
-            "average_profit": -148.88604197530867
+            "average_profit": -148.886
         },
         {
             "Discount": 0.5,
             "total_sales": 107978.42,
             "total_quantity": 440,
-            "average_profit": -238.78766811594207
+            "average_profit": -238.7877
         },
         {
             "Discount": 0.6,
             "total_sales": 18880.48,
             "total_quantity": 348,
-            "average_profit": -113.56802631578948
+            "average_profit": -113.568
         },
         {
             "Discount": 0.65,
             "total_sales": 1331.568,
             "total_quantity": 24,
-            "average_profit": -153.52650000000003
+            "average_profit": -153.5265
         },
         {
             "Discount": 0.7,
-            "total_sales": 50421.126000000004,
+            "total_sales": 50421.126,
             "total_quantity": 694,
-            "average_profit": -309.4030189189189
+            "average_profit": -309.403
         }
     ],
     "geographic_distribution": [
@@ -2159,121 +2902,215 @@
             "State": "New York",
             "City": "New York City",
             "total_sales": 75062.42,
-            "total_quantity": 108
+            "total_quantity": 108,
+            "Location": "New York, New York City"
         },
         {
             "State": "Florida",
             "City": "Jacksonville",
             "total_sales": 46919.56,
-            "total_quantity": 20
+            "total_quantity": 20,
+            "Location": "Florida, Jacksonville"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 26927.84,
-            "total_quantity": 86
+            "total_quantity": 86,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "New Jersey",
             "City": "Lakewood",
             "total_sales": 18199.86,
-            "total_quantity": 14
+            "total_quantity": 14,
+            "Location": "New Jersey, Lakewood"
         },
         {
             "State": "Texas",
             "City": "San Antonio",
             "total_sales": 17694.804,
-            "total_quantity": 26
+            "total_quantity": 26,
+            "Location": "Texas, San Antonio"
         },
         {
             "State": "Virginia",
             "City": "Arlington",
             "total_sales": 17499.9,
-            "total_quantity": 10
+            "total_quantity": 10,
+            "Location": "Virginia, Arlington"
         },
         {
             "State": "England",
             "City": "London",
             "total_sales": 17273.25,
-            "total_quantity": 100
+            "total_quantity": 100,
+            "Location": "England, London"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 16194.096000000001,
-            "total_quantity": 50
+            "total_quantity": 50,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Texas",
             "City": "Houston",
             "total_sales": 16047.084,
-            "total_quantity": 48
+            "total_quantity": 48,
+            "Location": "Texas, Houston"
         },
         {
             "State": "North Carolina",
             "City": "Burlington",
             "total_sales": 15999.96,
-            "total_quantity": 8
+            "total_quantity": 8,
+            "Location": "North Carolina, Burlington"
         },
         {
             "State": "Victoria",
             "City": "Melbourne",
             "total_sales": 14580.432,
-            "total_quantity": 86
+            "total_quantity": 86,
+            "Location": "Victoria, Melbourne"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 11848.4658,
-            "total_quantity": 90
+            "total_quantity": 90,
+            "Location": "Jakarta, Jakarta"
         },
         {
             "State": "California",
             "City": "San Diego",
             "total_sales": 10806.368,
-            "total_quantity": 16
+            "total_quantity": 16,
+            "Location": "California, San Diego"
         },
         {
             "State": "Kinshasa",
             "City": "Kinshasa",
             "total_sales": 9928.08,
-            "total_quantity": 58
+            "total_quantity": 58,
+            "Location": "Kinshasa, Kinshasa"
         },
         {
             "State": "New York",
             "City": "Yonkers",
             "total_sales": 9904.74,
-            "total_quantity": 22
-        },
-        {
-            "State": "National Capital",
-            "City": "Manila",
-            "total_sales": 9639.652500000002,
-            "total_quantity": 80
-        },
-        {
-            "State": "National Capital Region",
-            "City": "Manila",
-            "total_sales": 9639.6525,
-            "total_quantity": 80
-        },
-        {
-            "State": "Vienna",
-            "City": "Vienna",
-            "total_sales": 9513.12,
-            "total_quantity": 100
-        },
-        {
-            "State": "Ile-de-France",
-            "City": "Paris",
-            "total_sales": 9113.802,
-            "total_quantity": 78
-        },
-        {
-            "State": "Gauteng",
-            "City": "Pretoria",
-            "total_sales": 9100.68,
-            "total_quantity": 32
+            "total_quantity": 22,
+            "Location": "New York, Yonkers"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 439,
+            "avg_shipping_delay": 2.16,
+            "total_profit": 1322.7,
+            "shipping_cost_ratio": 0.17
+        },
+        "Same Day": {
+            "total_orders": 142,
+            "avg_shipping_delay": 0.04,
+            "total_profit": 7952.84,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 490,
+            "avg_shipping_delay": 3.25,
+            "total_profit": 23484.01,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 1778,
+            "avg_shipping_delay": 5.0,
+            "total_profit": 84976.2,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.004220288847687583,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": -0.07568735993723572,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.059857341889736126,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": -0.041400459470803154,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 661.0,
+                "mean": 400.8290468986384,
+                "std": 366.9512263897461,
+                "min": 0.0,
+                "25%": 93.0,
+                "50%": 296.0,
+                "75%": 595.0,
+                "max": 1451.0
+            },
+            "frequency": {
+                "count": 661.0,
+                "mean": 4.314674735249622,
+                "std": 2.4907549223953134,
+                "min": 2.0,
+                "25%": 2.0,
+                "50%": 4.0,
+                "75%": 6.0,
+                "max": 12.0
+            },
+            "monetary": {
+                "count": 661.0,
+                "mean": 2357.216541906203,
+                "std": 3200.213852501091,
+                "min": 37.224,
+                "25%": 653.436,
+                "50%": 1589.4,
+                "75%": 3043.5600000000004,
+                "max": 49427.08
+            }
+        },
+        "rfm_segments": {
+            "High": 222,
+            "Low": 221,
+            "Medium": 218
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 2299,
+        "churned_customers": 1802,
+        "churn_rate": 0.7838190517616355,
+        "avg_recency": 986.9160504567203,
+        "avg_frequency": 1.2927359721618095,
+        "avg_monetary": 677.7382053936495,
+        "churned_customer_characteristics": {
+            "avg_recency": 1216.458934517203,
+            "avg_frequency": 1.3496115427302997,
+            "avg_monetary": 714.6906380688124,
+            "avg_discount": 0.17151433592304846,
+            "avg_quantity": 3.263743988161302,
+            "avg_shipping_cost": 53.831197364039966,
+            "avg_profit": 39.70146000554938
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 154.64989939637826,
+            "avg_frequency": 1.0865191146881288,
+            "avg_monetary": 543.757755331992,
+            "avg_discount": 0.16342052313883298,
+            "avg_quantity": 3.346076458752515,
+            "avg_shipping_cost": 48.50895875251509,
+            "avg_profit": 36.213866398390344
+        }
+    }
 }

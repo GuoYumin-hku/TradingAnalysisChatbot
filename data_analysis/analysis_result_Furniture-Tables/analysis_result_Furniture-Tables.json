@@ -900,287 +900,742 @@
         16,
         16
     ],
+    "yearly_sales": {
+        "2011": 147131.4937,
+        "2012": 164086.4968,
+        "2013": 202363.5351,
+        "2014": 390591.8925,
+        "2015": 164086.4968,
+        "2016": 202363.5351,
+        "2017": 243460.3988
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 3823.586,
+            "2012": 17749.787800000002,
+            "2013": 6135.8396,
+            "2014": 17320.3587,
+            "2015": 17749.7878,
+            "2016": 6135.8396,
+            "2017": 13496.7727
+        },
+        "August": {
+            "2011": 10033.9395,
+            "2012": 11855.996000000001,
+            "2013": 22065.9835,
+            "2014": 32763.6981,
+            "2015": 11855.996,
+            "2016": 22065.983500000002,
+            "2017": 22729.7586
+        },
+        "December": {
+            "2011": 30782.928,
+            "2012": 19393.2107,
+            "2013": 37684.4081,
+            "2014": 63100.2306,
+            "2015": 19393.2107,
+            "2016": 37684.4081,
+            "2017": 33498.3186
+        },
+        "February": {
+            "2011": 4323.531,
+            "2012": 7870.523999999999,
+            "2013": 18753.079,
+            "2014": 8412.5604,
+            "2015": 7870.523999999999,
+            "2016": 18753.078999999998,
+            "2017": 3712.5204000000003
+        },
+        "January": {
+            "2011": 7356.7245,
+            "2012": 8689.593,
+            "2013": 22015.3611,
+            "2014": 20261.488,
+            "2015": 8689.593,
+            "2016": 22015.361100000002,
+            "2017": 12904.763500000001
+        },
+        "July": {
+            "2011": 7215.264,
+            "2012": 3528.881,
+            "2013": 7670.784,
+            "2014": 16214.577500000001,
+            "2015": 3528.881,
+            "2016": 7670.784,
+            "2017": 11510.4095
+        },
+        "June": {
+            "2011": 19593.8083,
+            "2012": 18068.023100000002,
+            "2013": 25052.1311,
+            "2014": 48818.4704,
+            "2015": 18068.0231,
+            "2016": 25052.1311,
+            "2017": 26713.5661
+        },
+        "March": {
+            "2011": 8004.53,
+            "2012": 16170.538999999999,
+            "2013": 7143.621,
+            "2014": 23860.341,
+            "2015": 16170.538999999999,
+            "2016": 7143.621,
+            "2017": 16232.32
+        },
+        "May": {
+            "2011": 11781.5984,
+            "2012": 6931.442999999999,
+            "2013": 14530.2952,
+            "2014": 32622.6705,
+            "2015": 6931.443,
+            "2016": 14530.2952,
+            "2017": 20841.0721
+        },
+        "November": {
+            "2011": 13445.17,
+            "2012": 18734.4502,
+            "2013": 19523.257,
+            "2014": 44004.039,
+            "2015": 18734.4502,
+            "2016": 19523.257,
+            "2017": 29377.853
+        },
+        "October": {
+            "2011": 14728.925,
+            "2012": 17884.8358,
+            "2013": 8584.556,
+            "2014": 40084.951,
+            "2015": 17884.8358,
+            "2016": 8584.556,
+            "2017": 25356.026
+        },
+        "September": {
+            "2011": 16041.489000000001,
+            "2012": 17209.213200000002,
+            "2013": 13204.219500000001,
+            "2014": 43128.5073,
+            "2015": 17209.2132,
+            "2016": 13204.2195,
+            "2017": 27087.0183
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Hon Conference Table, Adjustable Height": 30037.7484,
+        "Barricks Conference Table, Fully Assembled": 29861.01,
+        "Bevis Conference Table, Fully Assembled": 29773.9014,
+        "Chromcraft Computer Table, with Bottom Storage": 27658.2072,
+        "Chromcraft Conference Table, with Bottom Storage": 27401.838,
+        "Bretford Rectangular Conference Table Tops": 25990.583,
+        "Lesro Conference Table, with Bottom Storage": 25555.884000000002,
+        "Bevis Computer Table, Fully Assembled": 22355.7924,
+        "Bevis Wood Table, with Bottom Storage": 22269.323999999997,
+        "Lesro Conference Table, Rectangular": 22005.86
+    },
+    "top_10_products_by_profit": {
+        "Chromcraft Computer Table, Adjustable Height": 6018.214,
+        "Hon Training Table, Adjustable Height": 3823.5780000000004,
+        "Barricks Training Table, Adjustable Height": 3517.947,
+        "Barricks Conference Table, Fully Assembled": 3149.3100000000004,
+        "Hon Training Table, Fully Assembled": 2683.7029999999995,
+        "Bevis Round Table, Rectangular": 2598.9744,
+        "Bevis Conference Table, Rectangular": 2075.84,
+        "Chromcraft Conference Table, Fully Assembled": 1992.816,
+        "Chromcraft Wood Table, Adjustable Height": 1744.404,
+        "Lesro Conference Table, Rectangular": 1721.2600000000002
+    },
+    "top_10_products_by_turnover": {
+        "KI Adjustable-Height Table": 148,
+        "Chromcraft Round Conference Tables": 122,
+        "Bretford Rectangular Conference Table Tops": 92,
+        "KI Conference Tables": 88,
+        "Bevis Computer Table, Fully Assembled": 86,
+        "Chromcraft Computer Table, with Bottom Storage": 86,
+        "Barricks Computer Table, Fully Assembled": 82,
+        "Bevis 36 x 72 Conference Tables": 80,
+        "Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table": 78,
+        "Barricks Coffee Table, Adjustable Height": 76
+    },
+    "top_5_loss_products": {
+        "Bevis Computer Table, Fully Assembled": -8519.6036,
+        "Bevis Conference Table, Fully Assembled": -7976.034599999999,
+        "Bevis Round Table, Adjustable Height": -7785.347999999999,
+        "Bevis Wood Table, with Bottom Storage": -7300.923999999999,
+        "Chromcraft Bull-Nose Wood Oval Conference Tables & Bases": -6215.054400000001
+    },
     "product_performance": [
         {
-            "Product ID": "FUR-TA-10001889",
-            "total_sales": 20730.755699999998,
-            "total_quantity": 48,
-            "average_price": 1884.6141545454543,
-            "total_profit": -2684.1668999999997,
-            "profit_margin": -0.12947752309868762
-        },
-        {
-            "Product ID": "FUR-TA-4645",
-            "total_sales": 15018.8742,
-            "total_quantity": 29,
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 30037.7484,
+            "total_quantity": 58,
             "average_price": 1501.88742,
-            "total_profit": -1570.5658,
-            "profit_margin": -0.10457280479784564
+            "total_profit": -3141.1315999999993,
+            "profit_margin": -0.1045728047978456
         },
         {
-            "Product ID": "FUR-TA-3344",
-            "total_sales": 14930.505000000001,
-            "total_quantity": 21,
-            "average_price": 2986.101,
-            "total_profit": 1574.6550000000002,
-            "profit_margin": 0.10546562222778132
-        },
-        {
-            "Product ID": "FUR-TA-3420",
-            "total_sales": 14886.9507,
-            "total_quantity": 26,
-            "average_price": 1860.8688375,
-            "total_profit": -2443.0893,
-            "profit_margin": -0.1641094505673348
-        },
-        {
-            "Product ID": "FUR-TA-3762",
-            "total_sales": 13829.1036,
-            "total_quantity": 43,
-            "average_price": 1728.63795,
-            "total_profit": 70.02359999999993,
-            "profit_margin": 0.00506349522177272
-        },
-        {
-            "Product ID": "FUR-TA-3766",
-            "total_sales": 13700.919,
-            "total_quantity": 22,
-            "average_price": 1522.3243333333332,
-            "total_profit": -1850.3310000000001,
-            "profit_margin": -0.1350515976337062
-        },
-        {
-            "Product ID": "FUR-TA-10003473",
-            "total_sales": 12995.2915,
-            "total_quantity": 46,
-            "average_price": 1082.9409583333334,
-            "total_profit": -327.2330999999991,
-            "profit_margin": -0.02518089725036173
-        },
-        {
-            "Product ID": "FUR-TA-3562",
-            "total_sales": 12995.2915,
-            "total_quantity": 46,
-            "average_price": 1082.9409583333334,
-            "total_profit": -327.2331,
-            "profit_margin": -0.025180897250361794
-        },
-        {
-            "Product ID": "FUR-TA-5060",
-            "total_sales": 12777.942,
-            "total_quantity": 24,
-            "average_price": 1597.24275,
-            "total_profit": 154.0820000000001,
-            "profit_margin": 0.012058436327227038
-        },
-        {
-            "Product ID": "FUR-TA-10002958",
-            "total_sales": 12186.908,
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 29861.01,
             "total_quantity": 42,
-            "average_price": 1354.100888888889,
-            "total_profit": 140.46559999999891,
-            "profit_margin": 0.011525942429367558
+            "average_price": 2986.1009999999997,
+            "total_profit": 3149.3100000000004,
+            "profit_margin": 0.10546562222778133
         },
         {
-            "Product ID": "FUR-TA-3418",
-            "total_sales": 11177.8962,
-            "total_quantity": 43,
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 29773.9014,
+            "total_quantity": 52,
+            "average_price": 1860.8688375,
+            "total_profit": -4886.178599999999,
+            "profit_margin": -0.16410945056733478
+        },
+        {
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 27658.2072,
+            "total_quantity": 86,
+            "average_price": 1728.63795,
+            "total_profit": 140.04719999999998,
+            "profit_margin": 0.005063495221772725
+        },
+        {
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 27401.838,
+            "total_quantity": 44,
+            "average_price": 1522.3243333333332,
+            "total_profit": -3700.6619999999994,
+            "profit_margin": -0.13505159763370617
+        },
+        {
+            "Product Name": "Bretford Rectangular Conference Table Tops",
+            "total_sales": 25990.583,
+            "total_quantity": 92,
+            "average_price": 1082.9409583333334,
+            "total_profit": -654.4661999999992,
+            "profit_margin": -0.025180897250361763
+        },
+        {
+            "Product Name": "Lesro Conference Table, with Bottom Storage",
+            "total_sales": 25555.884000000002,
+            "total_quantity": 48,
+            "average_price": 1597.2427500000001,
+            "total_profit": 308.1640000000011,
+            "profit_margin": 0.012058436327227072
+        },
+        {
+            "Product Name": "Bevis Computer Table, Fully Assembled",
+            "total_sales": 22355.7924,
+            "total_quantity": 86,
             "average_price": 859.8381692307692,
-            "total_profit": -3509.5638,
+            "total_profit": -7019.1276,
             "profit_margin": -0.31397355434379504
         },
         {
-            "Product ID": "FUR-TA-10001786",
-            "total_sales": 11138.9616,
-            "total_quantity": 30,
-            "average_price": 2227.79232,
-            "total_profit": 761.9615999999999,
-            "profit_margin": 0.06840508364801257
-        },
-        {
-            "Product ID": "FUR-TA-3442",
-            "total_sales": 11134.662,
-            "total_quantity": 34,
-            "average_price": 1113.4662,
-            "total_profit": -2782.5879999999997,
+            "Product Name": "Bevis Wood Table, with Bottom Storage",
+            "total_sales": 22269.323999999997,
+            "total_quantity": 68,
+            "average_price": 1113.4661999999998,
+            "total_profit": -5565.175999999999,
             "profit_margin": -0.24990323011152019
         },
         {
-            "Product ID": "FUR-TA-5059",
-            "total_sales": 11002.93,
-            "total_quantity": 23,
+            "Product Name": "Lesro Conference Table, Rectangular",
+            "total_sales": 22005.86,
+            "total_quantity": 46,
             "average_price": 1833.8216666666667,
-            "total_profit": 860.6300000000001,
+            "total_profit": 1721.2600000000002,
             "profit_margin": 0.07821825640988356
         },
         {
-            "Product ID": "FUR-TA-5057",
-            "total_sales": 10919.079,
-            "total_quantity": 20,
+            "Product Name": "Lesro Conference Table, Adjustable Height",
+            "total_sales": 21838.158,
+            "total_quantity": 40,
             "average_price": 1819.8464999999999,
-            "total_profit": 163.02900000000005,
-            "profit_margin": 0.014930654865671368
+            "total_profit": 326.0580000000004,
+            "profit_margin": 0.014930654865671382
         },
         {
-            "Product ID": "FUR-TA-5064",
-            "total_sales": 10707.497000000001,
-            "total_quantity": 38,
+            "Product Name": "Lesro Round Table, Rectangular",
+            "total_sales": 21414.994000000002,
+            "total_quantity": 76,
             "average_price": 1338.4371250000002,
-            "total_profit": 585.4570000000001,
-            "profit_margin": 0.05467729759812214
+            "total_profit": 1170.914,
+            "profit_margin": 0.054677297598122135
         },
         {
-            "Product ID": "FUR-TA-3341",
-            "total_sales": 10620.2178,
-            "total_quantity": 41,
+            "Product Name": "Barricks Computer Table, Fully Assembled",
+            "total_sales": 21240.4356,
+            "total_quantity": 82,
             "average_price": 1062.02178,
-            "total_profit": -1586.2722,
-            "profit_margin": -0.14936343395895327
+            "total_profit": -3172.5444000000007,
+            "profit_margin": -0.1493634339589533
         },
         {
-            "Product ID": "FUR-TA-3765",
-            "total_sales": 10210.815999999999,
-            "total_quantity": 20,
-            "average_price": 1276.3519999999999,
-            "total_profit": -910.944,
-            "profit_margin": -0.089213633856491
+            "Product Name": "Chromcraft Conference Table, Rectangular",
+            "total_sales": 20421.632,
+            "total_quantity": 40,
+            "average_price": 1276.352,
+            "total_profit": -1821.888,
+            "profit_margin": -0.08921363385649099
         },
         {
-            "Product ID": "FUR-TA-3753",
-            "total_sales": 9917.640000000001,
-            "total_quantity": 27,
+            "Product Name": "Chromcraft Bull-Nose Wood Oval Conference Tables & Bases",
+            "total_sales": 19835.280000000002,
+            "total_quantity": 54,
             "average_price": 1983.5280000000002,
-            "total_profit": -2876.1156,
+            "total_profit": -5752.2312,
             "profit_margin": -0.29
         },
         {
-            "Product ID": "FUR-TA-10000198",
-            "total_sales": 9917.64,
-            "total_quantity": 27,
-            "average_price": 1983.5279999999998,
-            "total_profit": -2876.1156000000005,
-            "profit_margin": -0.2900000000000001
+            "Product Name": "Bush Advantage Collection Racetrack Conference Table",
+            "total_sales": 19089.45,
+            "total_quantity": 66,
+            "average_price": 1363.5321428571428,
+            "total_profit": -3868.7952,
+            "profit_margin": -0.20266666666666666
+        },
+        {
+            "Product Name": "Barricks Training Table, Adjustable Height",
+            "total_sales": 17402.607,
+            "total_quantity": 60,
+            "average_price": 1740.2607,
+            "total_profit": 3517.947,
+            "profit_margin": 0.20215057433636238
+        },
+        {
+            "Product Name": "Barricks Computer Table, with Bottom Storage",
+            "total_sales": 17345.084,
+            "total_quantity": 48,
+            "average_price": 1734.5084,
+            "total_profit": 82.94400000000032,
+            "profit_margin": 0.004781988948568961
+        },
+        {
+            "Product Name": "Chromcraft Round Table, Adjustable Height",
+            "total_sales": 16625.380400000002,
+            "total_quantity": 62,
+            "average_price": 755.6991090909091,
+            "total_profit": -2428.0996000000005,
+            "profit_margin": -0.14604776201090713
+        },
+        {
+            "Product Name": "Chromcraft Round Conference Tables",
+            "total_sales": 16418.118,
+            "total_quantity": 122,
+            "average_price": 631.4660769230769,
+            "total_profit": -379.95219999999995,
+            "profit_margin": -0.02314225053078556
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
-            "Product Name": "Chromcraft Round Table, Adjustable Height",
-            "total_sales": 211.1805,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Chromcraft Wood Table, Fully Assembled",
-            "total_sales": 967.98,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Bevis Training Table, with Bottom Storage",
-            "total_sales": 267.98400000000004,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Chromcraft Conference Table, Fully Assembled",
-            "total_sales": 2797.2480000000005,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-01-28",
-            "Product Name": "Balt Split Level Computer Training Table",
-            "total_sales": 333.0,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-29",
+            "Year_Month": "2011-01",
             "Product Name": "Hon Conference Table, Adjustable Height",
             "total_sales": 862.0920000000001,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-01-31",
-            "Product Name": "Barricks Computer Table, Fully Assembled",
-            "total_sales": 1917.24,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-02-02",
-            "Product Name": "Bevis Computer Table, Fully Assembled",
-            "total_sales": 692.328,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-02-09",
-            "Product Name": "Lesro Coffee Table, Adjustable Height",
-            "total_sales": 406.704,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-02-09",
-            "Product Name": "Lesro Coffee Table, Fully Assembled",
-            "total_sales": 202.77599999999995,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-02-12",
-            "Product Name": "Hon 2111 Invitation Series Corner Table",
-            "total_sales": 1256.22,
-            "total_quantity": 6
-        },
-        {
-            "Order Date": "2011-02-15",
-            "Product Name": "Barricks Coffee Table, Fully Assembled",
-            "total_sales": 272.673,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-02-21",
-            "Product Name": "Barricks Round Table, with Bottom Storage",
-            "total_sales": 1003.02,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-02-22",
-            "Product Name": "Hon Computer Table, Adjustable Height",
-            "total_sales": 489.81,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-03-01",
-            "Product Name": "Bevis Round Conference Room Tables and Bases",
-            "total_sales": 376.509,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-03-03",
-            "Product Name": "Bevis Oval Conference Table, Walnut",
-            "total_sales": 626.3520000000001,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-03-08",
+            "Year_Month": "2011-03",
             "Product Name": "Chromcraft Computer Table, with Bottom Storage",
             "total_sales": 1330.29,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-03-17",
-            "Product Name": "Bretford Rectangular Conference Table Tops",
-            "total_sales": 1579.746,
-            "total_quantity": 7
+            "Year_Month": "2011-06",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 3238.305,
+            "total_quantity": 5
         },
         {
-            "Order Date": "2011-03-17",
-            "Product Name": "Balt Solid Wood Round Tables",
-            "total_sales": 1071.576,
+            "Year_Month": "2011-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 349.068,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 443.4300000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 3694.68,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-03-17",
-            "Product Name": "Hon 30\" x 60\" Table with Locking Drawer",
-            "total_sales": 613.908,
+            "Year_Month": "2011-11",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 523.6020000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 2089.665,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 5451.299999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 4626.15,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 472.992,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 555.138,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 794.3561999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 5321.160000000001,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 1847.34,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 1471.1156999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 985.248,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 5451.299999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 2955.744,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 523.6020000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 872.67,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 940.0716,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 1850.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 3232.845,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 2220.5519999999997,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 3547.4400000000005,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 862.0920000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 1330.29,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 1938.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 3238.305,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 4712.418,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 646.569,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 925.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 443.43,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 1773.7199999999998,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 3694.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 2356.209,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 2089.665,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 5451.3,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 4626.15,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 472.992,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 555.138,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 794.3562,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 5321.16,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 1847.34,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 1471.1157,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 985.248,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 5451.3,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 2955.744,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 523.602,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 872.67,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 940.0716,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 1850.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 3232.845,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 2220.5519999999997,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 3547.44,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 1938.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 4363.35,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 646.569,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 925.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 1773.72,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1832.607,
             "total_quantity": 3
         }
     ],
@@ -1269,545 +1724,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 7356.7245,
-            "total_quantity": 22
+            "Sales": 7356.7245,
+            "Quantity": 22,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 4323.531,
-            "total_quantity": 23
+            "Sales": 4323.531,
+            "Quantity": 23,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 8004.53,
-            "total_quantity": 31
+            "Sales": 8004.53,
+            "Quantity": 31,
+            "Sales_MA": 6561.595166666666
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 3823.586,
-            "total_quantity": 26
+            "Sales": 3823.586,
+            "Quantity": 26,
+            "Sales_MA": 5383.882333333333
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 11781.5984,
-            "total_quantity": 57
+            "Sales": 11781.5984,
+            "Quantity": 57,
+            "Sales_MA": 7869.904799999999
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 19593.8083,
-            "total_quantity": 81
+            "Sales": 19593.8083,
+            "Quantity": 81,
+            "Sales_MA": 11732.997566666667
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 7215.264,
-            "total_quantity": 31
+            "Sales": 7215.264,
+            "Quantity": 31,
+            "Sales_MA": 12863.556900000001
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 10033.9395,
-            "total_quantity": 47
+            "Sales": 10033.9395,
+            "Quantity": 47,
+            "Sales_MA": 12281.003933333333
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 16041.489000000001,
-            "total_quantity": 69
+            "Sales": 16041.489000000001,
+            "Quantity": 69,
+            "Sales_MA": 11096.897500000001
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 14728.925,
-            "total_quantity": 56
+            "Sales": 14728.925,
+            "Quantity": 56,
+            "Sales_MA": 13601.451166666668
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 13445.17,
-            "total_quantity": 63
+            "Sales": 13445.17,
+            "Quantity": 63,
+            "Sales_MA": 14738.528
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 30782.928,
-            "total_quantity": 104
+            "Sales": 30782.928,
+            "Quantity": 104,
+            "Sales_MA": 19652.341
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 8689.593,
-            "total_quantity": 34
+            "Sales": 8689.593,
+            "Quantity": 34,
+            "Sales_MA": 17639.230333333333
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 7870.523999999999,
-            "total_quantity": 20
+            "Sales": 7870.523999999999,
+            "Quantity": 20,
+            "Sales_MA": 15781.015
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 16170.538999999999,
-            "total_quantity": 55
+            "Sales": 16170.538999999999,
+            "Quantity": 55,
+            "Sales_MA": 10910.218666666666
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 17749.787800000002,
-            "total_quantity": 48
+            "Sales": 17749.787800000002,
+            "Quantity": 48,
+            "Sales_MA": 13930.2836
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 6931.442999999999,
-            "total_quantity": 21
+            "Sales": 6931.442999999999,
+            "Quantity": 21,
+            "Sales_MA": 13617.2566
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 18068.023100000002,
-            "total_quantity": 66
+            "Sales": 18068.023100000002,
+            "Quantity": 66,
+            "Sales_MA": 14249.751300000002
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 3528.881,
-            "total_quantity": 20
+            "Sales": 3528.881,
+            "Quantity": 20,
+            "Sales_MA": 9509.449033333334
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 11855.996000000001,
-            "total_quantity": 54
+            "Sales": 11855.996000000001,
+            "Quantity": 54,
+            "Sales_MA": 11150.966699999999
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 17209.213200000002,
-            "total_quantity": 56
+            "Sales": 17209.213200000002,
+            "Quantity": 56,
+            "Sales_MA": 10864.696733333334
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 17884.8358,
-            "total_quantity": 68
+            "Sales": 17884.8358,
+            "Quantity": 68,
+            "Sales_MA": 15650.015
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 18734.4502,
-            "total_quantity": 93
+            "Sales": 18734.4502,
+            "Quantity": 93,
+            "Sales_MA": 17942.83306666667
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 19393.2107,
-            "total_quantity": 92
+            "Sales": 19393.2107,
+            "Quantity": 92,
+            "Sales_MA": 18670.832233333334
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 22015.3611,
-            "total_quantity": 63
+            "Sales": 22015.3611,
+            "Quantity": 63,
+            "Sales_MA": 20047.674
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 18753.079,
-            "total_quantity": 59
+            "Sales": 18753.079,
+            "Quantity": 59,
+            "Sales_MA": 20053.883599999997
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 7143.621,
-            "total_quantity": 43
+            "Sales": 7143.621,
+            "Quantity": 43,
+            "Sales_MA": 15970.687033333334
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 6135.8396,
-            "total_quantity": 33
+            "Sales": 6135.8396,
+            "Quantity": 33,
+            "Sales_MA": 10677.513200000001
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 14530.2952,
-            "total_quantity": 59
+            "Sales": 14530.2952,
+            "Quantity": 59,
+            "Sales_MA": 9269.918599999999
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 25052.1311,
-            "total_quantity": 101
+            "Sales": 25052.1311,
+            "Quantity": 101,
+            "Sales_MA": 15239.421966666667
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 7670.784,
-            "total_quantity": 28
+            "Sales": 7670.784,
+            "Quantity": 28,
+            "Sales_MA": 15751.070099999999
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 22065.9835,
-            "total_quantity": 101
+            "Sales": 22065.9835,
+            "Quantity": 101,
+            "Sales_MA": 18262.9662
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 13204.219500000001,
-            "total_quantity": 61
+            "Sales": 13204.219500000001,
+            "Quantity": 61,
+            "Sales_MA": 14313.662333333334
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 8584.556,
-            "total_quantity": 37
+            "Sales": 8584.556,
+            "Quantity": 37,
+            "Sales_MA": 14618.252999999999
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 19523.257,
-            "total_quantity": 79
+            "Sales": 19523.257,
+            "Quantity": 79,
+            "Sales_MA": 13770.6775
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 37684.4081,
-            "total_quantity": 155
+            "Sales": 37684.4081,
+            "Quantity": 155,
+            "Sales_MA": 21930.740366666665
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 20261.488,
-            "total_quantity": 77
+            "Sales": 20261.488,
+            "Quantity": 77,
+            "Sales_MA": 25823.051033333333
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 8412.5604,
-            "total_quantity": 51
+            "Sales": 8412.5604,
+            "Quantity": 51,
+            "Sales_MA": 22119.4855
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 23860.341,
-            "total_quantity": 98
+            "Sales": 23860.341,
+            "Quantity": 98,
+            "Sales_MA": 17511.463133333335
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 17320.3587,
-            "total_quantity": 80
+            "Sales": 17320.3587,
+            "Quantity": 80,
+            "Sales_MA": 16531.0867
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 32622.6705,
-            "total_quantity": 128
+            "Sales": 32622.6705,
+            "Quantity": 128,
+            "Sales_MA": 24601.1234
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 48818.4704,
-            "total_quantity": 181
+            "Sales": 48818.4704,
+            "Quantity": 181,
+            "Sales_MA": 32920.499866666665
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 16214.577500000001,
-            "total_quantity": 85
+            "Sales": 16214.577500000001,
+            "Quantity": 85,
+            "Sales_MA": 32551.906133333334
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 32763.6981,
-            "total_quantity": 119
+            "Sales": 32763.6981,
+            "Quantity": 119,
+            "Sales_MA": 32598.915333333327
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 43128.5073,
-            "total_quantity": 174
+            "Sales": 43128.5073,
+            "Quantity": 174,
+            "Sales_MA": 30702.260966666665
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 40084.951,
-            "total_quantity": 189
+            "Sales": 40084.951,
+            "Quantity": 189,
+            "Sales_MA": 38659.05213333334
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 44004.039,
-            "total_quantity": 213
+            "Sales": 44004.039,
+            "Quantity": 213,
+            "Sales_MA": 42405.83243333333
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 63100.2306,
-            "total_quantity": 242
+            "Sales": 63100.2306,
+            "Quantity": 242,
+            "Sales_MA": 49063.073533333336
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 8689.593,
-            "total_quantity": 34
+            "Sales": 8689.593,
+            "Quantity": 34,
+            "Sales_MA": 38597.9542
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 7870.523999999999,
-            "total_quantity": 20
+            "Sales": 7870.523999999999,
+            "Quantity": 20,
+            "Sales_MA": 26553.449200000003
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 16170.538999999999,
-            "total_quantity": 55
+            "Sales": 16170.538999999999,
+            "Quantity": 55,
+            "Sales_MA": 10910.218666666666
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 17749.7878,
-            "total_quantity": 48
+            "Sales": 17749.7878,
+            "Quantity": 48,
+            "Sales_MA": 13930.2836
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 6931.443,
-            "total_quantity": 21
+            "Sales": 6931.443,
+            "Quantity": 21,
+            "Sales_MA": 13617.2566
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 18068.0231,
-            "total_quantity": 66
+            "Sales": 18068.0231,
+            "Quantity": 66,
+            "Sales_MA": 14249.751299999998
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 3528.881,
-            "total_quantity": 20
+            "Sales": 3528.881,
+            "Quantity": 20,
+            "Sales_MA": 9509.449033333332
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 11855.996,
-            "total_quantity": 54
+            "Sales": 11855.996,
+            "Quantity": 54,
+            "Sales_MA": 11150.966699999999
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 17209.2132,
-            "total_quantity": 56
+            "Sales": 17209.2132,
+            "Quantity": 56,
+            "Sales_MA": 10864.696733333332
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 17884.8358,
-            "total_quantity": 68
+            "Sales": 17884.8358,
+            "Quantity": 68,
+            "Sales_MA": 15650.015
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 18734.4502,
-            "total_quantity": 93
+            "Sales": 18734.4502,
+            "Quantity": 93,
+            "Sales_MA": 17942.833066666666
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 19393.2107,
-            "total_quantity": 92
+            "Sales": 19393.2107,
+            "Quantity": 92,
+            "Sales_MA": 18670.832233333334
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 22015.361100000002,
-            "total_quantity": 63
+            "Sales": 22015.361100000002,
+            "Quantity": 63,
+            "Sales_MA": 20047.674
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 18753.078999999998,
-            "total_quantity": 59
+            "Sales": 18753.078999999998,
+            "Quantity": 59,
+            "Sales_MA": 20053.8836
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 7143.621,
-            "total_quantity": 43
+            "Sales": 7143.621,
+            "Quantity": 43,
+            "Sales_MA": 15970.687033333335
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 6135.8396,
-            "total_quantity": 33
+            "Sales": 6135.8396,
+            "Quantity": 33,
+            "Sales_MA": 10677.5132
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 14530.2952,
-            "total_quantity": 59
+            "Sales": 14530.2952,
+            "Quantity": 59,
+            "Sales_MA": 9269.918599999999
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 25052.1311,
-            "total_quantity": 101
+            "Sales": 25052.1311,
+            "Quantity": 101,
+            "Sales_MA": 15239.421966666667
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 7670.784,
-            "total_quantity": 28
+            "Sales": 7670.784,
+            "Quantity": 28,
+            "Sales_MA": 15751.070099999999
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 22065.983500000002,
-            "total_quantity": 101
+            "Sales": 22065.983500000002,
+            "Quantity": 101,
+            "Sales_MA": 18262.9662
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 13204.2195,
-            "total_quantity": 61
+            "Sales": 13204.2195,
+            "Quantity": 61,
+            "Sales_MA": 14313.662333333334
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 8584.556,
-            "total_quantity": 37
+            "Sales": 8584.556,
+            "Quantity": 37,
+            "Sales_MA": 14618.253000000002
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 19523.257,
-            "total_quantity": 79
+            "Sales": 19523.257,
+            "Quantity": 79,
+            "Sales_MA": 13770.6775
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 37684.4081,
-            "total_quantity": 155
+            "Sales": 37684.4081,
+            "Quantity": 155,
+            "Sales_MA": 21930.740366666665
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 12904.763500000001,
-            "total_quantity": 55
+            "Sales": 12904.763500000001,
+            "Quantity": 55,
+            "Sales_MA": 23370.809533333337
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 3712.5204000000003,
-            "total_quantity": 25
+            "Sales": 3712.5204000000003,
+            "Quantity": 25,
+            "Sales_MA": 18100.564000000002
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 16232.32,
-            "total_quantity": 70
+            "Sales": 16232.32,
+            "Quantity": 70,
+            "Sales_MA": 10949.867966666667
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 13496.7727,
-            "total_quantity": 54
+            "Sales": 13496.7727,
+            "Quantity": 54,
+            "Sales_MA": 11147.204366666667
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 20841.0721,
-            "total_quantity": 71
+            "Sales": 20841.0721,
+            "Quantity": 71,
+            "Sales_MA": 16856.7216
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 26713.5661,
-            "total_quantity": 92
+            "Sales": 26713.5661,
+            "Quantity": 92,
+            "Sales_MA": 20350.4703
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 11510.4095,
-            "total_quantity": 62
+            "Sales": 11510.4095,
+            "Quantity": 62,
+            "Sales_MA": 19688.34923333333
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 22729.7586,
-            "total_quantity": 72
+            "Sales": 22729.7586,
+            "Quantity": 72,
+            "Sales_MA": 20317.9114
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 27087.0183,
-            "total_quantity": 105
+            "Sales": 27087.0183,
+            "Quantity": 105,
+            "Sales_MA": 20442.395466666665
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 25356.026,
-            "total_quantity": 133
+            "Sales": 25356.026,
+            "Quantity": 133,
+            "Sales_MA": 25057.60096666667
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 29377.853,
-            "total_quantity": 146
+            "Sales": 29377.853,
+            "Quantity": 146,
+            "Sales_MA": 27273.632433333332
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 33498.3186,
-            "total_quantity": 142
+            "Sales": 33498.3186,
+            "Quantity": 142,
+            "Sales_MA": 29410.732533333332
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "BW-11110",
-            "total_spent": 8352.519,
-            "purchase_frequency": 3,
+            "Customer Name": "Bart Watters",
+            "total_spent": 16705.038,
+            "purchase_frequency": 6,
             "average_order_value": 2784.1730000000002
         },
         {
-            "Customer ID": "AJ-10780",
-            "total_spent": 6047.813999999999,
-            "purchase_frequency": 2,
+            "Customer Name": "Jennifer Ferguson",
+            "total_spent": 13219.446,
+            "purchase_frequency": 6,
+            "average_order_value": 2203.241
+        },
+        {
+            "Customer Name": "Anthony Jacobs",
+            "total_spent": 12095.627999999999,
+            "purchase_frequency": 4,
             "average_order_value": 3023.9069999999997
         },
         {
-            "Customer ID": "JS-16030",
-            "total_spent": 5820.7091,
-            "purchase_frequency": 3,
+            "Customer Name": "Brendan Murry",
+            "total_spent": 11849.552,
+            "purchase_frequency": 8,
+            "average_order_value": 1481.194
+        },
+        {
+            "Customer Name": "Joy Smith",
+            "total_spent": 11641.4182,
+            "purchase_frequency": 6,
             "average_order_value": 1455.177275
         },
         {
-            "Customer ID": "MB-18085",
-            "total_spent": 5488.8460000000005,
-            "purchase_frequency": 2,
+            "Customer Name": "Mick Brown",
+            "total_spent": 10977.692000000001,
+            "purchase_frequency": 4,
             "average_order_value": 2744.4230000000002
         },
         {
-            "Customer ID": "JG-15160139",
-            "total_spent": 5451.3,
-            "purchase_frequency": 1,
-            "average_order_value": 5451.3
-        },
-        {
-            "Customer ID": "BT-1153058",
-            "total_spent": 5451.3,
-            "purchase_frequency": 1,
-            "average_order_value": 5451.3
-        },
-        {
-            "Customer ID": "BT-11530",
-            "total_spent": 5451.299999999999,
-            "purchase_frequency": 1,
+            "Customer Name": "Bradley Talbott",
+            "total_spent": 10902.599999999999,
+            "purchase_frequency": 2,
             "average_order_value": 5451.299999999999
         },
         {
-            "Customer ID": "JG-15160",
-            "total_spent": 5451.299999999999,
-            "purchase_frequency": 1,
+            "Customer Name": "James Galang",
+            "total_spent": 10902.599999999999,
+            "purchase_frequency": 2,
             "average_order_value": 5451.299999999999
         },
         {
-            "Customer ID": "MB-1808592",
-            "total_spent": 5244.84,
-            "purchase_frequency": 1,
-            "average_order_value": 5244.84
-        },
-        {
-            "Customer ID": "CR-12730",
-            "total_spent": 5197.704,
-            "purchase_frequency": 3,
+            "Customer Name": "Craig Reiter",
+            "total_spent": 10395.408,
+            "purchase_frequency": 6,
             "average_order_value": 1039.5408
         },
         {
-            "Customer ID": "JH-15985",
-            "total_spent": 5150.124000000001,
-            "purchase_frequency": 2,
-            "average_order_value": 2575.0620000000004
-        },
-        {
-            "Customer ID": "CA-12775",
-            "total_spent": 5124.996,
-            "purchase_frequency": 3,
-            "average_order_value": 1708.332
-        },
-        {
-            "Customer ID": "KD-16270",
-            "total_spent": 5064.5595,
-            "purchase_frequency": 3,
-            "average_order_value": 1688.1865
-        },
-        {
-            "Customer ID": "BM-11575",
-            "total_spent": 5025.616,
-            "purchase_frequency": 3,
-            "average_order_value": 1675.2053333333333
-        },
-        {
-            "Customer ID": "MP-18175",
-            "total_spent": 4900.815,
-            "purchase_frequency": 5,
-            "average_order_value": 700.1164285714285
-        },
-        {
-            "Customer ID": "SF-20200",
-            "total_spent": 4725.728999999999,
-            "purchase_frequency": 3,
-            "average_order_value": 1575.2429999999997
-        },
-        {
-            "Customer ID": "AJ-107801",
-            "total_spent": 4626.15,
-            "purchase_frequency": 1,
-            "average_order_value": 4626.15
-        },
-        {
-            "Customer ID": "NH-18610",
-            "total_spent": 4623.2328,
-            "purchase_frequency": 2,
-            "average_order_value": 1541.0775999999998
-        },
-        {
-            "Customer ID": "NP-18700",
-            "total_spent": 4584.684,
-            "purchase_frequency": 2,
-            "average_order_value": 1528.228
-        },
-        {
-            "Customer ID": "JS-1603059",
-            "total_spent": 4552.9491,
-            "purchase_frequency": 2,
-            "average_order_value": 1517.6497
+            "Customer Name": "Joseph Holt",
+            "total_spent": 10300.248,
+            "purchase_frequency": 4,
+            "average_order_value": 2575.062
         }
     ],
     "discount_analysis": [
@@ -1815,7 +2294,7 @@
             "Discount": 0.0,
             "total_sales": 523618.7,
             "total_quantity": 1432,
-            "average_profit": 290.61153701923075
+            "average_profit": 290.6115
         },
         {
             "Discount": 0.1,
@@ -1827,55 +2306,55 @@
             "Discount": 0.2,
             "total_sales": 315445.472,
             "total_quantity": 1376,
-            "average_profit": 39.42915846994535
+            "average_profit": 39.4292
         },
         {
             "Discount": 0.3,
-            "total_sales": 209500.57799999998,
+            "total_sales": 209500.578,
             "total_quantity": 826,
-            "average_profit": -103.10757413793102
+            "average_profit": -103.1076
         },
         {
             "Discount": 0.35,
             "total_sales": 108320.082,
             "total_quantity": 338,
-            "average_profit": -202.72553333333332
+            "average_profit": -202.7255
         },
         {
             "Discount": 0.4,
             "total_sales": 104312.904,
             "total_quantity": 626,
-            "average_profit": -201.2374211764706
+            "average_profit": -201.2374
         },
         {
             "Discount": 0.4499999999999999,
             "total_sales": 2546.4285,
             "total_quantity": 11,
-            "average_profit": -551.5957499999997
+            "average_profit": -551.5957
         },
         {
             "Discount": 0.45,
             "total_sales": 13516.3765,
             "total_quantity": 101,
-            "average_profit": -253.72557083333334
+            "average_profit": -253.7256
         },
         {
             "Discount": 0.47,
             "total_sales": 65005.9098,
             "total_quantity": 250,
-            "average_profit": -314.12573823529414
+            "average_profit": -314.1257
         },
         {
             "Discount": 0.5,
             "total_sales": 53012.77,
             "total_quantity": 374,
-            "average_profit": -289.42042884615387
+            "average_profit": -289.4204
         },
         {
             "Discount": 0.55,
-            "total_sales": 12617.315999999999,
+            "total_sales": 12617.316,
             "total_quantity": 72,
-            "average_profit": -315.06720000000007
+            "average_profit": -315.0672
         },
         {
             "Discount": 0.57,
@@ -1885,7 +2364,7 @@
         },
         {
             "Discount": 0.5700000000000001,
-            "total_sales": 8144.801999999999,
+            "total_sales": 8144.802,
             "total_quantity": 47,
             "average_profit": -526.129
         },
@@ -1893,23 +2372,23 @@
             "Discount": 0.6,
             "total_sales": 27806.416,
             "total_quantity": 144,
-            "average_profit": -378.3154285714285
+            "average_profit": -378.3154
         },
         {
             "Discount": 0.7,
             "total_sales": 46853.478,
             "total_quantity": 414,
-            "average_profit": -591.0998448275861
+            "average_profit": -591.0998
         },
         {
             "Discount": 0.8,
-            "total_sales": 6681.315999999999,
+            "total_sales": 6681.316,
             "total_quantity": 72,
-            "average_profit": -634.7418333333334
+            "average_profit": -634.7418
         },
         {
             "Discount": 0.85,
-            "total_sales": 1593.6840000000002,
+            "total_sales": 1593.684,
             "total_quantity": 20,
             "average_profit": -1534.329
         }
@@ -1919,121 +2398,215 @@
             "State": "Washington",
             "City": "Seattle",
             "total_sales": 42054.34,
-            "total_quantity": 188
+            "total_quantity": 188,
+            "Location": "Washington, Seattle"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 38806.384,
-            "total_quantity": 236
+            "total_quantity": 236,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 23431.3848,
-            "total_quantity": 90
+            "total_quantity": 90,
+            "Location": "Jakarta, Jakarta"
         },
         {
             "State": "New York",
             "City": "New York City",
             "total_sales": 21928.188,
-            "total_quantity": 156
+            "total_quantity": 156,
+            "Location": "New York, New York City"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 19721.152000000002,
-            "total_quantity": 118
+            "total_quantity": 118,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Waikato",
             "City": "Hamilton",
             "total_sales": 17818.2,
-            "total_quantity": 32
+            "total_quantity": 32,
+            "Location": "Waikato, Hamilton"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 16104.372,
-            "total_quantity": 130
+            "total_quantity": 130,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 12906.4,
-            "total_quantity": 54
+            "total_quantity": 54,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "Kabul",
             "City": "Kabul",
             "total_sales": 12681.599999999999,
-            "total_quantity": 18
+            "total_quantity": 18,
+            "Location": "Kabul, Kabul"
         },
         {
             "State": "Victoria",
             "City": "Melbourne",
             "total_sales": 12645.192,
-            "total_quantity": 44
+            "total_quantity": 44,
+            "Location": "Victoria, Melbourne"
         },
         {
             "State": "Nuevo Le\u00f3n",
             "City": "Monterrey",
             "total_sales": 12601.344000000001,
-            "total_quantity": 46
+            "total_quantity": 46,
+            "Location": "Nuevo Le\u00f3n, Monterrey"
         },
         {
             "State": "Guatemala",
             "City": "Mixco",
             "total_sales": 11496.448,
-            "total_quantity": 48
+            "total_quantity": 48,
+            "Location": "Guatemala, Mixco"
         },
         {
             "State": "Bihar",
             "City": "Muzaffarpur",
             "total_sales": 10902.599999999999,
-            "total_quantity": 12
+            "total_quantity": 12,
+            "Location": "Bihar, Muzaffarpur"
         },
         {
             "State": "England",
             "City": "Stockton-on-Tees",
             "total_sales": 10902.599999999999,
-            "total_quantity": 12
+            "total_quantity": 12,
+            "Location": "England, Stockton-on-Tees"
         },
         {
             "State": "Delhi",
             "City": "Delhi",
             "total_sales": 10585.560000000001,
-            "total_quantity": 20
-        },
-        {
-            "State": "California",
-            "City": "Fresno",
-            "total_sales": 10145.392,
-            "total_quantity": 46
-        },
-        {
-            "State": "Grand Casablanca",
-            "City": "Casablanca",
-            "total_sales": 9789.599999999999,
-            "total_quantity": 18
-        },
-        {
-            "State": "Virginia",
-            "City": "Springfield",
-            "total_sales": 9758.44,
-            "total_quantity": 48
-        },
-        {
-            "State": "Western Australia",
-            "City": "Perth",
-            "total_sales": 9306.99,
-            "total_quantity": 30
-        },
-        {
-            "State": "San Salvador",
-            "City": "San Salvador",
-            "total_sales": 8990.656,
-            "total_quantity": 28
+            "total_quantity": 20,
+            "Location": "Delhi, Delhi"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 268,
+            "avg_shipping_delay": 2.18,
+            "total_profit": -16186.46,
+            "shipping_cost_ratio": 0.17
+        },
+        "Same Day": {
+            "total_orders": 66,
+            "avg_shipping_delay": 0.0,
+            "total_profit": 1936.69,
+            "shipping_cost_ratio": 0.17
+        },
+        "Second Class": {
+            "total_orders": 334,
+            "avg_shipping_delay": 3.15,
+            "total_profit": -41755.21,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 1003,
+            "avg_shipping_delay": 5.05,
+            "total_profit": -72161.8,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": -0.1515739343886464,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": -0.2532164082428731,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": -0.27513536824501716,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": -0.24578449994617949,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 519.0,
+                "mean": 467.72447013487476,
+                "std": 383.1592751250349,
+                "min": 0.0,
+                "25%": 119.5,
+                "50%": 384.0,
+                "75%": 737.0,
+                "max": 1458.0
+            },
+            "frequency": {
+                "count": 519.0,
+                "mean": 3.2196531791907512,
+                "std": 1.604144931284015,
+                "min": 2.0,
+                "25%": 2.0,
+                "50%": 2.0,
+                "75%": 4.0,
+                "max": 10.0
+            },
+            "monetary": {
+                "count": 519.0,
+                "mean": 2917.30992061657,
+                "std": 2544.2875972334896,
+                "min": 54.828,
+                "25%": 1050.346,
+                "50%": 2140.32,
+                "75%": 3960.94,
+                "max": 16705.038
+            }
+        },
+        "rfm_segments": {
+            "High": 173,
+            "Medium": 173,
+            "Low": 173
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 1384,
+        "churned_customers": 1101,
+        "churn_rate": 0.7955202312138728,
+        "avg_recency": 1000.4682080924855,
+        "avg_frequency": 1.2442196531791907,
+        "avg_monetary": 1093.991220231214,
+        "churned_customer_characteristics": {
+            "avg_recency": 1220.784741144414,
+            "avg_frequency": 1.296094459582198,
+            "avg_monetary": 1151.9340526793824,
+            "avg_discount": 0.28607958133298733,
+            "avg_quantity": 3.55771160416937,
+            "avg_shipping_cost": 91.49362187189135,
+            "avg_profit": -61.59959806431383
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 143.3356890459364,
+            "avg_frequency": 1.0424028268551238,
+            "avg_monetary": 868.5669851590106,
+            "avg_discount": 0.29042402826855124,
+            "avg_quantity": 3.549469964664311,
+            "avg_shipping_cost": 90.37229858657243,
+            "avg_profit": -103.52515123674911
+        }
+    }
 }

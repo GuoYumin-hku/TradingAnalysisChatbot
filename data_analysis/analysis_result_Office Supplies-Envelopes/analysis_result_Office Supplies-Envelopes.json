@@ -1188,288 +1188,1349 @@
         32,
         32
     ],
+    "yearly_sales": {
+        "2011": 27986.6005,
+        "2012": 38013.8195,
+        "2013": 50805.2553,
+        "2014": 81391.5628,
+        "2015": 37665.6075,
+        "2016": 50501.7633,
+        "2017": 53757.1823
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 2745.0402,
+            "2012": 2980.9272,
+            "2013": 1924.5796,
+            "2014": 5283.6887,
+            "2015": 2980.9272,
+            "2016": 1924.5796,
+            "2017": 2759.3445
+        },
+        "August": {
+            "2011": 3545.075,
+            "2012": 2560.7577,
+            "2013": 6925.4858,
+            "2014": 7946.3781,
+            "2015": 2560.7577,
+            "2016": 6925.4858,
+            "2017": 4360.3331
+        },
+        "December": {
+            "2011": 2922.7958,
+            "2012": 4057.6398,
+            "2013": 5920.803,
+            "2014": 9242.7623,
+            "2015": 4037.7678,
+            "2016": 5819.083,
+            "2017": 6558.7925
+        },
+        "February": {
+            "2011": 693.9435,
+            "2012": 1650.713,
+            "2013": 2292.3206,
+            "2014": 2541.1658,
+            "2015": 1576.193,
+            "2016": 2245.6006,
+            "2017": 1738.037
+        },
+        "January": {
+            "2011": 1661.8984,
+            "2012": 1533.698,
+            "2013": 2447.0255,
+            "2014": 4970.9328000000005,
+            "2015": 1533.698,
+            "2016": 2423.6655,
+            "2017": 3333.9544
+        },
+        "July": {
+            "2011": 1692.4329,
+            "2012": 3008.0181000000002,
+            "2013": 2784.4828,
+            "2014": 3982.2965,
+            "2015": 3008.0181000000002,
+            "2016": 2784.4827999999998,
+            "2017": 2237.3936
+        },
+        "June": {
+            "2011": 2643.812,
+            "2012": 4379.7447,
+            "2013": 5139.719599999999,
+            "2014": 7789.6892,
+            "2015": 4350.9927,
+            "2016": 5139.7196,
+            "2017": 5450.6192
+        },
+        "March": {
+            "2011": 1482.1305,
+            "2012": 1371.3679,
+            "2013": 3610.8788,
+            "2014": 6236.0836,
+            "2015": 1342.0279,
+            "2016": 3581.5388000000003,
+            "2017": 4807.7544
+        },
+        "May": {
+            "2011": 1529.8734,
+            "2012": 2909.149,
+            "2013": 3426.3107,
+            "2014": 6507.7396,
+            "2015": 2909.149,
+            "2016": 3416.9667,
+            "2017": 4795.4842
+        },
+        "November": {
+            "2011": 4120.6088,
+            "2012": 4563.4328,
+            "2013": 5409.7002999999995,
+            "2014": 10351.7323,
+            "2015": 4469.0728,
+            "2016": 5381.3003,
+            "2017": 6279.6775
+        },
+        "October": {
+            "2011": 1700.8999999999999,
+            "2012": 3659.9487,
+            "2013": 3160.9224,
+            "2014": 8396.3514,
+            "2015": 3597.5247,
+            "2016": 3145.2744000000002,
+            "2017": 6618.0634
+        },
+        "September": {
+            "2011": 3248.09,
+            "2012": 5338.4226,
+            "2013": 7763.0262,
+            "2014": 8142.7425,
+            "2015": 5299.4786,
+            "2016": 7714.0662,
+            "2017": 4817.7285
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Ames Interoffice Envelope, Security-Tint": 5680.224,
+        "Cameo Interoffice Envelope, Recycled": 5620.027,
+        "Cameo Interoffice Envelope, Set of 50": 5528.757,
+        "Jiffy Interoffice Envelope, Recycled": 5513.2480000000005,
+        "Kraft Interoffice Envelope, Security-Tint": 5412.048000000001,
+        "Jiffy Interoffice Envelope, Set of 50": 5241.528,
+        "GlobeWeis Mailers, Security-Tint": 4920.552,
+        "Jiffy Mailers, Security-Tint": 4909.318,
+        "GlobeWeis Interoffice Envelope, Set of 50": 4877.64,
+        "Cameo Mailers, with clear poly window": 4819.964
+    },
+    "top_10_products_by_profit": {
+        "Jiffy Interoffice Envelope, Recycled": 1774.1680000000001,
+        "Cameo Interoffice Envelope, Set of 50": 1652.277,
+        "Cameo Interoffice Envelope, Recycled": 1579.647,
+        "Cameo Mailers, Recycled": 1421.436,
+        "GlobeWeis Mailers, Security-Tint": 1363.5120000000002,
+        "Ames Interoffice Envelope, Security-Tint": 1313.144,
+        "Cameo Buff Policy Envelopes": 1264.5135999999998,
+        "Cameo Manila Envelope, Security-Tint": 1225.688,
+        "Kraft Interoffice Envelope, Security-Tint": 1210.1280000000002,
+        "Ames Manila Envelope, Security-Tint": 1204.6098
+    },
+    "top_10_products_by_turnover": {
+        "Jiffy Business Envelopes, Recycled": 300,
+        "Kraft Business Envelopes, Recycled": 248,
+        "Cameo Business Envelopes, Recycled": 226,
+        "Kraft Clasp Envelope, with clear poly window": 222,
+        "GlobeWeis Manila Envelope, Set of 50": 192,
+        "Cameo Clasp Envelope, Security-Tint": 188,
+        "Ames Business Envelopes, Recycled": 182,
+        "Ames Peel and Seal, Recycled": 182,
+        "Kraft Manila Envelope, Security-Tint": 182,
+        "Ames Manila Envelope, Security-Tint": 180
+    },
+    "top_5_loss_products": {
+        "Jiffy Mailers, Recycled": -621.0458,
+        "Cameo Mailers, with clear poly window": -597.116,
+        "Jiffy Manila Envelope, Recycled": -593.1904,
+        "Jiffy Interoffice Envelope, Set of 50": -551.34,
+        "Ames Mailers, Recycled": -538.2239999999999
+    },
     "product_performance": [
         {
-            "Product ID": "OFF-EN-3097",
-            "total_sales": 2840.112,
-            "total_quantity": 76,
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 5680.224,
+            "total_quantity": 152,
             "average_price": 157.784,
-            "total_profit": 656.572,
+            "total_profit": 1313.144,
             "profit_margin": 0.23117820705662312
         },
         {
-            "Product ID": "OFF-EN-3661",
-            "total_sales": 2810.0135,
-            "total_quantity": 76,
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 5620.027,
+            "total_quantity": 152,
             "average_price": 122.1745,
-            "total_profit": 789.8235,
+            "total_profit": 1579.647,
             "profit_margin": 0.2810746282891523
         },
         {
-            "Product ID": "OFF-EN-3663",
-            "total_sales": 2764.3785,
-            "total_quantity": 81,
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 5528.757,
+            "total_quantity": 162,
             "average_price": 125.65356818181817,
-            "total_profit": 826.1385,
+            "total_profit": 1652.277,
             "profit_margin": 0.29885144165316
         },
         {
-            "Product ID": "OFF-EN-4910",
-            "total_sales": 2756.624,
-            "total_quantity": 75,
-            "average_price": 162.15435294117646,
-            "total_profit": 887.0840000000001,
-            "profit_margin": 0.32180086946932196
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 5513.2480000000005,
+            "total_quantity": 150,
+            "average_price": 162.15435294117648,
+            "total_profit": 1774.1680000000001,
+            "profit_margin": 0.3218008694693219
         },
         {
-            "Product ID": "OFF-EN-5030",
-            "total_sales": 2706.024,
-            "total_quantity": 69,
-            "average_price": 128.8582857142857,
-            "total_profit": 605.0640000000001,
-            "profit_margin": 0.22359890377912395
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 5412.048000000001,
+            "total_quantity": 138,
+            "average_price": 128.85828571428573,
+            "total_profit": 1210.1280000000002,
+            "profit_margin": 0.22359890377912392
         },
         {
-            "Product ID": "OFF-EN-4912",
-            "total_sales": 2620.7639999999997,
-            "total_quantity": 74,
-            "average_price": 187.19742857142856,
-            "total_profit": -32.465999999999994,
-            "profit_margin": -0.01238799067752762
+            "Product Name": "Jiffy Interoffice Envelope, Set of 50",
+            "total_sales": 5241.528,
+            "total_quantity": 148,
+            "average_price": 187.1974285714286,
+            "total_profit": -64.93200000000003,
+            "profit_margin": -0.012387990677527628
         },
         {
-            "Product ID": "OFF-EN-4444",
-            "total_sales": 2460.276,
-            "total_quantity": 89,
+            "Product Name": "GlobeWeis Mailers, Security-Tint",
+            "total_sales": 4920.552,
+            "total_quantity": 178,
             "average_price": 117.15599999999999,
-            "total_profit": 681.756,
-            "profit_margin": 0.27710549548099483
+            "total_profit": 1363.5120000000002,
+            "profit_margin": 0.2771054954809949
         },
         {
-            "Product ID": "OFF-EN-4915",
-            "total_sales": 2454.659,
-            "total_quantity": 84,
+            "Product Name": "Jiffy Mailers, Security-Tint",
+            "total_sales": 4909.318,
+            "total_quantity": 168,
             "average_price": 136.36994444444446,
-            "total_profit": 328.569,
-            "profit_margin": 0.13385525239962048
+            "total_profit": 657.1379999999999,
+            "profit_margin": 0.13385525239962046
         },
         {
-            "Product ID": "OFF-EN-4441",
-            "total_sales": 2438.82,
-            "total_quantity": 59,
+            "Product Name": "GlobeWeis Interoffice Envelope, Set of 50",
+            "total_sales": 4877.64,
+            "total_quantity": 118,
             "average_price": 135.49,
-            "total_profit": 298.23,
+            "total_profit": 596.46,
             "profit_margin": 0.1222845474450759
         },
         {
-            "Product ID": "OFF-EN-3668",
-            "total_sales": 2409.982,
-            "total_quantity": 79,
+            "Product Name": "Cameo Mailers, with clear poly window",
+            "total_sales": 4819.964,
+            "total_quantity": 158,
             "average_price": 109.54463636363636,
-            "total_profit": -48.87800000000001,
-            "profit_margin": -0.020281479280758116
+            "total_profit": -97.75600000000003,
+            "profit_margin": -0.02028147928075812
         },
         {
-            "Product ID": "OFF-EN-3665",
-            "total_sales": 2388.848,
-            "total_quantity": 69,
+            "Product Name": "Cameo Mailers, Recycled",
+            "total_sales": 4777.696,
+            "total_quantity": 138,
             "average_price": 132.71377777777778,
-            "total_profit": 710.718,
+            "total_profit": 1421.436,
             "profit_margin": 0.2975149528140761
         },
         {
-            "Product ID": "OFF-EN-5031",
-            "total_sales": 2271.71,
-            "total_quantity": 65,
+            "Product Name": "Kraft Interoffice Envelope, Set of 50",
+            "total_sales": 4543.42,
+            "total_quantity": 130,
             "average_price": 119.56368421052632,
-            "total_profit": 229.19,
+            "total_profit": 458.38,
             "profit_margin": 0.10088875780799486
         },
         {
-            "Product ID": "OFF-EN-3099",
-            "total_sales": 2210.786,
-            "total_quantity": 56,
+            "Product Name": "Ames Interoffice Envelope, with clear poly window",
+            "total_sales": 4421.572,
+            "total_quantity": 112,
             "average_price": 116.35715789473684,
-            "total_profit": 169.636,
+            "total_profit": 339.272,
             "profit_margin": 0.07673108116298909
         },
         {
-            "Product ID": "OFF-EN-4443",
-            "total_sales": 2209.2525,
-            "total_quantity": 77,
+            "Product Name": "GlobeWeis Mailers, Recycled",
+            "total_sales": 4418.505,
+            "total_quantity": 154,
             "average_price": 110.462625,
-            "total_profit": 573.4125,
-            "profit_margin": 0.25955045880903155
+            "total_profit": 1146.8249999999998,
+            "profit_margin": 0.2595504588090315
         },
         {
-            "Product ID": "OFF-EN-4449",
-            "total_sales": 2203.7994,
-            "total_quantity": 96,
+            "Product Name": "GlobeWeis Manila Envelope, Set of 50",
+            "total_sales": 4407.5988,
+            "total_quantity": 192,
             "average_price": 88.15197599999999,
-            "total_profit": 463.8394,
+            "total_profit": 927.6787999999999,
             "profit_margin": 0.2104726047207382
         },
         {
-            "Product ID": "OFF-EN-3664",
-            "total_sales": 2124.5995,
-            "total_quantity": 59,
+            "Product Name": "Cameo Interoffice Envelope, with clear poly window",
+            "total_sales": 4249.199,
+            "total_quantity": 118,
             "average_price": 118.03330555555554,
-            "total_profit": -105.80049999999999,
-            "profit_margin": -0.049797856019452136
+            "total_profit": -211.60100000000006,
+            "profit_margin": -0.04979785601945216
         },
         {
-            "Product ID": "OFF-EN-3662",
-            "total_sales": 2105.6497,
-            "total_quantity": 57,
+            "Product Name": "Cameo Interoffice Envelope, Security-Tint",
+            "total_sales": 4211.2994,
+            "total_quantity": 114,
             "average_price": 116.98053888888889,
-            "total_profit": 293.0197,
+            "total_profit": 586.0394,
             "profit_margin": 0.13915880689936222
         },
         {
-            "Product ID": "OFF-EN-10000056",
-            "total_sales": 2043.3700000000001,
-            "total_quantity": 46,
-            "average_price": 157.1823076923077,
-            "total_profit": 827.1967999999998,
-            "profit_margin": 0.40481988088305093
-        },
-        {
-            "Product ID": "OFF-EN-4440",
-            "total_sales": 2028.051,
-            "total_quantity": 57,
+            "Product Name": "GlobeWeis Interoffice Envelope, Security-Tint",
+            "total_sales": 4056.102,
+            "total_quantity": 114,
             "average_price": 88.1761304347826,
-            "total_profit": 138.06099999999998,
+            "total_profit": 276.12199999999996,
             "profit_margin": 0.0680757042105943
         },
         {
-            "Product ID": "OFF-EN-4439",
-            "total_sales": 2014.9164,
-            "total_quantity": 58,
+            "Product Name": "GlobeWeis Interoffice Envelope, Recycled",
+            "total_sales": 4029.8328,
+            "total_quantity": 116,
             "average_price": 125.932275,
-            "total_profit": 503.3164,
+            "total_profit": 1006.6328,
             "profit_margin": 0.24979517760637612
+        },
+        {
+            "Product Name": "Ames Manila Envelope, Security-Tint",
+            "total_sales": 4024.3098,
+            "total_quantity": 180,
+            "average_price": 74.52425555555556,
+            "total_profit": 1204.6098,
+            "profit_margin": 0.2993332670362505
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-03",
+            "Year_Month": "2011-01",
             "Product Name": "Cameo Interoffice Envelope, Set of 50",
             "total_sales": 47.43,
             "total_quantity": 1
         },
         {
-            "Order Date": "2011-01-04",
-            "Product Name": "Jiffy Interoffice Envelope, Set of 50",
-            "total_sales": 260.06399999999996,
-            "total_quantity": 12
+            "Year_Month": "2011-04",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 221.76,
+            "total_quantity": 7
         },
         {
-            "Order Date": "2011-01-04",
-            "Product Name": "Kraft Peel and Seal, Recycled",
-            "total_sales": 38.58,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-06",
-            "Product Name": "Cameo Manila Envelope, with clear poly window",
-            "total_sales": 30.54,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Cameo Mailers, with clear poly window",
-            "total_sales": 41.7,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "GlobeWeis Interoffice Envelope, Set of 50",
-            "total_sales": 114.768,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "Jiffy Mailers, Security-Tint",
-            "total_sales": 105.52,
-            "total_quantity": 4
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "Brown Kraft Recycled Envelopes",
-            "total_sales": 50.94,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "Staples",
-            "total_sales": 11.36,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-19",
-            "Product Name": "GlobeWeis Business Envelopes, Recycled",
-            "total_sales": 48.42,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-20",
-            "Product Name": "Tyvek  Top-Opening Peel & Seel Envelopes, Plain White",
-            "total_sales": 108.72,
+            "Year_Month": "2011-04",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15000000000003,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-21",
-            "Product Name": "Cameo Manila Envelope, Set of 50",
-            "total_sales": 27.0,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-21",
-            "Product Name": "Staples",
-            "total_sales": 23.34,
+            "Year_Month": "2011-05",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-01-24",
-            "Product Name": "Kraft Manila Envelope, with clear poly window",
-            "total_sales": 420.42,
+            "Year_Month": "2011-05",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 63.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 13.572000000000005,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 65.76,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 98.624,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 120.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 46.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 189.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 316.2,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 266.32800000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 110.952,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.14999999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15000000000003,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 162.864,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 466.5752,
             "total_quantity": 14
         },
         {
-            "Order Date": "2011-01-25",
-            "Product Name": "GlobeWeis Peel and Seal, Security-Tint",
-            "total_sales": 31.72,
+            "Year_Month": "2012-06",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-26",
-            "Product Name": "Kraft Clasp Envelope, Recycled",
-            "total_sales": 11.7,
+            "Year_Month": "2012-06",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 60.32000000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 71.28,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-01-27",
-            "Product Name": "Cameo Clasp Envelope, Security-Tint",
-            "total_sales": 82.0599,
-            "total_quantity": 13
+            "Year_Month": "2012-07",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 189.72,
+            "total_quantity": 4
         },
         {
-            "Order Date": "2011-01-27",
-            "Product Name": "Kraft Business Envelopes, Set of 50",
-            "total_sales": 39.96,
+            "Year_Month": "2012-08",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-28",
-            "Product Name": "Cameo Interoffice Envelope, Security-Tint",
-            "total_sales": 132.0495,
+            "Year_Month": "2012-09",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 665.28,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 46.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 90.48,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 127.13250000000002,
             "total_quantity": 5
         },
         {
-            "Order Date": "2011-01-30",
-            "Product Name": "Ames Mailers, with clear poly window",
-            "total_sales": 11.817000000000002,
+            "Year_Month": "2012-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 151.776,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 158.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 49.32000000000001,
             "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 94.86,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 73.96799999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 113.832,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 180.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 382.2858,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 271.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 527.472,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 197.28000000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 132.804,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 226.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 65.76,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 63.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 14.796000000000005,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 252.95999999999998,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 150.8,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 345.24,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 142.56,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 277.38,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 31.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 226.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 147.96,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 237.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 126.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15000000000003,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 221.76,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 369.84000000000003,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 95.9088,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 164.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 57.024,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 63.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 13.572,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 271.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 198.92400000000004,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 126.36200000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 120.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 184.92,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 189.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 162.864,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 197.28000000000003,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 316.2,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 266.328,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 156.816,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 208.03500000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 94.86,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 256.36,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 147.936,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 379.44,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.14999999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 118.1007,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 565.5360000000001,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 162.864,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 466.5752,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 60.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 71.28,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 189.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 665.28,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 46.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 90.48,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 127.1325,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 151.776,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 158.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 49.32,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 94.86,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 73.968,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 113.832,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 180.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 382.2858,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 271.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 527.472,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 197.28,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 132.804,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 226.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 65.76,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 63.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 14.796,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 252.95999999999998,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 150.8,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 345.24,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 142.56,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 277.38,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 31.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 226.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 147.96,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 237.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 126.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 95.9088,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 164.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 57.024,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 271.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 133.164,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 27.738,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 162.864,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 197.28,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 156.816,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 208.035,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 94.86,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 256.36,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 36.984,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 379.44,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 118.1007,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 565.5360000000001,
+            "total_quantity": 16
         }
     ],
     "most_frequent_order_month": [
@@ -1557,545 +2618,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 1661.8984,
-            "total_quantity": 84
+            "Sales": 1661.8984,
+            "Quantity": 84,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 693.9435,
-            "total_quantity": 39
+            "Sales": 693.9435,
+            "Quantity": 39,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 1482.1305,
-            "total_quantity": 65
+            "Sales": 1482.1305,
+            "Quantity": 65,
+            "Sales_MA": 1279.3241333333333
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 2745.0402,
-            "total_quantity": 116
+            "Sales": 2745.0402,
+            "Quantity": 116,
+            "Sales_MA": 1640.3714
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 1529.8734,
-            "total_quantity": 75
+            "Sales": 1529.8734,
+            "Quantity": 75,
+            "Sales_MA": 1919.0146999999997
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 2643.812,
-            "total_quantity": 123
+            "Sales": 2643.812,
+            "Quantity": 123,
+            "Sales_MA": 2306.2418666666667
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 1692.4329,
-            "total_quantity": 86
+            "Sales": 1692.4329,
+            "Quantity": 86,
+            "Sales_MA": 1955.3727666666666
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 3545.075,
-            "total_quantity": 161
+            "Sales": 3545.075,
+            "Quantity": 161,
+            "Sales_MA": 2627.1066333333333
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 3248.09,
-            "total_quantity": 154
+            "Sales": 3248.09,
+            "Quantity": 154,
+            "Sales_MA": 2828.5326333333337
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 1700.8999999999999,
-            "total_quantity": 117
+            "Sales": 1700.8999999999999,
+            "Quantity": 117,
+            "Sales_MA": 2831.355
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 4120.6088,
-            "total_quantity": 223
+            "Sales": 4120.6088,
+            "Quantity": 223,
+            "Sales_MA": 3023.1996
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 2922.7958,
-            "total_quantity": 159
+            "Sales": 2922.7958,
+            "Quantity": 159,
+            "Sales_MA": 2914.7682
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 1533.698,
-            "total_quantity": 64
+            "Sales": 1533.698,
+            "Quantity": 64,
+            "Sales_MA": 2859.0342
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 1650.713,
-            "total_quantity": 84
+            "Sales": 1650.713,
+            "Quantity": 84,
+            "Sales_MA": 2035.7356
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 1371.3679,
-            "total_quantity": 106
+            "Sales": 1371.3679,
+            "Quantity": 106,
+            "Sales_MA": 1518.5929666666668
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 2980.9272,
-            "total_quantity": 117
+            "Sales": 2980.9272,
+            "Quantity": 117,
+            "Sales_MA": 2001.0027
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 2909.149,
-            "total_quantity": 147
+            "Sales": 2909.149,
+            "Quantity": 147,
+            "Sales_MA": 2420.481366666667
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 4379.7447,
-            "total_quantity": 210
+            "Sales": 4379.7447,
+            "Quantity": 210,
+            "Sales_MA": 3423.273633333333
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 3008.0181000000002,
-            "total_quantity": 165
+            "Sales": 3008.0181000000002,
+            "Quantity": 165,
+            "Sales_MA": 3432.303933333333
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 2560.7577,
-            "total_quantity": 124
+            "Sales": 2560.7577,
+            "Quantity": 124,
+            "Sales_MA": 3316.1735000000003
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 5338.4226,
-            "total_quantity": 245
+            "Sales": 5338.4226,
+            "Quantity": 245,
+            "Sales_MA": 3635.7327999999998
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 3659.9487,
-            "total_quantity": 191
+            "Sales": 3659.9487,
+            "Quantity": 191,
+            "Sales_MA": 3853.0429999999997
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 4563.4328,
-            "total_quantity": 242
+            "Sales": 4563.4328,
+            "Quantity": 242,
+            "Sales_MA": 4520.601366666666
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 4057.6398,
-            "total_quantity": 216
+            "Sales": 4057.6398,
+            "Quantity": 216,
+            "Sales_MA": 4093.6737666666663
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 2447.0255,
-            "total_quantity": 123
+            "Sales": 2447.0255,
+            "Quantity": 123,
+            "Sales_MA": 3689.3660333333332
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 2292.3206,
-            "total_quantity": 107
+            "Sales": 2292.3206,
+            "Quantity": 107,
+            "Sales_MA": 2932.328633333333
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 3610.8788,
-            "total_quantity": 174
+            "Sales": 3610.8788,
+            "Quantity": 174,
+            "Sales_MA": 2783.4082999999996
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 1924.5796,
-            "total_quantity": 114
+            "Sales": 1924.5796,
+            "Quantity": 114,
+            "Sales_MA": 2609.2596666666664
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 3426.3107,
-            "total_quantity": 158
+            "Sales": 3426.3107,
+            "Quantity": 158,
+            "Sales_MA": 2987.2563666666665
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 5139.719599999999,
-            "total_quantity": 233
+            "Sales": 5139.719599999999,
+            "Quantity": 233,
+            "Sales_MA": 3496.8699666666666
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 2784.4828,
-            "total_quantity": 116
+            "Sales": 2784.4828,
+            "Quantity": 116,
+            "Sales_MA": 3783.504366666666
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 6925.4858,
-            "total_quantity": 295
+            "Sales": 6925.4858,
+            "Quantity": 295,
+            "Sales_MA": 4949.896066666667
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 7763.0262,
-            "total_quantity": 329
+            "Sales": 7763.0262,
+            "Quantity": 329,
+            "Sales_MA": 5824.3316
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 3160.9224,
-            "total_quantity": 170
+            "Sales": 3160.9224,
+            "Quantity": 170,
+            "Sales_MA": 5949.811466666666
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 5409.7002999999995,
-            "total_quantity": 255
+            "Sales": 5409.7002999999995,
+            "Quantity": 255,
+            "Sales_MA": 5444.549633333333
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 5920.803,
-            "total_quantity": 263
+            "Sales": 5920.803,
+            "Quantity": 263,
+            "Sales_MA": 4830.475233333333
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 4970.9328000000005,
-            "total_quantity": 229
+            "Sales": 4970.9328000000005,
+            "Quantity": 229,
+            "Sales_MA": 5433.812033333333
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 2541.1658,
-            "total_quantity": 132
+            "Sales": 2541.1658,
+            "Quantity": 132,
+            "Sales_MA": 4477.633866666666
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 6236.0836,
-            "total_quantity": 283
+            "Sales": 6236.0836,
+            "Quantity": 283,
+            "Sales_MA": 4582.7274
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 5283.6887,
-            "total_quantity": 263
+            "Sales": 5283.6887,
+            "Quantity": 263,
+            "Sales_MA": 4686.9793666666665
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 6507.7396,
-            "total_quantity": 313
+            "Sales": 6507.7396,
+            "Quantity": 313,
+            "Sales_MA": 6009.170633333332
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 7789.6892,
-            "total_quantity": 379
+            "Sales": 7789.6892,
+            "Quantity": 379,
+            "Sales_MA": 6527.039166666666
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 3982.2965,
-            "total_quantity": 216
+            "Sales": 3982.2965,
+            "Quantity": 216,
+            "Sales_MA": 6093.241766666666
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 7946.3781,
-            "total_quantity": 379
+            "Sales": 7946.3781,
+            "Quantity": 379,
+            "Sales_MA": 6572.787933333333
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 8142.7425,
-            "total_quantity": 444
+            "Sales": 8142.7425,
+            "Quantity": 444,
+            "Sales_MA": 6690.472366666666
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 8396.3514,
-            "total_quantity": 411
+            "Sales": 8396.3514,
+            "Quantity": 411,
+            "Sales_MA": 8161.824
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 10351.7323,
-            "total_quantity": 542
+            "Sales": 10351.7323,
+            "Quantity": 542,
+            "Sales_MA": 8963.608733333333
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 9242.7623,
-            "total_quantity": 487
+            "Sales": 9242.7623,
+            "Quantity": 487,
+            "Sales_MA": 9330.282
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 1533.698,
-            "total_quantity": 64
+            "Sales": 1533.698,
+            "Quantity": 64,
+            "Sales_MA": 7042.730866666665
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 1576.193,
-            "total_quantity": 75
+            "Sales": 1576.193,
+            "Quantity": 75,
+            "Sales_MA": 4117.5511
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 1342.0279,
-            "total_quantity": 103
+            "Sales": 1342.0279,
+            "Quantity": 103,
+            "Sales_MA": 1483.9729666666663
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 2980.9272,
-            "total_quantity": 117
+            "Sales": 2980.9272,
+            "Quantity": 117,
+            "Sales_MA": 1966.3826999999994
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 2909.149,
-            "total_quantity": 147
+            "Sales": 2909.149,
+            "Quantity": 147,
+            "Sales_MA": 2410.701366666666
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 4350.9927,
-            "total_quantity": 207
+            "Sales": 4350.9927,
+            "Quantity": 207,
+            "Sales_MA": 3413.689633333333
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 3008.0181000000002,
-            "total_quantity": 165
+            "Sales": 3008.0181000000002,
+            "Quantity": 165,
+            "Sales_MA": 3422.7199333333324
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 2560.7577,
-            "total_quantity": 124
+            "Sales": 2560.7577,
+            "Quantity": 124,
+            "Sales_MA": 3306.5894999999996
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 5299.4786,
-            "total_quantity": 240
+            "Sales": 5299.4786,
+            "Quantity": 240,
+            "Sales_MA": 3622.751466666666
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 3597.5247,
-            "total_quantity": 183
+            "Sales": 3597.5247,
+            "Quantity": 183,
+            "Sales_MA": 3819.253666666666
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 4469.0728,
-            "total_quantity": 230
+            "Sales": 4469.0728,
+            "Quantity": 230,
+            "Sales_MA": 4455.3587
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 4037.7678,
-            "total_quantity": 213
+            "Sales": 4037.7678,
+            "Quantity": 213,
+            "Sales_MA": 4034.7884333333327
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 2423.6655,
-            "total_quantity": 121
+            "Sales": 2423.6655,
+            "Quantity": 121,
+            "Sales_MA": 3643.5020333333327
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 2245.6006,
-            "total_quantity": 102
+            "Sales": 2245.6006,
+            "Quantity": 102,
+            "Sales_MA": 2902.3446333333327
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 3581.5388000000003,
-            "total_quantity": 171
+            "Sales": 3581.5388000000003,
+            "Quantity": 171,
+            "Sales_MA": 2750.2682999999997
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 1924.5796,
-            "total_quantity": 114
+            "Sales": 1924.5796,
+            "Quantity": 114,
+            "Sales_MA": 2583.906333333333
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 3416.9667,
-            "total_quantity": 157
+            "Sales": 3416.9667,
+            "Quantity": 157,
+            "Sales_MA": 2974.3616999999995
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 5139.7196,
-            "total_quantity": 233
+            "Sales": 5139.7196,
+            "Quantity": 233,
+            "Sales_MA": 3493.7552999999994
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 2784.4827999999998,
-            "total_quantity": 116
+            "Sales": 2784.4827999999998,
+            "Quantity": 116,
+            "Sales_MA": 3780.3896999999993
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 6925.4858,
-            "total_quantity": 295
+            "Sales": 6925.4858,
+            "Quantity": 295,
+            "Sales_MA": 4949.896066666666
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 7714.0662,
-            "total_quantity": 322
+            "Sales": 7714.0662,
+            "Quantity": 322,
+            "Sales_MA": 5808.011599999999
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 3145.2744000000002,
-            "total_quantity": 168
+            "Sales": 3145.2744000000002,
+            "Quantity": 168,
+            "Sales_MA": 5928.275466666666
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 5381.3003,
-            "total_quantity": 250
+            "Sales": 5381.3003,
+            "Quantity": 250,
+            "Sales_MA": 5413.546966666666
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 5819.083,
-            "total_quantity": 254
+            "Sales": 5819.083,
+            "Quantity": 254,
+            "Sales_MA": 4781.885899999998
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 3333.9544,
-            "total_quantity": 149
+            "Sales": 3333.9544,
+            "Quantity": 149,
+            "Sales_MA": 4844.779233333333
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 1738.037,
-            "total_quantity": 84
+            "Sales": 1738.037,
+            "Quantity": 84,
+            "Sales_MA": 3630.3581333333327
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 4807.7544,
-            "total_quantity": 219
+            "Sales": 4807.7544,
+            "Quantity": 219,
+            "Sales_MA": 3293.248599999999
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 2759.3445,
-            "total_quantity": 153
+            "Sales": 2759.3445,
+            "Quantity": 153,
+            "Sales_MA": 3101.711966666666
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 4795.4842,
-            "total_quantity": 231
+            "Sales": 4795.4842,
+            "Quantity": 231,
+            "Sales_MA": 4120.861033333333
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 5450.6192,
-            "total_quantity": 278
+            "Sales": 5450.6192,
+            "Quantity": 278,
+            "Sales_MA": 4335.1493
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 2237.3936,
-            "total_quantity": 127
+            "Sales": 2237.3936,
+            "Quantity": 127,
+            "Sales_MA": 4161.165666666667
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 4360.3331,
-            "total_quantity": 213
+            "Sales": 4360.3331,
+            "Quantity": 213,
+            "Sales_MA": 4016.1152999999995
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 4817.7285,
-            "total_quantity": 280
+            "Sales": 4817.7285,
+            "Quantity": 280,
+            "Sales_MA": 3805.1517333333327
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 6618.0634,
-            "total_quantity": 290
+            "Sales": 6618.0634,
+            "Quantity": 290,
+            "Sales_MA": 5265.375
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 6279.6775,
-            "total_quantity": 326
+            "Sales": 6279.6775,
+            "Quantity": 326,
+            "Sales_MA": 5905.156466666666
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 6558.7925,
-            "total_quantity": 341
+            "Sales": 6558.7925,
+            "Quantity": 341,
+            "Sales_MA": 6485.5111333333325
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "DK-12835",
-            "total_spent": 1236.06,
-            "purchase_frequency": 6,
+            "Customer Name": "Damala Kotsonis",
+            "total_spent": 2472.12,
+            "purchase_frequency": 12,
             "average_order_value": 206.01
         },
         {
-            "Customer ID": "BE-11410",
-            "total_spent": 939.9580000000001,
-            "purchase_frequency": 6,
+            "Customer Name": "Gary Zandusky",
+            "total_spent": 1909.184,
+            "purchase_frequency": 12,
+            "average_order_value": 136.3702857142857
+        },
+        {
+            "Customer Name": "Bobby Elias",
+            "total_spent": 1879.9160000000002,
+            "purchase_frequency": 12,
             "average_order_value": 156.65966666666668
         },
         {
-            "Customer ID": "PB-19105",
-            "total_spent": 879.4560000000001,
-            "purchase_frequency": 4,
-            "average_order_value": 219.86400000000003
+            "Customer Name": "Joy Bell-",
+            "total_spent": 1830.784,
+            "purchase_frequency": 12,
+            "average_order_value": 130.77028571428573
         },
         {
-            "Customer ID": "JB-16000",
-            "total_spent": 876.692,
-            "purchase_frequency": 5,
-            "average_order_value": 146.11533333333333
+            "Customer Name": "Peter B\u00fchler",
+            "total_spent": 1758.912,
+            "purchase_frequency": 8,
+            "average_order_value": 219.864
         },
         {
-            "Customer ID": "TC-21145",
-            "total_spent": 820.854,
-            "purchase_frequency": 4,
+            "Customer Name": "Maxwell Schwartz",
+            "total_spent": 1734.96,
+            "purchase_frequency": 12,
+            "average_order_value": 144.58
+        },
+        {
+            "Customer Name": "Theresa Coyne",
+            "total_spent": 1641.708,
+            "purchase_frequency": 8,
             "average_order_value": 205.2135
         },
         {
-            "Customer ID": "MS-17770",
-            "total_spent": 813.3,
-            "purchase_frequency": 5,
-            "average_order_value": 162.66
-        },
-        {
-            "Customer ID": "MW-18220",
-            "total_spent": 773.346,
-            "purchase_frequency": 5,
+            "Customer Name": "Mitch Webber",
+            "total_spent": 1546.692,
+            "purchase_frequency": 10,
             "average_order_value": 110.478
         },
         {
-            "Customer ID": "BW-11110",
-            "total_spent": 759.459,
-            "purchase_frequency": 4,
-            "average_order_value": 151.8918
+            "Customer Name": "Bart Watters",
+            "total_spent": 1518.9180000000001,
+            "purchase_frequency": 8,
+            "average_order_value": 151.89180000000002
         },
         {
-            "Customer ID": "DL-13315",
-            "total_spent": 758.544,
-            "purchase_frequency": 4,
+            "Customer Name": "Delfina Latchford",
+            "total_spent": 1517.088,
+            "purchase_frequency": 8,
             "average_order_value": 126.42399999999999
-        },
-        {
-            "Customer ID": "MF-18250",
-            "total_spent": 711.127,
-            "purchase_frequency": 6,
-            "average_order_value": 118.52116666666666
-        },
-        {
-            "Customer ID": "SN-20560",
-            "total_spent": 689.388,
-            "purchase_frequency": 4,
-            "average_order_value": 137.8776
-        },
-        {
-            "Customer ID": "CS-12460",
-            "total_spent": 664.23,
-            "purchase_frequency": 2,
-            "average_order_value": 221.41
-        },
-        {
-            "Customer ID": "LH-17155",
-            "total_spent": 661.4883,
-            "purchase_frequency": 5,
-            "average_order_value": 132.29766
-        },
-        {
-            "Customer ID": "MP-17470",
-            "total_spent": 655.8698,
-            "purchase_frequency": 7,
-            "average_order_value": 93.69568571428572
-        },
-        {
-            "Customer ID": "TA-21385",
-            "total_spent": 654.15,
-            "purchase_frequency": 5,
-            "average_order_value": 130.82999999999998
-        },
-        {
-            "Customer ID": "BS-11665",
-            "total_spent": 648.3900000000001,
-            "purchase_frequency": 3,
-            "average_order_value": 216.13000000000002
-        },
-        {
-            "Customer ID": "GZ-14470",
-            "total_spent": 646.432,
-            "purchase_frequency": 5,
-            "average_order_value": 107.73866666666667
-        },
-        {
-            "Customer ID": "JM-15580",
-            "total_spent": 640.2195,
-            "purchase_frequency": 4,
-            "average_order_value": 160.054875
-        },
-        {
-            "Customer ID": "NB-18655",
-            "total_spent": 636.698,
-            "purchase_frequency": 3,
-            "average_order_value": 159.1745
-        },
-        {
-            "Customer ID": "TC-21535",
-            "total_spent": 625.0044,
-            "purchase_frequency": 4,
-            "average_order_value": 156.2511
         }
     ],
     "discount_analysis": [
@@ -2103,61 +3188,61 @@
             "Discount": 0.0,
             "total_sales": 250886.54,
             "total_quantity": 10614,
-            "average_profit": 22.851246585832804
+            "average_profit": 22.8512
         },
         {
             "Discount": 0.1,
             "total_sales": 21165.03,
             "total_quantity": 944,
-            "average_profit": 11.972593984962407
+            "average_profit": 11.9726
         },
         {
             "Discount": 0.17,
-            "total_sales": 3700.4885999999997,
+            "total_sales": 3700.4886,
             "total_quantity": 140,
-            "average_profit": 15.964215
+            "average_profit": 15.9642
         },
         {
             "Discount": 0.2,
             "total_sales": 14992.848,
             "total_quantity": 922,
-            "average_profit": 14.52975037593985
+            "average_profit": 14.5298
         },
         {
             "Discount": 0.4,
             "total_sales": 20009.964,
             "total_quantity": 1574,
-            "average_profit": -12.199419689119173
+            "average_profit": -12.1994
         },
         {
             "Discount": 0.45,
-            "total_sales": 4713.3240000000005,
+            "total_sales": 4713.324,
             "total_quantity": 300,
-            "average_profit": -21.514829268292683
+            "average_profit": -21.5148
         },
         {
             "Discount": 0.47,
             "total_sales": 10092.2706,
             "total_quantity": 756,
-            "average_profit": -19.11076224489796
+            "average_profit": -19.1108
         },
         {
             "Discount": 0.5,
             "total_sales": 7463.85,
             "total_quantity": 580,
-            "average_profit": -21.87487012987013
+            "average_profit": -21.8749
         },
         {
             "Discount": 0.6,
             "total_sales": 5148.328,
             "total_quantity": 526,
-            "average_profit": -25.579386363636363
+            "average_profit": -25.5794
         },
         {
             "Discount": 0.7,
-            "total_sales": 1949.1480000000001,
+            "total_sales": 1949.148,
             "total_quantity": 234,
-            "average_profit": -22.654032786885246
+            "average_profit": -22.654
         }
     ],
     "geographic_distribution": [
@@ -2165,121 +3250,215 @@
             "State": "Victoria",
             "City": "Melbourne",
             "total_sales": 2789.0460000000003,
-            "total_quantity": 116
+            "total_quantity": 116,
+            "Location": "Victoria, Melbourne"
         },
         {
             "State": "Texas",
             "City": "Houston",
             "total_sales": 2657.984,
-            "total_quantity": 83
+            "total_quantity": 83,
+            "Location": "Texas, Houston"
         },
         {
             "State": "New South Wales",
             "City": "Newcastle",
             "total_sales": 2603.838,
-            "total_quantity": 96
+            "total_quantity": 96,
+            "Location": "New South Wales, Newcastle"
         },
         {
             "State": "Francisco Moraz\u00e1n",
             "City": "Tegucigalpa",
             "total_sales": 2516.52,
-            "total_quantity": 244
+            "total_quantity": 244,
+            "Location": "Francisco Moraz\u00e1n, Tegucigalpa"
         },
         {
             "State": "Ile-de-France",
             "City": "Paris",
             "total_sales": 2438.7,
-            "total_quantity": 84
+            "total_quantity": 84,
+            "Location": "Ile-de-France, Paris"
         },
         {
             "State": "Distrito Federal",
             "City": "Mexico City",
             "total_sales": 2407.12,
-            "total_quantity": 130
+            "total_quantity": 130,
+            "Location": "Distrito Federal, Mexico City"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 2301.2799999999997,
-            "total_quantity": 60
+            "total_quantity": 60,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "New York",
             "City": "New York City",
             "total_sales": 2294.04,
-            "total_quantity": 112
+            "total_quantity": 112,
+            "Location": "New York, New York City"
         },
         {
             "State": "Shanghai",
             "City": "Shanghai",
             "total_sales": 2216.46,
-            "total_quantity": 70
+            "total_quantity": 70,
+            "Location": "Shanghai, Shanghai"
         },
         {
             "State": "Santo Domingo",
             "City": "Santo Domingo",
             "total_sales": 2174.784,
-            "total_quantity": 158
+            "total_quantity": 158,
+            "Location": "Santo Domingo, Santo Domingo"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 2014.208,
-            "total_quantity": 109
+            "total_quantity": 109,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "Lazio",
             "City": "Rome",
             "total_sales": 1969.74,
-            "total_quantity": 60
+            "total_quantity": 60,
+            "Location": "Lazio, Rome"
         },
         {
             "State": "New South Wales",
             "City": "Sydney",
             "total_sales": 1944.702,
-            "total_quantity": 110
+            "total_quantity": 110,
+            "Location": "New South Wales, Sydney"
         },
         {
             "State": "Singapore",
             "City": "Singapore",
             "total_sales": 1910.46,
-            "total_quantity": 60
+            "total_quantity": 60,
+            "Location": "Singapore, Singapore"
         },
         {
             "State": "Jakarta",
             "City": "Jakarta",
             "total_sales": 1862.7168000000001,
-            "total_quantity": 132
-        },
-        {
-            "State": "Managua",
-            "City": "Managua",
-            "total_sales": 1831.68,
-            "total_quantity": 122
-        },
-        {
-            "State": "San Salvador",
-            "City": "San Salvador",
-            "total_sales": 1820.48,
-            "total_quantity": 98
-        },
-        {
-            "State": "Guatemala",
-            "City": "Villa Nueva",
-            "total_sales": 1754.96,
-            "total_quantity": 84
-        },
-        {
-            "State": "S\u00e3o Paulo",
-            "City": "S\u00e3o Paulo",
-            "total_sales": 1729.1200000000001,
-            "total_quantity": 106
-        },
-        {
-            "State": "San Salvador",
-            "City": "Soyapango",
-            "total_sales": 1726.4,
-            "total_quantity": 78
+            "total_quantity": 132,
+            "Location": "Jakarta, Jakarta"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 652,
+            "avg_shipping_delay": 2.23,
+            "total_profit": 8162.78,
+            "shipping_cost_ratio": 0.17
+        },
+        "Same Day": {
+            "total_orders": 255,
+            "avg_shipping_delay": 0.05,
+            "total_profit": 2806.79,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 958,
+            "avg_shipping_delay": 3.28,
+            "total_profit": 11714.21,
+            "shipping_cost_ratio": 0.14
+        },
+        "Standard Class": {
+            "total_orders": 2724,
+            "avg_shipping_delay": 5.01,
+            "total_profit": 35766.82,
+            "shipping_cost_ratio": 0.09
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.06568504960428954,
+            "common_ship_mode": "Second Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.07940786349985493,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": 0.15422068590957985,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.08764758760456726,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 750.0,
+                "mean": 339.636,
+                "std": 341.4075858709845,
+                "min": 0.0,
+                "25%": 75.25,
+                "50%": 223.5,
+                "75%": 497.0,
+                "max": 2230.0
+            },
+            "frequency": {
+                "count": 750.0,
+                "mean": 6.12,
+                "std": 3.258182674301554,
+                "min": 1.0,
+                "25%": 4.0,
+                "50%": 6.0,
+                "75%": 8.0,
+                "max": 21.0
+            },
+            "monetary": {
+                "count": 750.0,
+                "mean": 453.49572159999997,
+                "std": 358.69963369239684,
+                "min": 7.680000000000001,
+                "25%": 185.43,
+                "50%": 362.56399999999996,
+                "75%": 642.113,
+                "max": 2472.12
+            }
+        },
+        "rfm_segments": {
+            "Medium": 252,
+            "High": 250,
+            "Low": 248
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3224,
+        "churned_customers": 2489,
+        "churn_rate": 0.7720223325062034,
+        "avg_recency": 891.7776054590571,
+        "avg_frequency": 1.4956575682382134,
+        "avg_monetary": 105.4968334987593,
+        "churned_customer_characteristics": {
+            "avg_recency": 1108.910405785456,
+            "avg_frequency": 1.6006428284451586,
+            "avg_monetary": 113.23287219766975,
+            "avg_discount": 0.13291639244421485,
+            "avg_quantity": 3.326445885706633,
+            "avg_shipping_cost": 7.5757293641227745,
+            "avg_profit": 11.980222943299726
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 156.48027210884354,
+            "avg_frequency": 1.1401360544217687,
+            "avg_monetary": 79.29955414965985,
+            "avg_discount": 0.13861224489795917,
+            "avg_quantity": 3.3752834467120176,
+            "avg_shipping_cost": 7.526967120181406,
+            "avg_profit": 10.439804739229023
+        }
+    }
 }

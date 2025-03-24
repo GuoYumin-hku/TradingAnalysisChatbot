@@ -1422,288 +1422,761 @@
         92,
         86
     ],
+    "yearly_sales": {
+        "2011": 86998.9143,
+        "2012": 93417.9158,
+        "2013": 121075.0913,
+        "2014": 247412.8586,
+        "2015": 93400.9958,
+        "2016": 121064.5633,
+        "2017": 160410.5603
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 3686.6980000000003,
+            "2012": 6702.0472,
+            "2013": 6619.347,
+            "2014": 14591.2726,
+            "2015": 6702.0472,
+            "2016": 6619.347,
+            "2017": 11351.5376
+        },
+        "August": {
+            "2011": 8561.4725,
+            "2012": 8763.5726,
+            "2013": 9279.4334,
+            "2014": 33686.9357,
+            "2015": 8757.9326,
+            "2016": 9279.4334,
+            "2017": 25121.4532
+        },
+        "December": {
+            "2011": 11644.2695,
+            "2012": 11868.2582,
+            "2013": 24471.8446,
+            "2014": 27359.839200000002,
+            "2015": 11864.4982,
+            "2016": 24471.8446,
+            "2017": 16036.8565
+        },
+        "February": {
+            "2011": 2381.4197,
+            "2012": 4443.222,
+            "2013": 5009.6512,
+            "2014": 6969.183,
+            "2015": 4443.222,
+            "2016": 5009.6512,
+            "2017": 4505.2813
+        },
+        "January": {
+            "2011": 2522.999,
+            "2012": 3167.1365,
+            "2013": 5987.051,
+            "2014": 15997.8636,
+            "2015": 3167.1365,
+            "2016": 5987.051,
+            "2017": 13480.5046
+        },
+        "July": {
+            "2011": 5658.57,
+            "2012": 4719.6245,
+            "2013": 6645.6205,
+            "2014": 10897.512,
+            "2015": 4719.6245,
+            "2016": 6645.6205,
+            "2017": 5108.052
+        },
+        "June": {
+            "2011": 8151.1538,
+            "2012": 11235.3585,
+            "2013": 10561.148000000001,
+            "2014": 20020.935400000002,
+            "2015": 11227.8385,
+            "2016": 10561.148,
+            "2017": 12253.5496
+        },
+        "March": {
+            "2011": 4043.1568,
+            "2012": 11911.1088,
+            "2013": 5455.3651,
+            "2014": 11550.7544,
+            "2015": 11911.1088,
+            "2016": 5455.3651,
+            "2017": 7143.1166
+        },
+        "May": {
+            "2011": 6333.661,
+            "2012": 4177.6057,
+            "2013": 8010.467500000001,
+            "2014": 15927.2451,
+            "2015": 4177.6057,
+            "2016": 8010.4675,
+            "2017": 9179.5641
+        },
+        "November": {
+            "2011": 12869.4,
+            "2012": 11267.0601,
+            "2013": 11831.2247,
+            "2014": 29317.1878,
+            "2015": 11267.0601,
+            "2016": 11831.2247,
+            "2017": 16917.151
+        },
+        "October": {
+            "2011": 3530.3052000000002,
+            "2012": 5833.702,
+            "2013": 10950.8107,
+            "2014": 22137.519,
+            "2015": 5833.702,
+            "2016": 10950.8107,
+            "2017": 17932.9098
+        },
+        "September": {
+            "2011": 17615.808800000003,
+            "2012": 9329.2197,
+            "2013": 16253.127600000002,
+            "2014": 38956.6108,
+            "2015": 9329.2197,
+            "2016": 16242.5996,
+            "2017": 21380.584
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 8
+    },
+    "top_10_products_by_sales": {
+        "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind": 54906.768,
+        "GBC DocuBind TL300 Electric Binding System": 39646.958,
+        "GBC Ibimaster 500 Manual ProClick Binding System": 38049.0,
+        "GBC DocuBind P400 Electric Binding System": 35930.136,
+        "Ibico EPK-21 Electric Binding System": 31751.832000000002,
+        "Fellowes PB300 Plastic Comb Binding Machine": 16140.384,
+        "Ibico Ibimaster 300 Manual Binding System": 15970.766,
+        "Cardinal Binding Machine, Clear": 15155.291400000002,
+        "Cardinal Binding Machine, Economy": 14025.517800000001,
+        "Ibico Binding Machine, Recycled": 13900.513599999998
+    },
+    "top_10_products_by_profit": {
+        "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind": 15506.078,
+        "Ibico EPK-21 Electric Binding System": 6690.5646,
+        "Cardinal Binding Machine, Clear": 5609.6514,
+        "Fellowes PB300 Plastic Comb Binding Machine": 5036.1102,
+        "Ibico Ibimaster 300 Manual Binding System": 4636.673999999999,
+        "GBC DocuBind TL300 Electric Binding System": 4467.010199999999,
+        "Ibico Binding Machine, Durable": 3643.956,
+        "GBC DocuBind TL200 Manual Binding Machine": 3184.9955999999997,
+        "Cardinal 3-Hole Punch, Durable": 2693.594,
+        "Avery Binding Machine, Recycled": 2528.844
+    },
+    "top_10_products_by_turnover": {
+        "Cardinal Index Tab, Clear": 674,
+        "Avery Index Tab, Clear": 504,
+        "Ibico Index Tab, Clear": 502,
+        "Acco Index Tab, Clear": 456,
+        "Wilson Jones Binder Covers, Recycled": 358,
+        "Acco Binder Covers, Recycled": 352,
+        "Cardinal Binding Machine, Economy": 348,
+        "Cardinal Binding Machine, Clear": 342,
+        "Acco Binder Covers, Clear": 338,
+        "Cardinal Index Tab, Economy": 338
+    },
+    "top_5_loss_products": {
+        "GBC DocuBind P400 Electric Binding System": -13718.779200000003,
+        "GBC Ibimaster 500 Manual ProClick Binding System": -10197.132000000001,
+        "GBC DocuBind TL300 Electric Binding System": -8324.067200000001,
+        "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind": -6863.3460000000005,
+        "Ibico EPK-21 Electric Binding System": -5858.969000000001
+    },
     "product_performance": [
         {
-            "Product ID": "OFF-BI-4276",
-            "total_sales": 27453.384000000002,
-            "total_quantity": 31,
-            "average_price": 2745.3384,
-            "total_profit": 7753.039,
-            "profit_margin": 0.2824074074074074
-        },
-        {
-            "Product ID": "OFF-BI-10003527",
-            "total_sales": 27453.384,
-            "total_quantity": 31,
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 54906.768,
+            "total_quantity": 62,
             "average_price": 2745.3383999999996,
-            "total_profit": 7753.039,
+            "total_profit": 15506.078,
             "profit_margin": 0.28240740740740744
         },
         {
-            "Product ID": "OFF-BI-10001359",
-            "total_sales": 19823.479,
-            "total_quantity": 37,
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 39646.958,
+            "total_quantity": 74,
             "average_price": 1802.1344545454544,
-            "total_profit": 2233.505099999999,
-            "profit_margin": 0.1126696832579185
+            "total_profit": 4467.010199999999,
+            "profit_margin": 0.11266968325791853
         },
         {
-            "Product ID": "OFF-BI-4343",
-            "total_sales": 19823.479,
-            "total_quantity": 37,
-            "average_price": 1802.1344545454544,
-            "total_profit": 2233.5051000000003,
-            "profit_margin": 0.11266968325791857
-        },
-        {
-            "Product ID": "OFF-BI-10000545",
-            "total_sales": 19024.5,
-            "total_quantity": 48,
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 38049.0,
+            "total_quantity": 96,
             "average_price": 2113.8333333333335,
-            "total_profit": 760.9799999999997,
+            "total_profit": 1521.9599999999991,
             "profit_margin": 0.03999999999999998
         },
         {
-            "Product ID": "OFF-BI-4345",
-            "total_sales": 19024.5,
-            "total_quantity": 48,
-            "average_price": 2113.8333333333335,
-            "total_profit": 760.9799999999996,
-            "profit_margin": 0.03999999999999998
-        },
-        {
-            "Product ID": "OFF-BI-10004995",
-            "total_sales": 17965.068,
-            "total_quantity": 27,
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 35930.136,
+            "total_quantity": 54,
             "average_price": 2994.178,
-            "total_profit": -1878.166200000003,
-            "profit_margin": -0.10454545454545472
+            "total_profit": -3756.3324000000034,
+            "profit_margin": -0.10454545454545465
         },
         {
-            "Product ID": "OFF-BI-4340",
-            "total_sales": 17965.068,
-            "total_quantity": 27,
-            "average_price": 2994.178,
-            "total_profit": -1878.1662000000006,
-            "profit_margin": -0.10454545454545458
-        },
-        {
-            "Product ID": "OFF-BI-4821",
-            "total_sales": 15875.916000000001,
-            "total_quantity": 13,
+            "Product Name": "Ibico EPK-21 Electric Binding System",
+            "total_sales": 31751.832000000002,
+            "total_quantity": 26,
             "average_price": 5291.972000000001,
-            "total_profit": 3345.2823,
+            "total_profit": 6690.5646,
             "profit_margin": 0.2107142857142857
         },
         {
-            "Product ID": "OFF-BI-10001120",
-            "total_sales": 15875.916000000001,
-            "total_quantity": 13,
-            "average_price": 5291.972000000001,
-            "total_profit": 3345.2823,
-            "profit_margin": 0.2107142857142857
-        },
-        {
-            "Product ID": "OFF-BI-10003925",
-            "total_sales": 8070.192,
-            "total_quantity": 27,
+            "Product Name": "Fellowes PB300 Plastic Comb Binding Machine",
+            "total_sales": 16140.384,
+            "total_quantity": 54,
             "average_price": 1345.032,
-            "total_profit": 2518.0550999999996,
-            "profit_margin": 0.3120192307692307
+            "total_profit": 5036.1102,
+            "profit_margin": 0.31201923076923077
         },
         {
-            "Product ID": "OFF-BI-4275",
-            "total_sales": 8070.191999999999,
-            "total_quantity": 27,
-            "average_price": 1345.032,
-            "total_profit": 2518.0551,
-            "profit_margin": 0.3120192307692308
-        },
-        {
-            "Product ID": "OFF-BI-10004600",
-            "total_sales": 7985.383,
-            "total_quantity": 28,
+            "Product Name": "Ibico Ibimaster 300 Manual Binding System",
+            "total_sales": 15970.766,
+            "total_quantity": 56,
             "average_price": 998.172875,
-            "total_profit": 2318.3369999999995,
+            "total_profit": 4636.673999999999,
             "profit_margin": 0.29032258064516125
         },
         {
-            "Product ID": "OFF-BI-4827",
-            "total_sales": 7985.383,
-            "total_quantity": 28,
-            "average_price": 998.172875,
-            "total_profit": 2318.337,
-            "profit_margin": 0.2903225806451613
-        },
-        {
-            "Product ID": "OFF-BI-3724",
-            "total_sales": 7577.6457,
-            "total_quantity": 171,
+            "Product Name": "Cardinal Binding Machine, Clear",
+            "total_sales": 15155.291400000002,
+            "total_quantity": 342,
             "average_price": 154.6458306122449,
-            "total_profit": 2804.8257,
+            "total_profit": 5609.6514,
             "profit_margin": 0.37014474033801814
         },
         {
-            "Product ID": "OFF-BI-10003650",
-            "total_sales": 7226.187000000001,
-            "total_quantity": 77,
-            "average_price": 301.09112500000003,
-            "total_profit": 540.1861999999998,
-            "profit_margin": 0.0747539746757176
+            "Product Name": "Cardinal Binding Machine, Economy",
+            "total_sales": 14025.517800000001,
+            "total_quantity": 348,
+            "average_price": 134.8607480769231,
+            "total_profit": 2218.9177999999997,
+            "profit_margin": 0.15820576692006333
         },
         {
-            "Product ID": "OFF-BI-3726",
-            "total_sales": 7012.7589,
-            "total_quantity": 174,
-            "average_price": 134.86074807692307,
-            "total_profit": 1109.4588999999999,
-            "profit_margin": 0.15820576692006336
-        },
-        {
-            "Product ID": "OFF-BI-4818",
-            "total_sales": 6950.2568,
-            "total_quantity": 153,
+            "Product Name": "Ibico Binding Machine, Recycled",
+            "total_sales": 13900.513599999998,
+            "total_quantity": 306,
             "average_price": 161.63387906976743,
-            "total_profit": 863.9968,
-            "profit_margin": 0.12431149306598283
+            "total_profit": 1727.9936000000002,
+            "profit_margin": 0.12431149306598285
         },
         {
-            "Product ID": "OFF-BI-3256",
-            "total_sales": 6811.841,
-            "total_quantity": 167,
+            "Product Name": "Avery Binding Machine, Durable",
+            "total_sales": 13623.682,
+            "total_quantity": 334,
             "average_price": 154.8145681818182,
-            "total_profit": 12.26099999999996,
-            "profit_margin": 0.0017999539331584457
+            "total_profit": 24.5219999999999,
+            "profit_margin": 0.0017999539331584441
         },
         {
-            "Product ID": "OFF-BI-4338",
-            "total_sales": 6785.142,
-            "total_quantity": 23,
-            "average_price": 848.14275,
-            "total_profit": 494.4212000000001,
-            "profit_margin": 0.07286821705426358
+            "Product Name": "GBC DocuBind 300 Electric Binding Machine",
+            "total_sales": 13570.284000000001,
+            "total_quantity": 46,
+            "average_price": 848.1427500000001,
+            "total_profit": 988.8423999999999,
+            "profit_margin": 0.07286821705426355
+        },
+        {
+            "Product Name": "Avery Binding Machine, Clear",
+            "total_sales": 12958.568000000001,
+            "total_quantity": 324,
+            "average_price": 140.854,
+            "total_profit": -334.8720000000001,
+            "profit_margin": -0.02584174424211071
+        },
+        {
+            "Product Name": "Ibico Binding Machine, Durable",
+            "total_sales": 12822.516,
+            "total_quantity": 296,
+            "average_price": 130.84199999999998,
+            "total_profit": 3643.956,
+            "profit_margin": 0.2841841647926195
+        },
+        {
+            "Product Name": "Wilson Jones Binding Machine, Recycled",
+            "total_sales": 11924.9184,
+            "total_quantity": 292,
+            "average_price": 145.42583414634146,
+            "total_profit": 561.9183999999999,
+            "profit_margin": 0.04712136227280179
+        },
+        {
+            "Product Name": "Wilson Jones Binding Machine, Economy",
+            "total_sales": 11767.699200000001,
+            "total_quantity": 302,
+            "average_price": 136.83371162790698,
+            "total_profit": 1680.6191999999999,
+            "profit_margin": 0.1428162949644396
+        },
+        {
+            "Product Name": "Acco Binding Machine, Clear",
+            "total_sales": 11742.091,
+            "total_quantity": 288,
+            "average_price": 143.19623170731708,
+            "total_profit": 1025.771,
+            "profit_margin": 0.08735846111224993
+        },
+        {
+            "Product Name": "Ibico Binding Machine, Clear",
+            "total_sales": 11730.553600000001,
+            "total_quantity": 264,
+            "average_price": 162.92435555555556,
+            "total_profit": 1698.5135999999998,
+            "profit_margin": 0.14479398482949685
+        },
+        {
+            "Product Name": "Acco Binding Machine, Recycled",
+            "total_sales": 11126.92,
+            "total_quantity": 266,
+            "average_price": 158.956,
+            "total_profit": 1909.18,
+            "profit_margin": 0.17158207302649792
+        },
+        {
+            "Product Name": "Ibico Binding Machine, Economy",
+            "total_sales": 11078.9532,
+            "total_quantity": 270,
+            "average_price": 158.27076,
+            "total_profit": 1337.1532,
+            "profit_margin": 0.12069309941664885
         }
     ],
     "most_ordered_products_by_date": [
         {
-            "Order Date": "2011-01-04",
-            "Product Name": "Avery Hole Reinforcements, Durable",
-            "total_sales": 5.91,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-05",
-            "Product Name": "GBC Standard Plastic Binding Systems Combs",
-            "total_sales": 3.539999999999999,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Ibico Hi-Tech Manual Binding System",
-            "total_sales": 609.98,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-07",
-            "Product Name": "Ibico Index Tab, Durable",
-            "total_sales": 18.54,
+            "Year_Month": "2011-06",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 3266.376,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-01-08",
-            "Product Name": "Wilson Jones Binder Covers, Clear",
-            "total_sales": 49.7,
-            "total_quantity": 7
-        },
-        {
-            "Order Date": "2011-01-08",
-            "Product Name": "Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1\"",
-            "total_sales": 10.429999999999998,
-            "total_quantity": 7
-        },
-        {
-            "Order Date": "2011-01-08",
-            "Product Name": "Avery Index Tab, Economy",
-            "total_sales": 4.698,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-09",
-            "Product Name": "Avery Index Tab, Clear",
-            "total_sales": 9.6114,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Avery Binder Covers, Recycled",
-            "total_sales": 34.29,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Acco Binder, Durable",
-            "total_sales": 16.65,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-10",
-            "Product Name": "Avery Binder Covers, Clear",
-            "total_sales": 10.53,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Ibico Hole Reinforcements, Recycled",
-            "total_sales": 22.05,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-11",
-            "Product Name": "Avery Hole Reinforcements, Durable",
-            "total_sales": 4.9053,
-            "total_quantity": 1
-        },
-        {
-            "Order Date": "2011-01-12",
-            "Product Name": "Ibico Index Tab, Clear",
-            "total_sales": 16.740000000000002,
-            "total_quantity": 2
-        },
-        {
-            "Order Date": "2011-01-13",
-            "Product Name": "Wilson Jones Hole Reinforcements, Durable",
-            "total_sales": 9.045000000000002,
-            "total_quantity": 3
-        },
-        {
-            "Order Date": "2011-01-14",
-            "Product Name": "Cardinal Binder Covers, Recycled",
-            "total_sales": 65.92,
+            "Year_Month": "2011-07",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 2177.5839999999994,
             "total_quantity": 8
         },
         {
-            "Order Date": "2011-01-14",
-            "Product Name": "Staples",
-            "total_sales": 5.64,
+            "Year_Month": "2011-08",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 896.99,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 1793.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Ibico EPK-21 Electric Binding System",
+            "total_sales": 9449.95,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 2033.584,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 3049.766,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 2541.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 6354.95,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 3812.97,
             "total_quantity": 3
         },
         {
-            "Order Date": "2011-01-14",
-            "Product Name": "Avery Metallic Poly Binders",
-            "total_sales": 3.4380000000000006,
+            "Year_Month": "2012-06",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 3050.376,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1217.568,
             "total_quantity": 2
         },
         {
-            "Order Date": "2011-01-17",
-            "Product Name": "Ibico Binder, Economy",
-            "total_sales": 37.152,
+            "Year_Month": "2012-08",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1217.568,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1369.764,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 1345.485,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1598.0580000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 1270.99,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 1088.7919999999997,
             "total_quantity": 4
         },
         {
-            "Order Date": "2011-01-17",
-            "Product Name": "GBC Linen Binding Covers",
-            "total_sales": 18.588000000000005,
+            "Year_Month": "2013-07",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1369.764,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 4355.168000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1141.4700000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Ibico EPK-21 Electric Binding System",
+            "total_sales": 4535.976000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 1016.792,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 456.5880000000001,
             "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 1793.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 9892.74,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 5443.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 760.9799999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 2690.9700000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 3266.376,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 2177.584,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 6817.124000000001,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 762.5939999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 2332.174,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Ibico EPK-21 Electric Binding System",
+            "total_sales": 9449.95,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 5083.96,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 1633.1880000000003,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 1793.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 3558.772,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 3049.7659999999996,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Ibico EPK-21 Electric Binding System",
+            "total_sales": 1889.99,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 2541.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 6354.95,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 3812.97,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 3050.376,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1217.568,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1217.568,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1369.764,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 1345.485,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1598.058,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 1270.99,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 1088.792,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1369.764,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 4355.168,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 1141.47,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Ibico EPK-21 Electric Binding System",
+            "total_sales": 4535.976,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 1016.792,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 456.588,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 1793.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 9892.74,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 5443.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "total_sales": 760.98,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 2690.97,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 5920.134,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 762.594,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 538.194,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 5083.96,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "total_sales": 1633.188,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "total_sales": 1793.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "total_sales": 1525.188,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Ibico EPK-21 Electric Binding System",
+            "total_sales": 1889.99,
+            "total_quantity": 5
         }
     ],
     "most_frequent_order_month": [
@@ -1791,545 +2264,569 @@
     "time_series_analysis": [
         {
             "Order Date": "2011-01",
-            "total_sales": 2522.999,
-            "total_quantity": 176
+            "Sales": 2522.999,
+            "Quantity": 176,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-02",
-            "total_sales": 2381.4197,
-            "total_quantity": 152
+            "Sales": 2381.4197,
+            "Quantity": 152,
+            "Sales_MA": NaN
         },
         {
             "Order Date": "2011-03",
-            "total_sales": 4043.1568,
-            "total_quantity": 211
+            "Sales": 4043.1568,
+            "Quantity": 211,
+            "Sales_MA": 2982.5251666666663
         },
         {
             "Order Date": "2011-04",
-            "total_sales": 3686.6980000000003,
-            "total_quantity": 253
+            "Sales": 3686.6980000000003,
+            "Quantity": 253,
+            "Sales_MA": 3370.424833333333
         },
         {
             "Order Date": "2011-05",
-            "total_sales": 6333.661,
-            "total_quantity": 224
+            "Sales": 6333.661,
+            "Quantity": 224,
+            "Sales_MA": 4687.8386
         },
         {
             "Order Date": "2011-06",
-            "total_sales": 8151.1538,
-            "total_quantity": 310
+            "Sales": 8151.1538,
+            "Quantity": 310,
+            "Sales_MA": 6057.170933333334
         },
         {
             "Order Date": "2011-07",
-            "total_sales": 5658.57,
-            "total_quantity": 267
+            "Sales": 5658.57,
+            "Quantity": 267,
+            "Sales_MA": 6714.4616
         },
         {
             "Order Date": "2011-08",
-            "total_sales": 8561.4725,
-            "total_quantity": 344
+            "Sales": 8561.4725,
+            "Quantity": 344,
+            "Sales_MA": 7457.065433333333
         },
         {
             "Order Date": "2011-09",
-            "total_sales": 17615.808800000003,
-            "total_quantity": 411
+            "Sales": 17615.808800000003,
+            "Quantity": 411,
+            "Sales_MA": 10611.950433333333
         },
         {
             "Order Date": "2011-10",
-            "total_sales": 3530.3052000000002,
-            "total_quantity": 270
+            "Sales": 3530.3052000000002,
+            "Quantity": 270,
+            "Sales_MA": 9902.528833333334
         },
         {
             "Order Date": "2011-11",
-            "total_sales": 12869.4,
-            "total_quantity": 492
+            "Sales": 12869.4,
+            "Quantity": 492,
+            "Sales_MA": 11338.504666666668
         },
         {
             "Order Date": "2011-12",
-            "total_sales": 11644.2695,
-            "total_quantity": 549
+            "Sales": 11644.2695,
+            "Quantity": 549,
+            "Sales_MA": 9347.991566666666
         },
         {
             "Order Date": "2012-01",
-            "total_sales": 3167.1365,
-            "total_quantity": 198
+            "Sales": 3167.1365,
+            "Quantity": 198,
+            "Sales_MA": 9226.935333333333
         },
         {
             "Order Date": "2012-02",
-            "total_sales": 4443.222,
-            "total_quantity": 149
+            "Sales": 4443.222,
+            "Quantity": 149,
+            "Sales_MA": 6418.209333333333
         },
         {
             "Order Date": "2012-03",
-            "total_sales": 11911.1088,
-            "total_quantity": 234
+            "Sales": 11911.1088,
+            "Quantity": 234,
+            "Sales_MA": 6507.155766666667
         },
         {
             "Order Date": "2012-04",
-            "total_sales": 6702.0472,
-            "total_quantity": 239
+            "Sales": 6702.0472,
+            "Quantity": 239,
+            "Sales_MA": 7685.459333333333
         },
         {
             "Order Date": "2012-05",
-            "total_sales": 4177.6057,
-            "total_quantity": 299
+            "Sales": 4177.6057,
+            "Quantity": 299,
+            "Sales_MA": 7596.920566666668
         },
         {
             "Order Date": "2012-06",
-            "total_sales": 11235.3585,
-            "total_quantity": 455
+            "Sales": 11235.3585,
+            "Quantity": 455,
+            "Sales_MA": 7371.6704666666665
         },
         {
             "Order Date": "2012-07",
-            "total_sales": 4719.6245,
-            "total_quantity": 294
+            "Sales": 4719.6245,
+            "Quantity": 294,
+            "Sales_MA": 6710.8629
         },
         {
             "Order Date": "2012-08",
-            "total_sales": 8763.5726,
-            "total_quantity": 426
+            "Sales": 8763.5726,
+            "Quantity": 426,
+            "Sales_MA": 8239.518533333334
         },
         {
             "Order Date": "2012-09",
-            "total_sales": 9329.2197,
-            "total_quantity": 594
+            "Sales": 9329.2197,
+            "Quantity": 594,
+            "Sales_MA": 7604.138933333333
         },
         {
             "Order Date": "2012-10",
-            "total_sales": 5833.702,
-            "total_quantity": 366
+            "Sales": 5833.702,
+            "Quantity": 366,
+            "Sales_MA": 7975.498100000001
         },
         {
             "Order Date": "2012-11",
-            "total_sales": 11267.0601,
-            "total_quantity": 696
+            "Sales": 11267.0601,
+            "Quantity": 696,
+            "Sales_MA": 8809.993933333333
         },
         {
             "Order Date": "2012-12",
-            "total_sales": 11868.2582,
-            "total_quantity": 576
+            "Sales": 11868.2582,
+            "Quantity": 576,
+            "Sales_MA": 9656.3401
         },
         {
             "Order Date": "2013-01",
-            "total_sales": 5987.051,
-            "total_quantity": 290
+            "Sales": 5987.051,
+            "Quantity": 290,
+            "Sales_MA": 9707.456433333335
         },
         {
             "Order Date": "2013-02",
-            "total_sales": 5009.6512,
-            "total_quantity": 274
+            "Sales": 5009.6512,
+            "Quantity": 274,
+            "Sales_MA": 7621.653466666667
         },
         {
             "Order Date": "2013-03",
-            "total_sales": 5455.3651,
-            "total_quantity": 302
+            "Sales": 5455.3651,
+            "Quantity": 302,
+            "Sales_MA": 5484.022433333333
         },
         {
             "Order Date": "2013-04",
-            "total_sales": 6619.347,
-            "total_quantity": 359
+            "Sales": 6619.347,
+            "Quantity": 359,
+            "Sales_MA": 5694.787766666665
         },
         {
             "Order Date": "2013-05",
-            "total_sales": 8010.467500000001,
-            "total_quantity": 509
+            "Sales": 8010.467500000001,
+            "Quantity": 509,
+            "Sales_MA": 6695.0598666666665
         },
         {
             "Order Date": "2013-06",
-            "total_sales": 10561.148000000001,
-            "total_quantity": 646
+            "Sales": 10561.148000000001,
+            "Quantity": 646,
+            "Sales_MA": 8396.987500000001
         },
         {
             "Order Date": "2013-07",
-            "total_sales": 6645.6205,
-            "total_quantity": 342
+            "Sales": 6645.6205,
+            "Quantity": 342,
+            "Sales_MA": 8405.745333333332
         },
         {
             "Order Date": "2013-08",
-            "total_sales": 9279.4334,
-            "total_quantity": 617
+            "Sales": 9279.4334,
+            "Quantity": 617,
+            "Sales_MA": 8828.733966666667
         },
         {
             "Order Date": "2013-09",
-            "total_sales": 16253.127600000002,
-            "total_quantity": 697
+            "Sales": 16253.127600000002,
+            "Quantity": 697,
+            "Sales_MA": 10726.0605
         },
         {
             "Order Date": "2013-10",
-            "total_sales": 10950.8107,
-            "total_quantity": 427
+            "Sales": 10950.8107,
+            "Quantity": 427,
+            "Sales_MA": 12161.1239
         },
         {
             "Order Date": "2013-11",
-            "total_sales": 11831.2247,
-            "total_quantity": 677
+            "Sales": 11831.2247,
+            "Quantity": 677,
+            "Sales_MA": 13011.721
         },
         {
             "Order Date": "2013-12",
-            "total_sales": 24471.8446,
-            "total_quantity": 694
+            "Sales": 24471.8446,
+            "Quantity": 694,
+            "Sales_MA": 15751.293333333335
         },
         {
             "Order Date": "2014-01",
-            "total_sales": 15997.8636,
-            "total_quantity": 580
+            "Sales": 15997.8636,
+            "Quantity": 580,
+            "Sales_MA": 17433.6443
         },
         {
             "Order Date": "2014-02",
-            "total_sales": 6969.183,
-            "total_quantity": 425
+            "Sales": 6969.183,
+            "Quantity": 425,
+            "Sales_MA": 15812.963733333336
         },
         {
             "Order Date": "2014-03",
-            "total_sales": 11550.7544,
-            "total_quantity": 671
+            "Sales": 11550.7544,
+            "Quantity": 671,
+            "Sales_MA": 11505.933666666666
         },
         {
             "Order Date": "2014-04",
-            "total_sales": 14591.2726,
-            "total_quantity": 708
+            "Sales": 14591.2726,
+            "Quantity": 708,
+            "Sales_MA": 11037.07
         },
         {
             "Order Date": "2014-05",
-            "total_sales": 15927.2451,
-            "total_quantity": 746
+            "Sales": 15927.2451,
+            "Quantity": 746,
+            "Sales_MA": 14023.0907
         },
         {
             "Order Date": "2014-06",
-            "total_sales": 20020.935400000002,
-            "total_quantity": 998
+            "Sales": 20020.935400000002,
+            "Quantity": 998,
+            "Sales_MA": 16846.484366666667
         },
         {
             "Order Date": "2014-07",
-            "total_sales": 10897.512,
-            "total_quantity": 650
+            "Sales": 10897.512,
+            "Quantity": 650,
+            "Sales_MA": 15615.230833333335
         },
         {
             "Order Date": "2014-08",
-            "total_sales": 33686.9357,
-            "total_quantity": 1145
+            "Sales": 33686.9357,
+            "Quantity": 1145,
+            "Sales_MA": 21535.1277
         },
         {
             "Order Date": "2014-09",
-            "total_sales": 38956.6108,
-            "total_quantity": 1293
+            "Sales": 38956.6108,
+            "Quantity": 1293,
+            "Sales_MA": 27847.019500000006
         },
         {
             "Order Date": "2014-10",
-            "total_sales": 22137.519,
-            "total_quantity": 1025
+            "Sales": 22137.519,
+            "Quantity": 1025,
+            "Sales_MA": 31593.6885
         },
         {
             "Order Date": "2014-11",
-            "total_sales": 29317.1878,
-            "total_quantity": 1360
+            "Sales": 29317.1878,
+            "Quantity": 1360,
+            "Sales_MA": 30137.10586666667
         },
         {
             "Order Date": "2014-12",
-            "total_sales": 27359.839200000002,
-            "total_quantity": 1465
+            "Sales": 27359.839200000002,
+            "Quantity": 1465,
+            "Sales_MA": 26271.515333333333
         },
         {
             "Order Date": "2015-01",
-            "total_sales": 3167.1365,
-            "total_quantity": 198
+            "Sales": 3167.1365,
+            "Quantity": 198,
+            "Sales_MA": 19948.054500000002
         },
         {
             "Order Date": "2015-02",
-            "total_sales": 4443.222,
-            "total_quantity": 149
+            "Sales": 4443.222,
+            "Quantity": 149,
+            "Sales_MA": 11656.732566666667
         },
         {
             "Order Date": "2015-03",
-            "total_sales": 11911.1088,
-            "total_quantity": 234
+            "Sales": 11911.1088,
+            "Quantity": 234,
+            "Sales_MA": 6507.155766666667
         },
         {
             "Order Date": "2015-04",
-            "total_sales": 6702.0472,
-            "total_quantity": 239
+            "Sales": 6702.0472,
+            "Quantity": 239,
+            "Sales_MA": 7685.459333333333
         },
         {
             "Order Date": "2015-05",
-            "total_sales": 4177.6057,
-            "total_quantity": 299
+            "Sales": 4177.6057,
+            "Quantity": 299,
+            "Sales_MA": 7596.920566666668
         },
         {
             "Order Date": "2015-06",
-            "total_sales": 11227.8385,
-            "total_quantity": 450
+            "Sales": 11227.8385,
+            "Quantity": 450,
+            "Sales_MA": 7369.163799999999
         },
         {
             "Order Date": "2015-07",
-            "total_sales": 4719.6245,
-            "total_quantity": 294
+            "Sales": 4719.6245,
+            "Quantity": 294,
+            "Sales_MA": 6708.356233333332
         },
         {
             "Order Date": "2015-08",
-            "total_sales": 8757.9326,
-            "total_quantity": 423
+            "Sales": 8757.9326,
+            "Quantity": 423,
+            "Sales_MA": 8235.131866666665
         },
         {
             "Order Date": "2015-09",
-            "total_sales": 9329.2197,
-            "total_quantity": 594
+            "Sales": 9329.2197,
+            "Quantity": 594,
+            "Sales_MA": 7602.2589333333335
         },
         {
             "Order Date": "2015-10",
-            "total_sales": 5833.702,
-            "total_quantity": 366
+            "Sales": 5833.702,
+            "Quantity": 366,
+            "Sales_MA": 7973.618100000001
         },
         {
             "Order Date": "2015-11",
-            "total_sales": 11267.0601,
-            "total_quantity": 696
+            "Sales": 11267.0601,
+            "Quantity": 696,
+            "Sales_MA": 8809.993933333333
         },
         {
             "Order Date": "2015-12",
-            "total_sales": 11864.4982,
-            "total_quantity": 574
+            "Sales": 11864.4982,
+            "Quantity": 574,
+            "Sales_MA": 9655.086766666665
         },
         {
             "Order Date": "2016-01",
-            "total_sales": 5987.051,
-            "total_quantity": 290
+            "Sales": 5987.051,
+            "Quantity": 290,
+            "Sales_MA": 9706.2031
         },
         {
             "Order Date": "2016-02",
-            "total_sales": 5009.6512,
-            "total_quantity": 274
+            "Sales": 5009.6512,
+            "Quantity": 274,
+            "Sales_MA": 7620.400133333333
         },
         {
             "Order Date": "2016-03",
-            "total_sales": 5455.3651,
-            "total_quantity": 302
+            "Sales": 5455.3651,
+            "Quantity": 302,
+            "Sales_MA": 5484.022433333333
         },
         {
             "Order Date": "2016-04",
-            "total_sales": 6619.347,
-            "total_quantity": 359
+            "Sales": 6619.347,
+            "Quantity": 359,
+            "Sales_MA": 5694.787766666665
         },
         {
             "Order Date": "2016-05",
-            "total_sales": 8010.4675,
-            "total_quantity": 509
+            "Sales": 8010.4675,
+            "Quantity": 509,
+            "Sales_MA": 6695.0598666666665
         },
         {
             "Order Date": "2016-06",
-            "total_sales": 10561.148,
-            "total_quantity": 646
+            "Sales": 10561.148,
+            "Quantity": 646,
+            "Sales_MA": 8396.987499999997
         },
         {
             "Order Date": "2016-07",
-            "total_sales": 6645.6205,
-            "total_quantity": 342
+            "Sales": 6645.6205,
+            "Quantity": 342,
+            "Sales_MA": 8405.74533333333
         },
         {
             "Order Date": "2016-08",
-            "total_sales": 9279.4334,
-            "total_quantity": 617
+            "Sales": 9279.4334,
+            "Quantity": 617,
+            "Sales_MA": 8828.733966666665
         },
         {
             "Order Date": "2016-09",
-            "total_sales": 16242.5996,
-            "total_quantity": 690
+            "Sales": 16242.5996,
+            "Quantity": 690,
+            "Sales_MA": 10722.551166666666
         },
         {
             "Order Date": "2016-10",
-            "total_sales": 10950.8107,
-            "total_quantity": 427
+            "Sales": 10950.8107,
+            "Quantity": 427,
+            "Sales_MA": 12157.614566666665
         },
         {
             "Order Date": "2016-11",
-            "total_sales": 11831.2247,
-            "total_quantity": 677
+            "Sales": 11831.2247,
+            "Quantity": 677,
+            "Sales_MA": 13008.211666666668
         },
         {
             "Order Date": "2016-12",
-            "total_sales": 24471.8446,
-            "total_quantity": 694
+            "Sales": 24471.8446,
+            "Quantity": 694,
+            "Sales_MA": 15751.293333333333
         },
         {
             "Order Date": "2017-01",
-            "total_sales": 13480.5046,
-            "total_quantity": 407
+            "Sales": 13480.5046,
+            "Quantity": 407,
+            "Sales_MA": 16594.524633333334
         },
         {
             "Order Date": "2017-02",
-            "total_sales": 4505.2813,
-            "total_quantity": 262
+            "Sales": 4505.2813,
+            "Quantity": 262,
+            "Sales_MA": 14152.5435
         },
         {
             "Order Date": "2017-03",
-            "total_sales": 7143.1166,
-            "total_quantity": 446
+            "Sales": 7143.1166,
+            "Quantity": 446,
+            "Sales_MA": 8376.300833333333
         },
         {
             "Order Date": "2017-04",
-            "total_sales": 11351.5376,
-            "total_quantity": 480
+            "Sales": 11351.5376,
+            "Quantity": 480,
+            "Sales_MA": 7666.645166666666
         },
         {
             "Order Date": "2017-05",
-            "total_sales": 9179.5641,
-            "total_quantity": 502
+            "Sales": 9179.5641,
+            "Quantity": 502,
+            "Sales_MA": 9224.739433333334
         },
         {
             "Order Date": "2017-06",
-            "total_sales": 12253.5496,
-            "total_quantity": 695
+            "Sales": 12253.5496,
+            "Quantity": 695,
+            "Sales_MA": 10928.2171
         },
         {
             "Order Date": "2017-07",
-            "total_sales": 5108.052,
-            "total_quantity": 381
+            "Sales": 5108.052,
+            "Quantity": 381,
+            "Sales_MA": 8847.055233333333
         },
         {
             "Order Date": "2017-08",
-            "total_sales": 25121.4532,
-            "total_quantity": 805
+            "Sales": 25121.4532,
+            "Quantity": 805,
+            "Sales_MA": 14161.018266666666
         },
         {
             "Order Date": "2017-09",
-            "total_sales": 21380.584,
-            "total_quantity": 888
+            "Sales": 21380.584,
+            "Quantity": 888,
+            "Sales_MA": 17203.36306666667
         },
         {
             "Order Date": "2017-10",
-            "total_sales": 17932.9098,
-            "total_quantity": 720
+            "Sales": 17932.9098,
+            "Quantity": 720,
+            "Sales_MA": 21478.315666666665
         },
         {
             "Order Date": "2017-11",
-            "total_sales": 16917.151,
-            "total_quantity": 893
+            "Sales": 16917.151,
+            "Quantity": 893,
+            "Sales_MA": 18743.54826666667
         },
         {
             "Order Date": "2017-12",
-            "total_sales": 16036.8565,
-            "total_quantity": 925
+            "Sales": 16036.8565,
+            "Quantity": 925,
+            "Sales_MA": 16962.30576666667
         }
     ],
     "customer_segmentation": [
         {
-            "Customer ID": "SC-20095",
-            "total_spent": 11540.79,
-            "purchase_frequency": 7,
-            "average_order_value": 1442.59875
+            "Customer Name": "Sanjit Chand",
+            "total_spent": 23135.976000000002,
+            "purchase_frequency": 20,
+            "average_order_value": 1051.6352727272729
         },
         {
-            "Customer ID": "AB-10105",
-            "total_spent": 11132.75,
-            "purchase_frequency": 6,
+            "Customer Name": "Adrian Barton",
+            "total_spent": 22265.5,
+            "purchase_frequency": 12,
             "average_order_value": 1855.4583333333333
         },
         {
-            "Customer ID": "AB-101051402",
-            "total_spent": 11028.769999999999,
-            "purchase_frequency": 3,
-            "average_order_value": 3676.256666666666
-        },
-        {
-            "Customer ID": "SC-200951402",
-            "total_spent": 9462.890000000001,
-            "purchase_frequency": 1,
-            "average_order_value": 4731.445000000001
-        },
-        {
-            "Customer ID": "CM-12385",
-            "total_spent": 9162.862,
-            "purchase_frequency": 8,
+            "Customer Name": "Christopher Martinez",
+            "total_spent": 18325.724,
+            "purchase_frequency": 16,
             "average_order_value": 1145.35775
         },
         {
-            "Customer ID": "CM-123851408",
-            "total_spent": 6354.95,
-            "purchase_frequency": 1,
-            "average_order_value": 6354.95
-        },
-        {
-            "Customer ID": "JW-15220",
-            "total_spent": 5760.67,
-            "purchase_frequency": 11,
+            "Customer Name": "Jane Waco",
+            "total_spent": 11521.34,
+            "purchase_frequency": 22,
             "average_order_value": 523.6972727272728
         },
         {
-            "Customer ID": "AR-10540",
-            "total_spent": 5517.454,
-            "purchase_frequency": 5,
-            "average_order_value": 1103.4908
+            "Customer Name": "Andy Reiter",
+            "total_spent": 11135.588,
+            "purchase_frequency": 16,
+            "average_order_value": 695.97425
         },
         {
-            "Customer ID": "AB-10060",
-            "total_spent": 5460.959000000001,
-            "purchase_frequency": 6,
-            "average_order_value": 682.6198750000001
+            "Customer Name": "Adam Bellavance",
+            "total_spent": 10956.454000000002,
+            "purchase_frequency": 16,
+            "average_order_value": 547.8227
         },
         {
-            "Customer ID": "AR-105401402",
-            "total_spent": 5443.96,
-            "purchase_frequency": 1,
-            "average_order_value": 5443.96
+            "Customer Name": "Dennis Pardue",
+            "total_spent": 10117.974,
+            "purchase_frequency": 24,
+            "average_order_value": 389.15284615384616
         },
         {
-            "Customer ID": "JW-152201404",
-            "total_spent": 5083.96,
-            "purchase_frequency": 1,
-            "average_order_value": 5083.96
+            "Customer Name": "Pete Kriz",
+            "total_spent": 8926.232,
+            "purchase_frequency": 14,
+            "average_order_value": 557.8895
         },
         {
-            "Customer ID": "DP-13390",
-            "total_spent": 5044.377,
-            "purchase_frequency": 11,
-            "average_order_value": 420.36475
+            "Customer Name": "Gary Hwang",
+            "total_spent": 8555.719000000001,
+            "purchase_frequency": 24,
+            "average_order_value": 329.06611538461544
         },
         {
-            "Customer ID": "DP-133901404",
-            "total_spent": 4716.936,
-            "purchase_frequency": 2,
-            "average_order_value": 2358.468
-        },
-        {
-            "Customer ID": "PK-19075",
-            "total_spent": 4429.924000000001,
-            "purchase_frequency": 6,
-            "average_order_value": 632.8462857142858
-        },
-        {
-            "Customer ID": "PK-190751406",
-            "total_spent": 4360.759999999999,
-            "purchase_frequency": 2,
-            "average_order_value": 1453.5866666666664
-        },
-        {
-            "Customer ID": "AB-100601406",
-            "total_spent": 4358.215999999999,
-            "purchase_frequency": 1,
-            "average_order_value": 2179.1079999999997
-        },
-        {
-            "Customer ID": "GH-14425",
-            "total_spent": 4171.029500000001,
-            "purchase_frequency": 9,
-            "average_order_value": 463.4477222222223
-        },
-        {
-            "Customer ID": "SD-20485",
-            "total_spent": 3909.5328,
-            "purchase_frequency": 5,
-            "average_order_value": 781.90656
-        },
-        {
-            "Customer ID": "SD-204851402",
-            "total_spent": 3812.97,
-            "purchase_frequency": 1,
-            "average_order_value": 3812.97
-        },
-        {
-            "Customer ID": "LC-16885",
-            "total_spent": 3333.492,
-            "purchase_frequency": 7,
-            "average_order_value": 476.2131428571429
+            "Customer Name": "Shirley Daniels",
+            "total_spent": 7859.289599999999,
+            "purchase_frequency": 14,
+            "average_order_value": 561.3778285714285
         }
     ],
     "discount_analysis": [
@@ -2337,61 +2834,61 @@
             "Discount": 0.0,
             "total_sales": 564922.78,
             "total_quantity": 24172,
-            "average_profit": 25.121118719418426
+            "average_profit": 25.1211
         },
         {
             "Discount": 0.1,
             "total_sales": 36161.154,
             "total_quantity": 1826,
-            "average_profit": 12.097819277108433
+            "average_profit": 12.0978
         },
         {
             "Discount": 0.15,
             "total_sales": 8011.641,
             "total_quantity": 480,
-            "average_profit": 9.766137096774193
+            "average_profit": 9.7661
         },
         {
             "Discount": 0.17,
             "total_sales": 21618.0804,
             "total_quantity": 1300,
-            "average_profit": 7.305231034482758
+            "average_profit": 7.3052
         },
         {
             "Discount": 0.2,
-            "total_sales": 177089.21600000001,
+            "total_sales": 177089.216,
             "total_quantity": 4974,
-            "average_profit": 46.1613646141855
+            "average_profit": 46.1614
         },
         {
             "Discount": 0.4,
             "total_sales": 13656.36,
             "total_quantity": 1606,
-            "average_profit": -9.676037735849057
+            "average_profit": -9.676
         },
         {
             "Discount": 0.5,
-            "total_sales": 18255.600000000002,
+            "total_sales": 18255.6,
             "total_quantity": 1602,
-            "average_profit": -22.600243902439026
+            "average_profit": -22.6002
         },
         {
             "Discount": 0.6,
             "total_sales": 7206.608,
             "total_quantity": 1024,
-            "average_profit": -15.162336538461538
+            "average_profit": -15.1623
         },
         {
             "Discount": 0.7,
             "total_sales": 49697.016,
             "total_quantity": 3942,
-            "average_profit": -34.28253639455782
+            "average_profit": -34.2825
         },
         {
             "Discount": 0.8,
-            "total_sales": 27162.443999999996,
+            "total_sales": 27162.444,
             "total_quantity": 1906,
-            "average_profit": -94.0317510729614
+            "average_profit": -94.0318
         }
     ],
     "geographic_distribution": [
@@ -2399,121 +2896,215 @@
             "State": "New York",
             "City": "New York City",
             "total_sales": 49124.864,
-            "total_quantity": 1117
+            "total_quantity": 1117,
+            "Location": "New York, New York City"
         },
         {
             "State": "Washington",
             "City": "Seattle",
             "total_sales": 35400.304000000004,
-            "total_quantity": 658
+            "total_quantity": 658,
+            "Location": "Washington, Seattle"
         },
         {
             "State": "Michigan",
             "City": "Detroit",
             "total_sales": 24978.36,
-            "total_quantity": 198
+            "total_quantity": 198,
+            "Location": "Michigan, Detroit"
         },
         {
             "State": "Minnesota",
             "City": "Minneapolis",
             "total_sales": 22690.7,
-            "total_quantity": 30
+            "total_quantity": 30,
+            "Location": "Minnesota, Minneapolis"
         },
         {
             "State": "California",
             "City": "Los Angeles",
             "total_sales": 19505.904,
-            "total_quantity": 709
+            "total_quantity": 709,
+            "Location": "California, Los Angeles"
         },
         {
             "State": "Georgia",
             "City": "Atlanta",
             "total_sales": 15503.12,
-            "total_quantity": 36
+            "total_quantity": 36,
+            "Location": "Georgia, Atlanta"
         },
         {
             "State": "California",
             "City": "San Francisco",
             "total_sales": 13119.024000000001,
-            "total_quantity": 582
+            "total_quantity": 582,
+            "Location": "California, San Francisco"
         },
         {
             "State": "Michigan",
             "City": "Jackson",
             "total_sales": 11223.960000000001,
-            "total_quantity": 36
+            "total_quantity": 36,
+            "Location": "Michigan, Jackson"
         },
         {
             "State": "California",
             "City": "Sacramento",
             "total_sales": 10259.056,
-            "total_quantity": 26
+            "total_quantity": 26,
+            "Location": "California, Sacramento"
         },
         {
             "State": "Pennsylvania",
             "City": "Philadelphia",
             "total_sales": 9104.322,
-            "total_quantity": 568
+            "total_quantity": 568,
+            "Location": "Pennsylvania, Philadelphia"
         },
         {
             "State": "Nevada",
             "City": "North Las Vegas",
             "total_sales": 9071.952000000001,
-            "total_quantity": 6
+            "total_quantity": 6,
+            "Location": "Nevada, North Las Vegas"
         },
         {
             "State": "Texas",
             "City": "Houston",
             "total_sales": 8603.883999999998,
-            "total_quantity": 458
+            "total_quantity": 458,
+            "Location": "Texas, Houston"
         },
         {
             "State": "Michigan",
             "City": "Midland",
             "total_sales": 7789.26,
-            "total_quantity": 38
+            "total_quantity": 38,
+            "Location": "Michigan, Midland"
         },
         {
             "State": "Illinois",
             "City": "Chicago",
             "total_sales": 6336.66,
-            "total_quantity": 364
+            "total_quantity": 364,
+            "Location": "Illinois, Chicago"
         },
         {
             "State": "Vienna",
             "City": "Vienna",
             "total_sales": 5801.22,
-            "total_quantity": 232
-        },
-        {
-            "State": "Kentucky",
-            "City": "Henderson",
-            "total_sales": 5649.1,
-            "total_quantity": 70
-        },
-        {
-            "State": "Maryland",
-            "City": "Columbia",
-            "total_sales": 5537.96,
-            "total_quantity": 34
-        },
-        {
-            "State": "Virginia",
-            "City": "Virginia Beach",
-            "total_sales": 5451.14,
-            "total_quantity": 18
-        },
-        {
-            "State": "Georgia",
-            "City": "Roswell",
-            "total_sales": 5381.9400000000005,
-            "total_quantity": 6
-        },
-        {
-            "State": "England",
-            "City": "London",
-            "total_sales": 5077.404,
-            "total_quantity": 290
+            "total_quantity": 232,
+            "Location": "Vienna, Vienna"
         }
-    ]
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 1598,
+            "avg_shipping_delay": 2.17,
+            "total_profit": 20075.64,
+            "shipping_cost_ratio": 0.19
+        },
+        "Same Day": {
+            "total_orders": 590,
+            "avg_shipping_delay": 0.05,
+            "total_profit": 6601.39,
+            "shipping_cost_ratio": 0.19
+        },
+        "Second Class": {
+            "total_orders": 2059,
+            "avg_shipping_delay": 3.26,
+            "total_profit": 28655.99,
+            "shipping_cost_ratio": 0.15
+        },
+        "Standard Class": {
+            "total_orders": 6599,
+            "avg_shipping_delay": 4.99,
+            "total_profit": 89549.98,
+            "shipping_cost_ratio": 0.11
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": -0.012921107868578596,
+            "common_ship_mode": "First Class"
+        },
+        "High": {
+            "avg_profit_margin": 0.0062229279507987414,
+            "common_ship_mode": "Standard Class"
+        },
+        "Low": {
+            "avg_profit_margin": -0.060637224527835244,
+            "common_ship_mode": "Standard Class"
+        },
+        "Medium": {
+            "avg_profit_margin": 0.0009629168447126024,
+            "common_ship_mode": "Standard Class"
+        }
+    },
+    "rfm_analysis": {
+        "rfm_stats": {
+            "recency": {
+                "count": 795.0,
+                "mean": 136.35345911949685,
+                "std": 180.05804996630053,
+                "min": 0.0,
+                "25%": 29.0,
+                "50%": 71.0,
+                "75%": 169.5,
+                "max": 1408.0
+            },
+            "frequency": {
+                "count": 795.0,
+                "mean": 13.672955974842766,
+                "std": 5.1519687065698445,
+                "min": 1.0,
+                "25%": 10.0,
+                "50%": 14.0,
+                "75%": 18.0,
+                "max": 36.0
+            },
+            "monetary": {
+                "count": 795.0,
+                "mean": 1161.9885527044025,
+                "std": 1757.9415751272381,
+                "min": 17.699999999999996,
+                "25%": 439.87,
+                "50%": 780.2220000000001,
+                "75%": 1295.076,
+                "max": 23135.976000000002
+            }
+        },
+        "rfm_segments": {
+            "Medium": 266,
+            "High": 265,
+            "Low": 264
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 6272,
+        "churned_customers": 4460,
+        "churn_rate": 0.7110969387755102,
+        "avg_recency": 748.0806760204082,
+        "avg_frequency": 1.9607780612244898,
+        "avg_monetary": 147.28649544005103,
+        "churned_customer_characteristics": {
+            "avg_recency": 991.7778026905829,
+            "avg_frequency": 2.2062780269058297,
+            "avg_monetary": 166.72250446188343,
+            "avg_discount": 0.1724187751536613,
+            "avg_quantity": 3.3719536988854903,
+            "avg_shipping_cost": 7.397343368365795,
+            "avg_profit": 10.965569097726544
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 148.25220750551875,
+            "avg_frequency": 1.3565121412803531,
+            "avg_monetary": 99.44731208609272,
+            "avg_discount": 0.18016188373804268,
+            "avg_quantity": 3.4638520971302427,
+            "avg_shipping_cost": 8.273766813833701,
+            "avg_profit": 11.76470988226637
+        }
+    }
 }
