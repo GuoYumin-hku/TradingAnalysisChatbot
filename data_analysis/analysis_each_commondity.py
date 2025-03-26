@@ -25,7 +25,7 @@ class NumpyEncoder(json.JSONEncoder):
         return json.JSONEncoder.default(self, obj)
 
 # data loading and preprocessing
-data_og = pd.read_csv('./data/merged_data.csv', on_bad_lines='skip', parse_dates=['Order Date', 'Ship Date'])
+data_og = pd.read_csv('../data/merged_data.csv', on_bad_lines='skip', parse_dates=['Order Date', 'Ship Date'])
 data_og['Combined_Category'] = data_og['Category'].astype(str) + '-' + data_og['Sub-Category'].astype(str)
 
 def convert_timestamps_to_str(obj):
@@ -64,7 +64,45 @@ class Analysis:
             'segment_profit': segment_profit,
             'segment_discount': segment_discount
         }
-
+    
+    def analyze_region(self):
+        region_distribution = self.data['Region'].value_counts().to_dict()
+        region_distribution = {k: (v, round(v / len(self.data), 2)) for k, v in region_distribution.items()}
+        region_quantity = self.data.groupby('Region')['Quantity'].mean().round(2).to_dict()
+        region_sales = self.data.groupby('Region')['Sales'].mean().round(2).to_dict()
+        region_unit_price = (self.data.groupby('Region')['Sales'].sum() / self.data.groupby('Region')['Quantity'].sum()).round(2).to_dict()
+        region_discount = self.data.groupby('Region')['Discount'].mean().round(2).to_dict()
+        region_profit = (self.data.groupby('Region')['Profit'].sum() / self.data.groupby('Region')['Quantity'].sum()).round(2).to_dict()
+        region_profit_margin = (self.data.groupby('Region')['Profit'].sum() / self.data.groupby('Region')['Sales'].sum()).round(2).to_dict()
+        return {
+            'region_distribution': region_distribution,
+            'region_quantity': region_quantity,
+            'region_sales': region_sales,
+            'region_unit_price': region_unit_price,
+            'region_discount': region_discount,
+            'region_profit': region_profit,
+            'region_profit_margin': region_profit_margin
+        }
+    
+    def analyze_market(self):
+        market_distribution = self.data['Market'].value_counts().to_dict()
+        market_distribution = {k: (v, round(v / len(self.data), 2)) for k, v in market_distribution.items()}
+        market_quantity = self.data.groupby('Market')['Quantity'].mean().round(2).to_dict()
+        market_sales = self.data.groupby('Market')['Sales'].mean().round(2).to_dict()
+        market_unit_price = (self.data.groupby('Market')['Sales'].sum() / self.data.groupby('Market')['Quantity'].sum()).round(2).to_dict()
+        market_discount = self.data.groupby('Market')['Discount'].mean().round(2).to_dict()
+        market_profit = (self.data.groupby('Market')['Profit'].sum() / self.data.groupby('Market')['Quantity'].sum()).round(2).to_dict()
+        market_profit_margin = (self.data.groupby('Market')['Profit'].sum() / self.data.groupby('Market')['Sales'].sum()).round(2).to_dict()
+        return {
+            'market_distribution': market_distribution,
+            'market_quantity': market_quantity,
+            'market_sales': market_sales,
+            'market_unit_price': market_unit_price,
+            'market_discount': market_discount,
+            'market_profit': market_profit,
+            'market_profit_margin': market_profit_margin
+        }
+    
     def analyze_country(self):
         country_distribution = self.data['Country'].value_counts().to_dict()
         country_distribution = {k: (v, round(v / len(self.data), 2)) for k, v in country_distribution.items()}
@@ -224,21 +262,59 @@ class Analysis:
         return analysis.to_dict(orient='index')
     
     def analyze_order_priority(self):
-        analysis = self.data.groupby('Order Priority').agg(
-            avg_profit_margin=('Profit', lambda x: (x / self.data['Sales']).mean()),
-            common_ship_mode=('Ship Mode', lambda x: x.mode()[0])
+        priority_shipmode = (
+            self.data.groupby('Order Priority')[['Ship Mode']].apply(lambda x: x['Ship Mode'].value_counts(normalize=True).to_dict())
         )
-        return analysis.to_dict(orient='index')
+        
+        profit_margin = (
+            self.data.groupby('Order Priority')[['Profit', 'Sales']].apply(lambda x: (x['Profit'] / x['Sales']).mean()).round(2).to_dict()
+        )
+        
+        result = {}
+        for priority, shipmode_data in priority_shipmode.items():
+            result[priority] = {
+                'avg_profit_margin': profit_margin.get(priority, 0),
+                'ship_mode_distribution': shipmode_data
+            }
+        return result
     
     def analyze_rfm(self):
-        rfm = self.data.groupby('Customer Name').agg(
+        rfm = self.data.groupby('Customer ID').agg(
             recency=('Order Date', lambda x: (self.data['Order Date'].max() - x.max()).days),
             frequency=('Order ID', 'nunique'),
             monetary=('Sales', 'sum')
         )
+
+        recency_median = rfm['recency'].median()
+        rfm['R_Class'] = np.where(rfm['recency'] < recency_median, 'High', 'Low')
+        frequency_median = rfm['frequency'].median()
+        rfm['F_Class'] = np.where(rfm['frequency'] > frequency_median, 'High', 'Low')
+        monetary_median = rfm['monetary'].median()
+        rfm['M_Class'] = np.where(rfm['monetary'] > monetary_median, 'High', 'Low')
+
+        rfm['rfm_code'] = (
+            rfm['R_Class'].str[0] + rfm['F_Class'].str[0] + rfm['M_Class'].str[0]
+        )
+        
+        group_labels = {
+            'HHH': 'VIP',
+            'HHL': 'Loyal Customers',
+            'HLH': 'Big Spenders',
+            'HLL': 'Promising Customers',
+            'LHH': 'At-Risk Customers',
+            'LHL': 'Slipping Away',
+            'LLH': 'Hibernating Customers',
+            'LLL': 'Lost Customers'
+        }
+        rfm['rfm_label'] = rfm['rfm_code'].map(group_labels).fillna('Undefined Group')
+        
         return {
-            'rfm_stats': rfm.describe().to_dict(),
-            'rfm_segments': pd.qcut(rfm['recency'], q=3, labels=["High", "Medium", "Low"]).value_counts().to_dict()
+            'median_values': {
+                'recency': recency_median,
+                'frequency': frequency_median,
+                'monetary': monetary_median
+            },
+            'customer_distribution': rfm['rfm_label'].value_counts().to_dict()
         }
 
     def analyze_churn(self):
@@ -299,6 +375,8 @@ class Analysis:
     def analyze_all(self):
         result = {
             **self.analyze_segment(),
+            **self.analyze_region(),
+            **self.analyze_market(),
             **self.analyze_country(),
             **self.analyze_state_city(),
             **self.analyze_temporal(),
@@ -638,17 +716,40 @@ class Visualization:
         plt.savefig(f'./data_analysis/analysis_result_{self.category}/order_priority_margin.png')
         plt.close()
         
-        ship_modes = list(set(v['common_ship_mode'] for v in data.values()))
-        mode_counts = {mode: [list(v.values()).count(mode) for v in data.values()] for mode in ship_modes}
+        all_ship_modes = set()
+        for priority_data in data.values():
+            all_ship_modes.update(priority_data['ship_mode_distribution'].keys())
+        all_ship_modes = sorted(all_ship_modes)
+        
+        priorities = list(data.keys())
+        shipmode_percentages = {mode: [] for mode in all_ship_modes}
+        
+        for priority in priorities:
+            dist = data[priority]['ship_mode_distribution']
+            for mode in all_ship_modes:
+                shipmode_percentages[mode].append(dist.get(mode, 0))
         
         plt.figure(figsize=(12, 6))
         bottom = np.zeros(len(priorities))
-        for mode, counts in mode_counts.items():
-            plt.bar(priorities, counts, label=mode, bottom=bottom)
-            bottom += counts
-        plt.legend(title='Ship Mode')
-        plt.title('Order Priority vs Preferred Ship Mode')
-        plt.savefig(f'./data_analysis/analysis_result_{self.category}/priority_shipmode_relation.png')
+        
+        for mode in all_ship_modes:
+            percentages = shipmode_percentages[mode]
+            plt.bar(
+                priorities, 
+                percentages, 
+                label=mode, 
+                bottom=bottom,
+                edgecolor='white'
+            )
+            bottom += np.array(percentages)
+        
+        plt.title('Transport Mode Distribution by Order Priority')
+        plt.xlabel('Order Priority')
+        plt.ylabel('Percentage')
+        plt.legend(title='Ship Mode', bbox_to_anchor=(1.05, 1))
+        plt.xticks(rotation=45)
+        plt.tight_layout()
+        plt.savefig(f'./data_analysis/analysis_result_{self.category}/priority_shipmode_distribution.png')
         plt.close()
         
     def plot_rfm_analysis(self):
@@ -669,7 +770,7 @@ class Visualization:
         plt.savefig(f'./data_analysis/analysis_result_{self.category}/rfm_3d.png')
         plt.close()
         
-        segments = self.analysis_result['rfm_analysis']['rfm_segments']
+        segments = self.analysis_result['rfm_analysis']['customer_distribution']
         plt.figure(figsize=(10, 6))
         plt.pie(segments.values(), labels=segments.keys(), autopct='%1.1f%%')
         plt.title('Customer Activity Segmentation')
