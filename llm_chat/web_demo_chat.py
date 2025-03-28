@@ -162,9 +162,9 @@ with gr.Blocks() as demo:
             suggestions_button = gr.Button("Step2.Generate Suggestions")
             known_facts_output = gr.Textbox(label="Known Facts", interactive=False)
             # you can add more buttons here for different queries
-            query1_button = gr.Button("Query for churn analysis")
-            query2_button = gr.Button("Query for customer segmentation")
-            query3_button = gr.Button("Query for sales trend")
+            query1_button = gr.Button("Query for ship mode profit")
+            query2_button = gr.Button("Query for country distribution")
+            query3_button = gr.Button("Query for churn analysis")
         with gr.Column(scale=4):
             chatbot = gr.Chatbot(label="Sales Assistant Chatbot",height=1000)
             chatbot_input = gr.Textbox(label="Your Message")
@@ -211,9 +211,9 @@ with gr.Blocks() as demo:
 
     classify_button.click(fn=classify_commodity, inputs=commodity_input, outputs=category_output)
     # query context can be modified here
-    query1 = "Due to the churn analysis for different customers, please give your analysis and suggestions."
-    query2 = "Due to the customer segmentation, please give your analysis and suggestions."
-    query3 = "Due to the sales trend, please give your analysis and suggestions."
+    query1 = "Due to the known facts, which ship mode corresponds to the highest profit?"
+    query2 = "Due to the known facts, which country has the most consumers?"
+    query3 = "Due to the sales trend, please give your analysis and suggestions for churn analysis."
 
     query1_button.click(fn=lambda: query1, inputs=None, outputs=chatbot_input)
     query2_button.click(fn=lambda: query2, inputs=None, outputs=chatbot_input)
