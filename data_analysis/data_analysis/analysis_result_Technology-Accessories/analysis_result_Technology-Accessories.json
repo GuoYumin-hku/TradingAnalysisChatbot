@@ -1,0 +1,3945 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            3172,
+            0.52
+        ],
+        "Corporate": [
+            1864,
+            0.3
+        ],
+        "Home Office": [
+            1114,
+            0.18
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.57,
+        "Corporate": 3.55,
+        "Home Office": 3.55
+    },
+    "segment_unit_price": {
+        "Consumer": 67.47,
+        "Corporate": 69.86,
+        "Home Office": 68.89
+    },
+    "segment_profit": {
+        "Consumer": 10.64,
+        "Corporate": 13.77,
+        "Home Office": 12.06
+    },
+    "segment_discount": {
+        "Consumer": 0.13,
+        "Corporate": 0.11,
+        "Home Office": 0.12
+    },
+    "region_distribution": {
+        "Central": [
+            671,
+            0.11
+        ],
+        "Oceania": [
+            500,
+            0.08
+        ],
+        "South": [
+            396,
+            0.06
+        ],
+        "Central America": [
+            372,
+            0.06
+        ],
+        "Western Europe": [
+            276,
+            0.04
+        ],
+        "Western US": [
+            258,
+            0.04
+        ],
+        "West": [
+            258,
+            0.04
+        ],
+        "North": [
+            252,
+            0.04
+        ],
+        "EMEA": [
+            240,
+            0.04
+        ],
+        "Africa": [
+            232,
+            0.04
+        ],
+        "Eastern US": [
+            206,
+            0.03
+        ],
+        "East": [
+            206,
+            0.03
+        ],
+        "Caribbean": [
+            204,
+            0.03
+        ],
+        "Southeast Asia": [
+            186,
+            0.03
+        ],
+        "Southeastern Asia": [
+            186,
+            0.03
+        ],
+        "South America": [
+            184,
+            0.03
+        ],
+        "Central US": [
+            183,
+            0.03
+        ],
+        "Southern Asia": [
+            165,
+            0.03
+        ],
+        "Central Asia": [
+            144,
+            0.02
+        ],
+        "Eastern Asia": [
+            134,
+            0.02
+        ],
+        "North Asia": [
+            133,
+            0.02
+        ],
+        "Southern US": [
+            128,
+            0.02
+        ],
+        "Western Asia": [
+            118,
+            0.02
+        ],
+        "Northern Europe": [
+            98,
+            0.02
+        ],
+        "Southern Europe": [
+            85,
+            0.01
+        ],
+        "Western Africa": [
+            72,
+            0.01
+        ],
+        "Eastern Europe": [
+            65,
+            0.01
+        ],
+        "North Africa": [
+            58,
+            0.01
+        ],
+        "Canada": [
+            38,
+            0.01
+        ],
+        "Eastern Africa": [
+            37,
+            0.01
+        ],
+        "Southern Africa": [
+            35,
+            0.01
+        ],
+        "Central Africa": [
+            30,
+            0.0
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.09,
+        "Canada": 2.21,
+        "Caribbean": 3.72,
+        "Central": 3.84,
+        "Central Africa": 2.57,
+        "Central America": 3.89,
+        "Central Asia": 3.61,
+        "Central US": 3.91,
+        "EMEA": 2.35,
+        "East": 3.51,
+        "Eastern Africa": 1.62,
+        "Eastern Asia": 3.84,
+        "Eastern Europe": 2.74,
+        "Eastern US": 3.51,
+        "North": 3.98,
+        "North Africa": 2.4,
+        "North Asia": 3.84,
+        "Northern Europe": 3.92,
+        "Oceania": 3.66,
+        "South": 3.84,
+        "South America": 3.65,
+        "Southeast Asia": 3.74,
+        "Southeastern Asia": 3.74,
+        "Southern Africa": 1.97,
+        "Southern Asia": 3.45,
+        "Southern Europe": 4.07,
+        "Southern US": 3.94,
+        "West": 4.0,
+        "Western Africa": 1.93,
+        "Western Asia": 2.36,
+        "Western Europe": 3.77,
+        "Western US": 4.0
+    },
+    "region_sales": {
+        "Africa": 181.78,
+        "Canada": 235.43,
+        "Caribbean": 198.94,
+        "Central": 259.45,
+        "Central Africa": 256.22,
+        "Central America": 226.39,
+        "Central Asia": 318.46,
+        "Central US": 185.55,
+        "EMEA": 184.02,
+        "East": 218.61,
+        "Eastern Africa": 160.05,
+        "Eastern Asia": 296.68,
+        "Eastern Europe": 253.3,
+        "Eastern US": 218.61,
+        "North": 274.93,
+        "North Africa": 226.83,
+        "North Asia": 295.46,
+        "Northern Europe": 297.63,
+        "Oceania": 266.17,
+        "South": 258.53,
+        "South America": 202.33,
+        "Southeast Asia": 197.74,
+        "Southeastern Asia": 197.74,
+        "Southern Africa": 209.49,
+        "Southern Asia": 301.0,
+        "Southern Europe": 446.78,
+        "Southern US": 213.1,
+        "West": 236.88,
+        "Western Africa": 112.16,
+        "Western Asia": 152.63,
+        "Western Europe": 350.96,
+        "Western US": 236.88
+    },
+    "region_unit_price": {
+        "Africa": 87.13,
+        "Canada": 106.5,
+        "Caribbean": 53.54,
+        "Central": 67.56,
+        "Central Africa": 99.83,
+        "Central America": 58.16,
+        "Central Asia": 88.19,
+        "Central US": 47.42,
+        "EMEA": 78.17,
+        "East": 62.2,
+        "Eastern Africa": 98.7,
+        "Eastern Asia": 77.19,
+        "Eastern Europe": 92.5,
+        "Eastern US": 62.2,
+        "North": 69.07,
+        "North Africa": 94.65,
+        "North Asia": 76.9,
+        "Northern Europe": 75.96,
+        "Oceania": 72.65,
+        "South": 67.35,
+        "South America": 55.48,
+        "Southeast Asia": 52.85,
+        "Southeastern Asia": 52.85,
+        "Southern Africa": 106.26,
+        "Southern Asia": 87.28,
+        "Southern Europe": 109.76,
+        "Southern US": 54.12,
+        "West": 59.22,
+        "Western Africa": 58.1,
+        "Western Asia": 64.55,
+        "Western Europe": 93.14,
+        "Western US": 59.22
+    },
+    "region_discount": {
+        "Africa": 0.12,
+        "Canada": 0.0,
+        "Caribbean": 0.15,
+        "Central": 0.11,
+        "Central Africa": 0.0,
+        "Central America": 0.09,
+        "Central Asia": 0.09,
+        "Central US": 0.12,
+        "EMEA": 0.19,
+        "East": 0.09,
+        "Eastern Africa": 0.06,
+        "Eastern Asia": 0.04,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.09,
+        "North": 0.04,
+        "North Africa": 0.0,
+        "North Asia": 0.05,
+        "Northern Europe": 0.12,
+        "Oceania": 0.16,
+        "South": 0.12,
+        "South America": 0.18,
+        "Southeast Asia": 0.39,
+        "Southeastern Asia": 0.39,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.05,
+        "Southern Europe": 0.01,
+        "Southern US": 0.09,
+        "West": 0.04,
+        "Western Africa": 0.36,
+        "Western Asia": 0.33,
+        "Western Europe": 0.05,
+        "Western US": 0.04
+    },
+    "region_profit": {
+        "Africa": 13.38,
+        "Canada": 30.84,
+        "Caribbean": 8.83,
+        "Central": 12.63,
+        "Central Africa": 21.42,
+        "Central America": 12.12,
+        "Central Asia": 15.7,
+        "Central US": 10.13,
+        "EMEA": 6.34,
+        "East": 15.46,
+        "Eastern Africa": 23.88,
+        "Eastern Asia": 17.21,
+        "Eastern Europe": 17.43,
+        "Eastern US": 15.46,
+        "North": 16.08,
+        "North Africa": 20.06,
+        "North Asia": 17.21,
+        "Northern Europe": 12.87,
+        "Oceania": 8.41,
+        "South": 14.94,
+        "South America": 9.11,
+        "Southeast Asia": -12.42,
+        "Southeastern Asia": -12.42,
+        "Southern Africa": 29.71,
+        "Southern Asia": 16.34,
+        "Southern Europe": 27.74,
+        "Southern US": 13.9,
+        "West": 15.97,
+        "Western Africa": -10.38,
+        "Western Asia": -4.22,
+        "Western Europe": 18.35,
+        "Western US": 15.97
+    },
+    "region_profit_margin": {
+        "Africa": 0.15,
+        "Canada": 0.29,
+        "Caribbean": 0.16,
+        "Central": 0.19,
+        "Central Africa": 0.21,
+        "Central America": 0.21,
+        "Central Asia": 0.18,
+        "Central US": 0.21,
+        "EMEA": 0.08,
+        "East": 0.25,
+        "Eastern Africa": 0.24,
+        "Eastern Asia": 0.22,
+        "Eastern Europe": 0.19,
+        "Eastern US": 0.25,
+        "North": 0.23,
+        "North Africa": 0.21,
+        "North Asia": 0.22,
+        "Northern Europe": 0.17,
+        "Oceania": 0.12,
+        "South": 0.22,
+        "South America": 0.16,
+        "Southeast Asia": -0.23,
+        "Southeastern Asia": -0.23,
+        "Southern Africa": 0.28,
+        "Southern Asia": 0.19,
+        "Southern Europe": 0.25,
+        "Southern US": 0.26,
+        "West": 0.27,
+        "Western Africa": -0.18,
+        "Western Asia": -0.07,
+        "Western Europe": 0.2,
+        "Western US": 0.27
+    },
+    "market_distribution": {
+        "LATAM": [
+            1316,
+            0.21
+        ],
+        "Asia Pacific": [
+            867,
+            0.14
+        ],
+        "USCA": [
+            794,
+            0.13
+        ],
+        "US": [
+            775,
+            0.13
+        ],
+        "APAC": [
+            699,
+            0.11
+        ],
+        "Europe": [
+            524,
+            0.09
+        ],
+        "Africa": [
+            464,
+            0.08
+        ],
+        "EU": [
+            452,
+            0.07
+        ],
+        "EMEA": [
+            240,
+            0.04
+        ],
+        "Canada": [
+            19,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.75,
+        "Africa": 2.09,
+        "Asia Pacific": 3.46,
+        "Canada": 2.21,
+        "EMEA": 2.35,
+        "EU": 3.9,
+        "Europe": 3.72,
+        "LATAM": 3.8,
+        "US": 3.84,
+        "USCA": 3.8
+    },
+    "market_sales": {
+        "APAC": 266.43,
+        "Africa": 181.78,
+        "Asia Pacific": 245.67,
+        "Canada": 235.43,
+        "EMEA": 184.02,
+        "EU": 360.78,
+        "Europe": 344.42,
+        "LATAM": 215.41,
+        "US": 215.97,
+        "USCA": 216.44
+    },
+    "market_unit_price": {
+        "APAC": 71.08,
+        "Africa": 87.13,
+        "Asia Pacific": 71.05,
+        "Canada": 106.5,
+        "EMEA": 78.17,
+        "EU": 92.6,
+        "Europe": 92.65,
+        "LATAM": 56.74,
+        "US": 56.24,
+        "USCA": 56.94
+    },
+    "market_discount": {
+        "APAC": 0.18,
+        "Africa": 0.12,
+        "Asia Pacific": 0.2,
+        "Canada": 0.0,
+        "EMEA": 0.19,
+        "EU": 0.06,
+        "Europe": 0.05,
+        "LATAM": 0.13,
+        "US": 0.08,
+        "USCA": 0.08
+    },
+    "market_profit": {
+        "APAC": 6.06,
+        "Africa": 13.38,
+        "Asia Pacific": 5.4,
+        "Canada": 30.84,
+        "EMEA": 6.34,
+        "EU": 18.99,
+        "Europe": 18.85,
+        "LATAM": 10.81,
+        "US": 14.09,
+        "USCA": 14.32
+    },
+    "market_profit_margin": {
+        "APAC": 0.09,
+        "Africa": 0.15,
+        "Asia Pacific": 0.08,
+        "Canada": 0.29,
+        "EMEA": 0.08,
+        "EU": 0.21,
+        "Europe": 0.2,
+        "LATAM": 0.19,
+        "US": 0.25,
+        "USCA": 0.25
+    },
+    "country_distribution": {
+        "United States": [
+            1550,
+            0.25
+        ],
+        "Australia": [
+            390,
+            0.06
+        ],
+        "Mexico": [
+            312,
+            0.05
+        ],
+        "France": [
+            258,
+            0.04
+        ],
+        "China": [
+            222,
+            0.04
+        ],
+        "Germany": [
+            208,
+            0.03
+        ],
+        "India": [
+            204,
+            0.03
+        ],
+        "Brazil": [
+            180,
+            0.03
+        ],
+        "Indonesia": [
+            150,
+            0.02
+        ],
+        "United Kingdom": [
+            140,
+            0.02
+        ],
+        "Turkey": [
+            130,
+            0.02
+        ],
+        "Honduras": [
+            110,
+            0.02
+        ],
+        "El Salvador": [
+            104,
+            0.02
+        ],
+        "New Zealand": [
+            104,
+            0.02
+        ],
+        "Italy": [
+            101,
+            0.02
+        ],
+        "Dominican Republic": [
+            94,
+            0.02
+        ],
+        "Cuba": [
+            88,
+            0.01
+        ],
+        "Nicaragua": [
+            84,
+            0.01
+        ],
+        "Guatemala": [
+            74,
+            0.01
+        ],
+        "Nigeria": [
+            74,
+            0.01
+        ],
+        "Philippines": [
+            74,
+            0.01
+        ],
+        "Iran": [
+            70,
+            0.01
+        ],
+        "Spain": [
+            62,
+            0.01
+        ],
+        "South Africa": [
+            60,
+            0.01
+        ],
+        "Panama": [
+            60,
+            0.01
+        ],
+        "Egypt": [
+            58,
+            0.01
+        ],
+        "Argentina": [
+            56,
+            0.01
+        ],
+        "Vietnam": [
+            44,
+            0.01
+        ],
+        "Colombia": [
+            44,
+            0.01
+        ],
+        "Russia": [
+            42,
+            0.01
+        ],
+        "Canada": [
+            38,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            36,
+            0.01
+        ],
+        "Netherlands": [
+            34,
+            0.01
+        ],
+        "Saudi Arabia": [
+            34,
+            0.01
+        ],
+        "Iraq": [
+            34,
+            0.01
+        ],
+        "Pakistan": [
+            32,
+            0.01
+        ],
+        "Austria": [
+            32,
+            0.01
+        ],
+        "Poland": [
+            32,
+            0.01
+        ],
+        "Malaysia": [
+            32,
+            0.01
+        ],
+        "Morocco": [
+            32,
+            0.01
+        ],
+        "Ukraine": [
+            30,
+            0.0
+        ],
+        "Thailand": [
+            28,
+            0.0
+        ],
+        "Chile": [
+            26,
+            0.0
+        ],
+        "Singapore": [
+            24,
+            0.0
+        ],
+        "Japan": [
+            22,
+            0.0
+        ],
+        "Venezuela": [
+            22,
+            0.0
+        ],
+        "South Korea": [
+            20,
+            0.0
+        ],
+        "Sweden": [
+            20,
+            0.0
+        ],
+        "Algeria": [
+            18,
+            0.0
+        ],
+        "Belgium": [
+            18,
+            0.0
+        ],
+        "Tanzania": [
+            18,
+            0.0
+        ],
+        "Peru": [
+            18,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            16,
+            0.0
+        ],
+        "Israel": [
+            16,
+            0.0
+        ],
+        "Uzbekistan": [
+            14,
+            0.0
+        ],
+        "Norway": [
+            12,
+            0.0
+        ],
+        "Kenya": [
+            12,
+            0.0
+        ],
+        "Ghana": [
+            12,
+            0.0
+        ],
+        "Bangladesh": [
+            12,
+            0.0
+        ],
+        "Senegal": [
+            11,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            10,
+            0.0
+        ],
+        "Jordan": [
+            10,
+            0.0
+        ],
+        "Niger": [
+            10,
+            0.0
+        ],
+        "Angola": [
+            10,
+            0.0
+        ],
+        "Cameroon": [
+            10,
+            0.0
+        ],
+        "Haiti": [
+            10,
+            0.0
+        ],
+        "Mozambique": [
+            10,
+            0.0
+        ],
+        "Kazakhstan": [
+            10,
+            0.0
+        ],
+        "Romania": [
+            10,
+            0.0
+        ],
+        "Afghanistan": [
+            10,
+            0.0
+        ],
+        "Ireland": [
+            8,
+            0.0
+        ],
+        "Hungary": [
+            8,
+            0.0
+        ],
+        "Togo": [
+            8,
+            0.0
+        ],
+        "Ecuador": [
+            8,
+            0.0
+        ],
+        "Zambia": [
+            8,
+            0.0
+        ],
+        "Somalia": [
+            6,
+            0.0
+        ],
+        "Bolivia": [
+            6,
+            0.0
+        ],
+        "Sudan": [
+            6,
+            0.0
+        ],
+        "Finland": [
+            6,
+            0.0
+        ],
+        "Azerbaijan": [
+            6,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            6,
+            0.0
+        ],
+        "Rwanda": [
+            6,
+            0.0
+        ],
+        "Denmark": [
+            6,
+            0.0
+        ],
+        "Papua New Guinea": [
+            6,
+            0.0
+        ],
+        "Madagascar": [
+            6,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            6,
+            0.0
+        ],
+        "Namibia": [
+            4,
+            0.0
+        ],
+        "Lithuania": [
+            4,
+            0.0
+        ],
+        "Cambodia": [
+            4,
+            0.0
+        ],
+        "Uruguay": [
+            4,
+            0.0
+        ],
+        "Uganda": [
+            4,
+            0.0
+        ],
+        "Portugal": [
+            4,
+            0.0
+        ],
+        "Benin": [
+            4,
+            0.0
+        ],
+        "Moldova": [
+            4,
+            0.0
+        ],
+        "Paraguay": [
+            4,
+            0.0
+        ],
+        "Liberia": [
+            4,
+            0.0
+        ],
+        "Mali": [
+            4,
+            0.0
+        ],
+        "Lesotho": [
+            4,
+            0.0
+        ],
+        "Syria": [
+            4,
+            0.0
+        ],
+        "Central African Republic": [
+            2,
+            0.0
+        ],
+        "Guinea-Bissau": [
+            2,
+            0.0
+        ],
+        "Mongolia": [
+            2,
+            0.0
+        ],
+        "Hong Kong": [
+            2,
+            0.0
+        ],
+        "Gabon": [
+            2,
+            0.0
+        ],
+        "Libya": [
+            2,
+            0.0
+        ],
+        "Lebanon": [
+            2,
+            0.0
+        ],
+        "Bosnia and Herzegovina": [
+            2,
+            0.0
+        ],
+        "Zimbabwe": [
+            2,
+            0.0
+        ],
+        "Turkmenistan": [
+            2,
+            0.0
+        ],
+        "Switzerland": [
+            2,
+            0.0
+        ],
+        "Swaziland": [
+            2,
+            0.0
+        ],
+        "Eritrea": [
+            2,
+            0.0
+        ],
+        "Sri Lanka": [
+            2,
+            0.0
+        ],
+        "Sierra Leone": [
+            2,
+            0.0
+        ],
+        "Bulgaria": [
+            2,
+            0.0
+        ],
+        "Kyrgyzstan": [
+            2,
+            0.0
+        ],
+        "Barbados": [
+            2,
+            0.0
+        ],
+        "Czech Republic": [
+            2,
+            0.0
+        ],
+        "Burkina Faso": [
+            1,
+            0.0
+        ],
+        "Greece": [
+            1,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 4.2,
+        "Algeria": 1.78,
+        "Angola": 2.2,
+        "Argentina": 3.75,
+        "Australia": 3.78,
+        "Austria": 3.25,
+        "Azerbaijan": 2.33,
+        "Bangladesh": 4.5,
+        "Barbados": 1.0,
+        "Belgium": 4.78,
+        "Benin": 1.5,
+        "Bolivia": 5.33,
+        "Bosnia and Herzegovina": 1.0,
+        "Brazil": 3.87,
+        "Bulgaria": 4.0,
+        "Burkina Faso": 1.0,
+        "Cambodia": 2.5,
+        "Cameroon": 2.6,
+        "Canada": 2.21,
+        "Central African Republic": 4.0,
+        "Chile": 3.46,
+        "China": 3.77,
+        "Colombia": 3.05,
+        "Cote d'Ivoire": 1.17,
+        "Cuba": 3.77,
+        "Czech Republic": 1.0,
+        "C\u00f4te-d'Ivoire": 1.17,
+        "Democratic Republic of the Congo": 2.61,
+        "Denmark": 4.67,
+        "Dominican Republic": 3.81,
+        "Ecuador": 2.75,
+        "Egypt": 2.31,
+        "El Salvador": 3.69,
+        "Eritrea": 2.0,
+        "Finland": 4.0,
+        "France": 3.95,
+        "Gabon": 2.0,
+        "Germany": 3.5,
+        "Ghana": 3.67,
+        "Greece": 4.0,
+        "Guatemala": 4.38,
+        "Guinea-Bissau": 2.0,
+        "Haiti": 4.2,
+        "Honduras": 3.29,
+        "Hong Kong": 7.0,
+        "Hungary": 6.0,
+        "India": 3.8,
+        "Indonesia": 3.51,
+        "Iran": 2.06,
+        "Iraq": 2.0,
+        "Ireland": 5.75,
+        "Israel": 3.0,
+        "Italy": 3.96,
+        "Japan": 4.27,
+        "Jordan": 3.2,
+        "Kazakhstan": 1.0,
+        "Kenya": 1.67,
+        "Kyrgyzstan": 1.0,
+        "Lebanon": 1.0,
+        "Lesotho": 1.0,
+        "Liberia": 1.5,
+        "Libya": 6.0,
+        "Lithuania": 1.0,
+        "Madagascar": 2.67,
+        "Malaysia": 3.44,
+        "Mali": 1.0,
+        "Mexico": 3.98,
+        "Moldova": 6.0,
+        "Mongolia": 4.0,
+        "Morocco": 2.44,
+        "Mozambique": 1.0,
+        "Myanmar (Burma)": 3.75,
+        "Namibia": 3.5,
+        "Netherlands": 4.06,
+        "New Zealand": 3.17,
+        "Nicaragua": 3.81,
+        "Niger": 2.0,
+        "Nigeria": 2.0,
+        "Norway": 3.33,
+        "Pakistan": 3.62,
+        "Panama": 4.4,
+        "Papua New Guinea": 4.67,
+        "Paraguay": 4.0,
+        "Peru": 3.33,
+        "Philippines": 3.84,
+        "Poland": 2.38,
+        "Portugal": 6.0,
+        "Romania": 2.6,
+        "Russia": 2.0,
+        "Rwanda": 3.33,
+        "Saudi Arabia": 2.71,
+        "Senegal": 1.36,
+        "Sierra Leone": 1.0,
+        "Singapore": 2.5,
+        "Somalia": 1.0,
+        "South Africa": 1.97,
+        "South Korea": 3.8,
+        "Spain": 4.23,
+        "Sri Lanka": 3.0,
+        "Sudan": 3.67,
+        "Swaziland": 1.0,
+        "Sweden": 3.7,
+        "Switzerland": 2.0,
+        "Syria": 1.5,
+        "Tanzania": 1.56,
+        "Thailand": 4.71,
+        "Togo": 1.75,
+        "Trinidad and Tobago": 2.4,
+        "Turkey": 2.28,
+        "Turkmenistan": 1.0,
+        "Uganda": 1.5,
+        "Ukraine": 2.93,
+        "United Kingdom": 3.94,
+        "United States": 3.84,
+        "Uruguay": 3.0,
+        "Uzbekistan": 2.29,
+        "Venezuela": 3.18,
+        "Vietnam": 4.77,
+        "Zambia": 1.0,
+        "Zimbabwe": 1.0
+    },
+    "country_sales": {
+        "Afghanistan": 409.15,
+        "Algeria": 137.44,
+        "Angola": 319.53,
+        "Argentina": 125.33,
+        "Australia": 282.91,
+        "Austria": 348.51,
+        "Azerbaijan": 444.88,
+        "Bangladesh": 819.22,
+        "Barbados": 30.14,
+        "Belgium": 412.0,
+        "Benin": 87.18,
+        "Bolivia": 313.37,
+        "Bosnia and Herzegovina": 103.59,
+        "Brazil": 226.07,
+        "Bulgaria": 118.68,
+        "Burkina Faso": 256.56,
+        "Cambodia": 167.01,
+        "Cameroon": 295.61,
+        "Canada": 235.43,
+        "Central African Republic": 976.08,
+        "Chile": 246.58,
+        "China": 297.56,
+        "Colombia": 262.47,
+        "Cote d'Ivoire": 89.59,
+        "Cuba": 201.0,
+        "Czech Republic": 30.78,
+        "C\u00f4te-d'Ivoire": 89.59,
+        "Democratic Republic of the Congo": 173.43,
+        "Denmark": 151.22,
+        "Dominican Republic": 228.46,
+        "Ecuador": 181.37,
+        "Egypt": 231.72,
+        "El Salvador": 258.33,
+        "Eritrea": 169.92,
+        "Finland": 238.04,
+        "France": 381.0,
+        "Gabon": 513.12,
+        "Germany": 341.99,
+        "Ghana": 401.1,
+        "Greece": 159.0,
+        "Guatemala": 277.67,
+        "Guinea-Bissau": 517.92,
+        "Haiti": 86.48,
+        "Honduras": 138.11,
+        "Hong Kong": 372.12,
+        "Hungary": 977.1,
+        "India": 329.86,
+        "Indonesia": 164.89,
+        "Iran": 172.87,
+        "Iraq": 216.45,
+        "Ireland": 284.78,
+        "Israel": 211.65,
+        "Italy": 381.24,
+        "Japan": 402.06,
+        "Jordan": 168.62,
+        "Kazakhstan": 25.98,
+        "Kenya": 270.91,
+        "Kyrgyzstan": 29.28,
+        "Lebanon": 256.56,
+        "Lesotho": 86.07,
+        "Liberia": 79.47,
+        "Libya": 192.06,
+        "Lithuania": 19.98,
+        "Madagascar": 380.68,
+        "Malaysia": 337.4,
+        "Mali": 64.65,
+        "Mexico": 257.4,
+        "Moldova": 262.02,
+        "Mongolia": 458.4,
+        "Morocco": 272.81,
+        "Mozambique": 56.33,
+        "Myanmar (Burma)": 172.89,
+        "Namibia": 759.73,
+        "Netherlands": 164.08,
+        "New Zealand": 211.52,
+        "Nicaragua": 205.82,
+        "Niger": 129.71,
+        "Nigeria": 67.11,
+        "Norway": 189.86,
+        "Pakistan": 182.24,
+        "Panama": 137.25,
+        "Papua New Guinea": 125.86,
+        "Paraguay": 114.7,
+        "Peru": 92.65,
+        "Philippines": 165.96,
+        "Poland": 199.43,
+        "Portugal": 148.18,
+        "Romania": 162.44,
+        "Russia": 161.46,
+        "Rwanda": 200.95,
+        "Saudi Arabia": 292.0,
+        "Senegal": 91.38,
+        "Sierra Leone": 69.15,
+        "Singapore": 249.24,
+        "Somalia": 119.63,
+        "South Africa": 185.22,
+        "South Korea": 147.26,
+        "Spain": 588.53,
+        "Sri Lanka": 92.34,
+        "Sudan": 214.03,
+        "Swaziland": 83.67,
+        "Sweden": 206.46,
+        "Switzerland": 76.2,
+        "Syria": 102.72,
+        "Tanzania": 119.53,
+        "Thailand": 173.14,
+        "Togo": 79.8,
+        "Trinidad and Tobago": 49.49,
+        "Turkey": 77.43,
+        "Turkmenistan": 30.74,
+        "Uganda": 72.24,
+        "Ukraine": 299.26,
+        "United Kingdom": 337.39,
+        "United States": 215.97,
+        "Uruguay": 79.56,
+        "Uzbekistan": 293.44,
+        "Venezuela": 136.82,
+        "Vietnam": 261.02,
+        "Zambia": 110.79,
+        "Zimbabwe": 77.69
+    },
+    "country_unit_price": {
+        "Afghanistan": 97.42,
+        "Algeria": 77.31,
+        "Angola": 145.24,
+        "Argentina": 33.42,
+        "Australia": 74.85,
+        "Austria": 107.23,
+        "Azerbaijan": 190.66,
+        "Bangladesh": 182.05,
+        "Barbados": 30.14,
+        "Belgium": 86.23,
+        "Benin": 58.12,
+        "Bolivia": 58.76,
+        "Bosnia and Herzegovina": 103.59,
+        "Brazil": 58.47,
+        "Bulgaria": 29.67,
+        "Burkina Faso": 256.56,
+        "Cambodia": 66.8,
+        "Cameroon": 113.7,
+        "Canada": 106.5,
+        "Central African Republic": 244.02,
+        "Chile": 71.23,
+        "China": 78.83,
+        "Colombia": 86.18,
+        "Cote d'Ivoire": 76.8,
+        "Cuba": 53.28,
+        "Czech Republic": 30.78,
+        "C\u00f4te-d'Ivoire": 76.8,
+        "Democratic Republic of the Congo": 66.42,
+        "Denmark": 32.4,
+        "Dominican Republic": 59.99,
+        "Ecuador": 65.95,
+        "Egypt": 100.3,
+        "El Salvador": 69.96,
+        "Eritrea": 84.96,
+        "Finland": 59.51,
+        "France": 96.37,
+        "Gabon": 256.56,
+        "Germany": 97.71,
+        "Ghana": 109.39,
+        "Greece": 39.75,
+        "Guatemala": 63.42,
+        "Guinea-Bissau": 258.96,
+        "Haiti": 20.59,
+        "Honduras": 41.97,
+        "Hong Kong": 53.16,
+        "Hungary": 162.85,
+        "India": 86.72,
+        "Indonesia": 47.02,
+        "Iran": 84.03,
+        "Iraq": 108.22,
+        "Ireland": 49.53,
+        "Israel": 70.55,
+        "Italy": 96.26,
+        "Japan": 94.1,
+        "Jordan": 52.7,
+        "Kazakhstan": 25.98,
+        "Kenya": 162.55,
+        "Kyrgyzstan": 29.28,
+        "Lebanon": 256.56,
+        "Lesotho": 86.07,
+        "Liberia": 52.98,
+        "Libya": 32.01,
+        "Lithuania": 19.98,
+        "Madagascar": 142.76,
+        "Malaysia": 98.15,
+        "Mali": 64.65,
+        "Mexico": 64.66,
+        "Moldova": 43.67,
+        "Mongolia": 114.6,
+        "Morocco": 111.92,
+        "Mozambique": 56.33,
+        "Myanmar (Burma)": 46.1,
+        "Namibia": 217.07,
+        "Netherlands": 40.43,
+        "New Zealand": 66.66,
+        "Nicaragua": 54.03,
+        "Niger": 64.86,
+        "Nigeria": 33.56,
+        "Norway": 56.96,
+        "Pakistan": 50.27,
+        "Panama": 31.19,
+        "Papua New Guinea": 26.97,
+        "Paraguay": 28.67,
+        "Peru": 27.79,
+        "Philippines": 43.24,
+        "Poland": 83.97,
+        "Portugal": 24.7,
+        "Romania": 62.48,
+        "Russia": 80.73,
+        "Rwanda": 60.28,
+        "Saudi Arabia": 107.91,
+        "Senegal": 67.01,
+        "Sierra Leone": 69.15,
+        "Singapore": 99.7,
+        "Somalia": 119.63,
+        "South Africa": 94.18,
+        "South Korea": 38.75,
+        "Spain": 139.27,
+        "Sri Lanka": 30.78,
+        "Sudan": 58.37,
+        "Swaziland": 83.67,
+        "Sweden": 55.8,
+        "Switzerland": 38.1,
+        "Syria": 68.48,
+        "Tanzania": 76.84,
+        "Thailand": 36.73,
+        "Togo": 45.6,
+        "Trinidad and Tobago": 20.62,
+        "Turkey": 34.01,
+        "Turkmenistan": 30.74,
+        "Uganda": 48.16,
+        "Ukraine": 102.02,
+        "United Kingdom": 85.57,
+        "United States": 56.24,
+        "Uruguay": 26.52,
+        "Uzbekistan": 128.38,
+        "Venezuela": 43.0,
+        "Vietnam": 54.69,
+        "Zambia": 110.79,
+        "Zimbabwe": 77.69
+    },
+    "country_profit": {
+        "Afghanistan": 26.81,
+        "Algeria": 20.91,
+        "Angola": 18.21,
+        "Argentina": -5.26,
+        "Australia": 11.19,
+        "Austria": 22.6,
+        "Azerbaijan": 69.75,
+        "Bangladesh": 33.31,
+        "Barbados": 10.24,
+        "Belgium": 29.24,
+        "Benin": 1.38,
+        "Bolivia": 22.49,
+        "Bosnia and Herzegovina": 16.56,
+        "Brazil": 11.0,
+        "Bulgaria": 2.07,
+        "Burkina Faso": 107.73,
+        "Cambodia": 16.03,
+        "Cameroon": 30.78,
+        "Canada": 30.84,
+        "Central African Republic": 73.2,
+        "Chile": 22.26,
+        "China": 19.88,
+        "Colombia": 23.5,
+        "Cote d'Ivoire": 22.95,
+        "Cuba": 13.38,
+        "Czech Republic": 8.31,
+        "C\u00f4te-d'Ivoire": 22.95,
+        "Democratic Republic of the Congo": 11.5,
+        "Denmark": -20.25,
+        "Dominican Republic": 8.24,
+        "Ecuador": 6.23,
+        "Egypt": 14.4,
+        "El Salvador": 20.61,
+        "Eritrea": 36.51,
+        "Finland": 22.9,
+        "France": 21.06,
+        "Gabon": 107.73,
+        "Germany": 21.64,
+        "Ghana": 38.63,
+        "Greece": 1.59,
+        "Guatemala": 15.19,
+        "Guinea-Bissau": 121.71,
+        "Haiti": -5.03,
+        "Honduras": -9.05,
+        "Hong Kong": 15.39,
+        "Hungary": 13.42,
+        "India": 20.25,
+        "Indonesia": -18.23,
+        "Iran": 17.64,
+        "Iraq": 40.15,
+        "Ireland": -11.61,
+        "Israel": 6.89,
+        "Italy": 21.13,
+        "Japan": 25.25,
+        "Jordan": 13.43,
+        "Kazakhstan": -46.28,
+        "Kenya": 48.99,
+        "Kyrgyzstan": 13.17,
+        "Lebanon": 107.73,
+        "Lesotho": 24.36,
+        "Liberia": 17.98,
+        "Libya": 15.03,
+        "Lithuania": -29.73,
+        "Madagascar": 24.43,
+        "Malaysia": 34.07,
+        "Mali": 8.12,
+        "Mexico": 17.91,
+        "Moldova": 11.75,
+        "Mongolia": 17.19,
+        "Morocco": 35.02,
+        "Mozambique": 5.69,
+        "Myanmar (Burma)": -12.14,
+        "Namibia": 64.01,
+        "Netherlands": -28.57,
+        "New Zealand": -1.27,
+        "Nicaragua": 17.3,
+        "Niger": 19.31,
+        "Nigeria": -43.14,
+        "Norway": 15.18,
+        "Pakistan": -22.41,
+        "Panama": -8.52,
+        "Papua New Guinea": -23.87,
+        "Paraguay": 7.05,
+        "Peru": -4.5,
+        "Philippines": -15.46,
+        "Poland": 26.16,
+        "Portugal": -11.32,
+        "Romania": 12.25,
+        "Russia": 18.03,
+        "Rwanda": 20.78,
+        "Saudi Arabia": 18.51,
+        "Senegal": 16.19,
+        "Sierra Leone": 1.38,
+        "Singapore": 21.09,
+        "Somalia": 43.37,
+        "South Africa": 25.86,
+        "South Korea": -21.8,
+        "Spain": 41.89,
+        "Sri Lanka": 2.46,
+        "Sudan": 2.95,
+        "Swaziland": 27.6,
+        "Sweden": -21.45,
+        "Switzerland": 2.64,
+        "Syria": 28.88,
+        "Tanzania": 30.2,
+        "Thailand": -11.5,
+        "Togo": 7.39,
+        "Trinidad and Tobago": -21.17,
+        "Turkey": -30.11,
+        "Turkmenistan": -47.17,
+        "Uganda": -41.51,
+        "Ukraine": 16.18,
+        "United Kingdom": 20.89,
+        "United States": 14.09,
+        "Uruguay": 3.97,
+        "Uzbekistan": 25.21,
+        "Venezuela": -3.16,
+        "Vietnam": -29.66,
+        "Zambia": 17.42,
+        "Zimbabwe": -59.56
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.28,
+        "Algeria": 0.27,
+        "Angola": 0.13,
+        "Argentina": -0.16,
+        "Australia": 0.15,
+        "Austria": 0.21,
+        "Azerbaijan": 0.37,
+        "Bangladesh": 0.18,
+        "Barbados": 0.34,
+        "Belgium": 0.34,
+        "Benin": 0.02,
+        "Bolivia": 0.38,
+        "Bosnia and Herzegovina": 0.16,
+        "Brazil": 0.19,
+        "Bulgaria": 0.07,
+        "Burkina Faso": 0.42,
+        "Cambodia": 0.24,
+        "Cameroon": 0.27,
+        "Canada": 0.29,
+        "Central African Republic": 0.3,
+        "Chile": 0.31,
+        "China": 0.25,
+        "Colombia": 0.27,
+        "Cote d'Ivoire": 0.3,
+        "Cuba": 0.25,
+        "Czech Republic": 0.27,
+        "C\u00f4te-d'Ivoire": 0.3,
+        "Democratic Republic of the Congo": 0.17,
+        "Denmark": -0.62,
+        "Dominican Republic": 0.14,
+        "Ecuador": 0.09,
+        "Egypt": 0.14,
+        "El Salvador": 0.29,
+        "Eritrea": 0.43,
+        "Finland": 0.38,
+        "France": 0.22,
+        "Gabon": 0.42,
+        "Germany": 0.22,
+        "Ghana": 0.35,
+        "Greece": 0.04,
+        "Guatemala": 0.24,
+        "Guinea-Bissau": 0.47,
+        "Haiti": -0.24,
+        "Honduras": -0.22,
+        "Hong Kong": 0.29,
+        "Hungary": 0.08,
+        "India": 0.23,
+        "Indonesia": -0.39,
+        "Iran": 0.21,
+        "Iraq": 0.37,
+        "Ireland": -0.23,
+        "Israel": 0.1,
+        "Italy": 0.22,
+        "Japan": 0.27,
+        "Jordan": 0.25,
+        "Kazakhstan": -1.78,
+        "Kenya": 0.3,
+        "Kyrgyzstan": 0.45,
+        "Lebanon": 0.42,
+        "Lesotho": 0.28,
+        "Liberia": 0.34,
+        "Libya": 0.47,
+        "Lithuania": -1.49,
+        "Madagascar": 0.17,
+        "Malaysia": 0.35,
+        "Mali": 0.13,
+        "Mexico": 0.28,
+        "Moldova": 0.27,
+        "Mongolia": 0.15,
+        "Morocco": 0.31,
+        "Mozambique": 0.1,
+        "Myanmar (Burma)": -0.26,
+        "Namibia": 0.29,
+        "Netherlands": -0.71,
+        "New Zealand": -0.02,
+        "Nicaragua": 0.32,
+        "Niger": 0.3,
+        "Nigeria": -1.29,
+        "Norway": 0.27,
+        "Pakistan": -0.45,
+        "Panama": -0.27,
+        "Papua New Guinea": -0.88,
+        "Paraguay": 0.25,
+        "Peru": -0.16,
+        "Philippines": -0.36,
+        "Poland": 0.31,
+        "Portugal": -0.46,
+        "Romania": 0.2,
+        "Russia": 0.22,
+        "Rwanda": 0.34,
+        "Saudi Arabia": 0.17,
+        "Senegal": 0.24,
+        "Sierra Leone": 0.02,
+        "Singapore": 0.21,
+        "Somalia": 0.36,
+        "South Africa": 0.27,
+        "South Korea": -0.56,
+        "Spain": 0.3,
+        "Sri Lanka": 0.08,
+        "Sudan": 0.05,
+        "Swaziland": 0.33,
+        "Sweden": -0.38,
+        "Switzerland": 0.07,
+        "Syria": 0.42,
+        "Tanzania": 0.39,
+        "Thailand": -0.31,
+        "Togo": 0.16,
+        "Trinidad and Tobago": -1.03,
+        "Turkey": -0.89,
+        "Turkmenistan": -1.53,
+        "Uganda": -0.86,
+        "Ukraine": 0.16,
+        "United Kingdom": 0.24,
+        "United States": 0.25,
+        "Uruguay": 0.15,
+        "Uzbekistan": 0.2,
+        "Venezuela": -0.07,
+        "Vietnam": -0.54,
+        "Zambia": 0.16,
+        "Zimbabwe": -0.77
+    },
+    "top_10_states": {
+        "California": [
+            294,
+            0.05
+        ],
+        "Texas": [
+            162,
+            0.03
+        ],
+        "New York": [
+            152,
+            0.02
+        ],
+        "England": [
+            130,
+            0.02
+        ],
+        "New South Wales": [
+            112,
+            0.02
+        ],
+        "Washington": [
+            106,
+            0.02
+        ],
+        "Queensland": [
+            104,
+            0.02
+        ],
+        "Ile-de-France": [
+            92,
+            0.01
+        ],
+        "Pennsylvania": [
+            90,
+            0.01
+        ],
+        "San Salvador": [
+            90,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        294,
+        162,
+        152,
+        130,
+        112,
+        106,
+        104,
+        92,
+        90,
+        90
+    ],
+    "top_10_cities": {
+        "New York City": [
+            128,
+            0.02
+        ],
+        "Los Angeles": [
+            116,
+            0.02
+        ],
+        "Seattle": [
+            90,
+            0.01
+        ],
+        "Philadelphia": [
+            88,
+            0.01
+        ],
+        "San Francisco": [
+            84,
+            0.01
+        ],
+        "Santo Domingo": [
+            56,
+            0.01
+        ],
+        "Tegucigalpa": [
+            54,
+            0.01
+        ],
+        "Houston": [
+            52,
+            0.01
+        ],
+        "Manila": [
+            48,
+            0.01
+        ],
+        "Managua": [
+            46,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        128,
+        116,
+        90,
+        88,
+        84,
+        56,
+        54,
+        52,
+        48,
+        46
+    ],
+    "yearly_sales": {
+        "2011": 113456.0076,
+        "2012": 172397.685,
+        "2013": 209895.1623,
+        "2014": 366944.1712,
+        "2015": 172397.685,
+        "2016": 209895.1623,
+        "2017": 253488.1636
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 7438.0190999999995,
+            "2012": 7473.416200000001,
+            "2013": 9932.2068,
+            "2014": 22667.774400000002,
+            "2015": 7473.4162,
+            "2016": 9932.2068,
+            "2017": 15480.4993
+        },
+        "August": {
+            "2011": 9816.0745,
+            "2012": 17307.7733,
+            "2013": 19605.431500000002,
+            "2014": 43213.2494,
+            "2015": 17307.7733,
+            "2016": 19605.4315,
+            "2017": 33420.3409
+        },
+        "December": {
+            "2011": 18158.7707,
+            "2012": 27198.5662,
+            "2013": 21705.5031,
+            "2014": 42996.8576,
+            "2015": 27198.5662,
+            "2016": 21705.503099999998,
+            "2017": 26710.6269
+        },
+        "February": {
+            "2011": 3693.3685,
+            "2012": 10015.0496,
+            "2013": 8899.795900000001,
+            "2014": 21144.4549,
+            "2015": 9656.7596,
+            "2016": 8899.7959,
+            "2017": 15828.9444
+        },
+        "January": {
+            "2011": 3284.4808000000003,
+            "2012": 6182.8366000000005,
+            "2013": 7804.039,
+            "2014": 14093.318800000001,
+            "2015": 6541.1266,
+            "2016": 7804.039,
+            "2017": 10808.838
+        },
+        "July": {
+            "2011": 7396.873500000001,
+            "2012": 12398.1465,
+            "2013": 12243.4605,
+            "2014": 26984.9645,
+            "2015": 12398.1465,
+            "2016": 12243.4605,
+            "2017": 19207.925
+        },
+        "June": {
+            "2011": 14742.974199999999,
+            "2012": 18469.3037,
+            "2013": 21715.8503,
+            "2014": 36257.8948,
+            "2015": 18469.3037,
+            "2016": 21715.8503,
+            "2017": 23269.2306
+        },
+        "March": {
+            "2011": 5715.281,
+            "2012": 8691.979,
+            "2013": 12514.382,
+            "2014": 14172.9489,
+            "2015": 8691.979,
+            "2016": 12514.382,
+            "2017": 9829.0659
+        },
+        "May": {
+            "2011": 10620.306,
+            "2012": 10647.1006,
+            "2013": 12693.8718,
+            "2014": 29251.5176,
+            "2015": 10647.1006,
+            "2016": 12693.8718,
+            "2017": 16876.9016
+        },
+        "November": {
+            "2011": 13312.4434,
+            "2012": 20026.038800000002,
+            "2013": 29434.6283,
+            "2014": 46121.5552,
+            "2015": 20026.038800000002,
+            "2016": 29434.6283,
+            "2017": 33387.5598
+        },
+        "October": {
+            "2011": 8475.3118,
+            "2012": 16287.7873,
+            "2013": 22636.0296,
+            "2014": 28031.5944,
+            "2015": 16287.7873,
+            "2016": 22636.0296,
+            "2017": 18121.9346
+        },
+        "September": {
+            "2011": 10802.1041,
+            "2012": 17699.6872,
+            "2013": 30709.9635,
+            "2014": 42008.0407,
+            "2015": 17699.6872,
+            "2016": 30709.963499999998,
+            "2017": 30546.2966
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 3.9,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Belkin Router, USB": 46940.816,
+        "Memorex Router, Erganomic": 43777.188,
+        "Belkin Router, Erganomic": 39777.0624,
+        "Memorex Router, USB": 39213.636,
+        "Memorex Router, Bluetooth": 34636.8228,
+        "Enermax Router, Erganomic": 28462.276800000003,
+        "SanDisk Router, Bluetooth": 28015.637,
+        "Logitech Router, USB": 25919.691400000003,
+        "Belkin Router, Bluetooth": 25754.25,
+        "Enermax Router, Bluetooth": 25154.4532
+    },
+    "top_10_products_by_profit": {
+        "Belkin Router, USB": 17910.036,
+        "Memorex Router, Erganomic": 14936.368,
+        "Memorex Router, Bluetooth": 9846.4828,
+        "SanDisk Router, Bluetooth": 8653.757000000001,
+        "Plantronics Savi W720 Multi-Device Wireless Headset System": 7392.564,
+        "SanDisk Router, USB": 6489.071199999999,
+        "Memorex Router, Programmable": 6379.275,
+        "Plantronics CS510 - Over-the-Head monaural Wireless Headset System": 6170.064999999999,
+        "SanDisk Router, Erganomic": 6003.252,
+        "Logitech Router, USB": 5812.7114
+    },
+    "top_10_products_by_turnover": {
+        "Enermax Numeric Keypad, Bluetooth": 334,
+        "SanDisk Numeric Keypad, Bluetooth": 260,
+        "Memorex Numeric Keypad, Bluetooth": 242,
+        "Enermax Memory Card, USB": 240,
+        "Memorex Router, Erganomic": 222,
+        "Belkin Router, USB": 220,
+        "Belkin Numeric Keypad, Bluetooth": 216,
+        "SanDisk Keyboard, Programmable": 208,
+        "Belkin Router, Erganomic": 198,
+        "Memorex Router, USB": 198
+    },
+    "top_5_loss_products": {
+        "Logitech Router, Bluetooth": -5392.3224,
+        "Belkin Router, Erganomic": -3989.737600000001,
+        "Memorex Router, USB": -3504.592,
+        "SanDisk Router, Programmable": -3244.3769999999995,
+        "Enermax Router, Erganomic": -3057.1352000000006
+    },
+    "product_performance": [
+        {
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 46940.816,
+            "total_quantity": 220,
+            "average_price": 733.45025,
+            "total_profit": 17910.036,
+            "profit_margin": 0.3815450502607369
+        },
+        {
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 43777.188,
+            "total_quantity": 222,
+            "average_price": 875.54376,
+            "total_profit": 14936.368,
+            "profit_margin": 0.3411906676143749
+        },
+        {
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 39777.0624,
+            "total_quantity": 198,
+            "average_price": 864.718747826087,
+            "total_profit": 3889.942399999999,
+            "profit_margin": 0.0977936067998827
+        },
+        {
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 39213.636,
+            "total_quantity": 198,
+            "average_price": 1153.3422352941177,
+            "total_profit": 1257.996,
+            "profit_margin": 0.032080575236634525
+        },
+        {
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 34636.8228,
+            "total_quantity": 192,
+            "average_price": 787.2005181818182,
+            "total_profit": 9846.4828,
+            "profit_margin": 0.2842778870583938
+        },
+        {
+            "Product Name": "Enermax Router, Erganomic",
+            "total_sales": 28462.276800000003,
+            "total_quantity": 142,
+            "average_price": 677.6732571428572,
+            "total_profit": 3379.7567999999997,
+            "profit_margin": 0.11874513145062236
+        },
+        {
+            "Product Name": "SanDisk Router, Bluetooth",
+            "total_sales": 28015.637,
+            "total_quantity": 162,
+            "average_price": 636.7190227272727,
+            "total_profit": 8653.757000000001,
+            "profit_margin": 0.30889024582949876
+        },
+        {
+            "Product Name": "Logitech Router, USB",
+            "total_sales": 25919.691400000003,
+            "total_quantity": 134,
+            "average_price": 647.992285,
+            "total_profit": 5812.7114,
+            "profit_margin": 0.22425851104076028
+        },
+        {
+            "Product Name": "Belkin Router, Bluetooth",
+            "total_sales": 25754.25,
+            "total_quantity": 118,
+            "average_price": 757.4779411764706,
+            "total_profit": 691.2900000000001,
+            "profit_margin": 0.02684178339497365
+        },
+        {
+            "Product Name": "Enermax Router, Bluetooth",
+            "total_sales": 25154.4532,
+            "total_quantity": 128,
+            "average_price": 739.8368588235294,
+            "total_profit": 2360.2532,
+            "profit_margin": 0.09383043158338263
+        },
+        {
+            "Product Name": "Logitech Router, Bluetooth",
+            "total_sales": 24529.1976,
+            "total_quantity": 138,
+            "average_price": 584.0285142857143,
+            "total_profit": -2831.2824,
+            "profit_margin": -0.11542499050193146
+        },
+        {
+            "Product Name": "SanDisk Router, USB",
+            "total_sales": 22069.2912,
+            "total_quantity": 112,
+            "average_price": 580.7708210526316,
+            "total_profit": 6489.071199999999,
+            "profit_margin": 0.2940316995771935
+        },
+        {
+            "Product Name": "Plantronics CS510 - Over-the-Head monaural Wireless Headset System",
+            "total_sales": 21644.72,
+            "total_quantity": 70,
+            "average_price": 1082.236,
+            "total_profit": 6170.064999999999,
+            "profit_margin": 0.285060975609756
+        },
+        {
+            "Product Name": "Enermax Memory Card, USB",
+            "total_sales": 21049.728,
+            "total_quantity": 240,
+            "average_price": 362.9263448275862,
+            "total_profit": 1144.5280000000002,
+            "profit_margin": 0.05437257906610481
+        },
+        {
+            "Product Name": "Logitech Router, Erganomic",
+            "total_sales": 20852.392,
+            "total_quantity": 100,
+            "average_price": 651.63725,
+            "total_profit": 4273.032,
+            "profit_margin": 0.2049180736675198
+        },
+        {
+            "Product Name": "Enermax Router, USB",
+            "total_sales": 20466.026400000002,
+            "total_quantity": 94,
+            "average_price": 730.9295142857144,
+            "total_profit": 3732.6864,
+            "profit_margin": 0.18238451993788105
+        },
+        {
+            "Product Name": "Logitech\u00a0P710e Mobile Speakerphone",
+            "total_sales": 20393.208,
+            "total_quantity": 82,
+            "average_price": 1132.956,
+            "total_profit": 3290.7221999999992,
+            "profit_margin": 0.16136363636363635
+        },
+        {
+            "Product Name": "SanDisk Router, Erganomic",
+            "total_sales": 19960.032,
+            "total_quantity": 82,
+            "average_price": 554.4453333333333,
+            "total_profit": 6003.252,
+            "profit_margin": 0.3007636460703069
+        },
+        {
+            "Product Name": "Memorex Router, Programmable",
+            "total_sales": 18949.815,
+            "total_quantity": 86,
+            "average_price": 728.8390384615384,
+            "total_profit": 6379.275,
+            "profit_margin": 0.33664048963010984
+        },
+        {
+            "Product Name": "SanDisk Router, Programmable",
+            "total_sales": 18800.703,
+            "total_quantity": 104,
+            "average_price": 494.7553421052632,
+            "total_profit": 295.6830000000001,
+            "profit_margin": 0.015727231050881453
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 219.618,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 3335.2800000000007,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 103.58400000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 73.20600000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 345.2800000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 738.6299999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1952.16,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.0800000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 196.968,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.2400000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 325.36,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 985.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1294.8000000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 2475.8040000000005,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 820.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1795.9200000000003,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1034.964,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 276.22400000000005,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1899.04,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1314.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1282.8000000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 488.0400000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 738.63,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1314.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1223.7912,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 776.8800000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 2602.88,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08000000000004,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 820.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1208.4800000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.9200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 2297.96,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1601.73,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.9200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.2400000000002,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1035.84,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 466.12800000000004,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 246.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1976.562,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 2217.78,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.2400000000002,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 492.4200000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 260.28800000000007,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 258.96000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 2052.4800000000005,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 621.5040000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 641.4000000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 3573.6480000000006,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1723.47,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1553.7600000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 3009.58,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 4454.112000000001,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1247.464,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1626.8000000000002,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 492.84,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1034.0819999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 307.87200000000007,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 344.988,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 219.618,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 684.1600000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 3677.3599999999997,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1139.424,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 561.246,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1774.2240000000002,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08000000000004,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 940.888,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 4983.2904,
+            "total_quantity": 27
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1952.16,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 394.272,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 102.62400000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 3741.64,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 513.1200000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1294.8000000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 689.388,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 4435.56,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.24,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 776.8800000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1057.42,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 513.1200000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 246.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 985.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1795.92,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1812.72,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 993.047,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1464.12,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1535.0840000000003,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 345.2800000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 984.84,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 820.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1795.92,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1034.964,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 276.224,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1899.04,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1314.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1282.8,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 488.04,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 738.63,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1314.24,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1223.7912,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 776.88,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 2602.88,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 820.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1208.48,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.92,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 2297.96,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1601.73,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.92,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1035.84,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 466.128,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 246.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1976.562,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 2217.78,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 1026.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 492.42,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 260.288,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 258.96,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 2052.48,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 621.504,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 641.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 3573.648,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1723.47,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1553.76,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 3009.58,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 4454.112,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1247.464,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1626.8,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 492.84,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 1034.0819999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1232.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 307.872,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 344.988,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 684.16,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 976.08,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1035.84,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 488.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 1774.224,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 342.08,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 595.608,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 4244.6604,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 394.272,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 102.624,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 2765.56,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 513.12,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 1294.8,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 492.42,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Memorex Router, USB",
+            "total_sales": 4435.56,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 776.88,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 732.06,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 513.12,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 246.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 517.92,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 993.047,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Memorex Router, Erganomic",
+            "total_sales": 1464.12,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Belkin Router, Erganomic",
+            "total_sales": 855.2,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Belkin Router, USB",
+            "total_sales": 345.28,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Memorex Router, Bluetooth",
+            "total_sales": 984.84,
+            "total_quantity": 4
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-12",
+            "Order Count": 208
+        },
+        {
+            "Order Month": "2014-11",
+            "Order Count": 197
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 188
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 160
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 148
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 134
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 130
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 129
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 124
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 117
+        },
+        {
+            "Order Month": "2016-11",
+            "Order Count": 112
+        },
+        {
+            "Order Month": "2013-11",
+            "Order Count": 112
+        },
+        {
+            "Order Month": "2017-08",
+            "Order Count": 110
+        },
+        {
+            "Order Month": "2014-07",
+            "Order Count": 108
+        },
+        {
+            "Order Month": "2016-09",
+            "Order Count": 105
+        },
+        {
+            "Order Month": "2013-09",
+            "Order Count": 105
+        },
+        {
+            "Order Month": "2013-12",
+            "Order Count": 102
+        },
+        {
+            "Order Month": "2016-12",
+            "Order Count": 102
+        },
+        {
+            "Order Month": "2014-04",
+            "Order Count": 96
+        },
+        {
+            "Order Month": "2015-11",
+            "Order Count": 89
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 3284.4808000000003,
+            "Quantity": 48,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 3693.3685,
+            "Quantity": 60,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 5715.281,
+            "Quantity": 87,
+            "Sales_MA": 4231.043433333333
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 7438.0190999999995,
+            "Quantity": 127,
+            "Sales_MA": 5615.556199999999
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 10620.306,
+            "Quantity": 133,
+            "Sales_MA": 7924.535366666667
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 14742.974199999999,
+            "Quantity": 212,
+            "Sales_MA": 10933.766433333332
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 7396.873500000001,
+            "Quantity": 120,
+            "Sales_MA": 10920.051233333334
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 9816.0745,
+            "Quantity": 216,
+            "Sales_MA": 10651.974066666668
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 10802.1041,
+            "Quantity": 198,
+            "Sales_MA": 9338.3507
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 8475.3118,
+            "Quantity": 130,
+            "Sales_MA": 9697.830133333335
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 13312.4434,
+            "Quantity": 210,
+            "Sales_MA": 10863.286433333333
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 18158.7707,
+            "Quantity": 298,
+            "Sales_MA": 13315.508633333333
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 6182.8366000000005,
+            "Quantity": 91,
+            "Sales_MA": 12551.350233333333
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 10015.0496,
+            "Quantity": 155,
+            "Sales_MA": 11452.218966666667
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 8691.979,
+            "Quantity": 128,
+            "Sales_MA": 8296.621733333333
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 7473.416200000001,
+            "Quantity": 137,
+            "Sales_MA": 8726.814933333333
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 10647.1006,
+            "Quantity": 146,
+            "Sales_MA": 8937.4986
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 18469.3037,
+            "Quantity": 235,
+            "Sales_MA": 12196.606833333333
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 12398.1465,
+            "Quantity": 150,
+            "Sales_MA": 13838.183600000002
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 17307.7733,
+            "Quantity": 265,
+            "Sales_MA": 16058.407833333336
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 17699.6872,
+            "Quantity": 241,
+            "Sales_MA": 15801.869
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 16287.7873,
+            "Quantity": 245,
+            "Sales_MA": 17098.415933333334
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 20026.038800000002,
+            "Quantity": 302,
+            "Sales_MA": 18004.504433333335
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 27198.5662,
+            "Quantity": 325,
+            "Sales_MA": 21170.797433333337
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 7804.039,
+            "Quantity": 120,
+            "Sales_MA": 18342.881333333335
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 8899.795900000001,
+            "Quantity": 113,
+            "Sales_MA": 14634.1337
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 12514.382,
+            "Quantity": 177,
+            "Sales_MA": 9739.405633333334
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 9932.2068,
+            "Quantity": 188,
+            "Sales_MA": 10448.7949
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 12693.8718,
+            "Quantity": 201,
+            "Sales_MA": 11713.486866666666
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 21715.8503,
+            "Quantity": 296,
+            "Sales_MA": 14780.642966666666
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 12243.4605,
+            "Quantity": 201,
+            "Sales_MA": 15551.060866666667
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 19605.431500000002,
+            "Quantity": 264,
+            "Sales_MA": 17854.914099999998
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 30709.9635,
+            "Quantity": 336,
+            "Sales_MA": 20852.951833333336
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 22636.0296,
+            "Quantity": 266,
+            "Sales_MA": 24317.14153333333
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 29434.6283,
+            "Quantity": 426,
+            "Sales_MA": 27593.54046666667
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 21705.5031,
+            "Quantity": 379,
+            "Sales_MA": 24592.05366666667
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 14093.318800000001,
+            "Quantity": 229,
+            "Sales_MA": 21744.4834
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 21144.4549,
+            "Quantity": 268,
+            "Sales_MA": 18981.09226666667
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 14172.9489,
+            "Quantity": 277,
+            "Sales_MA": 16470.240866666667
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 22667.774400000002,
+            "Quantity": 315,
+            "Sales_MA": 19328.392733333334
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 29251.5176,
+            "Quantity": 435,
+            "Sales_MA": 22030.74696666667
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 36257.8948,
+            "Quantity": 529,
+            "Sales_MA": 29392.3956
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 26984.9645,
+            "Quantity": 379,
+            "Sales_MA": 30831.45896666667
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 43213.2494,
+            "Quantity": 579,
+            "Sales_MA": 35485.36956666667
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 42008.0407,
+            "Quantity": 657,
+            "Sales_MA": 37402.084866666664
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 28031.5944,
+            "Quantity": 428,
+            "Sales_MA": 37750.961500000005
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 46121.5552,
+            "Quantity": 715,
+            "Sales_MA": 38720.39676666667
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 42996.8576,
+            "Quantity": 748,
+            "Sales_MA": 39050.002400000005
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 6541.1266,
+            "Quantity": 99,
+            "Sales_MA": 31886.513133333337
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 9656.7596,
+            "Quantity": 147,
+            "Sales_MA": 19731.58126666667
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 8691.979,
+            "Quantity": 128,
+            "Sales_MA": 8296.621733333335
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 7473.4162,
+            "Quantity": 137,
+            "Sales_MA": 8607.384933333335
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 10647.1006,
+            "Quantity": 146,
+            "Sales_MA": 8937.4986
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 18469.3037,
+            "Quantity": 235,
+            "Sales_MA": 12196.606833333337
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 12398.1465,
+            "Quantity": 150,
+            "Sales_MA": 13838.183600000004
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 17307.7733,
+            "Quantity": 265,
+            "Sales_MA": 16058.407833333338
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 17699.6872,
+            "Quantity": 241,
+            "Sales_MA": 15801.869000000004
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 16287.7873,
+            "Quantity": 245,
+            "Sales_MA": 17098.415933333337
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 20026.038800000002,
+            "Quantity": 302,
+            "Sales_MA": 18004.504433333335
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 27198.5662,
+            "Quantity": 325,
+            "Sales_MA": 21170.797433333337
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 7804.039,
+            "Quantity": 120,
+            "Sales_MA": 18342.88133333334
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 8899.7959,
+            "Quantity": 113,
+            "Sales_MA": 14634.1337
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 12514.382,
+            "Quantity": 177,
+            "Sales_MA": 9739.405633333336
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 9932.2068,
+            "Quantity": 188,
+            "Sales_MA": 10448.7949
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 12693.8718,
+            "Quantity": 201,
+            "Sales_MA": 11713.486866666668
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 21715.8503,
+            "Quantity": 296,
+            "Sales_MA": 14780.642966666668
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 12243.4605,
+            "Quantity": 201,
+            "Sales_MA": 15551.060866666669
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 19605.4315,
+            "Quantity": 264,
+            "Sales_MA": 17854.9141
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 30709.963499999998,
+            "Quantity": 336,
+            "Sales_MA": 20852.951833333336
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 22636.0296,
+            "Quantity": 266,
+            "Sales_MA": 24317.14153333333
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 29434.6283,
+            "Quantity": 426,
+            "Sales_MA": 27593.54046666667
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 21705.503099999998,
+            "Quantity": 379,
+            "Sales_MA": 24592.05366666667
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 10808.838,
+            "Quantity": 181,
+            "Sales_MA": 20649.656466666667
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 15828.9444,
+            "Quantity": 200,
+            "Sales_MA": 16114.428500000002
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 9829.0659,
+            "Quantity": 192,
+            "Sales_MA": 12155.616100000001
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 15480.4993,
+            "Quantity": 194,
+            "Sales_MA": 13712.836533333335
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 16876.9016,
+            "Quantity": 274,
+            "Sales_MA": 14062.155600000004
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 23269.2306,
+            "Quantity": 345,
+            "Sales_MA": 18542.2105
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 19207.925,
+            "Quantity": 248,
+            "Sales_MA": 19784.685733333336
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 33420.3409,
+            "Quantity": 371,
+            "Sales_MA": 25299.165500000003
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 30546.2966,
+            "Quantity": 458,
+            "Sales_MA": 27724.85416666667
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 18121.9346,
+            "Quantity": 289,
+            "Sales_MA": 27362.857366666674
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 33387.5598,
+            "Quantity": 508,
+            "Sales_MA": 27351.930333333337
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 26710.6269,
+            "Quantity": 460,
+            "Sales_MA": 26073.37376666667
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Sally Hughsby",
+            "total_spent": 10170.464,
+            "purchase_frequency": 14,
+            "average_order_value": 726.4617142857143
+        },
+        {
+            "Customer Name": "Kelly Collister",
+            "total_spent": 9308.46,
+            "purchase_frequency": 10,
+            "average_order_value": 775.7049999999999
+        },
+        {
+            "Customer Name": "Jason Fortune-",
+            "total_spent": 9189.604,
+            "purchase_frequency": 16,
+            "average_order_value": 574.35025
+        },
+        {
+            "Customer Name": "Matthew Clasen",
+            "total_spent": 9104.86,
+            "purchase_frequency": 16,
+            "average_order_value": 569.05375
+        },
+        {
+            "Customer Name": "Harry Marie",
+            "total_spent": 8043.0018,
+            "purchase_frequency": 10,
+            "average_order_value": 804.30018
+        },
+        {
+            "Customer Name": "Rick Hansen",
+            "total_spent": 7866.812,
+            "purchase_frequency": 10,
+            "average_order_value": 786.6812
+        },
+        {
+            "Customer Name": "Jim Karlsson",
+            "total_spent": 7423.665,
+            "purchase_frequency": 14,
+            "average_order_value": 463.9790625
+        },
+        {
+            "Customer Name": "Gary Zandusky",
+            "total_spent": 7404.360000000001,
+            "purchase_frequency": 8,
+            "average_order_value": 740.436
+        },
+        {
+            "Customer Name": "Jill Fjeld",
+            "total_spent": 7333.3679999999995,
+            "purchase_frequency": 14,
+            "average_order_value": 523.812
+        },
+        {
+            "Customer Name": "Dennis Kane",
+            "total_spent": 7251.436,
+            "purchase_frequency": 16,
+            "average_order_value": 453.21475
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 1108784.72,
+            "total_quantity": 13960,
+            "average_profit": 75.6296
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 106439.778,
+            "total_quantity": 1332,
+            "average_profit": 55.6714
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 119494.832,
+            "total_quantity": 2640,
+            "average_profit": 23.1406
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 54435.084,
+            "total_quantity": 1398,
+            "average_profit": -31.2269
+        },
+        {
+            "Discount": 0.45,
+            "total_sales": 12281.247,
+            "total_quantity": 284,
+            "average_profit": -59.3486
+        },
+        {
+            "Discount": 0.47,
+            "total_sales": 43832.802,
+            "total_quantity": 928,
+            "average_profit": -75.9036
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 32133.96,
+            "total_quantity": 672,
+            "average_profit": -114.9255
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 14764.792,
+            "total_quantity": 482,
+            "average_profit": -75.8498
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 6306.822,
+            "total_quantity": 196,
+            "average_profit": -74.8713
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 36926.1,
+            "total_quantity": 472,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 34211.82,
+            "total_quantity": 482,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "Washington",
+            "City": "Seattle",
+            "total_sales": 26175.96,
+            "total_quantity": 332,
+            "Location": "Washington, Seattle"
+        },
+        {
+            "State": "Ile-de-France",
+            "City": "Paris",
+            "total_sales": 15333.48,
+            "total_quantity": 120,
+            "Location": "Ile-de-France, Paris"
+        },
+        {
+            "State": "Pennsylvania",
+            "City": "Philadelphia",
+            "total_sales": 14555.104,
+            "total_quantity": 274,
+            "Location": "Pennsylvania, Philadelphia"
+        },
+        {
+            "State": "California",
+            "City": "San Diego",
+            "total_sales": 13027.960000000001,
+            "total_quantity": 144,
+            "Location": "California, San Diego"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "total_sales": 12648.32,
+            "total_quantity": 278,
+            "Location": "California, San Francisco"
+        },
+        {
+            "State": "Queensland",
+            "City": "Brisbane",
+            "total_sales": 10376.316,
+            "total_quantity": 98,
+            "Location": "Queensland, Brisbane"
+        },
+        {
+            "State": "Vienna",
+            "City": "Vienna",
+            "total_sales": 10159.8,
+            "total_quantity": 88,
+            "Location": "Vienna, Vienna"
+        },
+        {
+            "State": "San Salvador",
+            "City": "San Salvador",
+            "total_sales": 10152.0,
+            "total_quantity": 122,
+            "Location": "San Salvador, San Salvador"
+        },
+        {
+            "State": "Santo Domingo",
+            "City": "Santo Domingo",
+            "total_sales": 9974.432,
+            "total_quantity": 210,
+            "Location": "Santo Domingo, Santo Domingo"
+        },
+        {
+            "State": "Madrid",
+            "City": "Madrid",
+            "total_sales": 9561.18,
+            "total_quantity": 60,
+            "Location": "Madrid, Madrid"
+        },
+        {
+            "State": "Dhaka",
+            "City": "Dhaka",
+            "total_sales": 9094.44,
+            "total_quantity": 44,
+            "Location": "Dhaka, Dhaka"
+        },
+        {
+            "State": "South Australia",
+            "City": "Adelaide",
+            "total_sales": 9025.56,
+            "total_quantity": 114,
+            "Location": "South Australia, Adelaide"
+        },
+        {
+            "State": "New South Wales",
+            "City": "Newcastle",
+            "total_sales": 8929.655999999999,
+            "total_quantity": 78,
+            "Location": "New South Wales, Newcastle"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 862,
+            "avg_shipping_delay": 2.21,
+            "total_profit": 35007.88,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 314,
+            "avg_shipping_delay": 0.06,
+            "total_profit": 14956.56,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 1200,
+            "avg_shipping_delay": 3.26,
+            "total_profit": 58952.63,
+            "shipping_cost_ratio": 0.13
+        },
+        "Standard Class": {
+            "total_orders": 3408,
+            "avg_shipping_delay": 4.95,
+            "total_profit": 150335.54,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.09,
+            "ship_mode_distribution": {
+                "First Class": 0.4449152542372881,
+                "Second Class": 0.3898305084745763,
+                "Same Day": 0.1652542372881356
+            }
+        },
+        "High": {
+            "avg_profit_margin": 0.09,
+            "ship_mode_distribution": {
+                "Standard Class": 0.44364754098360654,
+                "Second Class": 0.2510245901639344,
+                "First Class": 0.22336065573770492,
+                "Same Day": 0.08196721311475409
+            }
+        },
+        "Low": {
+            "avg_profit_margin": 0.05,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": 0.09,
+            "ship_mode_distribution": {
+                "Standard Class": 0.7226404169079328,
+                "Second Class": 0.17429067747539084,
+                "First Class": 0.07759119861030689,
+                "Same Day": 0.025477707006369428
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 832.0,
+            "frequency": 1.0,
+            "monetary": 189.3491
+        },
+        "customer_distribution": {
+            "Promising Customers": 1049,
+            "Lost Customers": 749,
+            "Big Spenders": 711,
+            "At-Risk Customers": 668,
+            "Hibernating Customers": 414,
+            "VIP": 121,
+            "Slipping Away": 86,
+            "Loyal Customers": 30
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3828,
+        "churned_customers": 2878,
+        "churn_rate": 0.7518286311389759,
+        "avg_recency": 841.4239811912225,
+        "avg_frequency": 1.6065830721003134,
+        "avg_monetary": 391.45089785788923,
+        "churned_customer_characteristics": {
+            "avg_recency": 1069.6382904794996,
+            "avg_frequency": 1.7480889506601807,
+            "avg_monetary": 425.5913260597637,
+            "avg_discount": 0.12677988875652185,
+            "avg_quantity": 3.4387334954829742,
+            "avg_shipping_cost": 26.643686288427812,
+            "avg_profit": 40.07570976708914
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 150.05473684210526,
+            "avg_frequency": 1.1778947368421053,
+            "avg_monetary": 288.02336905263155,
+            "avg_discount": 0.12250526315789474,
+            "avg_quantity": 3.58719298245614,
+            "avg_shipping_cost": 26.420080701754383,
+            "avg_profit": 36.687527921052634
+        }
+    }
+}

@@ -1,0 +1,3540 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            1798,
+            0.51
+        ],
+        "Corporate": [
+            1109,
+            0.32
+        ],
+        "Home Office": [
+            590,
+            0.17
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.48,
+        "Corporate": 3.35,
+        "Home Office": 3.61
+    },
+    "segment_unit_price": {
+        "Consumer": 163.11,
+        "Corporate": 170.8,
+        "Home Office": 171.89
+    },
+    "segment_profit": {
+        "Consumer": 20.97,
+        "Corporate": 28.09,
+        "Home Office": 22.35
+    },
+    "segment_discount": {
+        "Consumer": 0.15,
+        "Corporate": 0.14,
+        "Home Office": 0.12
+    },
+    "region_distribution": {
+        "Central": [
+            408,
+            0.12
+        ],
+        "South": [
+            238,
+            0.07
+        ],
+        "Oceania": [
+            214,
+            0.06
+        ],
+        "Western Europe": [
+            184,
+            0.05
+        ],
+        "Central America": [
+            182,
+            0.05
+        ],
+        "EMEA": [
+            154,
+            0.04
+        ],
+        "Africa": [
+            146,
+            0.04
+        ],
+        "North": [
+            140,
+            0.04
+        ],
+        "West": [
+            136,
+            0.04
+        ],
+        "Western US": [
+            130,
+            0.04
+        ],
+        "East": [
+            126,
+            0.04
+        ],
+        "Eastern US": [
+            124,
+            0.04
+        ],
+        "Central US": [
+            121,
+            0.03
+        ],
+        "Southeast Asia": [
+            108,
+            0.03
+        ],
+        "Southeastern Asia": [
+            108,
+            0.03
+        ],
+        "Caribbean": [
+            106,
+            0.03
+        ],
+        "South America": [
+            88,
+            0.03
+        ],
+        "Western Asia": [
+            80,
+            0.02
+        ],
+        "Southern US": [
+            78,
+            0.02
+        ],
+        "Southern Europe": [
+            72,
+            0.02
+        ],
+        "Eastern Asia": [
+            71,
+            0.02
+        ],
+        "Southern Asia": [
+            70,
+            0.02
+        ],
+        "North Asia": [
+            68,
+            0.02
+        ],
+        "Central Asia": [
+            64,
+            0.02
+        ],
+        "Northern Europe": [
+            64,
+            0.02
+        ],
+        "Western Africa": [
+            45,
+            0.01
+        ],
+        "North Africa": [
+            44,
+            0.01
+        ],
+        "Eastern Europe": [
+            39,
+            0.01
+        ],
+        "Canada": [
+            32,
+            0.01
+        ],
+        "Eastern Africa": [
+            23,
+            0.01
+        ],
+        "Central Africa": [
+            20,
+            0.01
+        ],
+        "Southern Africa": [
+            14,
+            0.0
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.14,
+        "Canada": 1.88,
+        "Caribbean": 3.94,
+        "Central": 3.72,
+        "Central Africa": 1.85,
+        "Central America": 3.71,
+        "Central Asia": 3.7,
+        "Central US": 3.82,
+        "EMEA": 2.1,
+        "East": 3.76,
+        "Eastern Africa": 1.91,
+        "Eastern Asia": 3.68,
+        "Eastern Europe": 2.41,
+        "Eastern US": 3.77,
+        "North": 3.8,
+        "North Africa": 2.32,
+        "North Asia": 3.78,
+        "Northern Europe": 3.75,
+        "Oceania": 4.15,
+        "South": 3.68,
+        "South America": 3.42,
+        "Southeast Asia": 3.58,
+        "Southeastern Asia": 3.58,
+        "Southern Africa": 1.36,
+        "Southern Asia": 3.7,
+        "Southern Europe": 4.06,
+        "Southern US": 3.59,
+        "West": 3.62,
+        "Western Africa": 2.47,
+        "Western Asia": 1.99,
+        "Western Europe": 3.64,
+        "Western US": 3.59
+    },
+    "region_sales": {
+        "Africa": 425.93,
+        "Canada": 496.28,
+        "Caribbean": 567.26,
+        "Central": 526.61,
+        "Central Africa": 433.46,
+        "Central America": 551.0,
+        "Central Asia": 907.81,
+        "Central US": 194.37,
+        "EMEA": 443.31,
+        "East": 271.34,
+        "Eastern Africa": 488.91,
+        "Eastern Asia": 817.74,
+        "Eastern Europe": 539.2,
+        "Eastern US": 275.13,
+        "North": 767.0,
+        "North Africa": 528.48,
+        "North Asia": 822.2,
+        "Northern Europe": 913.89,
+        "Oceania": 949.06,
+        "South": 623.19,
+        "South America": 587.83,
+        "Southeast Asia": 875.39,
+        "Southeastern Asia": 875.39,
+        "Southern Africa": 409.59,
+        "Southern Asia": 898.77,
+        "Southern Europe": 1118.19,
+        "Southern US": 248.85,
+        "West": 222.33,
+        "Western Africa": 295.22,
+        "Western Asia": 379.15,
+        "Western Europe": 768.61,
+        "Western US": 230.44
+    },
+    "region_unit_price": {
+        "Africa": 198.68,
+        "Canada": 264.68,
+        "Caribbean": 143.85,
+        "Central": 141.54,
+        "Central Africa": 234.3,
+        "Central America": 148.35,
+        "Central Asia": 245.15,
+        "Central US": 50.91,
+        "EMEA": 211.36,
+        "East": 72.13,
+        "Eastern Africa": 255.57,
+        "Eastern Asia": 222.45,
+        "Eastern Europe": 223.71,
+        "Eastern US": 72.9,
+        "North": 201.84,
+        "North Africa": 227.97,
+        "North Asia": 217.55,
+        "Northern Europe": 243.7,
+        "Oceania": 228.72,
+        "South": 169.12,
+        "South America": 171.86,
+        "Southeast Asia": 244.3,
+        "Southeastern Asia": 244.3,
+        "Southern Africa": 301.8,
+        "Southern Asia": 242.91,
+        "Southern Europe": 275.72,
+        "Southern US": 69.32,
+        "West": 61.46,
+        "Western Africa": 119.68,
+        "Western Asia": 190.77,
+        "Western Europe": 211.4,
+        "Western US": 64.15
+    },
+    "region_discount": {
+        "Africa": 0.15,
+        "Canada": 0.0,
+        "Caribbean": 0.1,
+        "Central": 0.23,
+        "Central Africa": 0.0,
+        "Central America": 0.09,
+        "Central Asia": 0.12,
+        "Central US": 0.45,
+        "EMEA": 0.21,
+        "East": 0.07,
+        "Eastern Africa": 0.09,
+        "Eastern Asia": 0.05,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.07,
+        "North": 0.08,
+        "North Africa": 0.0,
+        "North Asia": 0.05,
+        "Northern Europe": 0.18,
+        "Oceania": 0.16,
+        "South": 0.11,
+        "South America": 0.18,
+        "Southeast Asia": 0.15,
+        "Southeastern Asia": 0.15,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.06,
+        "Southern Europe": 0.03,
+        "Southern US": 0.11,
+        "West": 0.03,
+        "Western Africa": 0.45,
+        "Western Asia": 0.35,
+        "Western Europe": 0.13,
+        "Western US": 0.03
+    },
+    "region_profit": {
+        "Africa": 11.73,
+        "Canada": 74.47,
+        "Caribbean": 26.78,
+        "Central": 12.97,
+        "Central Africa": 45.37,
+        "Central America": 24.15,
+        "Central Asia": 20.44,
+        "Central US": -5.73,
+        "EMEA": 9.36,
+        "East": 17.7,
+        "Eastern Africa": 58.7,
+        "Eastern Asia": 51.14,
+        "Eastern Europe": 57.46,
+        "Eastern US": 17.89,
+        "North": 37.55,
+        "North Africa": 47.99,
+        "North Asia": 50.04,
+        "Northern Europe": 32.42,
+        "Oceania": 28.03,
+        "South": 32.75,
+        "South America": 14.04,
+        "Southeast Asia": 27.28,
+        "Southeastern Asia": 27.28,
+        "Southern Africa": 76.38,
+        "Southern Asia": 29.69,
+        "Southern Europe": 73.26,
+        "Southern US": 14.68,
+        "West": 16.79,
+        "Western Africa": -62.5,
+        "Western Asia": -25.69,
+        "Western Europe": 27.49,
+        "Western US": 17.53
+    },
+    "region_profit_margin": {
+        "Africa": 0.06,
+        "Canada": 0.28,
+        "Caribbean": 0.19,
+        "Central": 0.09,
+        "Central Africa": 0.19,
+        "Central America": 0.16,
+        "Central Asia": 0.08,
+        "Central US": -0.11,
+        "EMEA": 0.04,
+        "East": 0.25,
+        "Eastern Africa": 0.23,
+        "Eastern Asia": 0.23,
+        "Eastern Europe": 0.26,
+        "Eastern US": 0.25,
+        "North": 0.19,
+        "North Africa": 0.21,
+        "North Asia": 0.23,
+        "Northern Europe": 0.13,
+        "Oceania": 0.12,
+        "South": 0.19,
+        "South America": 0.08,
+        "Southeast Asia": 0.11,
+        "Southeastern Asia": 0.11,
+        "Southern Africa": 0.25,
+        "Southern Asia": 0.12,
+        "Southern Europe": 0.27,
+        "Southern US": 0.21,
+        "West": 0.27,
+        "Western Africa": -0.52,
+        "Western Asia": -0.13,
+        "Western Europe": 0.13,
+        "Western US": 0.27
+    },
+    "market_distribution": {
+        "LATAM": [
+            646,
+            0.18
+        ],
+        "USCA": [
+            469,
+            0.13
+        ],
+        "US": [
+            466,
+            0.13
+        ],
+        "Asia Pacific": [
+            445,
+            0.13
+        ],
+        "Europe": [
+            359,
+            0.1
+        ],
+        "APAC": [
+            338,
+            0.1
+        ],
+        "EU": [
+            312,
+            0.09
+        ],
+        "Africa": [
+            292,
+            0.08
+        ],
+        "EMEA": [
+            154,
+            0.04
+        ],
+        "Canada": [
+            16,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.88,
+        "Africa": 2.14,
+        "Asia Pacific": 3.43,
+        "Canada": 1.88,
+        "EMEA": 2.1,
+        "EU": 3.8,
+        "Europe": 3.61,
+        "LATAM": 3.67,
+        "US": 3.71,
+        "USCA": 3.64
+    },
+    "market_sales": {
+        "APAC": 910.12,
+        "Africa": 425.93,
+        "Asia Pacific": 786.24,
+        "Canada": 496.28,
+        "EMEA": 443.31,
+        "EU": 882.82,
+        "Europe": 839.7,
+        "LATAM": 563.7,
+        "US": 230.76,
+        "USCA": 245.08
+    },
+    "market_unit_price": {
+        "APAC": 234.82,
+        "Africa": 198.68,
+        "Asia Pacific": 229.43,
+        "Canada": 264.68,
+        "EMEA": 211.36,
+        "EU": 232.05,
+        "Europe": 232.78,
+        "LATAM": 153.52,
+        "US": 62.19,
+        "USCA": 67.34
+    },
+    "market_discount": {
+        "APAC": 0.12,
+        "Africa": 0.15,
+        "Asia Pacific": 0.16,
+        "Canada": 0.0,
+        "EMEA": 0.21,
+        "EU": 0.12,
+        "Europe": 0.1,
+        "LATAM": 0.12,
+        "US": 0.17,
+        "USCA": 0.16
+    },
+    "market_profit": {
+        "APAC": 32.16,
+        "Africa": 11.73,
+        "Asia Pacific": 25.26,
+        "Canada": 74.47,
+        "EMEA": 9.36,
+        "EU": 39.04,
+        "Europe": 40.9,
+        "LATAM": 22.05,
+        "US": 10.49,
+        "USCA": 11.87
+    },
+    "market_profit_margin": {
+        "APAC": 0.14,
+        "Africa": 0.06,
+        "Asia Pacific": 0.11,
+        "Canada": 0.28,
+        "EMEA": 0.04,
+        "EU": 0.17,
+        "Europe": 0.18,
+        "LATAM": 0.14,
+        "US": 0.17,
+        "USCA": 0.18
+    },
+    "country_distribution": {
+        "United States": [
+            919,
+            0.26
+        ],
+        "France": [
+            198,
+            0.06
+        ],
+        "Australia": [
+            182,
+            0.05
+        ],
+        "Mexico": [
+            156,
+            0.04
+        ],
+        "Germany": [
+            112,
+            0.03
+        ],
+        "China": [
+            110,
+            0.03
+        ],
+        "Indonesia": [
+            108,
+            0.03
+        ],
+        "Brazil": [
+            100,
+            0.03
+        ],
+        "Turkey": [
+            86,
+            0.02
+        ],
+        "India": [
+            84,
+            0.02
+        ],
+        "United Kingdom": [
+            84,
+            0.02
+        ],
+        "Spain": [
+            74,
+            0.02
+        ],
+        "Nigeria": [
+            58,
+            0.02
+        ],
+        "Italy": [
+            54,
+            0.02
+        ],
+        "Dominican Republic": [
+            52,
+            0.01
+        ],
+        "Honduras": [
+            50,
+            0.01
+        ],
+        "El Salvador": [
+            48,
+            0.01
+        ],
+        "Cuba": [
+            46,
+            0.01
+        ],
+        "Philippines": [
+            40,
+            0.01
+        ],
+        "Nicaragua": [
+            38,
+            0.01
+        ],
+        "Guatemala": [
+            36,
+            0.01
+        ],
+        "Panama": [
+            36,
+            0.01
+        ],
+        "New Zealand": [
+            32,
+            0.01
+        ],
+        "Morocco": [
+            32,
+            0.01
+        ],
+        "Canada": [
+            32,
+            0.01
+        ],
+        "Iran": [
+            30,
+            0.01
+        ],
+        "Iraq": [
+            28,
+            0.01
+        ],
+        "South Africa": [
+            28,
+            0.01
+        ],
+        "Egypt": [
+            28,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            28,
+            0.01
+        ],
+        "Thailand": [
+            22,
+            0.01
+        ],
+        "Austria": [
+            22,
+            0.01
+        ],
+        "Argentina": [
+            20,
+            0.01
+        ],
+        "Colombia": [
+            20,
+            0.01
+        ],
+        "Saudi Arabia": [
+            20,
+            0.01
+        ],
+        "Poland": [
+            18,
+            0.01
+        ],
+        "Netherlands": [
+            18,
+            0.01
+        ],
+        "Russia": [
+            18,
+            0.01
+        ],
+        "Ukraine": [
+            18,
+            0.01
+        ],
+        "Belgium": [
+            16,
+            0.0
+        ],
+        "Pakistan": [
+            16,
+            0.0
+        ],
+        "Vietnam": [
+            16,
+            0.0
+        ],
+        "Sweden": [
+            16,
+            0.0
+        ],
+        "Algeria": [
+            16,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            14,
+            0.0
+        ],
+        "Tanzania": [
+            12,
+            0.0
+        ],
+        "Venezuela": [
+            12,
+            0.0
+        ],
+        "Ireland": [
+            12,
+            0.0
+        ],
+        "Zambia": [
+            12,
+            0.0
+        ],
+        "Japan": [
+            12,
+            0.0
+        ],
+        "Romania": [
+            10,
+            0.0
+        ],
+        "Portugal": [
+            10,
+            0.0
+        ],
+        "South Korea": [
+            10,
+            0.0
+        ],
+        "Bangladesh": [
+            8,
+            0.0
+        ],
+        "Singapore": [
+            8,
+            0.0
+        ],
+        "Denmark": [
+            8,
+            0.0
+        ],
+        "Belarus": [
+            8,
+            0.0
+        ],
+        "Israel": [
+            8,
+            0.0
+        ],
+        "Sudan": [
+            8,
+            0.0
+        ],
+        "Chile": [
+            8,
+            0.0
+        ],
+        "Peru": [
+            8,
+            0.0
+        ],
+        "Kenya": [
+            8,
+            0.0
+        ],
+        "Kazakhstan": [
+            6,
+            0.0
+        ],
+        "Mongolia": [
+            6,
+            0.0
+        ],
+        "Georgia": [
+            6,
+            0.0
+        ],
+        "Cameroon": [
+            6,
+            0.0
+        ],
+        "Yemen": [
+            6,
+            0.0
+        ],
+        "Togo": [
+            6,
+            0.0
+        ],
+        "Senegal": [
+            6,
+            0.0
+        ],
+        "Zimbabwe": [
+            6,
+            0.0
+        ],
+        "Bolivia": [
+            4,
+            0.0
+        ],
+        "Ghana": [
+            4,
+            0.0
+        ],
+        "Finland": [
+            4,
+            0.0
+        ],
+        "Benin": [
+            4,
+            0.0
+        ],
+        "Cambodia": [
+            4,
+            0.0
+        ],
+        "Hong Kong": [
+            4,
+            0.0
+        ],
+        "Mozambique": [
+            4,
+            0.0
+        ],
+        "Kyrgyzstan": [
+            4,
+            0.0
+        ],
+        "Guinea": [
+            4,
+            0.0
+        ],
+        "Jordan": [
+            4,
+            0.0
+        ],
+        "Turkmenistan": [
+            4,
+            0.0
+        ],
+        "Jamaica": [
+            4,
+            0.0
+        ],
+        "Uzbekistan": [
+            4,
+            0.0
+        ],
+        "Angola": [
+            4,
+            0.0
+        ],
+        "Malaysia": [
+            4,
+            0.0
+        ],
+        "Montenegro": [
+            2,
+            0.0
+        ],
+        "Madagascar": [
+            2,
+            0.0
+        ],
+        "Afghanistan": [
+            2,
+            0.0
+        ],
+        "Uruguay": [
+            2,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            2,
+            0.0
+        ],
+        "Central African Republic": [
+            2,
+            0.0
+        ],
+        "Estonia": [
+            2,
+            0.0
+        ],
+        "Martinique": [
+            2,
+            0.0
+        ],
+        "Switzerland": [
+            2,
+            0.0
+        ],
+        "Ecuador": [
+            2,
+            0.0
+        ],
+        "Libya": [
+            2,
+            0.0
+        ],
+        "Sierra Leone": [
+            2,
+            0.0
+        ],
+        "Tunisia": [
+            2,
+            0.0
+        ],
+        "Somalia": [
+            2,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            2,
+            0.0
+        ],
+        "Slovakia": [
+            2,
+            0.0
+        ],
+        "Bulgaria": [
+            2,
+            0.0
+        ],
+        "Lithuania": [
+            2,
+            0.0
+        ],
+        "Syria": [
+            2,
+            0.0
+        ],
+        "Bosnia and Herzegovina": [
+            2,
+            0.0
+        ],
+        "Slovenia": [
+            2,
+            0.0
+        ],
+        "Czech Republic": [
+            2,
+            0.0
+        ],
+        "Mali": [
+            2,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            2,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 8.0,
+        "Algeria": 2.12,
+        "Angola": 1.0,
+        "Argentina": 3.0,
+        "Australia": 4.21,
+        "Austria": 3.0,
+        "Bangladesh": 3.25,
+        "Belarus": 2.25,
+        "Belgium": 4.38,
+        "Benin": 1.5,
+        "Bolivia": 3.5,
+        "Bosnia and Herzegovina": 1.0,
+        "Brazil": 3.42,
+        "Bulgaria": 1.0,
+        "Cambodia": 2.5,
+        "Cameroon": 3.0,
+        "Canada": 1.88,
+        "Central African Republic": 2.0,
+        "Chile": 3.5,
+        "China": 3.85,
+        "Colombia": 3.5,
+        "Cote d'Ivoire": 4.0,
+        "Cuba": 4.39,
+        "Czech Republic": 1.0,
+        "C\u00f4te-d'Ivoire": 4.0,
+        "Democratic Republic of the Congo": 1.71,
+        "Denmark": 2.75,
+        "Dominican Republic": 3.77,
+        "Ecuador": 2.0,
+        "Egypt": 2.29,
+        "El Salvador": 3.79,
+        "Estonia": 1.0,
+        "Finland": 4.0,
+        "France": 3.57,
+        "Georgia": 3.0,
+        "Germany": 3.77,
+        "Ghana": 2.5,
+        "Guatemala": 3.33,
+        "Guinea": 1.0,
+        "Honduras": 3.96,
+        "Hong Kong": 3.0,
+        "India": 3.83,
+        "Indonesia": 3.39,
+        "Iran": 2.47,
+        "Iraq": 1.93,
+        "Ireland": 2.67,
+        "Israel": 1.0,
+        "Italy": 4.0,
+        "Jamaica": 2.0,
+        "Japan": 4.17,
+        "Jordan": 3.0,
+        "Kazakhstan": 2.33,
+        "Kenya": 1.25,
+        "Kyrgyzstan": 1.0,
+        "Libya": 2.0,
+        "Lithuania": 1.0,
+        "Madagascar": 1.0,
+        "Malaysia": 2.5,
+        "Mali": 2.0,
+        "Martinique": 3.0,
+        "Mexico": 3.77,
+        "Mongolia": 1.33,
+        "Montenegro": 6.0,
+        "Morocco": 2.38,
+        "Mozambique": 2.0,
+        "Myanmar (Burma)": 4.71,
+        "Netherlands": 3.33,
+        "New Zealand": 3.81,
+        "Nicaragua": 4.11,
+        "Nigeria": 2.66,
+        "Pakistan": 5.0,
+        "Panama": 3.0,
+        "Peru": 3.25,
+        "Philippines": 3.95,
+        "Poland": 2.11,
+        "Portugal": 5.0,
+        "Romania": 1.4,
+        "Russia": 1.78,
+        "Saudi Arabia": 1.7,
+        "Senegal": 1.0,
+        "Sierra Leone": 4.0,
+        "Singapore": 4.0,
+        "Slovakia": 1.0,
+        "Slovenia": 2.0,
+        "Somalia": 2.0,
+        "South Africa": 1.36,
+        "South Korea": 2.8,
+        "Spain": 4.05,
+        "Sudan": 2.75,
+        "Sweden": 4.38,
+        "Switzerland": 7.0,
+        "Syria": 2.0,
+        "Tanzania": 3.5,
+        "Thailand": 3.45,
+        "Togo": 2.33,
+        "Trinidad and Tobago": 3.0,
+        "Tunisia": 2.0,
+        "Turkey": 1.98,
+        "Turkmenistan": 2.0,
+        "Ukraine": 4.44,
+        "United Kingdom": 4.0,
+        "United States": 3.71,
+        "Uruguay": 4.0,
+        "Uzbekistan": 1.0,
+        "Venezuela": 4.17,
+        "Vietnam": 3.5,
+        "Yemen": 3.0,
+        "Zambia": 1.33,
+        "Zimbabwe": 1.0
+    },
+    "country_sales": {
+        "Afghanistan": 669.12,
+        "Algeria": 473.02,
+        "Angola": 59.3,
+        "Argentina": 304.14,
+        "Australia": 1034.86,
+        "Austria": 660.35,
+        "Bangladesh": 408.44,
+        "Belarus": 146.46,
+        "Belgium": 1290.01,
+        "Benin": 330.0,
+        "Bolivia": 758.43,
+        "Bosnia and Herzegovina": 57.51,
+        "Brazil": 573.05,
+        "Bulgaria": 70.47,
+        "Cambodia": 604.16,
+        "Cameroon": 982.58,
+        "Canada": 496.28,
+        "Central African Republic": 1000.26,
+        "Chile": 939.09,
+        "China": 765.81,
+        "Colombia": 892.65,
+        "Cote d'Ivoire": 727.44,
+        "Cuba": 563.97,
+        "Czech Republic": 51.6,
+        "C\u00f4te-d'Ivoire": 727.44,
+        "Democratic Republic of the Congo": 328.76,
+        "Denmark": 206.43,
+        "Dominican Republic": 590.85,
+        "Ecuador": 746.24,
+        "Egypt": 514.68,
+        "El Salvador": 487.11,
+        "Estonia": 560.97,
+        "Finland": 1210.44,
+        "France": 788.93,
+        "Georgia": 181.07,
+        "Germany": 747.73,
+        "Ghana": 883.84,
+        "Guatemala": 512.48,
+        "Guinea": 546.34,
+        "Honduras": 377.34,
+        "Hong Kong": 1115.13,
+        "India": 1076.41,
+        "Indonesia": 927.0,
+        "Iran": 486.32,
+        "Iraq": 846.71,
+        "Ireland": 338.12,
+        "Israel": 358.0,
+        "Italy": 1352.6,
+        "Jamaica": 236.32,
+        "Japan": 1577.01,
+        "Jordan": 643.53,
+        "Kazakhstan": 198.94,
+        "Kenya": 478.76,
+        "Kyrgyzstan": 308.53,
+        "Libya": 167.28,
+        "Lithuania": 92.82,
+        "Madagascar": 541.77,
+        "Malaysia": 846.74,
+        "Mali": 139.08,
+        "Martinique": 1123.08,
+        "Mexico": 635.2,
+        "Mongolia": 716.8,
+        "Montenegro": 3234.24,
+        "Morocco": 581.96,
+        "Mozambique": 576.9,
+        "Myanmar (Burma)": 724.07,
+        "Netherlands": 364.36,
+        "New Zealand": 461.08,
+        "Nicaragua": 914.52,
+        "Nigeria": 202.97,
+        "Pakistan": 1013.4,
+        "Panama": 167.33,
+        "Peru": 232.7,
+        "Philippines": 907.21,
+        "Poland": 459.59,
+        "Portugal": 911.34,
+        "Romania": 408.7,
+        "Russia": 520.65,
+        "Saudi Arabia": 473.41,
+        "Senegal": 384.58,
+        "Sierra Leone": 284.88,
+        "Singapore": 463.84,
+        "Slovakia": 279.21,
+        "Slovenia": 153.42,
+        "Somalia": 132.84,
+        "South Africa": 409.59,
+        "South Korea": 419.55,
+        "Spain": 972.64,
+        "Sudan": 665.54,
+        "Sweden": 572.33,
+        "Switzerland": 584.22,
+        "Syria": 137.22,
+        "Tanzania": 973.7,
+        "Thailand": 714.46,
+        "Togo": 281.96,
+        "Trinidad and Tobago": 135.48,
+        "Tunisia": 122.58,
+        "Turkey": 223.85,
+        "Turkmenistan": 318.25,
+        "Ukraine": 1019.55,
+        "United Kingdom": 1142.4,
+        "United States": 233.44,
+        "Uruguay": 1495.92,
+        "Uzbekistan": 315.08,
+        "Venezuela": 443.69,
+        "Vietnam": 1081.96,
+        "Yemen": 239.59,
+        "Zambia": 218.96,
+        "Zimbabwe": 115.18
+    },
+    "country_unit_price": {
+        "Afghanistan": 83.64,
+        "Algeria": 222.6,
+        "Angola": 59.3,
+        "Argentina": 101.38,
+        "Australia": 245.88,
+        "Austria": 220.12,
+        "Bangladesh": 125.67,
+        "Belarus": 65.09,
+        "Belgium": 294.86,
+        "Benin": 220.0,
+        "Bolivia": 216.69,
+        "Bosnia and Herzegovina": 57.51,
+        "Brazil": 167.56,
+        "Bulgaria": 70.47,
+        "Cambodia": 241.66,
+        "Cameroon": 327.53,
+        "Canada": 264.68,
+        "Central African Republic": 500.13,
+        "Chile": 268.31,
+        "China": 198.68,
+        "Colombia": 255.04,
+        "Cote d'Ivoire": 181.86,
+        "Cuba": 128.43,
+        "Czech Republic": 51.6,
+        "C\u00f4te-d'Ivoire": 181.86,
+        "Democratic Republic of the Congo": 191.77,
+        "Denmark": 75.07,
+        "Dominican Republic": 156.75,
+        "Ecuador": 373.12,
+        "Egypt": 225.17,
+        "El Salvador": 128.47,
+        "Estonia": 560.97,
+        "Finland": 302.61,
+        "France": 221.26,
+        "Georgia": 60.36,
+        "Germany": 198.45,
+        "Ghana": 353.54,
+        "Guatemala": 153.74,
+        "Guinea": 546.34,
+        "Honduras": 95.29,
+        "Hong Kong": 371.71,
+        "India": 280.8,
+        "Indonesia": 273.54,
+        "Iran": 197.16,
+        "Iraq": 439.04,
+        "Ireland": 126.8,
+        "Israel": 358.0,
+        "Italy": 338.15,
+        "Jamaica": 118.16,
+        "Japan": 378.48,
+        "Jordan": 214.51,
+        "Kazakhstan": 85.26,
+        "Kenya": 383.01,
+        "Kyrgyzstan": 308.53,
+        "Libya": 83.64,
+        "Lithuania": 92.82,
+        "Madagascar": 541.77,
+        "Malaysia": 338.69,
+        "Mali": 69.54,
+        "Martinique": 374.36,
+        "Mexico": 168.52,
+        "Mongolia": 537.6,
+        "Montenegro": 539.04,
+        "Morocco": 245.04,
+        "Mozambique": 288.45,
+        "Myanmar (Burma)": 153.59,
+        "Netherlands": 109.31,
+        "New Zealand": 120.94,
+        "Nicaragua": 222.77,
+        "Nigeria": 76.44,
+        "Pakistan": 202.68,
+        "Panama": 55.78,
+        "Peru": 71.6,
+        "Philippines": 229.67,
+        "Poland": 217.7,
+        "Portugal": 182.27,
+        "Romania": 291.93,
+        "Russia": 292.86,
+        "Saudi Arabia": 278.48,
+        "Senegal": 384.58,
+        "Sierra Leone": 71.22,
+        "Singapore": 115.96,
+        "Slovakia": 279.21,
+        "Slovenia": 76.71,
+        "Somalia": 66.42,
+        "South Africa": 301.8,
+        "South Korea": 149.84,
+        "Spain": 239.92,
+        "Sudan": 242.02,
+        "Sweden": 130.82,
+        "Switzerland": 83.46,
+        "Syria": 68.61,
+        "Tanzania": 278.2,
+        "Thailand": 206.82,
+        "Togo": 120.84,
+        "Trinidad and Tobago": 45.16,
+        "Tunisia": 61.29,
+        "Turkey": 113.24,
+        "Turkmenistan": 159.12,
+        "Ukraine": 229.4,
+        "United Kingdom": 285.6,
+        "United States": 62.99,
+        "Uruguay": 373.98,
+        "Uzbekistan": 315.08,
+        "Venezuela": 106.48,
+        "Vietnam": 309.13,
+        "Yemen": 79.86,
+        "Zambia": 164.22,
+        "Zimbabwe": 115.18
+    },
+    "country_profit": {
+        "Afghanistan": 35.1,
+        "Algeria": 53.78,
+        "Angola": 20.91,
+        "Argentina": -14.33,
+        "Australia": 33.03,
+        "Austria": 54.63,
+        "Bangladesh": 48.72,
+        "Belarus": 19.46,
+        "Belgium": 49.01,
+        "Benin": 17.1,
+        "Bolivia": 19.17,
+        "Bosnia and Herzegovina": 2.28,
+        "Brazil": 9.69,
+        "Bulgaria": 3.51,
+        "Cambodia": 79.81,
+        "Cameroon": 108.95,
+        "Canada": 74.47,
+        "Central African Republic": 45.0,
+        "Chile": 45.69,
+        "China": 54.33,
+        "Colombia": 67.58,
+        "Cote d'Ivoire": 28.4,
+        "Cuba": 30.64,
+        "Czech Republic": 10.83,
+        "C\u00f4te-d'Ivoire": 28.4,
+        "Democratic Republic of the Congo": 23.6,
+        "Denmark": -33.34,
+        "Dominican Republic": 22.14,
+        "Ecuador": 7.46,
+        "Egypt": 42.17,
+        "El Salvador": 26.47,
+        "Estonia": 61.68,
+        "Finland": 46.6,
+        "France": 31.32,
+        "Georgia": 21.18,
+        "Germany": 27.56,
+        "Ghana": 41.23,
+        "Guatemala": 37.53,
+        "Guinea": 145.68,
+        "Honduras": -21.1,
+        "Hong Kong": 123.87,
+        "India": 63.68,
+        "Indonesia": 33.61,
+        "Iran": 38.37,
+        "Iraq": 134.99,
+        "Ireland": -63.75,
+        "Israel": 50.27,
+        "Italy": 117.79,
+        "Jamaica": 22.65,
+        "Japan": 79.61,
+        "Jordan": 73.29,
+        "Kazakhstan": -104.84,
+        "Kenya": 112.71,
+        "Kyrgyzstan": 119.86,
+        "Libya": 6.69,
+        "Lithuania": -64.98,
+        "Madagascar": 200.43,
+        "Malaysia": 55.85,
+        "Mali": 27.12,
+        "Martinique": 74.86,
+        "Mexico": 41.46,
+        "Mongolia": 122.27,
+        "Montenegro": 161.7,
+        "Morocco": 46.91,
+        "Mozambique": 129.6,
+        "Myanmar (Burma)": 19.27,
+        "Netherlands": -74.5,
+        "New Zealand": -3.39,
+        "Nicaragua": 30.5,
+        "Nigeria": -107.79,
+        "Pakistan": -122.43,
+        "Panama": -15.09,
+        "Peru": -13.99,
+        "Philippines": 8.53,
+        "Poland": 63.36,
+        "Portugal": -141.57,
+        "Romania": 86.73,
+        "Russia": 65.85,
+        "Saudi Arabia": 65.02,
+        "Senegal": 127.23,
+        "Sierra Leone": 14.94,
+        "Singapore": 39.37,
+        "Slovakia": 0.0,
+        "Slovenia": 25.29,
+        "Somalia": 0.66,
+        "South Africa": 76.38,
+        "South Korea": -99.4,
+        "Spain": 74.58,
+        "Sudan": 72.07,
+        "Sweden": -59.82,
+        "Switzerland": 33.36,
+        "Syria": 24.0,
+        "Tanzania": 70.78,
+        "Thailand": 12.11,
+        "Togo": 12.95,
+        "Trinidad and Tobago": 5.86,
+        "Tunisia": 21.45,
+        "Turkey": -106.79,
+        "Turkmenistan": -273.27,
+        "Ukraine": 58.67,
+        "United Kingdom": 64.83,
+        "United States": 10.62,
+        "Uruguay": 172.02,
+        "Uzbekistan": 80.72,
+        "Venezuela": -26.42,
+        "Vietnam": 47.41,
+        "Yemen": -70.75,
+        "Zambia": 35.25,
+        "Zimbabwe": -156.49
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.42,
+        "Algeria": 0.24,
+        "Angola": 0.35,
+        "Argentina": -0.14,
+        "Australia": 0.13,
+        "Austria": 0.25,
+        "Bangladesh": 0.39,
+        "Belarus": 0.3,
+        "Belgium": 0.17,
+        "Benin": 0.08,
+        "Bolivia": 0.09,
+        "Bosnia and Herzegovina": 0.04,
+        "Brazil": 0.06,
+        "Bulgaria": 0.05,
+        "Cambodia": 0.33,
+        "Cameroon": 0.33,
+        "Canada": 0.28,
+        "Central African Republic": 0.09,
+        "Chile": 0.17,
+        "China": 0.27,
+        "Colombia": 0.26,
+        "Cote d'Ivoire": 0.16,
+        "Cuba": 0.24,
+        "Czech Republic": 0.21,
+        "C\u00f4te-d'Ivoire": 0.16,
+        "Democratic Republic of the Congo": 0.12,
+        "Denmark": -0.44,
+        "Dominican Republic": 0.14,
+        "Ecuador": 0.02,
+        "Egypt": 0.19,
+        "El Salvador": 0.21,
+        "Estonia": 0.11,
+        "Finland": 0.15,
+        "France": 0.14,
+        "Georgia": 0.35,
+        "Germany": 0.14,
+        "Ghana": 0.12,
+        "Guatemala": 0.24,
+        "Guinea": 0.27,
+        "Honduras": -0.22,
+        "Hong Kong": 0.33,
+        "India": 0.23,
+        "Indonesia": 0.12,
+        "Iran": 0.19,
+        "Iraq": 0.31,
+        "Ireland": -0.5,
+        "Israel": 0.14,
+        "Italy": 0.35,
+        "Jamaica": 0.19,
+        "Japan": 0.21,
+        "Jordan": 0.34,
+        "Kazakhstan": -1.23,
+        "Kenya": 0.29,
+        "Kyrgyzstan": 0.39,
+        "Libya": 0.08,
+        "Lithuania": -0.7,
+        "Madagascar": 0.37,
+        "Malaysia": 0.16,
+        "Mali": 0.39,
+        "Martinique": 0.2,
+        "Mexico": 0.25,
+        "Mongolia": 0.23,
+        "Montenegro": 0.3,
+        "Morocco": 0.19,
+        "Mozambique": 0.45,
+        "Myanmar (Burma)": 0.13,
+        "Netherlands": -0.68,
+        "New Zealand": -0.03,
+        "Nicaragua": 0.14,
+        "Nigeria": -1.41,
+        "Pakistan": -0.6,
+        "Panama": -0.27,
+        "Peru": -0.2,
+        "Philippines": 0.04,
+        "Poland": 0.29,
+        "Portugal": -0.78,
+        "Romania": 0.3,
+        "Russia": 0.22,
+        "Saudi Arabia": 0.23,
+        "Senegal": 0.33,
+        "Sierra Leone": 0.21,
+        "Singapore": 0.34,
+        "Slovakia": 0.0,
+        "Slovenia": 0.33,
+        "Somalia": 0.01,
+        "South Africa": 0.25,
+        "South Korea": -0.66,
+        "Spain": 0.31,
+        "Sudan": 0.3,
+        "Sweden": -0.46,
+        "Switzerland": 0.4,
+        "Syria": 0.35,
+        "Tanzania": 0.25,
+        "Thailand": 0.06,
+        "Togo": 0.11,
+        "Trinidad and Tobago": 0.13,
+        "Tunisia": 0.35,
+        "Turkey": -0.94,
+        "Turkmenistan": -1.72,
+        "Ukraine": 0.26,
+        "United Kingdom": 0.23,
+        "United States": 0.17,
+        "Uruguay": 0.46,
+        "Uzbekistan": 0.26,
+        "Venezuela": -0.25,
+        "Vietnam": 0.15,
+        "Yemen": -0.89,
+        "Zambia": 0.21,
+        "Zimbabwe": -1.36
+    },
+    "top_10_states": {
+        "California": [
+            182,
+            0.05
+        ],
+        "Texas": [
+            94,
+            0.03
+        ],
+        "New York": [
+            86,
+            0.02
+        ],
+        "England": [
+            80,
+            0.02
+        ],
+        "Ile-de-France": [
+            64,
+            0.02
+        ],
+        "Pennsylvania": [
+            46,
+            0.01
+        ],
+        "Ohio": [
+            46,
+            0.01
+        ],
+        "Queensland": [
+            44,
+            0.01
+        ],
+        "San Salvador": [
+            44,
+            0.01
+        ],
+        "New South Wales": [
+            42,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        182,
+        94,
+        86,
+        80,
+        64,
+        46,
+        46,
+        44,
+        44,
+        42
+    ],
+    "top_10_cities": {
+        "Los Angeles": [
+            72,
+            0.02
+        ],
+        "New York City": [
+            71,
+            0.02
+        ],
+        "San Francisco": [
+            48,
+            0.01
+        ],
+        "Philadelphia": [
+            44,
+            0.01
+        ],
+        "Houston": [
+            40,
+            0.01
+        ],
+        "Chicago": [
+            33,
+            0.01
+        ],
+        "Tegucigalpa": [
+            32,
+            0.01
+        ],
+        "Istanbul": [
+            30,
+            0.01
+        ],
+        "Santo Domingo": [
+            28,
+            0.01
+        ],
+        "Columbus": [
+            28,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        72,
+        71,
+        48,
+        44,
+        40,
+        33,
+        32,
+        30,
+        28,
+        28
+    ],
+    "yearly_sales": {
+        "2011": 173383.4264,
+        "2012": 222942.9649,
+        "2013": 254951.1295,
+        "2014": 533077.0066,
+        "2015": 222882.2749,
+        "2016": 254793.3595,
+        "2017": 359569.6682
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 13423.9034,
+            "2012": 8948.752,
+            "2013": 16056.3568,
+            "2014": 34834.2182,
+            "2015": 8948.752,
+            "2016": 16056.3568,
+            "2017": 21475.0428
+        },
+        "August": {
+            "2011": 11755.499,
+            "2012": 33564.9008,
+            "2013": 19135.1732,
+            "2014": 62119.3313,
+            "2015": 33564.900799999996,
+            "2016": 19117.8332,
+            "2017": 50537.1103
+        },
+        "December": {
+            "2011": 15622.502900000001,
+            "2012": 39073.5798,
+            "2013": 23450.8219,
+            "2014": 64912.5487,
+            "2015": 39073.5798,
+            "2016": 23450.8219,
+            "2017": 49267.5098
+        },
+        "February": {
+            "2011": 4705.337,
+            "2012": 2209.638,
+            "2013": 14566.765,
+            "2014": 22622.184,
+            "2015": 2209.638,
+            "2016": 14566.765,
+            "2017": 17527.114
+        },
+        "January": {
+            "2011": 5770.436,
+            "2012": 16244.100299999998,
+            "2013": 21906.3834,
+            "2014": 24614.169599999997,
+            "2015": 16244.1003,
+            "2016": 21906.3834,
+            "2017": 18843.7336
+        },
+        "July": {
+            "2011": 6845.5237,
+            "2012": 10502.9391,
+            "2013": 16459.642,
+            "2014": 34278.3177,
+            "2015": 10502.9391,
+            "2016": 16459.642,
+            "2017": 27050.506
+        },
+        "June": {
+            "2011": 20737.1951,
+            "2012": 18133.512000000002,
+            "2013": 39253.9201,
+            "2014": 46165.0694,
+            "2015": 18133.512,
+            "2016": 39253.9201,
+            "2017": 26920.0363
+        },
+        "March": {
+            "2011": 8407.0587,
+            "2012": 9657.863,
+            "2013": 15978.3678,
+            "2014": 26459.4502,
+            "2015": 9597.173,
+            "2016": 15978.3678,
+            "2017": 18356.5885
+        },
+        "May": {
+            "2011": 12122.5187,
+            "2012": 21333.8431,
+            "2013": 18888.8042,
+            "2014": 40213.3621,
+            "2015": 21333.843100000002,
+            "2016": 18792.2942,
+            "2017": 26557.9834
+        },
+        "November": {
+            "2011": 30317.338,
+            "2012": 30516.18,
+            "2013": 22976.8028,
+            "2014": 76133.19589999999,
+            "2015": 30516.18,
+            "2016": 22976.8028,
+            "2017": 46568.3579
+        },
+        "October": {
+            "2011": 10968.9928,
+            "2012": 14276.2968,
+            "2013": 23973.7148,
+            "2014": 42928.2544,
+            "2015": 14276.2968,
+            "2016": 23929.7948,
+            "2017": 31273.1816
+        },
+        "September": {
+            "2011": 32707.1211,
+            "2012": 18481.36,
+            "2013": 22304.3775,
+            "2014": 57796.905099999996,
+            "2015": 18481.36,
+            "2016": 22304.3775,
+            "2017": 25192.504
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 3.9,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Hoover Stove, White": 65685.2086,
+        "Hoover Stove, Red": 63327.558000000005,
+        "Hamilton Beach Stove, Silver": 57314.098,
+        "KitchenAid Stove, Silver": 43932.658,
+        "KitchenAid Refrigerator, Black": 43740.0678,
+        "Hamilton Beach Stove, White": 42661.888,
+        "KitchenAid Stove, Black": 39099.7684,
+        "Breville Refrigerator, Red": 36900.1276,
+        "Hoover Refrigerator, White": 36323.44,
+        "KitchenAid Refrigerator, Silver": 35527.968
+    },
+    "top_10_products_by_profit": {
+        "Hoover Stove, Red": 23615.938,
+        "Hamilton Beach Stove, Silver": 11979.498,
+        "KitchenAid Stove, Silver": 11450.418,
+        "KitchenAid Refrigerator, Silver": 9716.028,
+        "Cuisinart Stove, Red": 8202.912,
+        "Hamilton Beach Stove, Red": 7104.432,
+        "KitchenAid Refrigerator, Black": 6886.3278,
+        "Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room": 6494.04,
+        "Breville Refrigerator, Silver": 6125.832,
+        "Hoover Refrigerator, Red": 6111.122
+    },
+    "top_10_products_by_turnover": {
+        "Hoover Stove, White": 162,
+        "KitchenAid Blender, Silver": 146,
+        "Breville Coffee Grinder, White": 138,
+        "Hamilton Beach Stove, Silver": 132,
+        "Breville Microwave, Red": 126,
+        "Hamilton Beach Coffee Grinder, Red": 124,
+        "Hoover Stove, Red": 124,
+        "KitchenAid Toaster, White": 124,
+        "KitchenAid Microwave, Silver": 118,
+        "Hoover Microwave, White": 116
+    },
+    "top_5_loss_products": {
+        "Hoover Stove, White": -13882.638,
+        "Hoover Stove, Silver": -5294.0724,
+        "Breville Microwave, Silver": -4332.1464,
+        "Hamilton Beach Stove, Black": -3912.1479999999997,
+        "Breville Microwave, Red": -3315.2079999999996
+    },
+    "product_performance": [
+        {
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 65685.2086,
+            "total_quantity": 162,
+            "average_price": 1824.5891277777778,
+            "total_profit": -4361.2514,
+            "profit_margin": -0.06639624799790923
+        },
+        {
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 63327.558000000005,
+            "total_quantity": 124,
+            "average_price": 2110.9186,
+            "total_profit": 23615.938,
+            "profit_margin": 0.37291723770558144
+        },
+        {
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 57314.098,
+            "total_quantity": 132,
+            "average_price": 1910.4699333333333,
+            "total_profit": 11979.498,
+            "profit_margin": 0.20901485704267736
+        },
+        {
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 43932.658,
+            "total_quantity": 92,
+            "average_price": 1830.5274166666668,
+            "total_profit": 11450.418,
+            "profit_margin": 0.2606356756288226
+        },
+        {
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 43740.0678,
+            "total_quantity": 104,
+            "average_price": 2187.00339,
+            "total_profit": 6886.3278,
+            "profit_margin": 0.15743752002140246
+        },
+        {
+            "Product Name": "Hamilton Beach Stove, White",
+            "total_sales": 42661.888,
+            "total_quantity": 102,
+            "average_price": 1939.1767272727272,
+            "total_profit": 1271.008,
+            "profit_margin": 0.02979258676971821
+        },
+        {
+            "Product Name": "KitchenAid Stove, Black",
+            "total_sales": 39099.7684,
+            "total_quantity": 100,
+            "average_price": 1629.1570166666668,
+            "total_profit": 3564.388399999999,
+            "profit_margin": 0.09116136861823455
+        },
+        {
+            "Product Name": "Breville Refrigerator, Red",
+            "total_sales": 36900.1276,
+            "total_quantity": 88,
+            "average_price": 1537.5053166666667,
+            "total_profit": 4306.7676,
+            "profit_margin": 0.11671416550873932
+        },
+        {
+            "Product Name": "Hoover Refrigerator, White",
+            "total_sales": 36323.44,
+            "total_quantity": 78,
+            "average_price": 1651.0654545454547,
+            "total_profit": 3356.16,
+            "profit_margin": 0.09239653512993262
+        },
+        {
+            "Product Name": "KitchenAid Refrigerator, Silver",
+            "total_sales": 35527.968,
+            "total_quantity": 92,
+            "average_price": 1366.4603076923077,
+            "total_profit": 9716.028,
+            "profit_margin": 0.2734754771226995
+        },
+        {
+            "Product Name": "Breville Refrigerator, White",
+            "total_sales": 35346.650799999996,
+            "total_quantity": 82,
+            "average_price": 1606.6659454545452,
+            "total_profit": 6022.2508,
+            "profit_margin": 0.17037684373762507
+        },
+        {
+            "Product Name": "Hamilton Beach Refrigerator, Red",
+            "total_sales": 34502.3016,
+            "total_quantity": 80,
+            "average_price": 1437.5959,
+            "total_profit": 4836.881600000001,
+            "profit_margin": 0.14019011415748567
+        },
+        {
+            "Product Name": "Cuisinart Stove, Red",
+            "total_sales": 32728.032,
+            "total_quantity": 80,
+            "average_price": 1487.6378181818181,
+            "total_profit": 8202.912,
+            "profit_margin": 0.2506387185150638
+        },
+        {
+            "Product Name": "Hamilton Beach Stove, Black",
+            "total_sales": 32296.7156,
+            "total_quantity": 92,
+            "average_price": 1076.5571866666667,
+            "total_profit": -795.7043999999994,
+            "profit_margin": -0.024637316371575547
+        },
+        {
+            "Product Name": "Cuisinart Stove, Silver",
+            "total_sales": 32198.656,
+            "total_quantity": 82,
+            "average_price": 1341.6106666666667,
+            "total_profit": 5101.996,
+            "profit_margin": 0.15845369446476276
+        },
+        {
+            "Product Name": "Hoover Stove, Black",
+            "total_sales": 31787.256,
+            "total_quantity": 70,
+            "average_price": 1222.5867692307693,
+            "total_profit": 3928.776,
+            "profit_margin": 0.12359594675300063
+        },
+        {
+            "Product Name": "Hamilton Beach Refrigerator, Silver",
+            "total_sales": 29945.9456,
+            "total_quantity": 78,
+            "average_price": 1361.1793454545455,
+            "total_profit": 6033.065600000001,
+            "profit_margin": 0.20146518933100582
+        },
+        {
+            "Product Name": "KitchenAid Microwave, Silver",
+            "total_sales": 29456.2552,
+            "total_quantity": 118,
+            "average_price": 818.2293111111111,
+            "total_profit": 1993.5352,
+            "profit_margin": 0.06767782212859155
+        },
+        {
+            "Product Name": "Hamilton Beach Refrigerator, Black",
+            "total_sales": 29384.1192,
+            "total_quantity": 74,
+            "average_price": 1049.4328285714287,
+            "total_profit": -916.3807999999998,
+            "profit_margin": -0.031186260638365493
+        },
+        {
+            "Product Name": "Hoover Microwave, White",
+            "total_sales": 29348.62,
+            "total_quantity": 116,
+            "average_price": 863.1947058823529,
+            "total_profit": 5241.0,
+            "profit_margin": 0.1785773913730867
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3069.7380000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 511.6230000000001,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1359.864,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 4624.290000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 651.7080000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 1819.1040000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 6517.08,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 437.7171,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 703.1600000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.1799999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 5156.151,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 1136.94,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2821.7178,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 2636.85,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1903.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 2443.905,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1141.8000000000002,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3979.29,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 5962.7968,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1133.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 3421.467000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1510.96,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2039.796,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 5430.9,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1027.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 5273.7,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 2636.85,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 543.09,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 566.61,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 3966.27,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3979.29,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1895.388,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 724.12,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1888.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2266.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 543.09,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 1136.94,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1699.83,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 3425.4000000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3069.738,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 5458.343,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1421.5410000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1357.725,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 228.36000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1810.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 511.623,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1359.864,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 5766.09,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 651.708,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1955.1240000000005,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 5741.5470000000005,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1582.11,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 4586.2300000000005,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 6517.08,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 7958.58,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 566.61,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1492.4571,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 703.16,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 7564.2435000000005,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 570.9000000000001,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3581.361,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1582.11,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2821.7178,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 2636.85,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1903.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 2443.905,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1141.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3979.29,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 5962.7968,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1086.18,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1133.22,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 3421.467,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1510.96,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2039.796,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 5430.9,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1027.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 5273.7,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 2636.85,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 543.09,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 566.61,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 3966.27,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3979.29,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1895.388,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 724.12,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1888.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2266.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 543.09,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 568.47,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 1136.94,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 1699.83,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 3425.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 5458.343,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1421.541,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1357.725,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 228.36,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1810.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 1141.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Hamilton Beach Stove, Silver",
+            "total_sales": 1955.124,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 3922.443,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1582.11,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 4586.2300000000005,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 7958.58,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 566.61,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1054.74,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Hoover Stove, White",
+            "total_sales": 2408.0925,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "KitchenAid Stove, Silver",
+            "total_sales": 570.9,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Hoover Stove, Red",
+            "total_sales": 2444.421,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "KitchenAid Refrigerator, Black",
+            "total_sales": 1582.11,
+            "total_quantity": 6
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-12",
+            "Order Count": 121
+        },
+        {
+            "Order Month": "2014-11",
+            "Order Count": 114
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 104
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 94
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 88
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 79
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 78
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 75
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 70
+        },
+        {
+            "Order Month": "2017-08",
+            "Order Count": 62
+        },
+        {
+            "Order Month": "2014-07",
+            "Order Count": 59
+        },
+        {
+            "Order Month": "2013-09",
+            "Order Count": 57
+        },
+        {
+            "Order Month": "2016-09",
+            "Order Count": 57
+        },
+        {
+            "Order Month": "2017-06",
+            "Order Count": 57
+        },
+        {
+            "Order Month": "2013-06",
+            "Order Count": 56
+        },
+        {
+            "Order Month": "2016-06",
+            "Order Count": 56
+        },
+        {
+            "Order Month": "2014-04",
+            "Order Count": 54
+        },
+        {
+            "Order Month": "2011-09",
+            "Order Count": 53
+        },
+        {
+            "Order Month": "2017-10",
+            "Order Count": 52
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 52
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 5770.436,
+            "Quantity": 35,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 4705.337,
+            "Quantity": 51,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 8407.0587,
+            "Quantity": 65,
+            "Sales_MA": 6294.277233333333
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 13423.9034,
+            "Quantity": 87,
+            "Sales_MA": 8845.433033333333
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 12122.5187,
+            "Quantity": 74,
+            "Sales_MA": 11317.826933333332
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 20737.1951,
+            "Quantity": 144,
+            "Sales_MA": 15427.8724
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 6845.5237,
+            "Quantity": 28,
+            "Sales_MA": 13235.079166666665
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 11755.499,
+            "Quantity": 71,
+            "Sales_MA": 13112.739266666666
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 32707.1211,
+            "Quantity": 196,
+            "Sales_MA": 17102.714600000003
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 10968.9928,
+            "Quantity": 84,
+            "Sales_MA": 18477.2043
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 30317.338,
+            "Quantity": 171,
+            "Sales_MA": 24664.483966666667
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 15622.502900000001,
+            "Quantity": 126,
+            "Sales_MA": 18969.611233333333
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 16244.100299999998,
+            "Quantity": 76,
+            "Sales_MA": 20727.9804
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 2209.638,
+            "Quantity": 36,
+            "Sales_MA": 11358.747066666669
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 9657.863,
+            "Quantity": 73,
+            "Sales_MA": 9370.533766666667
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 8948.752,
+            "Quantity": 83,
+            "Sales_MA": 6938.751000000001
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 21333.8431,
+            "Quantity": 150,
+            "Sales_MA": 13313.486033333334
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 18133.512000000002,
+            "Quantity": 79,
+            "Sales_MA": 16138.70236666667
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 10502.9391,
+            "Quantity": 54,
+            "Sales_MA": 16656.764733333333
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 33564.9008,
+            "Quantity": 169,
+            "Sales_MA": 20733.78396666667
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 18481.36,
+            "Quantity": 101,
+            "Sales_MA": 20849.733300000004
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 14276.2968,
+            "Quantity": 109,
+            "Sales_MA": 22107.5192
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 30516.18,
+            "Quantity": 184,
+            "Sales_MA": 21091.278933333335
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 39073.5798,
+            "Quantity": 170,
+            "Sales_MA": 27955.352199999998
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 21906.3834,
+            "Quantity": 71,
+            "Sales_MA": 30498.714399999997
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 14566.765,
+            "Quantity": 72,
+            "Sales_MA": 25182.24273333333
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 15978.3678,
+            "Quantity": 121,
+            "Sales_MA": 17483.838733333334
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 16056.3568,
+            "Quantity": 90,
+            "Sales_MA": 15533.829866666667
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 18888.8042,
+            "Quantity": 136,
+            "Sales_MA": 16974.5096
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 39253.9201,
+            "Quantity": 207,
+            "Sales_MA": 24733.027033333336
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 16459.642,
+            "Quantity": 85,
+            "Sales_MA": 24867.455433333333
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 19135.1732,
+            "Quantity": 143,
+            "Sales_MA": 24949.578433333332
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 22304.3775,
+            "Quantity": 202,
+            "Sales_MA": 19299.7309
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 23973.7148,
+            "Quantity": 108,
+            "Sales_MA": 21804.421833333334
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 22976.8028,
+            "Quantity": 168,
+            "Sales_MA": 23084.965033333337
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 23450.8219,
+            "Quantity": 157,
+            "Sales_MA": 23467.113166666666
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 24614.169599999997,
+            "Quantity": 131,
+            "Sales_MA": 23680.5981
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 22622.184,
+            "Quantity": 153,
+            "Sales_MA": 23562.39183333333
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 26459.4502,
+            "Quantity": 198,
+            "Sales_MA": 24565.267933333333
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 34834.2182,
+            "Quantity": 203,
+            "Sales_MA": 27971.950800000002
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 40213.3621,
+            "Quantity": 223,
+            "Sales_MA": 33835.67683333333
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 46165.0694,
+            "Quantity": 316,
+            "Sales_MA": 40404.21656666667
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 34278.3177,
+            "Quantity": 187,
+            "Sales_MA": 40218.916399999995
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 62119.3313,
+            "Quantity": 310,
+            "Sales_MA": 47520.90613333334
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 57796.905099999996,
+            "Quantity": 355,
+            "Sales_MA": 51398.18469999999
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 42928.2544,
+            "Quantity": 272,
+            "Sales_MA": 54281.496933333336
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 76133.19589999999,
+            "Quantity": 444,
+            "Sales_MA": 58952.78513333333
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 64912.5487,
+            "Quantity": 433,
+            "Sales_MA": 61324.66633333333
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 16244.1003,
+            "Quantity": 76,
+            "Sales_MA": 52429.94829999999
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 2209.638,
+            "Quantity": 36,
+            "Sales_MA": 27788.762333333332
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 9597.173,
+            "Quantity": 66,
+            "Sales_MA": 9350.303766666666
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 8948.752,
+            "Quantity": 83,
+            "Sales_MA": 6918.521000000001
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 21333.843100000002,
+            "Quantity": 150,
+            "Sales_MA": 13293.256033333333
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 18133.512,
+            "Quantity": 79,
+            "Sales_MA": 16138.702366666665
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 10502.9391,
+            "Quantity": 54,
+            "Sales_MA": 16656.764733333333
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 33564.900799999996,
+            "Quantity": 169,
+            "Sales_MA": 20733.783966666666
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 18481.36,
+            "Quantity": 101,
+            "Sales_MA": 20849.733299999996
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 14276.2968,
+            "Quantity": 109,
+            "Sales_MA": 22107.519199999995
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 30516.18,
+            "Quantity": 184,
+            "Sales_MA": 21091.27893333333
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 39073.5798,
+            "Quantity": 170,
+            "Sales_MA": 27955.352199999998
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 21906.3834,
+            "Quantity": 71,
+            "Sales_MA": 30498.714399999997
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 14566.765,
+            "Quantity": 72,
+            "Sales_MA": 25182.24273333333
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 15978.3678,
+            "Quantity": 121,
+            "Sales_MA": 17483.838733333334
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 16056.3568,
+            "Quantity": 90,
+            "Sales_MA": 15533.829866666667
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 18792.2942,
+            "Quantity": 127,
+            "Sales_MA": 16942.3396
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 39253.9201,
+            "Quantity": 207,
+            "Sales_MA": 24700.857033333334
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 16459.642,
+            "Quantity": 85,
+            "Sales_MA": 24835.285433333334
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 19117.8332,
+            "Quantity": 141,
+            "Sales_MA": 24943.798433333333
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 22304.3775,
+            "Quantity": 202,
+            "Sales_MA": 19293.9509
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 23929.7948,
+            "Quantity": 104,
+            "Sales_MA": 21784.001833333332
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 22976.8028,
+            "Quantity": 168,
+            "Sales_MA": 23070.32503333333
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 23450.8219,
+            "Quantity": 157,
+            "Sales_MA": 23452.473166666663
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 18843.7336,
+            "Quantity": 96,
+            "Sales_MA": 21757.119433333333
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 17527.114,
+            "Quantity": 93,
+            "Sales_MA": 19940.556500000002
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 18356.5885,
+            "Quantity": 138,
+            "Sales_MA": 18242.478700000003
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 21475.0428,
+            "Quantity": 117,
+            "Sales_MA": 19119.581766666666
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 26557.9834,
+            "Quantity": 142,
+            "Sales_MA": 22129.87156666667
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 26920.0363,
+            "Quantity": 174,
+            "Sales_MA": 24984.354166666668
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 27050.506,
+            "Quantity": 155,
+            "Sales_MA": 26842.8419
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 50537.1103,
+            "Quantity": 233,
+            "Sales_MA": 34835.8842
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 25192.504,
+            "Quantity": 165,
+            "Sales_MA": 34260.0401
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 31273.1816,
+            "Quantity": 180,
+            "Sales_MA": 35667.598633333335
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 46568.3579,
+            "Quantity": 282,
+            "Sales_MA": 34344.68116666667
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 49267.5098,
+            "Quantity": 306,
+            "Sales_MA": 42369.6831
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Patrick Jones",
+            "total_spent": 17814.54,
+            "purchase_frequency": 6,
+            "average_order_value": 2969.09
+        },
+        {
+            "Customer Name": "David Philippe",
+            "total_spent": 16721.2422,
+            "purchase_frequency": 8,
+            "average_order_value": 1672.1242200000002
+        },
+        {
+            "Customer Name": "Tom Ashbrook",
+            "total_spent": 16502.358,
+            "purchase_frequency": 4,
+            "average_order_value": 4125.5895
+        },
+        {
+            "Customer Name": "Daniel Raglin",
+            "total_spent": 14530.7268,
+            "purchase_frequency": 6,
+            "average_order_value": 2421.7878
+        },
+        {
+            "Customer Name": "Rose O'Brian",
+            "total_spent": 13776.728000000001,
+            "purchase_frequency": 10,
+            "average_order_value": 1377.6728
+        },
+        {
+            "Customer Name": "Elpida Rittenbach",
+            "total_spent": 13311.887999999999,
+            "purchase_frequency": 6,
+            "average_order_value": 2218.6479999999997
+        },
+        {
+            "Customer Name": "Laurel Beltran",
+            "total_spent": 12518.9184,
+            "purchase_frequency": 8,
+            "average_order_value": 1564.8648
+        },
+        {
+            "Customer Name": "Sarah Brown",
+            "total_spent": 12418.130000000001,
+            "purchase_frequency": 8,
+            "average_order_value": 1552.2662500000001
+        },
+        {
+            "Customer Name": "Brad Norvell",
+            "total_spent": 12187.36,
+            "purchase_frequency": 6,
+            "average_order_value": 2031.2266666666667
+        },
+        {
+            "Customer Name": "Juliana Krohn",
+            "total_spent": 12176.94,
+            "purchase_frequency": 10,
+            "average_order_value": 1217.694
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 1171874.65,
+            "total_quantity": 6510,
+            "average_profit": 157.8794
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 392628.258,
+            "total_quantity": 1776,
+            "average_profit": 141.685
+        },
+        {
+            "Discount": 0.15,
+            "total_sales": 36288.336,
+            "total_quantity": 158,
+            "average_profit": 33.6924
+        },
+        {
+            "Discount": 0.17,
+            "total_sales": 143282.07,
+            "total_quantity": 564,
+            "average_profit": 107.1834
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 85864.856,
+            "total_quantity": 1109,
+            "average_profit": 37.1601
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 76986.36,
+            "total_quantity": 628,
+            "average_profit": -84.4724
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 60120.81,
+            "total_quantity": 392,
+            "average_profit": -334.3791
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 31238.728,
+            "total_quantity": 296,
+            "average_profit": -227.3198
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 16553.088,
+            "total_quantity": 202,
+            "average_profit": -275.5662
+        },
+        {
+            "Discount": 0.8,
+            "total_sales": 6762.674,
+            "total_quantity": 469,
+            "average_profit": -129.7213
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 24553.17,
+            "total_quantity": 283,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "Jakarta",
+            "City": "Jakarta",
+            "total_sales": 21014.8032,
+            "total_quantity": 70,
+            "Location": "Jakarta, Jakarta"
+        },
+        {
+            "State": "Madrid",
+            "City": "Madrid",
+            "total_sales": 20116.74,
+            "total_quantity": 50,
+            "Location": "Madrid, Madrid"
+        },
+        {
+            "State": "Santo Domingo",
+            "City": "Santo Domingo",
+            "total_sales": 19877.728,
+            "total_quantity": 120,
+            "Location": "Santo Domingo, Santo Domingo"
+        },
+        {
+            "State": "Ile-de-France",
+            "City": "Paris",
+            "total_sales": 18986.399999999998,
+            "total_quantity": 62,
+            "Location": "Ile-de-France, Paris"
+        },
+        {
+            "State": "Jawa Timur",
+            "City": "Surabaya",
+            "total_sales": 17878.9968,
+            "total_quantity": 46,
+            "Location": "Jawa Timur, Surabaya"
+        },
+        {
+            "State": "Managua",
+            "City": "Managua",
+            "total_sales": 17602.36,
+            "total_quantity": 84,
+            "Location": "Managua, Managua"
+        },
+        {
+            "State": "Queensland",
+            "City": "Gold Coast",
+            "total_sales": 17420.561999999998,
+            "total_quantity": 56,
+            "Location": "Queensland, Gold Coast"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 17022.9,
+            "total_quantity": 276,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "Tuscany",
+            "City": "Prato",
+            "total_sales": 15917.16,
+            "total_quantity": 28,
+            "Location": "Tuscany, Prato"
+        },
+        {
+            "State": "Ho Ch\u00ed Minh City",
+            "City": "Ho Chi Minh City",
+            "total_sales": 15444.623399999999,
+            "total_quantity": 52,
+            "Location": "Ho Ch\u00ed Minh City, Ho Chi Minh City"
+        },
+        {
+            "State": "Bangkok",
+            "City": "Bangkok",
+            "total_sales": 15208.720800000001,
+            "total_quantity": 68,
+            "Location": "Bangkok, Bangkok"
+        },
+        {
+            "State": "Victoria",
+            "City": "Melbourne",
+            "total_sales": 15122.7,
+            "total_quantity": 56,
+            "Location": "Victoria, Melbourne"
+        },
+        {
+            "State": "Distrito Federal",
+            "City": "Mexico City",
+            "total_sales": 15044.12,
+            "total_quantity": 104,
+            "Location": "Distrito Federal, Mexico City"
+        },
+        {
+            "State": "East Flanders",
+            "City": "Ghent",
+            "total_sales": 13673.76,
+            "total_quantity": 38,
+            "Location": "East Flanders, Ghent"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 550,
+            "avg_shipping_delay": 2.18,
+            "total_profit": 44709.57,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 178,
+            "avg_shipping_delay": 0.01,
+            "total_profit": 17429.62,
+            "shipping_cost_ratio": 0.17
+        },
+        "Second Class": {
+            "total_orders": 671,
+            "avg_shipping_delay": 3.22,
+            "total_profit": 64853.58,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 1965,
+            "avg_shipping_delay": 4.96,
+            "total_profit": 156250.41,
+            "shipping_cost_ratio": 0.09
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": -0.03,
+            "ship_mode_distribution": {
+                "First Class": 0.5504587155963303,
+                "Second Class": 0.2996941896024465,
+                "Same Day": 0.14984709480122324
+            }
+        },
+        "High": {
+            "avg_profit_margin": -0.01,
+            "ship_mode_distribution": {
+                "Standard Class": 0.4155844155844156,
+                "Second Class": 0.2634508348794063,
+                "First Class": 0.23654916512059368,
+                "Same Day": 0.08441558441558442
+            }
+        },
+        "Low": {
+            "avg_profit_margin": 0.18,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": -0.01,
+            "ship_mode_distribution": {
+                "Standard Class": 0.7351434426229508,
+                "Second Class": 0.16444672131147542,
+                "First Class": 0.07889344262295082,
+                "Same Day": 0.02151639344262295
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 989.5,
+            "frequency": 1.0,
+            "monetary": 371.754
+        },
+        "customer_distribution": {
+            "Promising Customers": 696,
+            "Big Spenders": 513,
+            "Lost Customers": 468,
+            "At-Risk Customers": 395,
+            "Hibernating Customers": 323,
+            "Slipping Away": 77,
+            "VIP": 32,
+            "Loyal Customers": 22
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 2526,
+        "churned_customers": 1971,
+        "churn_rate": 0.7802850356294537,
+        "avg_recency": 940.1342042755344,
+        "avg_frequency": 1.3844022169437846,
+        "avg_monetary": 800.3166389548693,
+        "churned_customer_characteristics": {
+            "avg_recency": 1163.2440385591071,
+            "avg_frequency": 1.4637239979705734,
+            "avg_monetary": 838.1595245053271,
+            "avg_discount": 0.14160470875311057,
+            "avg_quantity": 3.372030151482206,
+            "avg_shipping_cost": 60.47375930637095,
+            "avg_profit": 78.00306931011572
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 147.7927927927928,
+            "avg_frequency": 1.1027027027027028,
+            "avg_monetary": 665.9232562162161,
+            "avg_discount": 0.13566966966966967,
+            "avg_quantity": 3.529429429429429,
+            "avg_shipping_cost": 65.5046930930931,
+            "avg_profit": 88.92391654654655
+        }
+    }
+}

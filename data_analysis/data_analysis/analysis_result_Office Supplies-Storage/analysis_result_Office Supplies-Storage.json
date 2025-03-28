@@ -1,0 +1,4926 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            5253,
+            0.52
+        ],
+        "Corporate": [
+            3008,
+            0.3
+        ],
+        "Home Office": [
+            1847,
+            0.18
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.3,
+        "Corporate": 3.42,
+        "Home Office": 3.35
+    },
+    "segment_unit_price": {
+        "Consumer": 66.41,
+        "Corporate": 66.14,
+        "Home Office": 68.36
+    },
+    "segment_profit": {
+        "Consumer": 5.5,
+        "Corporate": 7.51,
+        "Home Office": 7.18
+    },
+    "segment_discount": {
+        "Consumer": 0.14,
+        "Corporate": 0.14,
+        "Home Office": 0.15
+    },
+    "region_distribution": {
+        "Central": [
+            1197,
+            0.12
+        ],
+        "Western Europe": [
+            747,
+            0.07
+        ],
+        "EMEA": [
+            643,
+            0.06
+        ],
+        "South": [
+            640,
+            0.06
+        ],
+        "Africa": [
+            589,
+            0.06
+        ],
+        "North": [
+            491,
+            0.05
+        ],
+        "Oceania": [
+            482,
+            0.05
+        ],
+        "Central America": [
+            448,
+            0.04
+        ],
+        "Western Asia": [
+            308,
+            0.03
+        ],
+        "Northern Europe": [
+            300,
+            0.03
+        ],
+        "Southern Europe": [
+            295,
+            0.03
+        ],
+        "West": [
+            266,
+            0.03
+        ],
+        "Western US": [
+            264,
+            0.03
+        ],
+        "Southeast Asia": [
+            251,
+            0.02
+        ],
+        "Southeastern Asia": [
+            251,
+            0.02
+        ],
+        "Caribbean": [
+            246,
+            0.02
+        ],
+        "East": [
+            242,
+            0.02
+        ],
+        "Eastern US": [
+            238,
+            0.02
+        ],
+        "South America": [
+            231,
+            0.02
+        ],
+        "Southern Asia": [
+            216,
+            0.02
+        ],
+        "Central US": [
+            207,
+            0.02
+        ],
+        "Eastern Asia": [
+            194,
+            0.02
+        ],
+        "Eastern Europe": [
+            193,
+            0.02
+        ],
+        "North Asia": [
+            185,
+            0.02
+        ],
+        "Western Africa": [
+            171,
+            0.02
+        ],
+        "Central Asia": [
+            168,
+            0.02
+        ],
+        "North Africa": [
+            166,
+            0.02
+        ],
+        "Southern US": [
+            127,
+            0.01
+        ],
+        "Canada": [
+            100,
+            0.01
+        ],
+        "Eastern Africa": [
+            98,
+            0.01
+        ],
+        "Central Africa": [
+            97,
+            0.01
+        ],
+        "Southern Africa": [
+            57,
+            0.01
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.18,
+        "Canada": 2.36,
+        "Caribbean": 3.52,
+        "Central": 3.66,
+        "Central Africa": 2.08,
+        "Central America": 3.75,
+        "Central Asia": 3.29,
+        "Central US": 3.43,
+        "EMEA": 2.26,
+        "East": 3.75,
+        "Eastern Africa": 2.4,
+        "Eastern Asia": 3.64,
+        "Eastern Europe": 2.55,
+        "Eastern US": 3.76,
+        "North": 3.7,
+        "North Africa": 2.11,
+        "North Asia": 3.73,
+        "Northern Europe": 3.56,
+        "Oceania": 3.66,
+        "South": 3.79,
+        "South America": 3.73,
+        "Southeast Asia": 3.91,
+        "Southeastern Asia": 3.91,
+        "Southern Africa": 2.07,
+        "Southern Asia": 3.17,
+        "Southern Europe": 3.78,
+        "Southern US": 3.82,
+        "West": 3.91,
+        "Western Africa": 2.23,
+        "Western Asia": 2.13,
+        "Western Europe": 3.68,
+        "Western US": 3.92
+    },
+    "region_sales": {
+        "Africa": 164.13,
+        "Canada": 211.75,
+        "Caribbean": 151.79,
+        "Central": 244.28,
+        "Central Africa": 185.18,
+        "Central America": 192.45,
+        "Central Asia": 212.78,
+        "Central US": 221.32,
+        "EMEA": 152.7,
+        "East": 295.92,
+        "Eastern Africa": 224.49,
+        "Eastern Asia": 286.73,
+        "Eastern Europe": 214.62,
+        "Eastern US": 300.46,
+        "North": 228.88,
+        "North Africa": 158.89,
+        "North Asia": 290.47,
+        "Northern Europe": 237.79,
+        "Oceania": 270.38,
+        "South": 218.7,
+        "South America": 160.82,
+        "Southeast Asia": 253.18,
+        "Southeastern Asia": 253.18,
+        "Southern Africa": 180.9,
+        "Southern Asia": 222.01,
+        "Southern Europe": 233.93,
+        "Southern US": 281.46,
+        "West": 265.16,
+        "Western Africa": 117.1,
+        "Western Asia": 112.64,
+        "Western Europe": 271.86,
+        "Western US": 267.05
+    },
+    "region_unit_price": {
+        "Africa": 75.17,
+        "Canada": 89.72,
+        "Caribbean": 43.12,
+        "Central": 66.8,
+        "Central Africa": 88.93,
+        "Central America": 51.32,
+        "Central Asia": 64.76,
+        "Central US": 64.62,
+        "EMEA": 67.62,
+        "East": 78.96,
+        "Eastern Africa": 93.62,
+        "Eastern Asia": 78.79,
+        "Eastern Europe": 84.02,
+        "Eastern US": 79.9,
+        "North": 61.88,
+        "North Africa": 75.36,
+        "North Asia": 77.88,
+        "Northern Europe": 66.8,
+        "Oceania": 73.88,
+        "South": 57.65,
+        "South America": 43.1,
+        "Southeast Asia": 64.78,
+        "Southeastern Asia": 64.78,
+        "Southern Africa": 87.38,
+        "Southern Asia": 70.01,
+        "Southern Europe": 61.84,
+        "Southern US": 73.7,
+        "West": 67.89,
+        "Western Africa": 52.56,
+        "Western Asia": 52.89,
+        "Western Europe": 73.87,
+        "Western US": 68.05
+    },
+    "region_discount": {
+        "Africa": 0.14,
+        "Canada": 0.0,
+        "Caribbean": 0.14,
+        "Central": 0.14,
+        "Central Africa": 0.0,
+        "Central America": 0.08,
+        "Central Asia": 0.12,
+        "Central US": 0.12,
+        "EMEA": 0.2,
+        "East": 0.07,
+        "Eastern Africa": 0.12,
+        "Eastern Asia": 0.06,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.07,
+        "North": 0.07,
+        "North Africa": 0.0,
+        "North Asia": 0.06,
+        "Northern Europe": 0.14,
+        "Oceania": 0.14,
+        "South": 0.21,
+        "South America": 0.19,
+        "Southeast Asia": 0.22,
+        "Southeastern Asia": 0.22,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.06,
+        "Southern Europe": 0.27,
+        "Southern US": 0.09,
+        "West": 0.03,
+        "Western Africa": 0.4,
+        "Western Asia": 0.38,
+        "Western Europe": 0.13,
+        "Western US": 0.03
+    },
+    "region_profit": {
+        "Africa": 9.27,
+        "Canada": 24.68,
+        "Caribbean": 6.04,
+        "Central": 6.96,
+        "Central Africa": 19.95,
+        "Central America": 7.34,
+        "Central Asia": 10.49,
+        "Central US": 2.76,
+        "EMEA": 2.38,
+        "East": 9.25,
+        "Eastern Africa": 13.54,
+        "Eastern Asia": 12.69,
+        "Eastern Europe": 20.52,
+        "Eastern US": 9.35,
+        "North": 8.35,
+        "North Africa": 18.25,
+        "North Asia": 12.29,
+        "Northern Europe": 5.32,
+        "Oceania": 8.74,
+        "South": 0.06,
+        "South America": 1.46,
+        "Southeast Asia": 2.46,
+        "Southeastern Asia": 2.46,
+        "Southern Africa": 20.54,
+        "Southern Asia": 12.64,
+        "Southern Europe": -2.42,
+        "Southern US": 4.68,
+        "West": 8.32,
+        "Western Africa": -10.78,
+        "Western Asia": -14.31,
+        "Western Europe": 9.11,
+        "Western US": 8.34
+    },
+    "region_profit_margin": {
+        "Africa": 0.12,
+        "Canada": 0.28,
+        "Caribbean": 0.14,
+        "Central": 0.1,
+        "Central Africa": 0.22,
+        "Central America": 0.14,
+        "Central Asia": 0.16,
+        "Central US": 0.04,
+        "EMEA": 0.04,
+        "East": 0.12,
+        "Eastern Africa": 0.14,
+        "Eastern Asia": 0.16,
+        "Eastern Europe": 0.24,
+        "Eastern US": 0.12,
+        "North": 0.13,
+        "North Africa": 0.24,
+        "North Asia": 0.16,
+        "Northern Europe": 0.08,
+        "Oceania": 0.12,
+        "South": 0.0,
+        "South America": 0.03,
+        "Southeast Asia": 0.04,
+        "Southeastern Asia": 0.04,
+        "Southern Africa": 0.24,
+        "Southern Asia": 0.18,
+        "Southern Europe": -0.04,
+        "Southern US": 0.06,
+        "West": 0.12,
+        "Western Africa": -0.21,
+        "Western Asia": -0.27,
+        "Western Europe": 0.12,
+        "Western US": 0.12
+    },
+    "market_distribution": {
+        "LATAM": [
+            1604,
+            0.16
+        ],
+        "Europe": [
+            1535,
+            0.15
+        ],
+        "EU": [
+            1311,
+            0.13
+        ],
+        "Asia Pacific": [
+            1237,
+            0.12
+        ],
+        "Africa": [
+            1178,
+            0.12
+        ],
+        "USCA": [
+            886,
+            0.09
+        ],
+        "US": [
+            846,
+            0.08
+        ],
+        "APAC": [
+            818,
+            0.08
+        ],
+        "EMEA": [
+            643,
+            0.06
+        ],
+        "Canada": [
+            50,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.74,
+        "Africa": 2.18,
+        "Asia Pacific": 3.2,
+        "Canada": 2.36,
+        "EMEA": 2.26,
+        "EU": 3.71,
+        "Europe": 3.53,
+        "LATAM": 3.71,
+        "US": 3.73,
+        "USCA": 3.66
+    },
+    "market_sales": {
+        "APAC": 264.15,
+        "Africa": 164.13,
+        "Asia Pacific": 217.54,
+        "Canada": 211.75,
+        "EMEA": 152.7,
+        "EU": 259.1,
+        "Europe": 250.71,
+        "LATAM": 177.1,
+        "US": 264.59,
+        "USCA": 264.29
+    },
+    "market_unit_price": {
+        "APAC": 70.59,
+        "Africa": 75.17,
+        "Asia Pacific": 68.06,
+        "Canada": 89.72,
+        "EMEA": 67.62,
+        "EU": 69.79,
+        "Europe": 70.93,
+        "LATAM": 47.74,
+        "US": 70.88,
+        "USCA": 72.2
+    },
+    "market_discount": {
+        "APAC": 0.14,
+        "Africa": 0.14,
+        "Asia Pacific": 0.19,
+        "Canada": 0.0,
+        "EMEA": 0.2,
+        "EU": 0.16,
+        "Europe": 0.14,
+        "LATAM": 0.12,
+        "US": 0.07,
+        "USCA": 0.07
+    },
+    "market_profit": {
+        "APAC": 8.08,
+        "Africa": 9.27,
+        "Asia Pacific": 4.55,
+        "Canada": 24.68,
+        "EMEA": 2.38,
+        "EU": 5.74,
+        "Europe": 7.03,
+        "LATAM": 5.45,
+        "US": 6.74,
+        "USCA": 7.45
+    },
+    "market_profit_margin": {
+        "APAC": 0.11,
+        "Africa": 0.12,
+        "Asia Pacific": 0.07,
+        "Canada": 0.28,
+        "EMEA": 0.04,
+        "EU": 0.08,
+        "Europe": 0.1,
+        "LATAM": 0.11,
+        "US": 0.1,
+        "USCA": 0.1
+    },
+    "country_distribution": {
+        "United States": [
+            1682,
+            0.17
+        ],
+        "France": [
+            680,
+            0.07
+        ],
+        "Germany": [
+            555,
+            0.05
+        ],
+        "United Kingdom": [
+            454,
+            0.04
+        ],
+        "Mexico": [
+            404,
+            0.04
+        ],
+        "Australia": [
+            394,
+            0.04
+        ],
+        "Turkey": [
+            362,
+            0.04
+        ],
+        "Italy": [
+            315,
+            0.03
+        ],
+        "China": [
+            288,
+            0.03
+        ],
+        "Indonesia": [
+            236,
+            0.02
+        ],
+        "Spain": [
+            230,
+            0.02
+        ],
+        "Brazil": [
+            221,
+            0.02
+        ],
+        "India": [
+            215,
+            0.02
+        ],
+        "Nigeria": [
+            196,
+            0.02
+        ],
+        "Iran": [
+            150,
+            0.01
+        ],
+        "Egypt": [
+            140,
+            0.01
+        ],
+        "El Salvador": [
+            130,
+            0.01
+        ],
+        "Honduras": [
+            120,
+            0.01
+        ],
+        "Dominican Republic": [
+            118,
+            0.01
+        ],
+        "Russia": [
+            112,
+            0.01
+        ],
+        "South Africa": [
+            109,
+            0.01
+        ],
+        "Netherlands": [
+            106,
+            0.01
+        ],
+        "Morocco": [
+            102,
+            0.01
+        ],
+        "Canada": [
+            100,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            98,
+            0.01
+        ],
+        "Ukraine": [
+            96,
+            0.01
+        ],
+        "Iraq": [
+            94,
+            0.01
+        ],
+        "Nicaragua": [
+            86,
+            0.01
+        ],
+        "Guatemala": [
+            86,
+            0.01
+        ],
+        "Cuba": [
+            86,
+            0.01
+        ],
+        "New Zealand": [
+            84,
+            0.01
+        ],
+        "Saudi Arabia": [
+            83,
+            0.01
+        ],
+        "Austria": [
+            82,
+            0.01
+        ],
+        "Philippines": [
+            76,
+            0.01
+        ],
+        "Panama": [
+            70,
+            0.01
+        ],
+        "Argentina": [
+            60,
+            0.01
+        ],
+        "Colombia": [
+            58,
+            0.01
+        ],
+        "Poland": [
+            56,
+            0.01
+        ],
+        "Vietnam": [
+            54,
+            0.01
+        ],
+        "Algeria": [
+            52,
+            0.01
+        ],
+        "Thailand": [
+            50,
+            0.0
+        ],
+        "Sweden": [
+            50,
+            0.0
+        ],
+        "Venezuela": [
+            48,
+            0.0
+        ],
+        "Belgium": [
+            46,
+            0.0
+        ],
+        "Tanzania": [
+            46,
+            0.0
+        ],
+        "Japan": [
+            44,
+            0.0
+        ],
+        "Angola": [
+            44,
+            0.0
+        ],
+        "Cameroon": [
+            42,
+            0.0
+        ],
+        "Malaysia": [
+            42,
+            0.0
+        ],
+        "Pakistan": [
+            36,
+            0.0
+        ],
+        "South Korea": [
+            36,
+            0.0
+        ],
+        "Senegal": [
+            34,
+            0.0
+        ],
+        "Romania": [
+            34,
+            0.0
+        ],
+        "Peru": [
+            34,
+            0.0
+        ],
+        "Zambia": [
+            32,
+            0.0
+        ],
+        "Haiti": [
+            28,
+            0.0
+        ],
+        "Singapore": [
+            28,
+            0.0
+        ],
+        "Ireland": [
+            26,
+            0.0
+        ],
+        "Sudan": [
+            26,
+            0.0
+        ],
+        "Bulgaria": [
+            25,
+            0.0
+        ],
+        "Mozambique": [
+            24,
+            0.0
+        ],
+        "Switzerland": [
+            24,
+            0.0
+        ],
+        "Kenya": [
+            24,
+            0.0
+        ],
+        "Bangladesh": [
+            20,
+            0.0
+        ],
+        "Czech Republic": [
+            20,
+            0.0
+        ],
+        "Israel": [
+            20,
+            0.0
+        ],
+        "Niger": [
+            18,
+            0.0
+        ],
+        "Mongolia": [
+            18,
+            0.0
+        ],
+        "Jordan": [
+            18,
+            0.0
+        ],
+        "Uzbekistan": [
+            18,
+            0.0
+        ],
+        "Ghana": [
+            18,
+            0.0
+        ],
+        "Zimbabwe": [
+            18,
+            0.0
+        ],
+        "Kazakhstan": [
+            18,
+            0.0
+        ],
+        "Chile": [
+            18,
+            0.0
+        ],
+        "Lithuania": [
+            18,
+            0.0
+        ],
+        "Somalia": [
+            16,
+            0.0
+        ],
+        "Norway": [
+            16,
+            0.0
+        ],
+        "Finland": [
+            16,
+            0.0
+        ],
+        "Ecuador": [
+            16,
+            0.0
+        ],
+        "Denmark": [
+            16,
+            0.0
+        ],
+        "Portugal": [
+            16,
+            0.0
+        ],
+        "Hungary": [
+            14,
+            0.0
+        ],
+        "Guinea": [
+            14,
+            0.0
+        ],
+        "Belarus": [
+            14,
+            0.0
+        ],
+        "Mali": [
+            14,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            14,
+            0.0
+        ],
+        "Kyrgyzstan": [
+            12,
+            0.0
+        ],
+        "Croatia": [
+            10,
+            0.0
+        ],
+        "Madagascar": [
+            10,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            10,
+            0.0
+        ],
+        "United Arab Emirates": [
+            10,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            9,
+            0.0
+        ],
+        "Afghanistan": [
+            8,
+            0.0
+        ],
+        "Moldova": [
+            8,
+            0.0
+        ],
+        "Bosnia and Herzegovina": [
+            8,
+            0.0
+        ],
+        "Uganda": [
+            8,
+            0.0
+        ],
+        "Libya": [
+            8,
+            0.0
+        ],
+        "Syria": [
+            8,
+            0.0
+        ],
+        "Togo": [
+            6,
+            0.0
+        ],
+        "Djibouti": [
+            6,
+            0.0
+        ],
+        "Liberia": [
+            6,
+            0.0
+        ],
+        "Azerbaijan": [
+            6,
+            0.0
+        ],
+        "Turkmenistan": [
+            6,
+            0.0
+        ],
+        "Ethiopia": [
+            6,
+            0.0
+        ],
+        "Albania": [
+            6,
+            0.0
+        ],
+        "Slovakia": [
+            6,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            6,
+            0.0
+        ],
+        "Yemen": [
+            6,
+            0.0
+        ],
+        "Sierra Leone": [
+            6,
+            0.0
+        ],
+        "Barbados": [
+            6,
+            0.0
+        ],
+        "Rwanda": [
+            6,
+            0.0
+        ],
+        "Republic of the Congo": [
+            4,
+            0.0
+        ],
+        "Mauritania": [
+            4,
+            0.0
+        ],
+        "Tunisia": [
+            4,
+            0.0
+        ],
+        "Benin": [
+            4,
+            0.0
+        ],
+        "Gabon": [
+            4,
+            0.0
+        ],
+        "Bolivia": [
+            4,
+            0.0
+        ],
+        "Papua New Guinea": [
+            4,
+            0.0
+        ],
+        "Estonia": [
+            4,
+            0.0
+        ],
+        "Qatar": [
+            4,
+            0.0
+        ],
+        "Chad": [
+            2,
+            0.0
+        ],
+        "Montenegro": [
+            2,
+            0.0
+        ],
+        "Uruguay": [
+            2,
+            0.0
+        ],
+        "Jamaica": [
+            2,
+            0.0
+        ],
+        "Lesotho": [
+            2,
+            0.0
+        ],
+        "Namibia": [
+            2,
+            0.0
+        ],
+        "Lebanon": [
+            2,
+            0.0
+        ],
+        "Guinea-Bissau": [
+            2,
+            0.0
+        ],
+        "Georgia": [
+            2,
+            0.0
+        ],
+        "Nepal": [
+            2,
+            0.0
+        ],
+        "Taiwan": [
+            2,
+            0.0
+        ],
+        "Cambodia": [
+            2,
+            0.0
+        ],
+        "Macedonia": [
+            2,
+            0.0
+        ],
+        "Bhutan": [
+            1,
+            0.0
+        ],
+        "Botswana": [
+            1,
+            0.0
+        ],
+        "Cyprus": [
+            1,
+            0.0
+        ],
+        "French Guiana": [
+            1,
+            0.0
+        ],
+        "Luxembourg": [
+            1,
+            0.0
+        ],
+        "Oman": [
+            1,
+            0.0
+        ],
+        "Serbia": [
+            1,
+            0.0
+        ],
+        "Western Sahara": [
+            1,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 4.75,
+        "Albania": 3.0,
+        "Algeria": 2.27,
+        "Angola": 2.05,
+        "Argentina": 4.27,
+        "Australia": 3.72,
+        "Austria": 3.95,
+        "Azerbaijan": 1.0,
+        "Bangladesh": 3.6,
+        "Barbados": 2.0,
+        "Belarus": 1.57,
+        "Belgium": 3.65,
+        "Benin": 1.5,
+        "Bhutan": 3.0,
+        "Bolivia": 6.0,
+        "Bosnia and Herzegovina": 2.5,
+        "Botswana": 1.0,
+        "Brazil": 3.43,
+        "Bulgaria": 2.76,
+        "Cambodia": 1.0,
+        "Cameroon": 1.52,
+        "Canada": 2.36,
+        "Chad": 10.0,
+        "Chile": 3.67,
+        "China": 3.69,
+        "Colombia": 3.79,
+        "Cote d'Ivoire": 2.0,
+        "Croatia": 2.6,
+        "Cuba": 3.93,
+        "Cyprus": 5.0,
+        "Czech Republic": 4.0,
+        "C\u00f4te-d'Ivoire": 2.0,
+        "Democratic Republic of the Congo": 1.94,
+        "Denmark": 4.12,
+        "Djibouti": 3.0,
+        "Dominican Republic": 3.22,
+        "Ecuador": 3.25,
+        "Egypt": 2.23,
+        "El Salvador": 3.94,
+        "Estonia": 1.5,
+        "Ethiopia": 1.33,
+        "Finland": 2.25,
+        "France": 3.76,
+        "French Guiana": 4.0,
+        "Gabon": 2.5,
+        "Georgia": 1.0,
+        "Germany": 3.55,
+        "Ghana": 4.44,
+        "Guatemala": 3.63,
+        "Guinea": 1.86,
+        "Guinea-Bissau": 1.0,
+        "Haiti": 4.0,
+        "Honduras": 3.35,
+        "Hungary": 2.71,
+        "India": 3.51,
+        "Indonesia": 3.97,
+        "Iran": 2.36,
+        "Iraq": 2.13,
+        "Ireland": 3.92,
+        "Israel": 2.7,
+        "Italy": 3.72,
+        "Jamaica": 5.0,
+        "Japan": 3.82,
+        "Jordan": 2.78,
+        "Kazakhstan": 1.11,
+        "Kenya": 2.67,
+        "Kyrgyzstan": 1.17,
+        "Lebanon": 1.0,
+        "Lesotho": 1.0,
+        "Liberia": 1.33,
+        "Libya": 1.75,
+        "Lithuania": 1.89,
+        "Luxembourg": 5.0,
+        "Macedonia": 2.0,
+        "Madagascar": 3.4,
+        "Malaysia": 3.95,
+        "Mali": 1.57,
+        "Mauritania": 2.5,
+        "Mexico": 3.8,
+        "Moldova": 2.25,
+        "Mongolia": 1.78,
+        "Montenegro": 4.0,
+        "Morocco": 1.84,
+        "Mozambique": 3.25,
+        "Myanmar (Burma)": 4.14,
+        "Namibia": 1.0,
+        "Nepal": 2.0,
+        "Netherlands": 3.79,
+        "New Zealand": 3.38,
+        "Nicaragua": 4.21,
+        "Niger": 1.89,
+        "Nigeria": 2.15,
+        "Norway": 2.88,
+        "Oman": 1.0,
+        "Pakistan": 4.0,
+        "Panama": 3.37,
+        "Papua New Guinea": 3.5,
+        "Peru": 3.29,
+        "Philippines": 3.55,
+        "Poland": 2.07,
+        "Portugal": 3.25,
+        "Qatar": 2.5,
+        "Republic of the Congo": 7.5,
+        "Romania": 1.82,
+        "Russia": 2.64,
+        "Rwanda": 1.33,
+        "Saudi Arabia": 2.13,
+        "Senegal": 2.59,
+        "Serbia": 1.0,
+        "Sierra Leone": 3.0,
+        "Singapore": 3.64,
+        "Slovakia": 3.0,
+        "Somalia": 2.62,
+        "South Africa": 2.12,
+        "South Korea": 4.0,
+        "Spain": 4.03,
+        "Sudan": 2.23,
+        "Sweden": 3.36,
+        "Switzerland": 2.83,
+        "Syria": 2.5,
+        "Taiwan": 3.0,
+        "Tanzania": 2.52,
+        "Thailand": 4.68,
+        "Togo": 1.0,
+        "Trinidad and Tobago": 2.33,
+        "Tunisia": 2.5,
+        "Turkey": 2.1,
+        "Turkmenistan": 4.67,
+        "Uganda": 1.75,
+        "Ukraine": 2.77,
+        "United Arab Emirates": 1.2,
+        "United Kingdom": 3.7,
+        "United States": 3.74,
+        "Uruguay": 7.0,
+        "Uzbekistan": 1.44,
+        "Venezuela": 4.54,
+        "Vietnam": 3.56,
+        "Western Sahara": 2.0,
+        "Yemen": 2.67,
+        "Zambia": 1.94,
+        "Zimbabwe": 1.44
+    },
+    "country_sales": {
+        "Afghanistan": 190.4,
+        "Albania": 114.41,
+        "Algeria": 154.2,
+        "Angola": 234.6,
+        "Argentina": 131.65,
+        "Australia": 280.07,
+        "Austria": 346.18,
+        "Azerbaijan": 62.47,
+        "Bangladesh": 231.04,
+        "Barbados": 99.62,
+        "Belarus": 91.48,
+        "Belgium": 341.46,
+        "Benin": 135.72,
+        "Bhutan": 164.07,
+        "Bolivia": 268.59,
+        "Bosnia and Herzegovina": 81.13,
+        "Botswana": 206.4,
+        "Brazil": 167.07,
+        "Bulgaria": 165.98,
+        "Cambodia": 9.84,
+        "Cameroon": 140.28,
+        "Canada": 211.75,
+        "Chad": 1288.8,
+        "Chile": 258.2,
+        "China": 303.74,
+        "Colombia": 163.09,
+        "Cote d'Ivoire": 240.01,
+        "Croatia": 144.67,
+        "Cuba": 196.87,
+        "Cyprus": 386.64,
+        "Czech Republic": 206.69,
+        "C\u00f4te-d'Ivoire": 219.64,
+        "Democratic Republic of the Congo": 158.23,
+        "Denmark": 220.93,
+        "Djibouti": 373.66,
+        "Dominican Republic": 122.22,
+        "Ecuador": 104.94,
+        "Egypt": 157.11,
+        "El Salvador": 253.24,
+        "Estonia": 146.97,
+        "Ethiopia": 78.78,
+        "Finland": 152.85,
+        "France": 284.06,
+        "French Guiana": 131.76,
+        "Gabon": 135.3,
+        "Georgia": 127.47,
+        "Germany": 260.68,
+        "Ghana": 324.97,
+        "Guatemala": 196.3,
+        "Guinea": 199.08,
+        "Guinea-Bissau": 58.32,
+        "Haiti": 154.97,
+        "Honduras": 105.45,
+        "Hungary": 255.33,
+        "India": 256.34,
+        "Indonesia": 286.34,
+        "Iran": 191.0,
+        "Iraq": 155.84,
+        "Ireland": 156.79,
+        "Israel": 365.65,
+        "Italy": 190.91,
+        "Jamaica": 182.3,
+        "Japan": 274.86,
+        "Jordan": 91.85,
+        "Kazakhstan": 24.14,
+        "Kenya": 369.5,
+        "Kyrgyzstan": 152.74,
+        "Lebanon": 56.91,
+        "Lesotho": 128.37,
+        "Liberia": 105.63,
+        "Libya": 209.39,
+        "Lithuania": 69.5,
+        "Luxembourg": 637.34,
+        "Macedonia": 52.86,
+        "Madagascar": 366.77,
+        "Malaysia": 247.91,
+        "Mali": 72.08,
+        "Mauritania": 406.05,
+        "Mexico": 207.72,
+        "Moldova": 282.42,
+        "Mongolia": 209.83,
+        "Montenegro": 513.48,
+        "Morocco": 156.25,
+        "Mozambique": 246.9,
+        "Myanmar (Burma)": 207.35,
+        "Namibia": 140.67,
+        "Nepal": 47.94,
+        "Netherlands": 183.56,
+        "New Zealand": 235.59,
+        "Nicaragua": 216.87,
+        "Niger": 199.16,
+        "Nigeria": 48.53,
+        "Norway": 263.3,
+        "Oman": 15.57,
+        "Pakistan": 159.56,
+        "Panama": 105.8,
+        "Papua New Guinea": 45.67,
+        "Peru": 107.11,
+        "Philippines": 194.83,
+        "Poland": 156.92,
+        "Portugal": 132.96,
+        "Qatar": 208.12,
+        "Republic of the Congo": 271.7,
+        "Romania": 222.3,
+        "Russia": 238.16,
+        "Rwanda": 116.94,
+        "Saudi Arabia": 188.22,
+        "Senegal": 247.72,
+        "Serbia": 47.55,
+        "Sierra Leone": 123.82,
+        "Singapore": 419.78,
+        "Slovakia": 138.99,
+        "Somalia": 80.68,
+        "South Africa": 182.37,
+        "South Korea": 216.73,
+        "Spain": 310.65,
+        "Sudan": 123.27,
+        "Sweden": 119.08,
+        "Switzerland": 172.06,
+        "Syria": 102.65,
+        "Taiwan": 49.5,
+        "Tanzania": 280.32,
+        "Thailand": 208.17,
+        "Togo": 70.79,
+        "Trinidad and Tobago": 114.23,
+        "Tunisia": 479.84,
+        "Turkey": 73.08,
+        "Turkmenistan": 59.95,
+        "Uganda": 26.08,
+        "Ukraine": 245.23,
+        "United Arab Emirates": 46.8,
+        "United Kingdom": 265.67,
+        "United States": 266.0,
+        "Uruguay": 987.7,
+        "Uzbekistan": 89.29,
+        "Venezuela": 143.1,
+        "Vietnam": 170.65,
+        "Western Sahara": 423.3,
+        "Yemen": 135.83,
+        "Zambia": 217.17,
+        "Zimbabwe": 43.25
+    },
+    "country_unit_price": {
+        "Afghanistan": 40.08,
+        "Albania": 38.14,
+        "Algeria": 67.95,
+        "Angola": 114.69,
+        "Argentina": 30.86,
+        "Australia": 75.27,
+        "Austria": 87.61,
+        "Azerbaijan": 62.47,
+        "Bangladesh": 64.18,
+        "Barbados": 49.81,
+        "Belarus": 58.21,
+        "Belgium": 93.5,
+        "Benin": 90.48,
+        "Bhutan": 54.69,
+        "Bolivia": 44.77,
+        "Bosnia and Herzegovina": 32.45,
+        "Botswana": 206.4,
+        "Brazil": 48.71,
+        "Bulgaria": 60.14,
+        "Cambodia": 9.84,
+        "Cameroon": 92.06,
+        "Canada": 89.72,
+        "Chad": 128.88,
+        "Chile": 70.42,
+        "China": 82.37,
+        "Colombia": 43.0,
+        "Cote d'Ivoire": 120.0,
+        "Croatia": 55.64,
+        "Cuba": 50.09,
+        "Cyprus": 77.33,
+        "Czech Republic": 51.67,
+        "C\u00f4te-d'Ivoire": 109.82,
+        "Democratic Republic of the Congo": 81.61,
+        "Denmark": 53.56,
+        "Djibouti": 124.55,
+        "Dominican Republic": 37.95,
+        "Ecuador": 32.29,
+        "Egypt": 70.5,
+        "El Salvador": 64.3,
+        "Estonia": 97.98,
+        "Ethiopia": 59.08,
+        "Finland": 67.94,
+        "France": 75.51,
+        "French Guiana": 32.94,
+        "Gabon": 54.12,
+        "Georgia": 127.47,
+        "Germany": 73.33,
+        "Ghana": 73.12,
+        "Guatemala": 54.11,
+        "Guinea": 107.19,
+        "Guinea-Bissau": 58.32,
+        "Haiti": 38.74,
+        "Honduras": 31.48,
+        "Hungary": 94.07,
+        "India": 73.0,
+        "Indonesia": 72.04,
+        "Iran": 80.93,
+        "Iraq": 73.25,
+        "Ireland": 39.97,
+        "Israel": 135.43,
+        "Italy": 51.27,
+        "Jamaica": 36.46,
+        "Japan": 71.99,
+        "Jordan": 33.07,
+        "Kazakhstan": 21.72,
+        "Kenya": 138.56,
+        "Kyrgyzstan": 130.92,
+        "Lebanon": 56.91,
+        "Lesotho": 128.37,
+        "Liberia": 79.22,
+        "Libya": 119.65,
+        "Lithuania": 36.79,
+        "Luxembourg": 127.47,
+        "Macedonia": 26.43,
+        "Madagascar": 107.87,
+        "Malaysia": 62.72,
+        "Mali": 45.87,
+        "Mauritania": 162.42,
+        "Mexico": 54.63,
+        "Moldova": 125.52,
+        "Mongolia": 118.03,
+        "Montenegro": 128.37,
+        "Morocco": 84.77,
+        "Mozambique": 75.97,
+        "Myanmar (Burma)": 50.05,
+        "Namibia": 140.67,
+        "Nepal": 23.97,
+        "Netherlands": 48.4,
+        "New Zealand": 69.68,
+        "Nicaragua": 51.52,
+        "Niger": 105.44,
+        "Nigeria": 22.54,
+        "Norway": 91.58,
+        "Oman": 15.57,
+        "Pakistan": 39.89,
+        "Panama": 31.38,
+        "Papua New Guinea": 13.05,
+        "Peru": 32.51,
+        "Philippines": 54.84,
+        "Poland": 75.76,
+        "Portugal": 40.91,
+        "Qatar": 83.25,
+        "Republic of the Congo": 36.23,
+        "Romania": 121.91,
+        "Russia": 90.12,
+        "Rwanda": 87.7,
+        "Saudi Arabia": 88.26,
+        "Senegal": 95.71,
+        "Serbia": 47.55,
+        "Sierra Leone": 41.27,
+        "Singapore": 115.23,
+        "Slovakia": 46.33,
+        "Somalia": 30.73,
+        "South Africa": 86.05,
+        "South Korea": 54.18,
+        "Spain": 77.16,
+        "Sudan": 55.26,
+        "Sweden": 35.44,
+        "Switzerland": 60.73,
+        "Syria": 41.06,
+        "Taiwan": 16.5,
+        "Tanzania": 111.16,
+        "Thailand": 44.48,
+        "Togo": 70.79,
+        "Trinidad and Tobago": 48.95,
+        "Tunisia": 191.93,
+        "Turkey": 34.72,
+        "Turkmenistan": 12.85,
+        "Uganda": 14.9,
+        "Ukraine": 88.5,
+        "United Arab Emirates": 39.0,
+        "United Kingdom": 71.88,
+        "United States": 71.21,
+        "Uruguay": 141.1,
+        "Uzbekistan": 61.82,
+        "Venezuela": 31.51,
+        "Vietnam": 47.99,
+        "Western Sahara": 211.65,
+        "Yemen": 50.94,
+        "Zambia": 112.09,
+        "Zimbabwe": 29.94
+    },
+    "country_profit": {
+        "Afghanistan": 9.85,
+        "Albania": 11.84,
+        "Algeria": 16.84,
+        "Angola": 28.67,
+        "Argentina": -4.62,
+        "Australia": 10.14,
+        "Austria": 21.13,
+        "Azerbaijan": 9.08,
+        "Bangladesh": 16.85,
+        "Barbados": 13.17,
+        "Belarus": 22.18,
+        "Belgium": 26.52,
+        "Benin": 3.49,
+        "Bhutan": 7.08,
+        "Bolivia": 1.54,
+        "Bosnia and Herzegovina": 6.68,
+        "Botswana": 92.88,
+        "Brazil": 5.45,
+        "Bulgaria": 21.66,
+        "Cambodia": 1.26,
+        "Cameroon": 19.12,
+        "Canada": 24.68,
+        "Chad": 9.0,
+        "Chile": 13.47,
+        "China": 18.45,
+        "Colombia": 9.24,
+        "Cote d'Ivoire": 24.31,
+        "Croatia": 19.92,
+        "Cuba": 13.16,
+        "Cyprus": -42.55,
+        "Czech Republic": 7.96,
+        "C\u00f4te-d'Ivoire": 16.66,
+        "Democratic Republic of the Congo": 19.37,
+        "Denmark": -29.63,
+        "Djibouti": 49.5,
+        "Dominican Republic": 3.21,
+        "Ecuador": 4.91,
+        "Egypt": 15.34,
+        "El Salvador": 12.18,
+        "Estonia": 47.05,
+        "Ethiopia": 7.71,
+        "Finland": 10.2,
+        "France": 10.34,
+        "French Guiana": 2.3,
+        "Gabon": 19.85,
+        "Georgia": 1.26,
+        "Germany": 10.79,
+        "Ghana": 18.1,
+        "Guatemala": 9.59,
+        "Guinea": 39.59,
+        "Guinea-Bissau": 25.65,
+        "Haiti": -8.11,
+        "Honduras": -9.56,
+        "Hungary": 33.12,
+        "India": 16.88,
+        "Indonesia": 6.71,
+        "Iran": 14.26,
+        "Iraq": 16.98,
+        "Ireland": -19.99,
+        "Israel": 29.81,
+        "Italy": -12.57,
+        "Jamaica": 9.46,
+        "Japan": 8.44,
+        "Jordan": 5.31,
+        "Kazakhstan": -41.24,
+        "Kenya": 23.75,
+        "Kyrgyzstan": 40.73,
+        "Lebanon": 23.31,
+        "Lesotho": 55.17,
+        "Liberia": 31.54,
+        "Libya": 29.58,
+        "Lithuania": -55.51,
+        "Luxembourg": 22.65,
+        "Macedonia": 10.83,
+        "Madagascar": 21.15,
+        "Malaysia": 21.2,
+        "Mali": 8.17,
+        "Mauritania": 45.37,
+        "Mexico": 11.31,
+        "Moldova": 28.24,
+        "Mongolia": 29.84,
+        "Montenegro": 55.17,
+        "Morocco": 20.84,
+        "Mozambique": 14.22,
+        "Myanmar (Burma)": 14.33,
+        "Namibia": 1.38,
+        "Nepal": 6.93,
+        "Netherlands": -24.47,
+        "New Zealand": 2.47,
+        "Nicaragua": 11.4,
+        "Niger": 23.88,
+        "Nigeria": -37.12,
+        "Norway": 36.56,
+        "Oman": 7.14,
+        "Pakistan": -14.6,
+        "Panama": -9.4,
+        "Papua New Guinea": -10.85,
+        "Peru": -6.5,
+        "Philippines": -22.09,
+        "Poland": 18.58,
+        "Portugal": -29.23,
+        "Qatar": 7.92,
+        "Republic of the Congo": 6.51,
+        "Romania": 27.96,
+        "Russia": 22.84,
+        "Rwanda": 29.1,
+        "Saudi Arabia": 20.38,
+        "Senegal": 24.33,
+        "Serbia": 6.18,
+        "Sierra Leone": 3.13,
+        "Singapore": 19.37,
+        "Slovakia": 9.1,
+        "Somalia": 6.01,
+        "South Africa": 20.09,
+        "South Korea": -28.12,
+        "Spain": 10.5,
+        "Sudan": 16.12,
+        "Sweden": -18.38,
+        "Switzerland": 11.29,
+        "Syria": -17.94,
+        "Taiwan": 0.48,
+        "Tanzania": 10.4,
+        "Thailand": -12.54,
+        "Togo": 5.74,
+        "Trinidad and Tobago": 15.8,
+        "Tunisia": 73.38,
+        "Turkey": -33.14,
+        "Turkmenistan": -25.37,
+        "Uganda": -28.16,
+        "Ukraine": 18.88,
+        "United Arab Emirates": -70.31,
+        "United Kingdom": 10.73,
+        "United States": 6.77,
+        "Uruguay": 8.46,
+        "Uzbekistan": 10.18,
+        "Venezuela": -13.98,
+        "Vietnam": 5.79,
+        "Western Sahara": 93.12,
+        "Yemen": -86.39,
+        "Zambia": 27.35,
+        "Zimbabwe": -35.79
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.25,
+        "Albania": 0.31,
+        "Algeria": 0.25,
+        "Angola": 0.25,
+        "Argentina": -0.15,
+        "Australia": 0.13,
+        "Austria": 0.24,
+        "Azerbaijan": 0.15,
+        "Bangladesh": 0.26,
+        "Barbados": 0.26,
+        "Belarus": 0.38,
+        "Belgium": 0.28,
+        "Benin": 0.04,
+        "Bhutan": 0.13,
+        "Bolivia": 0.03,
+        "Bosnia and Herzegovina": 0.21,
+        "Botswana": 0.45,
+        "Brazil": 0.11,
+        "Bulgaria": 0.36,
+        "Cambodia": 0.13,
+        "Cameroon": 0.21,
+        "Canada": 0.28,
+        "Chad": 0.07,
+        "Chile": 0.19,
+        "China": 0.22,
+        "Colombia": 0.21,
+        "Cote d'Ivoire": 0.2,
+        "Croatia": 0.36,
+        "Cuba": 0.26,
+        "Cyprus": -0.55,
+        "Czech Republic": 0.15,
+        "C\u00f4te-d'Ivoire": 0.15,
+        "Democratic Republic of the Congo": 0.24,
+        "Denmark": -0.55,
+        "Djibouti": 0.4,
+        "Dominican Republic": 0.08,
+        "Ecuador": 0.15,
+        "Egypt": 0.22,
+        "El Salvador": 0.19,
+        "Estonia": 0.48,
+        "Ethiopia": 0.13,
+        "Finland": 0.15,
+        "France": 0.14,
+        "French Guiana": 0.07,
+        "Gabon": 0.37,
+        "Georgia": 0.01,
+        "Germany": 0.15,
+        "Ghana": 0.25,
+        "Guatemala": 0.18,
+        "Guinea": 0.37,
+        "Guinea-Bissau": 0.44,
+        "Haiti": -0.21,
+        "Honduras": -0.3,
+        "Hungary": 0.35,
+        "India": 0.23,
+        "Indonesia": 0.09,
+        "Iran": 0.18,
+        "Iraq": 0.23,
+        "Ireland": -0.5,
+        "Israel": 0.22,
+        "Italy": -0.25,
+        "Jamaica": 0.26,
+        "Japan": 0.12,
+        "Jordan": 0.16,
+        "Kazakhstan": -1.9,
+        "Kenya": 0.17,
+        "Kyrgyzstan": 0.31,
+        "Lebanon": 0.41,
+        "Lesotho": 0.43,
+        "Liberia": 0.4,
+        "Libya": 0.25,
+        "Lithuania": -1.51,
+        "Luxembourg": 0.18,
+        "Macedonia": 0.41,
+        "Madagascar": 0.2,
+        "Malaysia": 0.34,
+        "Mali": 0.18,
+        "Mauritania": 0.28,
+        "Mexico": 0.21,
+        "Moldova": 0.23,
+        "Mongolia": 0.25,
+        "Montenegro": 0.43,
+        "Morocco": 0.25,
+        "Mozambique": 0.19,
+        "Myanmar (Burma)": 0.29,
+        "Namibia": 0.01,
+        "Nepal": 0.29,
+        "Netherlands": -0.51,
+        "New Zealand": 0.04,
+        "Nicaragua": 0.22,
+        "Niger": 0.23,
+        "Nigeria": -1.65,
+        "Norway": 0.4,
+        "Oman": 0.46,
+        "Pakistan": -0.37,
+        "Panama": -0.3,
+        "Papua New Guinea": -0.83,
+        "Peru": -0.2,
+        "Philippines": -0.4,
+        "Poland": 0.25,
+        "Portugal": -0.71,
+        "Qatar": 0.1,
+        "Republic of the Congo": 0.18,
+        "Romania": 0.23,
+        "Russia": 0.25,
+        "Rwanda": 0.33,
+        "Saudi Arabia": 0.23,
+        "Senegal": 0.25,
+        "Serbia": 0.13,
+        "Sierra Leone": 0.08,
+        "Singapore": 0.17,
+        "Slovakia": 0.2,
+        "Somalia": 0.2,
+        "South Africa": 0.23,
+        "South Korea": -0.52,
+        "Spain": 0.14,
+        "Sudan": 0.29,
+        "Sweden": -0.52,
+        "Switzerland": 0.19,
+        "Syria": -0.44,
+        "Taiwan": 0.03,
+        "Tanzania": 0.09,
+        "Thailand": -0.28,
+        "Togo": 0.08,
+        "Trinidad and Tobago": 0.32,
+        "Tunisia": 0.38,
+        "Turkey": -0.95,
+        "Turkmenistan": -1.97,
+        "Uganda": -1.89,
+        "Ukraine": 0.21,
+        "United Arab Emirates": -1.8,
+        "United Kingdom": 0.15,
+        "United States": 0.1,
+        "Uruguay": 0.06,
+        "Uzbekistan": 0.16,
+        "Venezuela": -0.44,
+        "Vietnam": 0.12,
+        "Western Sahara": 0.44,
+        "Yemen": -1.7,
+        "Zambia": 0.24,
+        "Zimbabwe": -1.2
+    },
+    "top_10_states": {
+        "England": [
+            410,
+            0.04
+        ],
+        "California": [
+            319,
+            0.03
+        ],
+        "Ile-de-France": [
+            224,
+            0.02
+        ],
+        "North Rhine-Westphalia": [
+            200,
+            0.02
+        ],
+        "New York": [
+            194,
+            0.02
+        ],
+        "Texas": [
+            165,
+            0.02
+        ],
+        "New South Wales": [
+            122,
+            0.01
+        ],
+        "Istanbul": [
+            118,
+            0.01
+        ],
+        "San Salvador": [
+            110,
+            0.01
+        ],
+        "Washington": [
+            98,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        410,
+        319,
+        224,
+        200,
+        194,
+        165,
+        122,
+        118,
+        110,
+        98
+    ],
+    "top_10_cities": {
+        "New York City": [
+            162,
+            0.02
+        ],
+        "Los Angeles": [
+            118,
+            0.01
+        ],
+        "Seattle": [
+            90,
+            0.01
+        ],
+        "Philadelphia": [
+            90,
+            0.01
+        ],
+        "San Francisco": [
+            88,
+            0.01
+        ],
+        "London": [
+            72,
+            0.01
+        ],
+        "Berlin": [
+            68,
+            0.01
+        ],
+        "Istanbul": [
+            66,
+            0.01
+        ],
+        "Santo Domingo": [
+            66,
+            0.01
+        ],
+        "Houston": [
+            63,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        162,
+        118,
+        90,
+        90,
+        88,
+        72,
+        68,
+        66,
+        66,
+        63
+    ],
+    "yearly_sales": {
+        "2011": 205626.9622,
+        "2012": 228555.8172,
+        "2013": 309475.7954,
+        "2014": 588981.5128,
+        "2015": 228518.2972,
+        "2016": 309342.5994,
+        "2017": 383397.8466
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 12079.132599999999,
+            "2012": 15179.1946,
+            "2013": 16910.8085,
+            "2014": 37753.2131,
+            "2015": 15179.194599999999,
+            "2016": 16910.8085,
+            "2017": 25931.6845
+        },
+        "August": {
+            "2011": 14768.2663,
+            "2012": 29427.3962,
+            "2013": 25993.9422,
+            "2014": 55707.6422,
+            "2015": 29427.3962,
+            "2016": 25993.9422,
+            "2017": 38813.8089
+        },
+        "December": {
+            "2011": 30342.0798,
+            "2012": 23556.851300000002,
+            "2013": 45118.356700000004,
+            "2014": 64773.9107,
+            "2015": 23534.3393,
+            "2016": 45118.3567,
+            "2017": 35013.8199
+        },
+        "February": {
+            "2011": 7750.746,
+            "2012": 8391.2028,
+            "2013": 17244.719,
+            "2014": 28127.290699999998,
+            "2015": 8358.0828,
+            "2016": 17244.719,
+            "2017": 17805.8687
+        },
+        "January": {
+            "2011": 13940.0981,
+            "2012": 15945.971,
+            "2013": 20629.2163,
+            "2014": 33745.5281,
+            "2015": 15979.091,
+            "2016": 20629.2163,
+            "2017": 19786.67
+        },
+        "July": {
+            "2011": 10731.4071,
+            "2012": 16553.6508,
+            "2013": 25490.1301,
+            "2014": 32630.9697,
+            "2015": 16553.6508,
+            "2016": 25490.1301,
+            "2017": 21505.4196
+        },
+        "June": {
+            "2011": 14824.6054,
+            "2012": 22530.302799999998,
+            "2013": 25124.081,
+            "2014": 54465.190500000004,
+            "2015": 22530.3028,
+            "2016": 25056.545,
+            "2017": 40535.1831
+        },
+        "March": {
+            "2011": 12084.319000000001,
+            "2012": 18167.571200000002,
+            "2013": 15301.6884,
+            "2014": 34184.9023,
+            "2015": 18167.5712,
+            "2016": 15301.6884,
+            "2017": 24435.0153
+        },
+        "May": {
+            "2011": 15509.5891,
+            "2012": 13705.4348,
+            "2013": 21866.1083,
+            "2014": 49646.366,
+            "2015": 13705.4348,
+            "2016": 21866.1083,
+            "2017": 33242.1789
+        },
+        "November": {
+            "2011": 27095.4759,
+            "2012": 25993.1407,
+            "2013": 41492.8173,
+            "2014": 78341.2155,
+            "2015": 25993.1407,
+            "2016": 41464.6773,
+            "2017": 54997.2716
+        },
+        "October": {
+            "2011": 17427.1159,
+            "2012": 15796.45,
+            "2013": 19810.8424,
+            "2014": 52683.2706,
+            "2015": 15781.442000000001,
+            "2016": 19810.8424,
+            "2017": 31046.7297
+        },
+        "September": {
+            "2011": 29074.127,
+            "2012": 23308.651,
+            "2013": 34493.0852,
+            "2014": 66922.0134,
+            "2015": 23308.651,
+            "2016": 34455.5652,
+            "2017": 40284.1964
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 8
+    },
+    "top_10_products_by_sales": {
+        "Eldon File Cart, Single Width": 68775.4574,
+        "Rogers File Cart, Single Width": 58932.6106,
+        "Smead Lockers, Industrial": 57983.328,
+        "Rogers Lockers, Blue": 56429.1784,
+        "Smead File Cart, Single Width": 50794.3416,
+        "Smead Lockers, Blue": 49552.088,
+        "Fellowes Lockers, Industrial": 45274.872,
+        "Tenex File Cart, Single Width": 44227.7244,
+        "Fellowes Lockers, Single Width": 44181.504,
+        "Fellowes Lockers, Blue": 41127.361000000004
+    },
+    "top_10_products_by_profit": {
+        "Rogers Lockers, Single Width": 13510.368,
+        "Eldon Lockers, Industrial": 12970.923,
+        "Smead Lockers, Single Width": 9081.261,
+        "Fellowes Lockers, Blue": 9059.281,
+        "Rogers Lockers, Industrial": 8822.67,
+        "Fellowes Lockers, Wire Frame": 8684.044,
+        "Eldon File Cart, Single Width": 8477.7774,
+        "Tenex File Cart, Single Width": 7905.224399999999,
+        "Smead Lockers, Industrial": 7260.887999999999,
+        "Fellowes Lockers, Industrial": 6678.071999999999
+    },
+    "top_10_products_by_turnover": {
+        "Eldon File Cart, Single Width": 642,
+        "Rogers File Cart, Single Width": 524,
+        "Smead File Cart, Single Width": 500,
+        "Tenex File Cart, Single Width": 414,
+        "Smead Lockers, Industrial": 374,
+        "Rogers Lockers, Blue": 334,
+        "Fellowes Box, Wire Frame": 320,
+        "Eldon Folders, Industrial": 318,
+        "Smead Lockers, Blue": 316,
+        "Fellowes Box, Industrial": 300
+    },
+    "top_5_loss_products": {
+        "Rogers Lockers, Blue": -7451.5016,
+        "Smead File Cart, Single Width": -6464.849999999999,
+        "Fellowes File Cart, Single Width": -5544.888,
+        "Rogers Lockers, Wire Frame": -5096.504999999999,
+        "Rogers File Cart, Single Width": -4966.0328
+    },
+    "product_performance": [
+        {
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 68775.4574,
+            "total_quantity": 642,
+            "average_price": 382.0858744444444,
+            "total_profit": 8477.7774,
+            "profit_margin": 0.12326748116981627
+        },
+        {
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 58932.6106,
+            "total_quantity": 524,
+            "average_price": 350.7893488095238,
+            "total_profit": 4789.7906,
+            "profit_margin": 0.0812757241064763
+        },
+        {
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 57983.328,
+            "total_quantity": 374,
+            "average_price": 707.113756097561,
+            "total_profit": 7260.887999999999,
+            "profit_margin": 0.12522371948019262
+        },
+        {
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 56429.1784,
+            "total_quantity": 334,
+            "average_price": 671.7759333333333,
+            "total_profit": -5786.9816,
+            "profit_margin": -0.10255300119698359
+        },
+        {
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 50794.3416,
+            "total_quantity": 500,
+            "average_price": 329.83338701298703,
+            "total_profit": -475.33839999999947,
+            "profit_margin": -0.009358097477534771
+        },
+        {
+            "Product Name": "Smead Lockers, Blue",
+            "total_sales": 49552.088,
+            "total_quantity": 316,
+            "average_price": 635.2831794871795,
+            "total_profit": 1220.5279999999996,
+            "profit_margin": 0.024631212311376254
+        },
+        {
+            "Product Name": "Fellowes Lockers, Industrial",
+            "total_sales": 45274.872,
+            "total_quantity": 284,
+            "average_price": 492.1181739130435,
+            "total_profit": 6678.071999999999,
+            "profit_margin": 0.14750062683777435
+        },
+        {
+            "Product Name": "Tenex File Cart, Single Width",
+            "total_sales": 44227.7244,
+            "total_quantity": 414,
+            "average_price": 315.91231714285715,
+            "total_profit": 7905.224399999999,
+            "profit_margin": 0.17873911686037366
+        },
+        {
+            "Product Name": "Fellowes Lockers, Single Width",
+            "total_sales": 44181.504,
+            "total_quantity": 264,
+            "average_price": 552.2688,
+            "total_profit": 1177.4040000000005,
+            "profit_margin": 0.026649251234181624
+        },
+        {
+            "Product Name": "Fellowes Lockers, Blue",
+            "total_sales": 41127.361000000004,
+            "total_quantity": 244,
+            "average_price": 604.8141323529412,
+            "total_profit": 9059.281,
+            "profit_margin": 0.22027382209133234
+        },
+        {
+            "Product Name": "Rogers Lockers, Single Width",
+            "total_sales": 40986.728,
+            "total_quantity": 228,
+            "average_price": 602.7460000000001,
+            "total_profit": 13510.368,
+            "profit_margin": 0.32962787368633084
+        },
+        {
+            "Product Name": "Tenex Lockers, Wire Frame",
+            "total_sales": 39283.7808,
+            "total_quantity": 256,
+            "average_price": 545.6080666666667,
+            "total_profit": 5264.300800000001,
+            "profit_margin": 0.13400697928749264
+        },
+        {
+            "Product Name": "Eldon Lockers, Blue",
+            "total_sales": 38510.6472,
+            "total_quantity": 246,
+            "average_price": 534.8701,
+            "total_profit": -4362.1928,
+            "profit_margin": -0.11327238353968769
+        },
+        {
+            "Product Name": "Smead Lockers, Wire Frame",
+            "total_sales": 37295.3282,
+            "total_quantity": 224,
+            "average_price": 548.4607088235294,
+            "total_profit": -573.8518000000004,
+            "profit_margin": -0.015386693929134006
+        },
+        {
+            "Product Name": "Rogers Lockers, Industrial",
+            "total_sales": 36601.39,
+            "total_quantity": 208,
+            "average_price": 571.89671875,
+            "total_profit": 8822.67,
+            "profit_margin": 0.2410474028445368
+        },
+        {
+            "Product Name": "Tenex Lockers, Blue",
+            "total_sales": 36405.389,
+            "total_quantity": 228,
+            "average_price": 443.9681585365854,
+            "total_profit": 3336.389000000001,
+            "profit_margin": 0.09164547040000041
+        },
+        {
+            "Product Name": "Eldon Lockers, Industrial",
+            "total_sales": 35650.683,
+            "total_quantity": 218,
+            "average_price": 594.17805,
+            "total_profit": 12970.923,
+            "profit_margin": 0.36383378685900636
+        },
+        {
+            "Product Name": "Tenex Lockers, Single Width",
+            "total_sales": 34258.681599999996,
+            "total_quantity": 200,
+            "average_price": 570.9780266666666,
+            "total_profit": -177.15839999999946,
+            "profit_margin": -0.005171197247707264
+        },
+        {
+            "Product Name": "Smead Lockers, Single Width",
+            "total_sales": 33428.240999999995,
+            "total_quantity": 232,
+            "average_price": 388.700476744186,
+            "total_profit": 9081.261,
+            "profit_margin": 0.27166433914366006
+        },
+        {
+            "Product Name": "Fellowes Lockers, Wire Frame",
+            "total_sales": 32946.943999999996,
+            "total_quantity": 218,
+            "average_price": 422.3967179487179,
+            "total_profit": 8684.044,
+            "profit_margin": 0.2635766157856705
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-01",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 255.84,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-01",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1034.28,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 256.74,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 84.97800000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 2784.5999999999995,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 460.512,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1269.7200000000003,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 704.01,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 71.04,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1523.664,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 85.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 397.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 510.678,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 423.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1074.06,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 238.67999999999995,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 380.916,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 137.47200000000004,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 383.76,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1274.67,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 513.7199999999999,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 895.05,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 2343.7709999999997,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 397.374,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 175.821,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 198.9,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 634.86,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 513.7199999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1232.352,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 992.76,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 952.29,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 214.04999999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 256.74,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 878.223,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1325.664,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1152.18,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1079.088,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 128.42999999999998,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1153.62,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 901.7099999999999,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 994.5,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1537.5149999999999,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 38.664,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 307.16499999999996,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1629.474,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 994.614,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 809.1089999999999,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 119.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 959.94,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 736.476,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 211.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 795.5999999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 254.934,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1523.664,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1060.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 511.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 212.895,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1517.364,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 741.936,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 423.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 515.52,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 818.688,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 284.16,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 813.1716,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 256.74,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 378.88000000000005,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 774.5292000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 513.7199999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 949.938,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1278.72,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1053.8676,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1377.801,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 563.748,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1022.9760000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1735.284,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1271.457,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1023.36,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 141.63,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 310.37600000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1789.812,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 397.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1024.71,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 710.4000000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 428.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 256.86,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 767.52,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1162.176,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 987.5600000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 928.2,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1897.9742,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 142.08,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 3333.0150000000003,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 493.1604,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1981.0439999999996,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1603.95,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 468.279,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 773.28,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1591.1999999999998,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 898.59,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 806.4818,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 603.6210000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 2048.52,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1942.5510000000002,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 599.34,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1060.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 424.89,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 211.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 954.7199999999998,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 198.9735,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1090.551,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 846.4800000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1091.1840000000002,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1856.4,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 960.75,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 2983.23,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1506.231,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 795.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1280.1,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1983.72,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 231.984,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1034.28,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1062.636,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1390.7640000000001,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 3003.39,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 460.512,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 542.0987,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1975.1200000000001,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 2273.112,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1396.3980000000001,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 71.04,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1523.664,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 715.782,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1829.8799999999999,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 230.256,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1402.9470000000001,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1506.7344,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 360.414,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1074.06,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 2546.005,
+            "total_quantity": 24
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 2524.974,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 380.916,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 326.496,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1113.84,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 113.304,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1333.206,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 497.076,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1921.5,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1387.974,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 634.86,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 924.696,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1849.77,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 2537.676,
+            "total_quantity": 22
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 803.83,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1183.8059999999998,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1723.8,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 2789.9080000000004,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1125.3208000000002,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1904.58,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1113.1037999999999,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 358.02,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1668.81,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 2211.228,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 2602.926,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 458.47200000000004,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 3116.1,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 577.215,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 481.542,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 2317.239,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1883.694,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 198.9,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1152.18,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1079.088,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 128.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1153.62,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 901.71,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 994.5,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1537.5149999999999,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 38.664,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 307.16499999999996,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1629.474,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 994.614,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 809.109,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 119.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 959.94,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 736.476,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 211.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 795.6,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 254.934,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1523.664,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1060.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 511.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 212.895,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1517.364,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 741.936,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 423.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 515.52,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 818.688,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 284.16,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 813.1716,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 256.74,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 378.88,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 774.5292,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 513.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 949.938,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1278.72,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1053.8676,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1377.801,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 563.748,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1022.9760000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1735.284,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1271.457,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1023.36,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 141.63,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 310.376,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1789.812,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 397.8,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1024.71,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 710.4000000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 428.1,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 256.86,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 767.52,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1162.176,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 987.56,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 928.2,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1897.9742,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 142.08,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 3333.015,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 493.1604,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1981.044,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1603.95,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 468.279,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 773.28,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1591.2,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 898.59,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 806.4818,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 603.6210000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 2048.52,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1942.551,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 599.34,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1060.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 424.89,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 211.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 954.72,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 198.9735,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1090.551,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 846.48,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1091.184,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1856.4,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 960.75,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 2983.23,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1506.231,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 795.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1024.26,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1983.72,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 231.984,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 805.896,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1305.786,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 218.79,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 542.0987,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 705.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 2273.112,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 692.388,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 630.162,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1432.08,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 230.256,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 892.269,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1083.4944,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 360.414,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 2546.005,
+            "total_quantity": 24
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 2524.974,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 380.916,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 326.496,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 875.16,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 113.304,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 952.29,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 359.60400000000004,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 770.22,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 113.304,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 634.86,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 410.976,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 954.72,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 961.425,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 406.456,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 1007.985,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 1524.9,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 2019.688,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 842.0608,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1269.72,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 470.9538,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 358.02,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 1206.6779999999999,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 1501.728,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1650.636,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 372.85200000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 3116.1,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Eldon File Cart, Single Width",
+            "total_sales": 320.475,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Rogers File Cart, Single Width",
+            "total_sales": 481.54200000000003,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Rogers Lockers, Blue",
+            "total_sales": 1439.0159999999998,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Smead File Cart, Single Width",
+            "total_sales": 558.03,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Smead Lockers, Industrial",
+            "total_sales": 198.9,
+            "total_quantity": 1
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-11",
+            "Order Count": 321
+        },
+        {
+            "Order Month": "2014-12",
+            "Order Count": 316
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 308
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 267
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 266
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 244
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 227
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 199
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 192
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 189
+        },
+        {
+            "Order Month": "2017-08",
+            "Order Count": 183
+        },
+        {
+            "Order Month": "2017-06",
+            "Order Count": 182
+        },
+        {
+            "Order Month": "2016-12",
+            "Order Count": 179
+        },
+        {
+            "Order Month": "2013-12",
+            "Order Count": 179
+        },
+        {
+            "Order Month": "2014-03",
+            "Order Count": 168
+        },
+        {
+            "Order Month": "2013-11",
+            "Order Count": 167
+        },
+        {
+            "Order Month": "2016-11",
+            "Order Count": 166
+        },
+        {
+            "Order Month": "2013-09",
+            "Order Count": 157
+        },
+        {
+            "Order Month": "2016-09",
+            "Order Count": 156
+        },
+        {
+            "Order Month": "2014-04",
+            "Order Count": 153
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 13940.0981,
+            "Quantity": 167,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 7750.746,
+            "Quantity": 92,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 12084.319000000001,
+            "Quantity": 178,
+            "Sales_MA": 11258.387700000001
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 12079.132599999999,
+            "Quantity": 195,
+            "Sales_MA": 10638.065866666666
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 15509.5891,
+            "Quantity": 198,
+            "Sales_MA": 13224.346899999999
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 14824.6054,
+            "Quantity": 264,
+            "Sales_MA": 14137.775699999998
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 10731.4071,
+            "Quantity": 185,
+            "Sales_MA": 13688.533866666667
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 14768.2663,
+            "Quantity": 262,
+            "Sales_MA": 13441.426266666667
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 29074.127,
+            "Quantity": 421,
+            "Sales_MA": 18191.2668
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 17427.1159,
+            "Quantity": 324,
+            "Sales_MA": 20423.169733333332
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 27095.4759,
+            "Quantity": 359,
+            "Sales_MA": 24532.2396
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 30342.0798,
+            "Quantity": 398,
+            "Sales_MA": 24954.890533333335
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 15945.971,
+            "Quantity": 207,
+            "Sales_MA": 24461.17556666667
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 8391.2028,
+            "Quantity": 128,
+            "Sales_MA": 18226.417866666667
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 18167.571200000002,
+            "Quantity": 248,
+            "Sales_MA": 14168.248333333335
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 15179.1946,
+            "Quantity": 249,
+            "Sales_MA": 13912.656200000003
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 13705.4348,
+            "Quantity": 232,
+            "Sales_MA": 15684.06686666667
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 22530.302799999998,
+            "Quantity": 351,
+            "Sales_MA": 17138.310733333332
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 16553.6508,
+            "Quantity": 261,
+            "Sales_MA": 17596.462799999998
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 29427.3962,
+            "Quantity": 435,
+            "Sales_MA": 22837.116599999998
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 23308.651,
+            "Quantity": 342,
+            "Sales_MA": 23096.566000000003
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 15796.45,
+            "Quantity": 286,
+            "Sales_MA": 22844.16573333333
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 25993.1407,
+            "Quantity": 435,
+            "Sales_MA": 21699.4139
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 23556.851300000002,
+            "Quantity": 397,
+            "Sales_MA": 21782.147333333334
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 20629.2163,
+            "Quantity": 267,
+            "Sales_MA": 23393.069433333334
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 17244.719,
+            "Quantity": 222,
+            "Sales_MA": 20476.92886666667
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 15301.6884,
+            "Quantity": 242,
+            "Sales_MA": 17725.207899999998
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 16910.8085,
+            "Quantity": 275,
+            "Sales_MA": 16485.73863333333
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 21866.1083,
+            "Quantity": 334,
+            "Sales_MA": 18026.20173333333
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 25124.081,
+            "Quantity": 430,
+            "Sales_MA": 21300.332599999998
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 25490.1301,
+            "Quantity": 345,
+            "Sales_MA": 24160.106466666664
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 25993.9422,
+            "Quantity": 403,
+            "Sales_MA": 25536.0511
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 34493.0852,
+            "Quantity": 539,
+            "Sales_MA": 28659.0525
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 19810.8424,
+            "Quantity": 300,
+            "Sales_MA": 26765.956600000005
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 41492.8173,
+            "Quantity": 608,
+            "Sales_MA": 31932.248300000003
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 45118.356700000004,
+            "Quantity": 609,
+            "Sales_MA": 35474.00546666667
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 33745.5281,
+            "Quantity": 492,
+            "Sales_MA": 40118.9007
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 28127.290699999998,
+            "Quantity": 387,
+            "Sales_MA": 35663.72516666667
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 34184.9023,
+            "Quantity": 512,
+            "Sales_MA": 32019.240366666665
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 37753.2131,
+            "Quantity": 510,
+            "Sales_MA": 33355.13536666666
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 49646.366,
+            "Quantity": 624,
+            "Sales_MA": 40528.16046666667
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 54465.190500000004,
+            "Quantity": 837,
+            "Sales_MA": 47288.25653333333
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 32630.9697,
+            "Quantity": 518,
+            "Sales_MA": 45580.84206666667
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 55707.6422,
+            "Quantity": 842,
+            "Sales_MA": 47601.26746666667
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 66922.0134,
+            "Quantity": 1033,
+            "Sales_MA": 51753.54176666667
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 52683.2706,
+            "Quantity": 882,
+            "Sales_MA": 58437.64206666666
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 78341.2155,
+            "Quantity": 1120,
+            "Sales_MA": 65982.1665
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 64773.9107,
+            "Quantity": 1007,
+            "Sales_MA": 65266.132266666675
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 15979.091,
+            "Quantity": 209,
+            "Sales_MA": 53031.405733333326
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 8358.0828,
+            "Quantity": 126,
+            "Sales_MA": 29703.69483333333
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 18167.5712,
+            "Quantity": 248,
+            "Sales_MA": 14168.248333333331
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 15179.194599999999,
+            "Quantity": 249,
+            "Sales_MA": 13901.616199999999
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 13705.4348,
+            "Quantity": 232,
+            "Sales_MA": 15684.066866666666
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 22530.3028,
+            "Quantity": 351,
+            "Sales_MA": 17138.310733333332
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 16553.6508,
+            "Quantity": 261,
+            "Sales_MA": 17596.462799999998
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 29427.3962,
+            "Quantity": 435,
+            "Sales_MA": 22837.116599999998
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 23308.651,
+            "Quantity": 342,
+            "Sales_MA": 23096.566000000003
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 15781.442000000001,
+            "Quantity": 284,
+            "Sales_MA": 22839.163066666664
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 25993.1407,
+            "Quantity": 435,
+            "Sales_MA": 21694.411233333332
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 23534.3393,
+            "Quantity": 394,
+            "Sales_MA": 21769.640666666666
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 20629.2163,
+            "Quantity": 267,
+            "Sales_MA": 23385.565433333333
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 17244.719,
+            "Quantity": 222,
+            "Sales_MA": 20469.424866666664
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 15301.6884,
+            "Quantity": 242,
+            "Sales_MA": 17725.207899999998
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 16910.8085,
+            "Quantity": 275,
+            "Sales_MA": 16485.73863333333
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 21866.1083,
+            "Quantity": 334,
+            "Sales_MA": 18026.20173333333
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 25056.545,
+            "Quantity": 421,
+            "Sales_MA": 21277.820599999995
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 25490.1301,
+            "Quantity": 345,
+            "Sales_MA": 24137.594466666662
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 25993.9422,
+            "Quantity": 403,
+            "Sales_MA": 25513.539099999995
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 34455.5652,
+            "Quantity": 534,
+            "Sales_MA": 28646.545833333326
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 19810.8424,
+            "Quantity": 300,
+            "Sales_MA": 26753.449933333333
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 41464.6773,
+            "Quantity": 605,
+            "Sales_MA": 31910.36163333333
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 45118.3567,
+            "Quantity": 609,
+            "Sales_MA": 35464.625466666665
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 19786.67,
+            "Quantity": 323,
+            "Sales_MA": 35456.56799999999
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 17805.8687,
+            "Quantity": 260,
+            "Sales_MA": 27570.29846666666
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 24435.0153,
+            "Quantity": 355,
+            "Sales_MA": 20675.85133333333
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 25931.6845,
+            "Quantity": 331,
+            "Sales_MA": 22724.189499999997
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 33242.1789,
+            "Quantity": 410,
+            "Sales_MA": 27869.626233333332
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 40535.1831,
+            "Quantity": 589,
+            "Sales_MA": 33236.34883333333
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 21505.4196,
+            "Quantity": 325,
+            "Sales_MA": 31760.927199999995
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 38813.8089,
+            "Quantity": 567,
+            "Sales_MA": 33618.1372
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 40284.1964,
+            "Quantity": 629,
+            "Sales_MA": 33534.47496666667
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 31046.7297,
+            "Quantity": 512,
+            "Sales_MA": 36714.91166666666
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 54997.2716,
+            "Quantity": 801,
+            "Sales_MA": 42109.39923333333
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 35013.8199,
+            "Quantity": 624,
+            "Sales_MA": 40352.60706666667
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Yoseph Carroll",
+            "total_spent": 12398.457999999999,
+            "purchase_frequency": 14,
+            "average_order_value": 774.9036249999999
+        },
+        {
+            "Customer Name": "Brian Stugart",
+            "total_spent": 12303.056,
+            "purchase_frequency": 18,
+            "average_order_value": 615.1528000000001
+        },
+        {
+            "Customer Name": "John Grady",
+            "total_spent": 9421.144,
+            "purchase_frequency": 22,
+            "average_order_value": 362.3516923076923
+        },
+        {
+            "Customer Name": "Gene Hale",
+            "total_spent": 9412.836,
+            "purchase_frequency": 12,
+            "average_order_value": 588.30225
+        },
+        {
+            "Customer Name": "Cassandra Brandow",
+            "total_spent": 9139.459200000001,
+            "purchase_frequency": 8,
+            "average_order_value": 761.6216000000001
+        },
+        {
+            "Customer Name": "Craig Carroll",
+            "total_spent": 9019.188,
+            "purchase_frequency": 12,
+            "average_order_value": 644.2277142857143
+        },
+        {
+            "Customer Name": "Pete Armstrong",
+            "total_spent": 8105.7519999999995,
+            "purchase_frequency": 18,
+            "average_order_value": 405.2876
+        },
+        {
+            "Customer Name": "Carl Weiss",
+            "total_spent": 7966.368,
+            "purchase_frequency": 18,
+            "average_order_value": 442.576
+        },
+        {
+            "Customer Name": "Michael Paige",
+            "total_spent": 7957.530000000001,
+            "purchase_frequency": 16,
+            "average_order_value": 397.8765
+        },
+        {
+            "Customer Name": "Delfina Latchford",
+            "total_spent": 7950.996,
+            "purchase_frequency": 18,
+            "average_order_value": 305.80753846153846
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 1244142.28,
+            "total_quantity": 16808,
+            "average_profit": 50.4469
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 519665.814,
+            "total_quantity": 6666,
+            "average_profit": 43.0454
+        },
+        {
+            "Discount": 0.17,
+            "total_sales": 79693.7448,
+            "total_quantity": 1188,
+            "average_profit": 27.0969
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 160109.28,
+            "total_quantity": 2841,
+            "average_profit": -7.9012
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 117299.664,
+            "total_quantity": 2816,
+            "average_profit": -41.4474
+        },
+        {
+            "Discount": 0.45,
+            "total_sales": 14807.397,
+            "total_quantity": 270,
+            "average_profit": -78.4856
+        },
+        {
+            "Discount": 0.47,
+            "total_sales": 10408.617,
+            "total_quantity": 234,
+            "average_profit": -58.6657
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 60547.5,
+            "total_quantity": 1326,
+            "average_profit": -89.309
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 33397.96,
+            "total_quantity": 1080,
+            "average_profit": -68.7378
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 13826.574,
+            "total_quantity": 572,
+            "average_profit": -80.8494
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 42667.94,
+            "total_quantity": 583,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 37579.64,
+            "total_quantity": 482,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "Washington",
+            "City": "Seattle",
+            "total_sales": 24754.600000000002,
+            "total_quantity": 318,
+            "Location": "Washington, Seattle"
+        },
+        {
+            "State": "Pennsylvania",
+            "City": "Philadelphia",
+            "total_sales": 21262.336,
+            "total_quantity": 306,
+            "Location": "Pennsylvania, Philadelphia"
+        },
+        {
+            "State": "Vienna",
+            "City": "Vienna",
+            "total_sales": 19701.66,
+            "total_quantity": 236,
+            "Location": "Vienna, Vienna"
+        },
+        {
+            "State": "England",
+            "City": "London",
+            "total_sales": 19517.652000000002,
+            "total_quantity": 240,
+            "Location": "England, London"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "total_sales": 16719.58,
+            "total_quantity": 310,
+            "Location": "California, San Francisco"
+        },
+        {
+            "State": "Jakarta",
+            "City": "Jakarta",
+            "total_sales": 14290.9566,
+            "total_quantity": 216,
+            "Location": "Jakarta, Jakarta"
+        },
+        {
+            "State": "Ile-de-France",
+            "City": "Paris",
+            "total_sales": 14149.674,
+            "total_quantity": 166,
+            "Location": "Ile-de-France, Paris"
+        },
+        {
+            "State": "Berlin",
+            "City": "Berlin",
+            "total_sales": 13879.68,
+            "total_quantity": 256,
+            "Location": "Berlin, Berlin"
+        },
+        {
+            "State": "Illinois",
+            "City": "Chicago",
+            "total_sales": 13111.28,
+            "total_quantity": 194,
+            "Location": "Illinois, Chicago"
+        },
+        {
+            "State": "Madrid",
+            "City": "Madrid",
+            "total_sales": 12647.124,
+            "total_quantity": 164,
+            "Location": "Madrid, Madrid"
+        },
+        {
+            "State": "Sumatera Utara",
+            "City": "Medan",
+            "total_sales": 12291.0882,
+            "total_quantity": 116,
+            "Location": "Sumatera Utara, Medan"
+        },
+        {
+            "State": "New South Wales",
+            "City": "Newcastle",
+            "total_sales": 12162.666,
+            "total_quantity": 118,
+            "Location": "New South Wales, Newcastle"
+        },
+        {
+            "State": "Singapore",
+            "City": "Singapore",
+            "total_sales": 11753.880000000001,
+            "total_quantity": 102,
+            "Location": "Singapore, Singapore"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 1280,
+            "avg_shipping_delay": 2.17,
+            "total_profit": 22939.58,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 490,
+            "avg_shipping_delay": 0.03,
+            "total_profit": 11874.16,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 1828,
+            "avg_shipping_delay": 3.2,
+            "total_profit": 47875.07,
+            "shipping_cost_ratio": 0.13
+        },
+        "Standard Class": {
+            "total_orders": 5524,
+            "avg_shipping_delay": 4.99,
+            "total_profit": 134189.35,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.0,
+            "ship_mode_distribution": {
+                "First Class": 0.43073047858942065,
+                "Second Class": 0.3677581863979849,
+                "Same Day": 0.20151133501259447
+            }
+        },
+        "High": {
+            "avg_profit_margin": 0.02,
+            "ship_mode_distribution": {
+                "Standard Class": 0.44567699836867863,
+                "Second Class": 0.26851549755301796,
+                "First Class": 0.20880913539967375,
+                "Same Day": 0.07699836867862969
+            }
+        },
+        "Low": {
+            "avg_profit_margin": -0.02,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": 0.01,
+            "ship_mode_distribution": {
+                "Standard Class": 0.738820254045589,
+                "Second Class": 0.15851748738472246,
+                "First Class": 0.07516965373238212,
+                "Same Day": 0.027492604837306422
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 776.0,
+            "frequency": 1.0,
+            "monetary": 186.912
+        },
+        "customer_distribution": {
+            "Promising Customers": 1542,
+            "Lost Customers": 1075,
+            "Big Spenders": 1002,
+            "At-Risk Customers": 972,
+            "Hibernating Customers": 646,
+            "VIP": 199,
+            "Slipping Away": 130,
+            "Loyal Customers": 73
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 5639,
+        "churned_customers": 4081,
+        "churn_rate": 0.7237098776378791,
+        "avg_recency": 788.1408051072885,
+        "avg_frequency": 1.7925164036176626,
+        "avg_monetary": 399.6983207660933,
+        "churned_customer_characteristics": {
+            "avg_recency": 1030.765988728253,
+            "avg_frequency": 2.004900759617741,
+            "avg_monetary": 448.1137146287674,
+            "avg_discount": 0.14232455908191022,
+            "avg_quantity": 3.253018731792317,
+            "avg_shipping_cost": 23.406516754533826,
+            "avg_profit": 20.903012043131454
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 152.61232349165596,
+            "avg_frequency": 1.2362002567394095,
+            "avg_monetary": 272.8798211810013,
+            "avg_discount": 0.134290757381258,
+            "avg_quantity": 3.265885750962773,
+            "avg_shipping_cost": 23.39554075738126,
+            "avg_profit": 22.716076198117243
+        }
+    }
+}

@@ -1,0 +1,3054 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            864,
+            0.5
+        ],
+        "Corporate": [
+            564,
+            0.33
+        ],
+        "Home Office": [
+            294,
+            0.17
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.56,
+        "Corporate": 3.6,
+        "Home Office": 3.59
+    },
+    "segment_unit_price": {
+        "Consumer": 248.04,
+        "Corporate": 241.92,
+        "Home Office": 245.31
+    },
+    "segment_profit": {
+        "Consumer": -16.07,
+        "Corporate": -29.06,
+        "Home Office": -18.62
+    },
+    "segment_discount": {
+        "Consumer": 0.29,
+        "Corporate": 0.29,
+        "Home Office": 0.29
+    },
+    "region_distribution": {
+        "Central": [
+            166,
+            0.1
+        ],
+        "South": [
+            132,
+            0.08
+        ],
+        "West": [
+            116,
+            0.07
+        ],
+        "Western US": [
+            116,
+            0.07
+        ],
+        "Oceania": [
+            106,
+            0.06
+        ],
+        "Central America": [
+            89,
+            0.05
+        ],
+        "East": [
+            80,
+            0.05
+        ],
+        "Eastern US": [
+            80,
+            0.05
+        ],
+        "Central US": [
+            72,
+            0.04
+        ],
+        "North": [
+            67,
+            0.04
+        ],
+        "South America": [
+            62,
+            0.04
+        ],
+        "Southeastern Asia": [
+            59,
+            0.03
+        ],
+        "Southeast Asia": [
+            59,
+            0.03
+        ],
+        "Western Europe": [
+            55,
+            0.03
+        ],
+        "Caribbean": [
+            54,
+            0.03
+        ],
+        "Southern US": [
+            51,
+            0.03
+        ],
+        "EMEA": [
+            45,
+            0.03
+        ],
+        "Eastern Asia": [
+            42,
+            0.02
+        ],
+        "North Asia": [
+            42,
+            0.02
+        ],
+        "Southern Asia": [
+            41,
+            0.02
+        ],
+        "Africa": [
+            37,
+            0.02
+        ],
+        "Central Asia": [
+            35,
+            0.02
+        ],
+        "Western Asia": [
+            20,
+            0.01
+        ],
+        "Northern Europe": [
+            19,
+            0.01
+        ],
+        "Southern Europe": [
+            19,
+            0.01
+        ],
+        "Eastern Europe": [
+            17,
+            0.01
+        ],
+        "North Africa": [
+            12,
+            0.01
+        ],
+        "Western Africa": [
+            11,
+            0.01
+        ],
+        "Central Africa": [
+            6,
+            0.0
+        ],
+        "Canada": [
+            4,
+            0.0
+        ],
+        "Eastern Africa": [
+            4,
+            0.0
+        ],
+        "Southern Africa": [
+            4,
+            0.0
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.35,
+        "Canada": 1.0,
+        "Caribbean": 4.0,
+        "Central": 3.76,
+        "Central Africa": 2.67,
+        "Central America": 3.7,
+        "Central Asia": 3.2,
+        "Central US": 3.64,
+        "EMEA": 2.27,
+        "East": 3.39,
+        "Eastern Africa": 2.25,
+        "Eastern Asia": 3.98,
+        "Eastern Europe": 2.47,
+        "Eastern US": 3.39,
+        "North": 3.6,
+        "North Africa": 2.33,
+        "North Asia": 3.98,
+        "Northern Europe": 4.21,
+        "Oceania": 3.42,
+        "South": 3.66,
+        "South America": 3.08,
+        "Southeast Asia": 3.8,
+        "Southeastern Asia": 3.8,
+        "Southern Africa": 1.5,
+        "Southern Asia": 2.95,
+        "Southern Europe": 3.42,
+        "Southern US": 4.45,
+        "West": 4.15,
+        "Western Africa": 2.55,
+        "Western Asia": 2.1,
+        "Western Europe": 3.69,
+        "Western US": 4.15
+    },
+    "region_sales": {
+        "Africa": 933.31,
+        "Canada": 424.68,
+        "Caribbean": 876.34,
+        "Central": 801.99,
+        "Central Africa": 1247.16,
+        "Central America": 847.01,
+        "Central Asia": 1471.77,
+        "Central US": 543.82,
+        "EMEA": 874.09,
+        "East": 489.25,
+        "Eastern Africa": 1062.53,
+        "Eastern Asia": 1292.87,
+        "Eastern Europe": 1066.11,
+        "Eastern US": 489.25,
+        "North": 1069.39,
+        "North Africa": 1113.29,
+        "North Asia": 1292.87,
+        "Northern Europe": 1738.32,
+        "Oceania": 1260.96,
+        "South": 794.64,
+        "South America": 739.28,
+        "Southeast Asia": 889.07,
+        "Southeastern Asia": 889.07,
+        "Southern Africa": 940.88,
+        "Southern Asia": 1362.63,
+        "Southern Europe": 796.89,
+        "Southern US": 861.1,
+        "West": 730.64,
+        "Western Africa": 516.04,
+        "Western Asia": 688.0,
+        "Western Europe": 1096.48,
+        "Western US": 730.64
+    },
+    "region_unit_price": {
+        "Africa": 396.93,
+        "Canada": 424.68,
+        "Caribbean": 219.09,
+        "Central": 213.35,
+        "Central Africa": 467.68,
+        "Central America": 229.13,
+        "Central Asia": 459.93,
+        "Central US": 149.45,
+        "EMEA": 385.63,
+        "East": 144.43,
+        "Eastern Africa": 472.23,
+        "Eastern Asia": 325.15,
+        "Eastern Europe": 431.52,
+        "Eastern US": 144.43,
+        "North": 297.3,
+        "North Africa": 477.13,
+        "North Asia": 325.15,
+        "Northern Europe": 412.85,
+        "Oceania": 369.23,
+        "South": 217.17,
+        "South America": 239.98,
+        "Southeast Asia": 234.18,
+        "Southeastern Asia": 234.18,
+        "Southern Africa": 627.26,
+        "Southern Asia": 461.72,
+        "Southern Europe": 232.94,
+        "Southern US": 193.46,
+        "West": 176.2,
+        "Western Africa": 202.73,
+        "Western Asia": 327.62,
+        "Western Europe": 297.08,
+        "Western US": 176.2
+    },
+    "region_discount": {
+        "Africa": 0.13,
+        "Canada": 0.0,
+        "Caribbean": 0.29,
+        "Central": 0.33,
+        "Central Africa": 0.0,
+        "Central America": 0.27,
+        "Central Asia": 0.19,
+        "Central US": 0.26,
+        "EMEA": 0.16,
+        "East": 0.37,
+        "Eastern Africa": 0.18,
+        "Eastern Asia": 0.33,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.37,
+        "North": 0.18,
+        "North Africa": 0.0,
+        "North Asia": 0.33,
+        "Northern Europe": 0.15,
+        "Oceania": 0.27,
+        "South": 0.36,
+        "South America": 0.43,
+        "Southeast Asia": 0.48,
+        "Southeastern Asia": 0.48,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.16,
+        "Southern Europe": 0.53,
+        "Southern US": 0.22,
+        "West": 0.2,
+        "Western Africa": 0.38,
+        "Western Asia": 0.34,
+        "Western Europe": 0.38,
+        "Western US": 0.2
+    },
+    "region_profit": {
+        "Africa": 46.1,
+        "Canada": 150.09,
+        "Caribbean": 0.59,
+        "Central": -34.54,
+        "Central Africa": 111.63,
+        "Central America": 3.18,
+        "Central Asia": 37.41,
+        "Central US": -13.59,
+        "EMEA": 27.1,
+        "East": -40.68,
+        "Eastern Africa": 98.89,
+        "Eastern Asia": -32.76,
+        "Eastern Europe": 118.41,
+        "Eastern US": -40.68,
+        "North": 29.1,
+        "North Africa": 115.33,
+        "North Asia": -32.76,
+        "Northern Europe": 6.82,
+        "Oceania": -1.27,
+        "South": -55.93,
+        "South America": -70.24,
+        "Southeast Asia": -83.12,
+        "Southeastern Asia": -83.12,
+        "Southern Africa": 195.76,
+        "Southern Asia": 39.55,
+        "Southern Europe": -138.06,
+        "Southern US": -20.37,
+        "West": 3.08,
+        "Western Africa": -109.62,
+        "Western Asia": -9.44,
+        "Western Europe": -73.79,
+        "Western US": 3.08
+    },
+    "region_profit_margin": {
+        "Africa": 0.12,
+        "Canada": 0.35,
+        "Caribbean": 0.0,
+        "Central": -0.16,
+        "Central Africa": 0.24,
+        "Central America": 0.01,
+        "Central Asia": 0.08,
+        "Central US": -0.09,
+        "EMEA": 0.07,
+        "East": -0.28,
+        "Eastern Africa": 0.21,
+        "Eastern Asia": -0.1,
+        "Eastern Europe": 0.27,
+        "Eastern US": -0.28,
+        "North": 0.1,
+        "North Africa": 0.24,
+        "North Asia": -0.1,
+        "Northern Europe": 0.02,
+        "Oceania": -0.0,
+        "South": -0.26,
+        "South America": -0.29,
+        "Southeast Asia": -0.35,
+        "Southeastern Asia": -0.35,
+        "Southern Africa": 0.31,
+        "Southern Asia": 0.09,
+        "Southern Europe": -0.59,
+        "Southern US": -0.11,
+        "West": 0.02,
+        "Western Africa": -0.54,
+        "Western Asia": -0.03,
+        "Western Europe": -0.25,
+        "Western US": 0.02
+    },
+    "market_distribution": {
+        "LATAM": [
+            356,
+            0.21
+        ],
+        "USCA": [
+            321,
+            0.19
+        ],
+        "US": [
+            319,
+            0.19
+        ],
+        "Asia Pacific": [
+            215,
+            0.12
+        ],
+        "APAC": [
+            189,
+            0.11
+        ],
+        "Europe": [
+            110,
+            0.06
+        ],
+        "EU": [
+            91,
+            0.05
+        ],
+        "Africa": [
+            74,
+            0.04
+        ],
+        "EMEA": [
+            45,
+            0.03
+        ],
+        "Canada": [
+            2,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.62,
+        "Africa": 2.35,
+        "Asia Pacific": 3.42,
+        "Canada": 1.0,
+        "EMEA": 2.27,
+        "EU": 3.73,
+        "Europe": 3.55,
+        "LATAM": 3.53,
+        "US": 3.89,
+        "USCA": 3.87
+    },
+    "market_sales": {
+        "APAC": 1191.0,
+        "Africa": 933.31,
+        "Asia Pacific": 1131.23,
+        "Canada": 424.68,
+        "EMEA": 874.09,
+        "EU": 1158.04,
+        "Europe": 1150.9,
+        "LATAM": 813.93,
+        "US": 648.79,
+        "USCA": 647.4
+    },
+    "market_unit_price": {
+        "APAC": 329.09,
+        "Africa": 396.93,
+        "Asia Pacific": 330.9,
+        "Canada": 424.68,
+        "EMEA": 385.63,
+        "EU": 310.86,
+        "Europe": 324.61,
+        "LATAM": 230.7,
+        "US": 166.77,
+        "USCA": 167.19
+    },
+    "market_discount": {
+        "APAC": 0.33,
+        "Africa": 0.13,
+        "Asia Pacific": 0.32,
+        "Canada": 0.0,
+        "EMEA": 0.16,
+        "EU": 0.37,
+        "Europe": 0.31,
+        "LATAM": 0.33,
+        "US": 0.26,
+        "USCA": 0.26
+    },
+    "market_profit": {
+        "APAC": -29.43,
+        "Africa": 46.1,
+        "Asia Pacific": -27.11,
+        "Canada": 150.09,
+        "EMEA": 27.1,
+        "EU": -61.94,
+        "Europe": -47.27,
+        "LATAM": -19.6,
+        "US": -14.28,
+        "USCA": -14.02
+    },
+    "market_profit_margin": {
+        "APAC": -0.09,
+        "Africa": 0.12,
+        "Asia Pacific": -0.08,
+        "Canada": 0.35,
+        "EMEA": 0.07,
+        "EU": -0.2,
+        "Europe": -0.15,
+        "LATAM": -0.08,
+        "US": -0.09,
+        "USCA": -0.08
+    },
+    "country_distribution": {
+        "United States": [
+            638,
+            0.37
+        ],
+        "Mexico": [
+            98,
+            0.06
+        ],
+        "Australia": [
+            76,
+            0.04
+        ],
+        "Indonesia": [
+            68,
+            0.04
+        ],
+        "China": [
+            66,
+            0.04
+        ],
+        "Brazil": [
+            64,
+            0.04
+        ],
+        "France": [
+            54,
+            0.03
+        ],
+        "India": [
+            48,
+            0.03
+        ],
+        "Germany": [
+            44,
+            0.03
+        ],
+        "United Kingdom": [
+            32,
+            0.02
+        ],
+        "New Zealand": [
+            30,
+            0.02
+        ],
+        "El Salvador": [
+            28,
+            0.02
+        ],
+        "Italy": [
+            25,
+            0.01
+        ],
+        "Cuba": [
+            22,
+            0.01
+        ],
+        "Philippines": [
+            20,
+            0.01
+        ],
+        "Turkey": [
+            20,
+            0.01
+        ],
+        "Argentina": [
+            20,
+            0.01
+        ],
+        "Dominican Republic": [
+            18,
+            0.01
+        ],
+        "Guatemala": [
+            16,
+            0.01
+        ],
+        "Honduras": [
+            16,
+            0.01
+        ],
+        "Pakistan": [
+            14,
+            0.01
+        ],
+        "Nigeria": [
+            12,
+            0.01
+        ],
+        "Morocco": [
+            12,
+            0.01
+        ],
+        "Spain": [
+            12,
+            0.01
+        ],
+        "Venezuela": [
+            12,
+            0.01
+        ],
+        "Nicaragua": [
+            12,
+            0.01
+        ],
+        "Ukraine": [
+            12,
+            0.01
+        ],
+        "Iran": [
+            12,
+            0.01
+        ],
+        "Myanmar (Burma)": [
+            8,
+            0.0
+        ],
+        "Vietnam": [
+            8,
+            0.0
+        ],
+        "Netherlands": [
+            8,
+            0.0
+        ],
+        "Thailand": [
+            8,
+            0.0
+        ],
+        "Poland": [
+            8,
+            0.0
+        ],
+        "Peru": [
+            8,
+            0.0
+        ],
+        "Saudi Arabia": [
+            8,
+            0.0
+        ],
+        "Panama": [
+            8,
+            0.0
+        ],
+        "South Africa": [
+            8,
+            0.0
+        ],
+        "Russia": [
+            8,
+            0.0
+        ],
+        "South Korea": [
+            8,
+            0.0
+        ],
+        "Colombia": [
+            8,
+            0.0
+        ],
+        "Afghanistan": [
+            6,
+            0.0
+        ],
+        "Ecuador": [
+            6,
+            0.0
+        ],
+        "Iraq": [
+            6,
+            0.0
+        ],
+        "Japan": [
+            6,
+            0.0
+        ],
+        "Egypt": [
+            6,
+            0.0
+        ],
+        "Cambodia": [
+            4,
+            0.0
+        ],
+        "Taiwan": [
+            4,
+            0.0
+        ],
+        "Democratic Republic of the Congo": [
+            4,
+            0.0
+        ],
+        "Tanzania": [
+            4,
+            0.0
+        ],
+        "Canada": [
+            4,
+            0.0
+        ],
+        "Sweden": [
+            4,
+            0.0
+        ],
+        "Cameroon": [
+            4,
+            0.0
+        ],
+        "Haiti": [
+            4,
+            0.0
+        ],
+        "Romania": [
+            4,
+            0.0
+        ],
+        "Angola": [
+            4,
+            0.0
+        ],
+        "Barbados": [
+            4,
+            0.0
+        ],
+        "Sudan": [
+            4,
+            0.0
+        ],
+        "Azerbaijan": [
+            2,
+            0.0
+        ],
+        "Lithuania": [
+            2,
+            0.0
+        ],
+        "Singapore": [
+            2,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            2,
+            0.0
+        ],
+        "Uruguay": [
+            2,
+            0.0
+        ],
+        "Martinique": [
+            2,
+            0.0
+        ],
+        "Austria": [
+            2,
+            0.0
+        ],
+        "Zambia": [
+            2,
+            0.0
+        ],
+        "Jamaica": [
+            2,
+            0.0
+        ],
+        "Mauritania": [
+            2,
+            0.0
+        ],
+        "Israel": [
+            2,
+            0.0
+        ],
+        "Zimbabwe": [
+            2,
+            0.0
+        ],
+        "Bangladesh": [
+            2,
+            0.0
+        ],
+        "Benin": [
+            2,
+            0.0
+        ],
+        "Chile": [
+            2,
+            0.0
+        ],
+        "Bolivia": [
+            2,
+            0.0
+        ],
+        "Ghana": [
+            2,
+            0.0
+        ],
+        "Yemen": [
+            2,
+            0.0
+        ],
+        "Belgium": [
+            2,
+            0.0
+        ],
+        "Algeria": [
+            2,
+            0.0
+        ],
+        "Bulgaria": [
+            2,
+            0.0
+        ],
+        "Senegal": [
+            1,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            1,
+            0.0
+        ],
+        "Burkina Faso": [
+            1,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            1,
+            0.0
+        ],
+        "Greece": [
+            1,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 3.0,
+        "Algeria": 1.0,
+        "Angola": 2.5,
+        "Argentina": 2.9,
+        "Australia": 3.5,
+        "Austria": 1.0,
+        "Azerbaijan": 4.0,
+        "Bangladesh": 3.0,
+        "Barbados": 2.5,
+        "Belgium": 2.0,
+        "Benin": 2.0,
+        "Bolivia": 3.0,
+        "Brazil": 2.88,
+        "Bulgaria": 1.0,
+        "Burkina Faso": 1.0,
+        "Cambodia": 5.5,
+        "Cameroon": 1.0,
+        "Canada": 1.0,
+        "Chile": 2.0,
+        "China": 3.88,
+        "Colombia": 3.75,
+        "Cote d'Ivoire": 1.0,
+        "Cuba": 3.73,
+        "C\u00f4te-d'Ivoire": 1.0,
+        "Democratic Republic of the Congo": 4.5,
+        "Dominican Republic": 4.56,
+        "Ecuador": 3.67,
+        "Egypt": 3.67,
+        "El Salvador": 4.43,
+        "France": 3.81,
+        "Germany": 3.95,
+        "Ghana": 1.0,
+        "Greece": 4.0,
+        "Guatemala": 4.62,
+        "Haiti": 3.0,
+        "Honduras": 3.75,
+        "India": 3.38,
+        "Indonesia": 3.68,
+        "Iran": 1.5,
+        "Iraq": 1.67,
+        "Israel": 1.0,
+        "Italy": 3.28,
+        "Jamaica": 3.0,
+        "Japan": 6.0,
+        "Lithuania": 8.0,
+        "Martinique": 6.0,
+        "Mauritania": 2.0,
+        "Mexico": 3.45,
+        "Morocco": 2.33,
+        "Myanmar (Burma)": 3.5,
+        "Netherlands": 2.5,
+        "New Zealand": 3.2,
+        "Nicaragua": 3.0,
+        "Nigeria": 3.5,
+        "Pakistan": 2.71,
+        "Panama": 3.25,
+        "Peru": 2.75,
+        "Philippines": 3.6,
+        "Poland": 2.0,
+        "Romania": 1.0,
+        "Russia": 1.75,
+        "Saudi Arabia": 3.5,
+        "Senegal": 1.0,
+        "Singapore": 5.0,
+        "South Africa": 1.5,
+        "South Korea": 4.0,
+        "Spain": 3.67,
+        "Sudan": 1.0,
+        "Sweden": 6.0,
+        "Taiwan": 2.5,
+        "Tanzania": 2.0,
+        "Thailand": 5.75,
+        "Trinidad and Tobago": 6.0,
+        "Turkey": 1.7,
+        "Ukraine": 4.0,
+        "United Kingdom": 3.75,
+        "United States": 3.89,
+        "Uruguay": 4.0,
+        "Venezuela": 4.0,
+        "Vietnam": 2.5,
+        "Yemen": 1.0,
+        "Zambia": 4.0,
+        "Zimbabwe": 1.0
+    },
+    "country_sales": {
+        "Afghanistan": 2113.6,
+        "Algeria": 319.77,
+        "Angola": 1097.62,
+        "Argentina": 343.84,
+        "Australia": 1182.65,
+        "Austria": 922.95,
+        "Azerbaijan": 2058.0,
+        "Bangladesh": 947.7,
+        "Barbados": 1249.71,
+        "Belgium": 540.54,
+        "Benin": 504.0,
+        "Bolivia": 1392.38,
+        "Brazil": 805.06,
+        "Bulgaria": 249.57,
+        "Burkina Faso": 925.23,
+        "Cambodia": 2001.82,
+        "Cameroon": 472.52,
+        "Canada": 424.68,
+        "Chile": 500.58,
+        "China": 1321.61,
+        "Colombia": 1406.56,
+        "Cote d'Ivoire": 425.91,
+        "Cuba": 1202.38,
+        "C\u00f4te-d'Ivoire": 425.91,
+        "Democratic Republic of the Congo": 2171.34,
+        "Dominican Republic": 351.05,
+        "Ecuador": 1091.95,
+        "Egypt": 1358.48,
+        "El Salvador": 1188.46,
+        "France": 1212.53,
+        "Germany": 1125.68,
+        "Ghana": 315.87,
+        "Greece": 607.38,
+        "Guatemala": 1134.07,
+        "Haiti": 194.21,
+        "Honduras": 316.68,
+        "India": 1749.31,
+        "Indonesia": 955.97,
+        "Iran": 725.98,
+        "Iraq": 777.92,
+        "Israel": 317.37,
+        "Italy": 806.34,
+        "Jamaica": 537.6,
+        "Japan": 2184.5,
+        "Lithuania": 2171.16,
+        "Martinique": 1773.72,
+        "Mauritania": 899.16,
+        "Mexico": 832.49,
+        "Morocco": 1295.6,
+        "Myanmar (Burma)": 523.98,
+        "Netherlands": 334.94,
+        "New Zealand": 1459.36,
+        "Nicaragua": 832.88,
+        "Nigeria": 434.38,
+        "Pakistan": 320.0,
+        "Panama": 337.42,
+        "Peru": 241.41,
+        "Philippines": 630.87,
+        "Poland": 1094.73,
+        "Romania": 433.82,
+        "Russia": 875.3,
+        "Saudi Arabia": 1380.04,
+        "Senegal": 925.23,
+        "Singapore": 1495.35,
+        "South Africa": 940.88,
+        "South Korea": 265.63,
+        "Spain": 792.99,
+        "Sudan": 595.36,
+        "Sweden": 1158.86,
+        "Taiwan": 1535.6,
+        "Tanzania": 986.52,
+        "Thailand": 955.44,
+        "Trinidad and Tobago": 2076.48,
+        "Turkey": 345.59,
+        "Ukraine": 1521.09,
+        "United Kingdom": 1783.7,
+        "United States": 648.79,
+        "Uruguay": 1935.1,
+        "Venezuela": 489.87,
+        "Vietnam": 556.78,
+        "Yemen": 74.87,
+        "Zambia": 2134.44,
+        "Zimbabwe": 142.62
+    },
+    "country_unit_price": {
+        "Afghanistan": 704.53,
+        "Algeria": 319.77,
+        "Angola": 439.05,
+        "Argentina": 118.57,
+        "Australia": 337.9,
+        "Austria": 922.95,
+        "Azerbaijan": 514.5,
+        "Bangladesh": 315.9,
+        "Barbados": 499.88,
+        "Belgium": 270.27,
+        "Benin": 252.0,
+        "Bolivia": 464.13,
+        "Brazil": 280.02,
+        "Bulgaria": 249.57,
+        "Burkina Faso": 925.23,
+        "Cambodia": 363.97,
+        "Cameroon": 472.52,
+        "Canada": 424.68,
+        "Chile": 250.29,
+        "China": 340.73,
+        "Colombia": 375.08,
+        "Cote d'Ivoire": 425.91,
+        "Cuba": 322.59,
+        "C\u00f4te-d'Ivoire": 425.91,
+        "Democratic Republic of the Congo": 482.52,
+        "Dominican Republic": 77.06,
+        "Ecuador": 297.8,
+        "Egypt": 370.49,
+        "El Salvador": 268.36,
+        "France": 317.85,
+        "Germany": 284.65,
+        "Ghana": 315.87,
+        "Greece": 151.84,
+        "Guatemala": 245.2,
+        "Haiti": 64.74,
+        "Honduras": 84.45,
+        "India": 518.31,
+        "Indonesia": 260.02,
+        "Iran": 483.99,
+        "Iraq": 466.75,
+        "Israel": 317.37,
+        "Italy": 245.83,
+        "Jamaica": 179.2,
+        "Japan": 364.08,
+        "Lithuania": 271.4,
+        "Martinique": 295.62,
+        "Mauritania": 449.58,
+        "Mexico": 241.37,
+        "Morocco": 555.26,
+        "Myanmar (Burma)": 149.71,
+        "Netherlands": 133.97,
+        "New Zealand": 456.05,
+        "Nicaragua": 277.63,
+        "Nigeria": 124.11,
+        "Pakistan": 117.89,
+        "Panama": 103.82,
+        "Peru": 87.79,
+        "Philippines": 175.24,
+        "Poland": 547.36,
+        "Romania": 433.82,
+        "Russia": 500.17,
+        "Saudi Arabia": 394.3,
+        "Senegal": 925.23,
+        "Singapore": 299.07,
+        "South Africa": 627.26,
+        "South Korea": 66.41,
+        "Spain": 216.27,
+        "Sudan": 595.36,
+        "Sweden": 193.14,
+        "Taiwan": 614.24,
+        "Tanzania": 493.26,
+        "Thailand": 166.16,
+        "Trinidad and Tobago": 346.08,
+        "Turkey": 203.29,
+        "Ukraine": 380.27,
+        "United Kingdom": 475.65,
+        "United States": 166.77,
+        "Uruguay": 483.78,
+        "Venezuela": 122.47,
+        "Vietnam": 222.71,
+        "Yemen": 74.87,
+        "Zambia": 533.61,
+        "Zimbabwe": 142.62
+    },
+    "country_profit": {
+        "Afghanistan": 138.53,
+        "Algeria": 121.5,
+        "Angola": 135.65,
+        "Argentina": -178.92,
+        "Australia": -23.97,
+        "Austria": 341.49,
+        "Azerbaijan": 236.67,
+        "Bangladesh": 9.45,
+        "Barbados": 147.61,
+        "Belgium": 24.3,
+        "Benin": 57.96,
+        "Bolivia": -40.61,
+        "Brazil": -26.37,
+        "Bulgaria": 4.98,
+        "Burkina Faso": 305.31,
+        "Cambodia": 123.8,
+        "Cameroon": 49.12,
+        "Canada": 150.09,
+        "Chile": 15.63,
+        "China": -35.57,
+        "Colombia": -5.49,
+        "Cote d'Ivoire": 106.47,
+        "Cuba": 80.32,
+        "C\u00f4te-d'Ivoire": 106.47,
+        "Democratic Republic of the Congo": 112.17,
+        "Dominican Republic": -115.59,
+        "Ecuador": 18.22,
+        "Egypt": 152.78,
+        "El Salvador": 40.87,
+        "France": -57.46,
+        "Germany": -84.78,
+        "Ghana": 28.41,
+        "Greece": -75.94,
+        "Guatemala": -2.54,
+        "Haiti": -95.38,
+        "Honduras": -119.32,
+        "India": 101.9,
+        "Indonesia": -85.44,
+        "Iran": 66.25,
+        "Iraq": 77.12,
+        "Israel": 107.88,
+        "Italy": -138.04,
+        "Jamaica": 44.8,
+        "Japan": 13.36,
+        "Lithuania": -343.78,
+        "Martinique": 35.46,
+        "Mauritania": 197.79,
+        "Mexico": 21.99,
+        "Morocco": 72.87,
+        "Myanmar (Burma)": -114.48,
+        "Netherlands": -207.47,
+        "New Zealand": 61.64,
+        "Nicaragua": 30.17,
+        "Nigeria": -191.47,
+        "Pakistan": -280.99,
+        "Panama": -159.51,
+        "Peru": -130.36,
+        "Philippines": -87.52,
+        "Poland": 95.64,
+        "Romania": 67.0,
+        "Russia": 221.94,
+        "Saudi Arabia": 137.12,
+        "Senegal": 305.31,
+        "Singapore": 32.88,
+        "South Africa": 195.76,
+        "South Korea": -136.9,
+        "Spain": -143.74,
+        "Sudan": 203.55,
+        "Sweden": -285.17,
+        "Taiwan": 206.44,
+        "Tanzania": 120.72,
+        "Thailand": -138.6,
+        "Trinidad and Tobago": 166.1,
+        "Turkey": -210.97,
+        "Ukraine": 104.81,
+        "United Kingdom": 111.97,
+        "United States": -14.28,
+        "Uruguay": -102.8,
+        "Venezuela": -165.97,
+        "Vietnam": -152.29,
+        "Yemen": -169.72,
+        "Zambia": 170.73,
+        "Zimbabwe": -275.76
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.2,
+        "Algeria": 0.38,
+        "Angola": 0.31,
+        "Argentina": -1.51,
+        "Australia": -0.07,
+        "Austria": 0.37,
+        "Azerbaijan": 0.46,
+        "Bangladesh": 0.03,
+        "Barbados": 0.3,
+        "Belgium": 0.09,
+        "Benin": 0.23,
+        "Bolivia": -0.09,
+        "Brazil": -0.09,
+        "Bulgaria": 0.02,
+        "Burkina Faso": 0.33,
+        "Cambodia": 0.34,
+        "Cameroon": 0.1,
+        "Canada": 0.35,
+        "Chile": 0.06,
+        "China": -0.1,
+        "Colombia": -0.01,
+        "Cote d'Ivoire": 0.25,
+        "Cuba": 0.25,
+        "C\u00f4te-d'Ivoire": 0.25,
+        "Democratic Republic of the Congo": 0.23,
+        "Dominican Republic": -1.5,
+        "Ecuador": 0.06,
+        "Egypt": 0.41,
+        "El Salvador": 0.15,
+        "France": -0.18,
+        "Germany": -0.3,
+        "Ghana": 0.09,
+        "Greece": -0.5,
+        "Guatemala": -0.01,
+        "Haiti": -1.47,
+        "Honduras": -1.41,
+        "India": 0.2,
+        "Indonesia": -0.33,
+        "Iran": 0.14,
+        "Iraq": 0.17,
+        "Israel": 0.34,
+        "Italy": -0.56,
+        "Jamaica": 0.25,
+        "Japan": 0.04,
+        "Lithuania": -1.27,
+        "Martinique": 0.12,
+        "Mauritania": 0.44,
+        "Mexico": 0.09,
+        "Morocco": 0.13,
+        "Myanmar (Burma)": -0.76,
+        "Netherlands": -1.55,
+        "New Zealand": 0.14,
+        "Nicaragua": 0.11,
+        "Nigeria": -1.54,
+        "Pakistan": -2.38,
+        "Panama": -1.54,
+        "Peru": -1.48,
+        "Philippines": -0.5,
+        "Poland": 0.17,
+        "Romania": 0.15,
+        "Russia": 0.44,
+        "Saudi Arabia": 0.35,
+        "Senegal": 0.33,
+        "Singapore": 0.11,
+        "South Africa": 0.31,
+        "South Korea": -2.06,
+        "Spain": -0.66,
+        "Sudan": 0.34,
+        "Sweden": -1.48,
+        "Taiwan": 0.34,
+        "Tanzania": 0.24,
+        "Thailand": -0.83,
+        "Trinidad and Tobago": 0.48,
+        "Turkey": -1.04,
+        "Ukraine": 0.28,
+        "United Kingdom": 0.24,
+        "United States": -0.09,
+        "Uruguay": -0.21,
+        "Venezuela": -1.36,
+        "Vietnam": -0.68,
+        "Yemen": -2.27,
+        "Zambia": 0.32,
+        "Zimbabwe": -1.93
+    },
+    "top_10_states": {
+        "California": [
+            142,
+            0.08
+        ],
+        "Texas": [
+            66,
+            0.04
+        ],
+        "New York": [
+            56,
+            0.03
+        ],
+        "Washington": [
+            42,
+            0.02
+        ],
+        "Illinois": [
+            36,
+            0.02
+        ],
+        "Ohio": [
+            32,
+            0.02
+        ],
+        "Pennsylvania": [
+            30,
+            0.02
+        ],
+        "England": [
+            28,
+            0.02
+        ],
+        "Distrito Federal": [
+            26,
+            0.02
+        ],
+        "Virginia": [
+            26,
+            0.02
+        ]
+    },
+    "top_10_states_values": [
+        142,
+        66,
+        56,
+        42,
+        36,
+        32,
+        30,
+        28,
+        26,
+        26
+    ],
+    "top_10_cities": {
+        "Los Angeles": [
+            64,
+            0.04
+        ],
+        "New York City": [
+            46,
+            0.03
+        ],
+        "Seattle": [
+            36,
+            0.02
+        ],
+        "San Francisco": [
+            32,
+            0.02
+        ],
+        "Philadelphia": [
+            30,
+            0.02
+        ],
+        "Jakarta": [
+            20,
+            0.01
+        ],
+        "Springfield": [
+            18,
+            0.01
+        ],
+        "Houston": [
+            18,
+            0.01
+        ],
+        "Melbourne": [
+            16,
+            0.01
+        ],
+        "Mexico City": [
+            16,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        64,
+        46,
+        36,
+        32,
+        30,
+        20,
+        18,
+        18,
+        16,
+        16
+    ],
+    "yearly_sales": {
+        "2011": 147131.4937,
+        "2012": 164086.4968,
+        "2013": 202363.5351,
+        "2014": 390591.8925,
+        "2015": 164086.4968,
+        "2016": 202363.5351,
+        "2017": 243460.3988
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 3823.586,
+            "2012": 17749.787800000002,
+            "2013": 6135.8396,
+            "2014": 17320.3587,
+            "2015": 17749.7878,
+            "2016": 6135.8396,
+            "2017": 13496.7727
+        },
+        "August": {
+            "2011": 10033.9395,
+            "2012": 11855.996000000001,
+            "2013": 22065.9835,
+            "2014": 32763.6981,
+            "2015": 11855.996,
+            "2016": 22065.983500000002,
+            "2017": 22729.7586
+        },
+        "December": {
+            "2011": 30782.928,
+            "2012": 19393.2107,
+            "2013": 37684.4081,
+            "2014": 63100.2306,
+            "2015": 19393.2107,
+            "2016": 37684.4081,
+            "2017": 33498.3186
+        },
+        "February": {
+            "2011": 4323.531,
+            "2012": 7870.523999999999,
+            "2013": 18753.079,
+            "2014": 8412.5604,
+            "2015": 7870.523999999999,
+            "2016": 18753.078999999998,
+            "2017": 3712.5204000000003
+        },
+        "January": {
+            "2011": 7356.7245,
+            "2012": 8689.593,
+            "2013": 22015.3611,
+            "2014": 20261.488,
+            "2015": 8689.593,
+            "2016": 22015.361100000002,
+            "2017": 12904.763500000001
+        },
+        "July": {
+            "2011": 7215.264,
+            "2012": 3528.881,
+            "2013": 7670.784,
+            "2014": 16214.577500000001,
+            "2015": 3528.881,
+            "2016": 7670.784,
+            "2017": 11510.4095
+        },
+        "June": {
+            "2011": 19593.8083,
+            "2012": 18068.023100000002,
+            "2013": 25052.1311,
+            "2014": 48818.4704,
+            "2015": 18068.0231,
+            "2016": 25052.1311,
+            "2017": 26713.5661
+        },
+        "March": {
+            "2011": 8004.53,
+            "2012": 16170.538999999999,
+            "2013": 7143.621,
+            "2014": 23860.341,
+            "2015": 16170.538999999999,
+            "2016": 7143.621,
+            "2017": 16232.32
+        },
+        "May": {
+            "2011": 11781.5984,
+            "2012": 6931.442999999999,
+            "2013": 14530.2952,
+            "2014": 32622.6705,
+            "2015": 6931.443,
+            "2016": 14530.2952,
+            "2017": 20841.0721
+        },
+        "November": {
+            "2011": 13445.17,
+            "2012": 18734.4502,
+            "2013": 19523.257,
+            "2014": 44004.039,
+            "2015": 18734.4502,
+            "2016": 19523.257,
+            "2017": 29377.853
+        },
+        "October": {
+            "2011": 14728.925,
+            "2012": 17884.8358,
+            "2013": 8584.556,
+            "2014": 40084.951,
+            "2015": 17884.8358,
+            "2016": 8584.556,
+            "2017": 25356.026
+        },
+        "September": {
+            "2011": 16041.489000000001,
+            "2012": 17209.213200000002,
+            "2013": 13204.219500000001,
+            "2014": 43128.5073,
+            "2015": 17209.2132,
+            "2016": 13204.2195,
+            "2017": 27087.0183
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Hon Conference Table, Adjustable Height": 30037.7484,
+        "Barricks Conference Table, Fully Assembled": 29861.01,
+        "Bevis Conference Table, Fully Assembled": 29773.9014,
+        "Chromcraft Computer Table, with Bottom Storage": 27658.2072,
+        "Chromcraft Conference Table, with Bottom Storage": 27401.838,
+        "Bretford Rectangular Conference Table Tops": 25990.583,
+        "Lesro Conference Table, with Bottom Storage": 25555.884000000002,
+        "Bevis Computer Table, Fully Assembled": 22355.7924,
+        "Bevis Wood Table, with Bottom Storage": 22269.323999999997,
+        "Lesro Conference Table, Rectangular": 22005.86
+    },
+    "top_10_products_by_profit": {
+        "Chromcraft Computer Table, Adjustable Height": 6018.214,
+        "Hon Training Table, Adjustable Height": 3823.5780000000004,
+        "Barricks Training Table, Adjustable Height": 3517.947,
+        "Barricks Conference Table, Fully Assembled": 3149.3100000000004,
+        "Hon Training Table, Fully Assembled": 2683.7029999999995,
+        "Bevis Round Table, Rectangular": 2598.9744,
+        "Bevis Conference Table, Rectangular": 2075.84,
+        "Chromcraft Conference Table, Fully Assembled": 1992.816,
+        "Chromcraft Wood Table, Adjustable Height": 1744.404,
+        "Lesro Conference Table, Rectangular": 1721.2600000000002
+    },
+    "top_10_products_by_turnover": {
+        "KI Adjustable-Height Table": 148,
+        "Chromcraft Round Conference Tables": 122,
+        "Bretford Rectangular Conference Table Tops": 92,
+        "KI Conference Tables": 88,
+        "Bevis Computer Table, Fully Assembled": 86,
+        "Chromcraft Computer Table, with Bottom Storage": 86,
+        "Barricks Computer Table, Fully Assembled": 82,
+        "Bevis 36 x 72 Conference Tables": 80,
+        "Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table": 78,
+        "Barricks Coffee Table, Adjustable Height": 76
+    },
+    "top_5_loss_products": {
+        "Bevis Computer Table, Fully Assembled": -8519.6036,
+        "Bevis Conference Table, Fully Assembled": -7976.034599999999,
+        "Bevis Round Table, Adjustable Height": -7785.347999999999,
+        "Bevis Wood Table, with Bottom Storage": -7300.923999999999,
+        "Chromcraft Bull-Nose Wood Oval Conference Tables & Bases": -6215.054400000001
+    },
+    "product_performance": [
+        {
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 30037.7484,
+            "total_quantity": 58,
+            "average_price": 1501.88742,
+            "total_profit": -3141.1315999999993,
+            "profit_margin": -0.1045728047978456
+        },
+        {
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 29861.01,
+            "total_quantity": 42,
+            "average_price": 2986.1009999999997,
+            "total_profit": 3149.3100000000004,
+            "profit_margin": 0.10546562222778133
+        },
+        {
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 29773.9014,
+            "total_quantity": 52,
+            "average_price": 1860.8688375,
+            "total_profit": -4886.178599999999,
+            "profit_margin": -0.16410945056733478
+        },
+        {
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 27658.2072,
+            "total_quantity": 86,
+            "average_price": 1728.63795,
+            "total_profit": 140.04719999999998,
+            "profit_margin": 0.005063495221772725
+        },
+        {
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 27401.838,
+            "total_quantity": 44,
+            "average_price": 1522.3243333333332,
+            "total_profit": -3700.6619999999994,
+            "profit_margin": -0.13505159763370617
+        },
+        {
+            "Product Name": "Bretford Rectangular Conference Table Tops",
+            "total_sales": 25990.583,
+            "total_quantity": 92,
+            "average_price": 1082.9409583333334,
+            "total_profit": -654.4661999999992,
+            "profit_margin": -0.025180897250361763
+        },
+        {
+            "Product Name": "Lesro Conference Table, with Bottom Storage",
+            "total_sales": 25555.884000000002,
+            "total_quantity": 48,
+            "average_price": 1597.2427500000001,
+            "total_profit": 308.1640000000011,
+            "profit_margin": 0.012058436327227072
+        },
+        {
+            "Product Name": "Bevis Computer Table, Fully Assembled",
+            "total_sales": 22355.7924,
+            "total_quantity": 86,
+            "average_price": 859.8381692307692,
+            "total_profit": -7019.1276,
+            "profit_margin": -0.31397355434379504
+        },
+        {
+            "Product Name": "Bevis Wood Table, with Bottom Storage",
+            "total_sales": 22269.323999999997,
+            "total_quantity": 68,
+            "average_price": 1113.4661999999998,
+            "total_profit": -5565.175999999999,
+            "profit_margin": -0.24990323011152019
+        },
+        {
+            "Product Name": "Lesro Conference Table, Rectangular",
+            "total_sales": 22005.86,
+            "total_quantity": 46,
+            "average_price": 1833.8216666666667,
+            "total_profit": 1721.2600000000002,
+            "profit_margin": 0.07821825640988356
+        },
+        {
+            "Product Name": "Lesro Conference Table, Adjustable Height",
+            "total_sales": 21838.158,
+            "total_quantity": 40,
+            "average_price": 1819.8464999999999,
+            "total_profit": 326.0580000000004,
+            "profit_margin": 0.014930654865671382
+        },
+        {
+            "Product Name": "Lesro Round Table, Rectangular",
+            "total_sales": 21414.994000000002,
+            "total_quantity": 76,
+            "average_price": 1338.4371250000002,
+            "total_profit": 1170.914,
+            "profit_margin": 0.054677297598122135
+        },
+        {
+            "Product Name": "Barricks Computer Table, Fully Assembled",
+            "total_sales": 21240.4356,
+            "total_quantity": 82,
+            "average_price": 1062.02178,
+            "total_profit": -3172.5444000000007,
+            "profit_margin": -0.1493634339589533
+        },
+        {
+            "Product Name": "Chromcraft Conference Table, Rectangular",
+            "total_sales": 20421.632,
+            "total_quantity": 40,
+            "average_price": 1276.352,
+            "total_profit": -1821.888,
+            "profit_margin": -0.08921363385649099
+        },
+        {
+            "Product Name": "Chromcraft Bull-Nose Wood Oval Conference Tables & Bases",
+            "total_sales": 19835.280000000002,
+            "total_quantity": 54,
+            "average_price": 1983.5280000000002,
+            "total_profit": -5752.2312,
+            "profit_margin": -0.29
+        },
+        {
+            "Product Name": "Bush Advantage Collection Racetrack Conference Table",
+            "total_sales": 19089.45,
+            "total_quantity": 66,
+            "average_price": 1363.5321428571428,
+            "total_profit": -3868.7952,
+            "profit_margin": -0.20266666666666666
+        },
+        {
+            "Product Name": "Barricks Training Table, Adjustable Height",
+            "total_sales": 17402.607,
+            "total_quantity": 60,
+            "average_price": 1740.2607,
+            "total_profit": 3517.947,
+            "profit_margin": 0.20215057433636238
+        },
+        {
+            "Product Name": "Barricks Computer Table, with Bottom Storage",
+            "total_sales": 17345.084,
+            "total_quantity": 48,
+            "average_price": 1734.5084,
+            "total_profit": 82.94400000000032,
+            "profit_margin": 0.004781988948568961
+        },
+        {
+            "Product Name": "Chromcraft Round Table, Adjustable Height",
+            "total_sales": 16625.380400000002,
+            "total_quantity": 62,
+            "average_price": 755.6991090909091,
+            "total_profit": -2428.0996000000005,
+            "profit_margin": -0.14604776201090713
+        },
+        {
+            "Product Name": "Chromcraft Round Conference Tables",
+            "total_sales": 16418.118,
+            "total_quantity": 122,
+            "average_price": 631.4660769230769,
+            "total_profit": -379.95219999999995,
+            "profit_margin": -0.02314225053078556
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-01",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 862.0920000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 1330.29,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 3238.305,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 349.068,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 443.4300000000001,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 3694.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 523.6020000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 2089.665,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 5451.299999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 4626.15,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 472.992,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 555.138,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 794.3561999999998,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 5321.160000000001,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 1847.34,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 1471.1156999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 985.248,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 5451.299999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 2955.744,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 523.6020000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 872.67,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 940.0716,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 1850.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 3232.845,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 2220.5519999999997,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 3547.4400000000005,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 862.0920000000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 1330.29,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 1938.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 3238.305,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 4712.418,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 646.569,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 925.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 443.43,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 1773.7199999999998,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 3694.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 2356.209,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 2089.665,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 5451.3,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 4626.15,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 472.992,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 555.138,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 794.3562,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 5321.16,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 1847.34,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 1471.1157,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 985.248,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 5451.3,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 2955.744,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 523.602,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 872.67,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 940.0716,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 1850.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 3232.845,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 2220.5519999999997,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 3547.44,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Barricks Conference Table, Fully Assembled",
+            "total_sales": 1938.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 4363.35,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Hon Conference Table, Adjustable Height",
+            "total_sales": 646.569,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1745.34,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Bevis Conference Table, Fully Assembled",
+            "total_sales": 925.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Chromcraft Computer Table, with Bottom Storage",
+            "total_sales": 1773.72,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Chromcraft Conference Table, with Bottom Storage",
+            "total_sales": 1832.607,
+            "total_quantity": 3
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-12",
+            "Order Count": 62
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 59
+        },
+        {
+            "Order Month": "2014-11",
+            "Order Count": 53
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 52
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 52
+        },
+        {
+            "Order Month": "2013-12",
+            "Order Count": 43
+        },
+        {
+            "Order Month": "2016-12",
+            "Order Count": 43
+        },
+        {
+            "Order Month": "2017-10",
+            "Order Count": 41
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 38
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 36
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 34
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 34
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 33
+        },
+        {
+            "Order Month": "2013-06",
+            "Order Count": 31
+        },
+        {
+            "Order Month": "2016-06",
+            "Order Count": 31
+        },
+        {
+            "Order Month": "2014-07",
+            "Order Count": 30
+        },
+        {
+            "Order Month": "2017-06",
+            "Order Count": 28
+        },
+        {
+            "Order Month": "2013-08",
+            "Order Count": 26
+        },
+        {
+            "Order Month": "2016-08",
+            "Order Count": 26
+        },
+        {
+            "Order Month": "2012-11",
+            "Order Count": 26
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 7356.7245,
+            "Quantity": 22,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 4323.531,
+            "Quantity": 23,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 8004.53,
+            "Quantity": 31,
+            "Sales_MA": 6561.595166666666
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 3823.586,
+            "Quantity": 26,
+            "Sales_MA": 5383.882333333333
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 11781.5984,
+            "Quantity": 57,
+            "Sales_MA": 7869.904799999999
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 19593.8083,
+            "Quantity": 81,
+            "Sales_MA": 11732.997566666667
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 7215.264,
+            "Quantity": 31,
+            "Sales_MA": 12863.556900000001
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 10033.9395,
+            "Quantity": 47,
+            "Sales_MA": 12281.003933333333
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 16041.489000000001,
+            "Quantity": 69,
+            "Sales_MA": 11096.897500000001
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 14728.925,
+            "Quantity": 56,
+            "Sales_MA": 13601.451166666668
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 13445.17,
+            "Quantity": 63,
+            "Sales_MA": 14738.528
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 30782.928,
+            "Quantity": 104,
+            "Sales_MA": 19652.341
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 8689.593,
+            "Quantity": 34,
+            "Sales_MA": 17639.230333333333
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 7870.523999999999,
+            "Quantity": 20,
+            "Sales_MA": 15781.015
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 16170.538999999999,
+            "Quantity": 55,
+            "Sales_MA": 10910.218666666666
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 17749.787800000002,
+            "Quantity": 48,
+            "Sales_MA": 13930.2836
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 6931.442999999999,
+            "Quantity": 21,
+            "Sales_MA": 13617.2566
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 18068.023100000002,
+            "Quantity": 66,
+            "Sales_MA": 14249.751300000002
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 3528.881,
+            "Quantity": 20,
+            "Sales_MA": 9509.449033333334
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 11855.996000000001,
+            "Quantity": 54,
+            "Sales_MA": 11150.966699999999
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 17209.213200000002,
+            "Quantity": 56,
+            "Sales_MA": 10864.696733333334
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 17884.8358,
+            "Quantity": 68,
+            "Sales_MA": 15650.015
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 18734.4502,
+            "Quantity": 93,
+            "Sales_MA": 17942.83306666667
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 19393.2107,
+            "Quantity": 92,
+            "Sales_MA": 18670.832233333334
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 22015.3611,
+            "Quantity": 63,
+            "Sales_MA": 20047.674
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 18753.079,
+            "Quantity": 59,
+            "Sales_MA": 20053.883599999997
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 7143.621,
+            "Quantity": 43,
+            "Sales_MA": 15970.687033333334
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 6135.8396,
+            "Quantity": 33,
+            "Sales_MA": 10677.513200000001
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 14530.2952,
+            "Quantity": 59,
+            "Sales_MA": 9269.918599999999
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 25052.1311,
+            "Quantity": 101,
+            "Sales_MA": 15239.421966666667
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 7670.784,
+            "Quantity": 28,
+            "Sales_MA": 15751.070099999999
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 22065.9835,
+            "Quantity": 101,
+            "Sales_MA": 18262.9662
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 13204.219500000001,
+            "Quantity": 61,
+            "Sales_MA": 14313.662333333334
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 8584.556,
+            "Quantity": 37,
+            "Sales_MA": 14618.252999999999
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 19523.257,
+            "Quantity": 79,
+            "Sales_MA": 13770.6775
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 37684.4081,
+            "Quantity": 155,
+            "Sales_MA": 21930.740366666665
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 20261.488,
+            "Quantity": 77,
+            "Sales_MA": 25823.051033333333
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 8412.5604,
+            "Quantity": 51,
+            "Sales_MA": 22119.4855
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 23860.341,
+            "Quantity": 98,
+            "Sales_MA": 17511.463133333335
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 17320.3587,
+            "Quantity": 80,
+            "Sales_MA": 16531.0867
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 32622.6705,
+            "Quantity": 128,
+            "Sales_MA": 24601.1234
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 48818.4704,
+            "Quantity": 181,
+            "Sales_MA": 32920.499866666665
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 16214.577500000001,
+            "Quantity": 85,
+            "Sales_MA": 32551.906133333334
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 32763.6981,
+            "Quantity": 119,
+            "Sales_MA": 32598.915333333327
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 43128.5073,
+            "Quantity": 174,
+            "Sales_MA": 30702.260966666665
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 40084.951,
+            "Quantity": 189,
+            "Sales_MA": 38659.05213333334
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 44004.039,
+            "Quantity": 213,
+            "Sales_MA": 42405.83243333333
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 63100.2306,
+            "Quantity": 242,
+            "Sales_MA": 49063.073533333336
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 8689.593,
+            "Quantity": 34,
+            "Sales_MA": 38597.9542
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 7870.523999999999,
+            "Quantity": 20,
+            "Sales_MA": 26553.449200000003
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 16170.538999999999,
+            "Quantity": 55,
+            "Sales_MA": 10910.218666666666
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 17749.7878,
+            "Quantity": 48,
+            "Sales_MA": 13930.2836
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 6931.443,
+            "Quantity": 21,
+            "Sales_MA": 13617.2566
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 18068.0231,
+            "Quantity": 66,
+            "Sales_MA": 14249.751299999998
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 3528.881,
+            "Quantity": 20,
+            "Sales_MA": 9509.449033333332
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 11855.996,
+            "Quantity": 54,
+            "Sales_MA": 11150.966699999999
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 17209.2132,
+            "Quantity": 56,
+            "Sales_MA": 10864.696733333332
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 17884.8358,
+            "Quantity": 68,
+            "Sales_MA": 15650.015
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 18734.4502,
+            "Quantity": 93,
+            "Sales_MA": 17942.833066666666
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 19393.2107,
+            "Quantity": 92,
+            "Sales_MA": 18670.832233333334
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 22015.361100000002,
+            "Quantity": 63,
+            "Sales_MA": 20047.674
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 18753.078999999998,
+            "Quantity": 59,
+            "Sales_MA": 20053.8836
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 7143.621,
+            "Quantity": 43,
+            "Sales_MA": 15970.687033333335
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 6135.8396,
+            "Quantity": 33,
+            "Sales_MA": 10677.5132
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 14530.2952,
+            "Quantity": 59,
+            "Sales_MA": 9269.918599999999
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 25052.1311,
+            "Quantity": 101,
+            "Sales_MA": 15239.421966666667
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 7670.784,
+            "Quantity": 28,
+            "Sales_MA": 15751.070099999999
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 22065.983500000002,
+            "Quantity": 101,
+            "Sales_MA": 18262.9662
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 13204.2195,
+            "Quantity": 61,
+            "Sales_MA": 14313.662333333334
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 8584.556,
+            "Quantity": 37,
+            "Sales_MA": 14618.253000000002
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 19523.257,
+            "Quantity": 79,
+            "Sales_MA": 13770.6775
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 37684.4081,
+            "Quantity": 155,
+            "Sales_MA": 21930.740366666665
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 12904.763500000001,
+            "Quantity": 55,
+            "Sales_MA": 23370.809533333337
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 3712.5204000000003,
+            "Quantity": 25,
+            "Sales_MA": 18100.564000000002
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 16232.32,
+            "Quantity": 70,
+            "Sales_MA": 10949.867966666667
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 13496.7727,
+            "Quantity": 54,
+            "Sales_MA": 11147.204366666667
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 20841.0721,
+            "Quantity": 71,
+            "Sales_MA": 16856.7216
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 26713.5661,
+            "Quantity": 92,
+            "Sales_MA": 20350.4703
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 11510.4095,
+            "Quantity": 62,
+            "Sales_MA": 19688.34923333333
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 22729.7586,
+            "Quantity": 72,
+            "Sales_MA": 20317.9114
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 27087.0183,
+            "Quantity": 105,
+            "Sales_MA": 20442.395466666665
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 25356.026,
+            "Quantity": 133,
+            "Sales_MA": 25057.60096666667
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 29377.853,
+            "Quantity": 146,
+            "Sales_MA": 27273.632433333332
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 33498.3186,
+            "Quantity": 142,
+            "Sales_MA": 29410.732533333332
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Bart Watters",
+            "total_spent": 16705.038,
+            "purchase_frequency": 6,
+            "average_order_value": 2784.1730000000002
+        },
+        {
+            "Customer Name": "Jennifer Ferguson",
+            "total_spent": 13219.446,
+            "purchase_frequency": 6,
+            "average_order_value": 2203.241
+        },
+        {
+            "Customer Name": "Anthony Jacobs",
+            "total_spent": 12095.627999999999,
+            "purchase_frequency": 4,
+            "average_order_value": 3023.9069999999997
+        },
+        {
+            "Customer Name": "Brendan Murry",
+            "total_spent": 11849.552,
+            "purchase_frequency": 8,
+            "average_order_value": 1481.194
+        },
+        {
+            "Customer Name": "Joy Smith",
+            "total_spent": 11641.4182,
+            "purchase_frequency": 6,
+            "average_order_value": 1455.177275
+        },
+        {
+            "Customer Name": "Mick Brown",
+            "total_spent": 10977.692000000001,
+            "purchase_frequency": 4,
+            "average_order_value": 2744.4230000000002
+        },
+        {
+            "Customer Name": "James Galang",
+            "total_spent": 10902.599999999999,
+            "purchase_frequency": 2,
+            "average_order_value": 5451.299999999999
+        },
+        {
+            "Customer Name": "Bradley Talbott",
+            "total_spent": 10902.599999999999,
+            "purchase_frequency": 2,
+            "average_order_value": 5451.299999999999
+        },
+        {
+            "Customer Name": "Craig Reiter",
+            "total_spent": 10395.408,
+            "purchase_frequency": 6,
+            "average_order_value": 1039.5408
+        },
+        {
+            "Customer Name": "Joseph Holt",
+            "total_spent": 10300.248,
+            "purchase_frequency": 4,
+            "average_order_value": 2575.062
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 523618.7,
+            "total_quantity": 1432,
+            "average_profit": 290.6115
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 6962.814,
+            "total_quantity": 16,
+            "average_profit": 265.009
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 315445.472,
+            "total_quantity": 1376,
+            "average_profit": 39.4292
+        },
+        {
+            "Discount": 0.3,
+            "total_sales": 209500.578,
+            "total_quantity": 826,
+            "average_profit": -103.1076
+        },
+        {
+            "Discount": 0.35,
+            "total_sales": 108320.082,
+            "total_quantity": 338,
+            "average_profit": -202.7255
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 104312.904,
+            "total_quantity": 626,
+            "average_profit": -201.2374
+        },
+        {
+            "Discount": 0.4499999999999999,
+            "total_sales": 2546.4285,
+            "total_quantity": 11,
+            "average_profit": -551.5957
+        },
+        {
+            "Discount": 0.45,
+            "total_sales": 13516.3765,
+            "total_quantity": 101,
+            "average_profit": -253.7256
+        },
+        {
+            "Discount": 0.47,
+            "total_sales": 65005.9098,
+            "total_quantity": 250,
+            "average_profit": -314.1257
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 53012.77,
+            "total_quantity": 374,
+            "average_profit": -289.4204
+        },
+        {
+            "Discount": 0.55,
+            "total_sales": 12617.316,
+            "total_quantity": 72,
+            "average_profit": -315.0672
+        },
+        {
+            "Discount": 0.57,
+            "total_sales": 8144.802,
+            "total_quantity": 47,
+            "average_profit": -526.129
+        },
+        {
+            "Discount": 0.5700000000000001,
+            "total_sales": 8144.802,
+            "total_quantity": 47,
+            "average_profit": -526.129
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 27806.416,
+            "total_quantity": 144,
+            "average_profit": -378.3154
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 46853.478,
+            "total_quantity": 414,
+            "average_profit": -591.0998
+        },
+        {
+            "Discount": 0.8,
+            "total_sales": 6681.316,
+            "total_quantity": 72,
+            "average_profit": -634.7418
+        },
+        {
+            "Discount": 0.85,
+            "total_sales": 1593.684,
+            "total_quantity": 20,
+            "average_profit": -1534.329
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "Washington",
+            "City": "Seattle",
+            "total_sales": 42054.34,
+            "total_quantity": 188,
+            "Location": "Washington, Seattle"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 38806.384,
+            "total_quantity": 236,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "Jakarta",
+            "City": "Jakarta",
+            "total_sales": 23431.3848,
+            "total_quantity": 90,
+            "Location": "Jakarta, Jakarta"
+        },
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 21928.188,
+            "total_quantity": 156,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "total_sales": 19721.152000000002,
+            "total_quantity": 118,
+            "Location": "California, San Francisco"
+        },
+        {
+            "State": "Waikato",
+            "City": "Hamilton",
+            "total_sales": 17818.2,
+            "total_quantity": 32,
+            "Location": "Waikato, Hamilton"
+        },
+        {
+            "State": "Pennsylvania",
+            "City": "Philadelphia",
+            "total_sales": 16104.372,
+            "total_quantity": 130,
+            "Location": "Pennsylvania, Philadelphia"
+        },
+        {
+            "State": "Distrito Federal",
+            "City": "Mexico City",
+            "total_sales": 12906.4,
+            "total_quantity": 54,
+            "Location": "Distrito Federal, Mexico City"
+        },
+        {
+            "State": "Kabul",
+            "City": "Kabul",
+            "total_sales": 12681.599999999999,
+            "total_quantity": 18,
+            "Location": "Kabul, Kabul"
+        },
+        {
+            "State": "Victoria",
+            "City": "Melbourne",
+            "total_sales": 12645.192,
+            "total_quantity": 44,
+            "Location": "Victoria, Melbourne"
+        },
+        {
+            "State": "Nuevo Le\u00f3n",
+            "City": "Monterrey",
+            "total_sales": 12601.344000000001,
+            "total_quantity": 46,
+            "Location": "Nuevo Le\u00f3n, Monterrey"
+        },
+        {
+            "State": "Guatemala",
+            "City": "Mixco",
+            "total_sales": 11496.448,
+            "total_quantity": 48,
+            "Location": "Guatemala, Mixco"
+        },
+        {
+            "State": "England",
+            "City": "Stockton-on-Tees",
+            "total_sales": 10902.599999999999,
+            "total_quantity": 12,
+            "Location": "England, Stockton-on-Tees"
+        },
+        {
+            "State": "Bihar",
+            "City": "Muzaffarpur",
+            "total_sales": 10902.599999999999,
+            "total_quantity": 12,
+            "Location": "Bihar, Muzaffarpur"
+        },
+        {
+            "State": "Delhi",
+            "City": "Delhi",
+            "total_sales": 10585.560000000001,
+            "total_quantity": 20,
+            "Location": "Delhi, Delhi"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 268,
+            "avg_shipping_delay": 2.18,
+            "total_profit": -16186.46,
+            "shipping_cost_ratio": 0.17
+        },
+        "Same Day": {
+            "total_orders": 66,
+            "avg_shipping_delay": 0.0,
+            "total_profit": 1936.69,
+            "shipping_cost_ratio": 0.17
+        },
+        "Second Class": {
+            "total_orders": 334,
+            "avg_shipping_delay": 3.15,
+            "total_profit": -41755.21,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 1003,
+            "avg_shipping_delay": 5.05,
+            "total_profit": -72161.8,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": -0.15,
+            "ship_mode_distribution": {
+                "First Class": 0.5230769230769231,
+                "Second Class": 0.35384615384615387,
+                "Same Day": 0.12307692307692308
+            }
+        },
+        "High": {
+            "avg_profit_margin": -0.25,
+            "ship_mode_distribution": {
+                "Standard Class": 0.41350210970464135,
+                "Second Class": 0.28270042194092826,
+                "First Class": 0.2320675105485232,
+                "Same Day": 0.07172995780590717
+            }
+        },
+        "Low": {
+            "avg_profit_margin": -0.28,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": -0.25,
+            "ship_mode_distribution": {
+                "Standard Class": 0.7307692307692307,
+                "Second Class": 0.15576923076923077,
+                "First Class": 0.09615384615384616,
+                "Same Day": 0.01730769230769231
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 1112.0,
+            "frequency": 1.0,
+            "monetary": 801.78
+        },
+        "customer_distribution": {
+            "Promising Customers": 373,
+            "Lost Customers": 296,
+            "Big Spenders": 294,
+            "Hibernating Customers": 201,
+            "At-Risk Customers": 176,
+            "VIP": 21,
+            "Slipping Away": 20,
+            "Loyal Customers": 3
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 1384,
+        "churned_customers": 1101,
+        "churn_rate": 0.7955202312138728,
+        "avg_recency": 1000.4682080924855,
+        "avg_frequency": 1.2442196531791907,
+        "avg_monetary": 1093.991220231214,
+        "churned_customer_characteristics": {
+            "avg_recency": 1220.784741144414,
+            "avg_frequency": 1.296094459582198,
+            "avg_monetary": 1151.9340526793824,
+            "avg_discount": 0.28607958133298733,
+            "avg_quantity": 3.55771160416937,
+            "avg_shipping_cost": 91.49362187189135,
+            "avg_profit": -61.59959806431383
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 143.3356890459364,
+            "avg_frequency": 1.0424028268551238,
+            "avg_monetary": 868.5669851590106,
+            "avg_discount": 0.29042402826855124,
+            "avg_quantity": 3.549469964664311,
+            "avg_shipping_cost": 90.37229858657243,
+            "avg_profit": -103.52515123674911
+        }
+    }
+}

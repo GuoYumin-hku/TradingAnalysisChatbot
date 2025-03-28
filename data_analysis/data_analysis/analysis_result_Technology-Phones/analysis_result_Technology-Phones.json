@@ -1,0 +1,4425 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            3458,
+            0.52
+        ],
+        "Corporate": [
+            2084,
+            0.31
+        ],
+        "Home Office": [
+            1172,
+            0.17
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.53,
+        "Corporate": 3.5,
+        "Home Office": 3.62
+    },
+    "segment_unit_price": {
+        "Consumer": 148.33,
+        "Corporate": 135.51,
+        "Home Office": 144.96
+    },
+    "segment_profit": {
+        "Consumer": 21.23,
+        "Corporate": 12.41,
+        "Home Office": 19.76
+    },
+    "segment_discount": {
+        "Consumer": 0.14,
+        "Corporate": 0.16,
+        "Home Office": 0.14
+    },
+    "region_distribution": {
+        "Central": [
+            720,
+            0.11
+        ],
+        "South": [
+            433,
+            0.06
+        ],
+        "Oceania": [
+            430,
+            0.06
+        ],
+        "Central America": [
+            348,
+            0.05
+        ],
+        "Western Europe": [
+            329,
+            0.05
+        ],
+        "EMEA": [
+            295,
+            0.04
+        ],
+        "North": [
+            282,
+            0.04
+        ],
+        "West": [
+            277,
+            0.04
+        ],
+        "Western US": [
+            277,
+            0.04
+        ],
+        "Eastern US": [
+            272,
+            0.04
+        ],
+        "East": [
+            272,
+            0.04
+        ],
+        "Africa": [
+            266,
+            0.04
+        ],
+        "Caribbean": [
+            206,
+            0.03
+        ],
+        "Central US": [
+            200,
+            0.03
+        ],
+        "Southeastern Asia": [
+            194,
+            0.03
+        ],
+        "Southeast Asia": [
+            194,
+            0.03
+        ],
+        "Southern Asia": [
+            190,
+            0.03
+        ],
+        "South America": [
+            177,
+            0.03
+        ],
+        "Central Asia": [
+            168,
+            0.03
+        ],
+        "Western Asia": [
+            144,
+            0.02
+        ],
+        "Southern US": [
+            140,
+            0.02
+        ],
+        "Northern Europe": [
+            131,
+            0.02
+        ],
+        "Eastern Asia": [
+            130,
+            0.02
+        ],
+        "North Asia": [
+            128,
+            0.02
+        ],
+        "Southern Europe": [
+            121,
+            0.02
+        ],
+        "Western Africa": [
+            96,
+            0.01
+        ],
+        "Eastern Europe": [
+            84,
+            0.01
+        ],
+        "North Africa": [
+            64,
+            0.01
+        ],
+        "Canada": [
+            40,
+            0.01
+        ],
+        "Central Africa": [
+            38,
+            0.01
+        ],
+        "Eastern Africa": [
+            37,
+            0.01
+        ],
+        "Southern Africa": [
+            31,
+            0.0
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.31,
+        "Canada": 2.3,
+        "Caribbean": 3.88,
+        "Central": 3.7,
+        "Central Africa": 2.58,
+        "Central America": 3.68,
+        "Central Asia": 4.02,
+        "Central US": 3.56,
+        "EMEA": 2.5,
+        "East": 3.61,
+        "Eastern Africa": 1.89,
+        "Eastern Asia": 3.77,
+        "Eastern Europe": 2.35,
+        "Eastern US": 3.61,
+        "North": 3.77,
+        "North Africa": 2.36,
+        "North Asia": 3.78,
+        "Northern Europe": 3.65,
+        "Oceania": 3.79,
+        "South": 3.85,
+        "South America": 3.98,
+        "Southeast Asia": 3.69,
+        "Southeastern Asia": 3.69,
+        "Southern Africa": 2.61,
+        "Southern Asia": 3.72,
+        "Southern Europe": 3.74,
+        "Southern US": 3.76,
+        "West": 3.86,
+        "Western Africa": 2.23,
+        "Western Asia": 2.44,
+        "Western Europe": 3.87,
+        "Western US": 3.86
+    },
+    "region_sales": {
+        "Africa": 431.7,
+        "Canada": 504.28,
+        "Caribbean": 396.86,
+        "Central": 514.16,
+        "Central Africa": 670.32,
+        "Central America": 513.13,
+        "Central Asia": 810.6,
+        "Central US": 362.02,
+        "EMEA": 388.21,
+        "East": 369.91,
+        "Eastern Africa": 441.88,
+        "Eastern Asia": 795.94,
+        "Eastern Europe": 427.46,
+        "Eastern US": 369.91,
+        "North": 639.79,
+        "North Africa": 404.96,
+        "North Asia": 803.69,
+        "Northern Europe": 684.85,
+        "Oceania": 587.6,
+        "South": 439.34,
+        "South America": 396.99,
+        "Southeast Asia": 641.41,
+        "Southeastern Asia": 641.41,
+        "Southern Africa": 564.68,
+        "Southern Asia": 797.61,
+        "Southern Europe": 525.54,
+        "Southern US": 416.46,
+        "West": 356.26,
+        "Western Africa": 308.22,
+        "Western Asia": 343.9,
+        "Western Europe": 651.07,
+        "Western US": 356.26
+    },
+    "region_unit_price": {
+        "Africa": 187.02,
+        "Canada": 219.25,
+        "Caribbean": 102.19,
+        "Central": 139.12,
+        "Central Africa": 259.92,
+        "Central America": 139.51,
+        "Central Asia": 201.75,
+        "Central US": 101.55,
+        "EMEA": 155.39,
+        "East": 102.46,
+        "Eastern Africa": 233.57,
+        "Eastern Asia": 211.17,
+        "Eastern Europe": 182.27,
+        "Eastern US": 102.46,
+        "North": 169.73,
+        "North Africa": 171.64,
+        "North Asia": 212.55,
+        "Northern Europe": 187.69,
+        "Oceania": 155.01,
+        "South": 114.05,
+        "South America": 99.81,
+        "Southeast Asia": 174.03,
+        "Southeastern Asia": 174.03,
+        "Southern Africa": 216.11,
+        "Southern Asia": 214.65,
+        "Southern Europe": 140.38,
+        "Southern US": 110.84,
+        "West": 92.4,
+        "Western Africa": 138.27,
+        "Western Asia": 141.09,
+        "Western Europe": 168.13,
+        "Western US": 92.4
+    },
+    "region_discount": {
+        "Africa": 0.19,
+        "Canada": 0.0,
+        "Caribbean": 0.1,
+        "Central": 0.13,
+        "Central Africa": 0.0,
+        "Central America": 0.08,
+        "Central Asia": 0.11,
+        "Central US": 0.12,
+        "EMEA": 0.21,
+        "East": 0.16,
+        "Eastern Africa": 0.11,
+        "Eastern Asia": 0.06,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.16,
+        "North": 0.06,
+        "North Africa": 0.0,
+        "North Asia": 0.06,
+        "Northern Europe": 0.14,
+        "Oceania": 0.14,
+        "South": 0.18,
+        "South America": 0.16,
+        "Southeast Asia": 0.16,
+        "Southeastern Asia": 0.16,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.06,
+        "Southern Europe": 0.27,
+        "Southern US": 0.1,
+        "West": 0.2,
+        "Western Africa": 0.5,
+        "Western Asia": 0.37,
+        "Western Europe": 0.13,
+        "Western US": 0.2
+    },
+    "region_profit": {
+        "Africa": 28.82,
+        "Canada": 58.26,
+        "Caribbean": 14.02,
+        "Central": 17.8,
+        "Central Africa": 81.48,
+        "Central America": 19.63,
+        "Central Asia": 33.07,
+        "Central US": 17.28,
+        "EMEA": 4.06,
+        "East": 12.54,
+        "Eastern Africa": 42.07,
+        "Eastern Asia": 47.76,
+        "Eastern Europe": 46.2,
+        "Eastern US": 12.54,
+        "North": 31.07,
+        "North Africa": 44.08,
+        "North Asia": 48.09,
+        "Northern Europe": 30.22,
+        "Oceania": 26.35,
+        "South": 2.76,
+        "South America": -0.8,
+        "Southeast Asia": 18.81,
+        "Southeastern Asia": 18.81,
+        "Southern Africa": 57.27,
+        "Southern Asia": 39.06,
+        "Southern Europe": -11.25,
+        "Southern US": 20.47,
+        "West": 8.53,
+        "Western Africa": -21.17,
+        "Western Asia": -28.06,
+        "Western Europe": 21.92,
+        "Western US": 8.53
+    },
+    "region_profit_margin": {
+        "Africa": 0.15,
+        "Canada": 0.27,
+        "Caribbean": 0.14,
+        "Central": 0.13,
+        "Central Africa": 0.31,
+        "Central America": 0.14,
+        "Central Asia": 0.16,
+        "Central US": 0.17,
+        "EMEA": 0.03,
+        "East": 0.12,
+        "Eastern Africa": 0.18,
+        "Eastern Asia": 0.23,
+        "Eastern Europe": 0.25,
+        "Eastern US": 0.12,
+        "North": 0.18,
+        "North Africa": 0.26,
+        "North Asia": 0.23,
+        "Northern Europe": 0.16,
+        "Oceania": 0.17,
+        "South": 0.02,
+        "South America": -0.01,
+        "Southeast Asia": 0.11,
+        "Southeastern Asia": 0.11,
+        "Southern Africa": 0.27,
+        "Southern Asia": 0.18,
+        "Southern Europe": -0.08,
+        "Southern US": 0.18,
+        "West": 0.09,
+        "Western Africa": -0.15,
+        "Western Asia": -0.2,
+        "Western Europe": 0.13,
+        "Western US": 0.09
+    },
+    "market_distribution": {
+        "LATAM": [
+            1256,
+            0.19
+        ],
+        "USCA": [
+            909,
+            0.14
+        ],
+        "Asia Pacific": [
+            889,
+            0.13
+        ],
+        "US": [
+            889,
+            0.13
+        ],
+        "APAC": [
+            689,
+            0.1
+        ],
+        "Europe": [
+            665,
+            0.1
+        ],
+        "EU": [
+            570,
+            0.08
+        ],
+        "Africa": [
+            532,
+            0.08
+        ],
+        "EMEA": [
+            295,
+            0.04
+        ],
+        "Canada": [
+            20,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.82,
+        "Africa": 2.31,
+        "Asia Pacific": 3.53,
+        "Canada": 2.3,
+        "EMEA": 2.5,
+        "EU": 3.81,
+        "Europe": 3.61,
+        "LATAM": 3.8,
+        "US": 3.7,
+        "USCA": 3.67
+    },
+    "market_sales": {
+        "APAC": 705.88,
+        "Africa": 431.7,
+        "Asia Pacific": 628.54,
+        "Canada": 504.28,
+        "EMEA": 388.21,
+        "EU": 633.88,
+        "Europe": 606.64,
+        "LATAM": 461.32,
+        "US": 371.21,
+        "USCA": 374.14
+    },
+    "market_unit_price": {
+        "APAC": 184.86,
+        "Africa": 187.02,
+        "Asia Pacific": 178.24,
+        "Canada": 219.25,
+        "EMEA": 155.39,
+        "EU": 166.58,
+        "Europe": 167.95,
+        "LATAM": 121.52,
+        "US": 100.34,
+        "USCA": 101.98
+    },
+    "market_discount": {
+        "APAC": 0.12,
+        "Africa": 0.19,
+        "Asia Pacific": 0.16,
+        "Canada": 0.0,
+        "EMEA": 0.21,
+        "EU": 0.16,
+        "Europe": 0.14,
+        "LATAM": 0.11,
+        "US": 0.15,
+        "USCA": 0.15
+    },
+    "market_profit": {
+        "APAC": 30.91,
+        "Africa": 28.82,
+        "Asia Pacific": 24.01,
+        "Canada": 58.26,
+        "EMEA": 4.06,
+        "EU": 17.22,
+        "Europe": 19.31,
+        "LATAM": 12.66,
+        "US": 13.53,
+        "USCA": 14.15
+    },
+    "market_profit_margin": {
+        "APAC": 0.17,
+        "Africa": 0.15,
+        "Asia Pacific": 0.13,
+        "Canada": 0.27,
+        "EMEA": 0.03,
+        "EU": 0.1,
+        "Europe": 0.11,
+        "LATAM": 0.1,
+        "US": 0.13,
+        "USCA": 0.14
+    },
+    "country_distribution": {
+        "United States": [
+            1778,
+            0.26
+        ],
+        "Australia": [
+            348,
+            0.05
+        ],
+        "France": [
+            310,
+            0.05
+        ],
+        "Mexico": [
+            306,
+            0.05
+        ],
+        "Germany": [
+            253,
+            0.04
+        ],
+        "India": [
+            238,
+            0.04
+        ],
+        "Brazil": [
+            202,
+            0.03
+        ],
+        "China": [
+            192,
+            0.03
+        ],
+        "United Kingdom": [
+            186,
+            0.03
+        ],
+        "Turkey": [
+            164,
+            0.02
+        ],
+        "Indonesia": [
+            152,
+            0.02
+        ],
+        "Nigeria": [
+            136,
+            0.02
+        ],
+        "Italy": [
+            129,
+            0.02
+        ],
+        "Cuba": [
+            100,
+            0.01
+        ],
+        "El Salvador": [
+            96,
+            0.01
+        ],
+        "Honduras": [
+            94,
+            0.01
+        ],
+        "Spain": [
+            92,
+            0.01
+        ],
+        "Dominican Republic": [
+            84,
+            0.01
+        ],
+        "Nicaragua": [
+            82,
+            0.01
+        ],
+        "New Zealand": [
+            80,
+            0.01
+        ],
+        "Philippines": [
+            80,
+            0.01
+        ],
+        "Guatemala": [
+            76,
+            0.01
+        ],
+        "Iran": [
+            76,
+            0.01
+        ],
+        "South Africa": [
+            60,
+            0.01
+        ],
+        "Saudi Arabia": [
+            54,
+            0.01
+        ],
+        "Egypt": [
+            52,
+            0.01
+        ],
+        "Netherlands": [
+            46,
+            0.01
+        ],
+        "Thailand": [
+            44,
+            0.01
+        ],
+        "Morocco": [
+            44,
+            0.01
+        ],
+        "Argentina": [
+            42,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            40,
+            0.01
+        ],
+        "Panama": [
+            40,
+            0.01
+        ],
+        "Canada": [
+            40,
+            0.01
+        ],
+        "Russia": [
+            40,
+            0.01
+        ],
+        "Iraq": [
+            36,
+            0.01
+        ],
+        "Vietnam": [
+            36,
+            0.01
+        ],
+        "Colombia": [
+            36,
+            0.01
+        ],
+        "Pakistan": [
+            34,
+            0.01
+        ],
+        "Japan": [
+            34,
+            0.01
+        ],
+        "Ukraine": [
+            32,
+            0.0
+        ],
+        "Malaysia": [
+            32,
+            0.0
+        ],
+        "Romania": [
+            28,
+            0.0
+        ],
+        "Austria": [
+            28,
+            0.0
+        ],
+        "South Korea": [
+            26,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            24,
+            0.0
+        ],
+        "Peru": [
+            24,
+            0.0
+        ],
+        "Sweden": [
+            24,
+            0.0
+        ],
+        "Chile": [
+            22,
+            0.0
+        ],
+        "Poland": [
+            20,
+            0.0
+        ],
+        "Bangladesh": [
+            20,
+            0.0
+        ],
+        "Ireland": [
+            20,
+            0.0
+        ],
+        "Angola": [
+            18,
+            0.0
+        ],
+        "Kazakhstan": [
+            18,
+            0.0
+        ],
+        "Cameroon": [
+            16,
+            0.0
+        ],
+        "Singapore": [
+            16,
+            0.0
+        ],
+        "Algeria": [
+            16,
+            0.0
+        ],
+        "Venezuela": [
+            14,
+            0.0
+        ],
+        "Czech Republic": [
+            14,
+            0.0
+        ],
+        "Senegal": [
+            14,
+            0.0
+        ],
+        "Ghana": [
+            14,
+            0.0
+        ],
+        "Bulgaria": [
+            12,
+            0.0
+        ],
+        "Mozambique": [
+            12,
+            0.0
+        ],
+        "Denmark": [
+            12,
+            0.0
+        ],
+        "Sudan": [
+            12,
+            0.0
+        ],
+        "Belarus": [
+            12,
+            0.0
+        ],
+        "Israel": [
+            12,
+            0.0
+        ],
+        "Tanzania": [
+            12,
+            0.0
+        ],
+        "Belgium": [
+            10,
+            0.0
+        ],
+        "Switzerland": [
+            10,
+            0.0
+        ],
+        "Portugal": [
+            10,
+            0.0
+        ],
+        "Kenya": [
+            10,
+            0.0
+        ],
+        "Zambia": [
+            10,
+            0.0
+        ],
+        "Haiti": [
+            8,
+            0.0
+        ],
+        "Finland": [
+            8,
+            0.0
+        ],
+        "Uzbekistan": [
+            8,
+            0.0
+        ],
+        "Afghanistan": [
+            8,
+            0.0
+        ],
+        "Moldova": [
+            8,
+            0.0
+        ],
+        "Somalia": [
+            6,
+            0.0
+        ],
+        "Uganda": [
+            6,
+            0.0
+        ],
+        "Yemen": [
+            6,
+            0.0
+        ],
+        "Jamaica": [
+            6,
+            0.0
+        ],
+        "Ecuador": [
+            6,
+            0.0
+        ],
+        "Norway": [
+            6,
+            0.0
+        ],
+        "Madagascar": [
+            6,
+            0.0
+        ],
+        "Rwanda": [
+            6,
+            0.0
+        ],
+        "Syria": [
+            6,
+            0.0
+        ],
+        "Togo": [
+            4,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            4,
+            0.0
+        ],
+        "Guinea-Bissau": [
+            4,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            4,
+            0.0
+        ],
+        "Cambodia": [
+            4,
+            0.0
+        ],
+        "Albania": [
+            4,
+            0.0
+        ],
+        "Lithuania": [
+            4,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            4,
+            0.0
+        ],
+        "Mali": [
+            4,
+            0.0
+        ],
+        "Bosnia and Herzegovina": [
+            4,
+            0.0
+        ],
+        "Bolivia": [
+            4,
+            0.0
+        ],
+        "Zimbabwe": [
+            4,
+            0.0
+        ],
+        "Azerbaijan": [
+            4,
+            0.0
+        ],
+        "Libya": [
+            4,
+            0.0
+        ],
+        "Nepal": [
+            4,
+            0.0
+        ],
+        "Niger": [
+            4,
+            0.0
+        ],
+        "Mongolia": [
+            4,
+            0.0
+        ],
+        "Hong Kong": [
+            4,
+            0.0
+        ],
+        "Qatar": [
+            2,
+            0.0
+        ],
+        "Paraguay": [
+            2,
+            0.0
+        ],
+        "Lesotho": [
+            2,
+            0.0
+        ],
+        "Benin": [
+            2,
+            0.0
+        ],
+        "Estonia": [
+            2,
+            0.0
+        ],
+        "South Sudan": [
+            2,
+            0.0
+        ],
+        "Barbados": [
+            2,
+            0.0
+        ],
+        "Kyrgyzstan": [
+            2,
+            0.0
+        ],
+        "Hungary": [
+            2,
+            0.0
+        ],
+        "Sierra Leone": [
+            2,
+            0.0
+        ],
+        "Georgia": [
+            2,
+            0.0
+        ],
+        "Uruguay": [
+            2,
+            0.0
+        ],
+        "Croatia": [
+            2,
+            0.0
+        ],
+        "Tajikistan": [
+            2,
+            0.0
+        ],
+        "Papua New Guinea": [
+            2,
+            0.0
+        ],
+        "Guadeloupe": [
+            2,
+            0.0
+        ],
+        "Central African Republic": [
+            2,
+            0.0
+        ],
+        "United Arab Emirates": [
+            2,
+            0.0
+        ],
+        "Turkmenistan": [
+            2,
+            0.0
+        ],
+        "Costa Rica": [
+            2,
+            0.0
+        ],
+        "Greece": [
+            1,
+            0.0
+        ],
+        "Luxembourg": [
+            1,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 5.0,
+        "Albania": 2.5,
+        "Algeria": 2.38,
+        "Angola": 3.11,
+        "Argentina": 4.05,
+        "Australia": 3.87,
+        "Austria": 4.43,
+        "Azerbaijan": 1.0,
+        "Bangladesh": 4.7,
+        "Barbados": 8.0,
+        "Belarus": 3.17,
+        "Belgium": 7.8,
+        "Benin": 10.0,
+        "Bolivia": 5.5,
+        "Bosnia and Herzegovina": 4.0,
+        "Brazil": 4.19,
+        "Bulgaria": 2.33,
+        "Cambodia": 4.5,
+        "Cameroon": 1.38,
+        "Canada": 2.3,
+        "Central African Republic": 1.0,
+        "Chile": 3.27,
+        "China": 3.51,
+        "Colombia": 3.0,
+        "Costa Rica": 4.5,
+        "Cote d'Ivoire": 3.0,
+        "Croatia": 2.0,
+        "Cuba": 3.66,
+        "Czech Republic": 1.86,
+        "C\u00f4te-d'Ivoire": 3.0,
+        "Democratic Republic of the Congo": 2.9,
+        "Denmark": 4.0,
+        "Dominican Republic": 4.05,
+        "Ecuador": 5.67,
+        "Egypt": 2.15,
+        "El Salvador": 3.5,
+        "Estonia": 2.0,
+        "Finland": 2.75,
+        "France": 3.59,
+        "Georgia": 1.0,
+        "Germany": 4.16,
+        "Ghana": 2.0,
+        "Greece": 7.0,
+        "Guadeloupe": 5.0,
+        "Guatemala": 3.76,
+        "Guinea-Bissau": 1.0,
+        "Haiti": 4.0,
+        "Honduras": 3.23,
+        "Hong Kong": 1.5,
+        "Hungary": 6.0,
+        "India": 3.92,
+        "Indonesia": 3.57,
+        "Iran": 2.34,
+        "Iraq": 1.39,
+        "Ireland": 4.0,
+        "Israel": 1.67,
+        "Italy": 3.48,
+        "Jamaica": 3.67,
+        "Japan": 5.24,
+        "Kazakhstan": 1.78,
+        "Kenya": 1.0,
+        "Kyrgyzstan": 4.0,
+        "Lesotho": 4.0,
+        "Libya": 2.5,
+        "Lithuania": 3.5,
+        "Luxembourg": 1.0,
+        "Madagascar": 1.33,
+        "Malaysia": 4.25,
+        "Mali": 1.5,
+        "Mexico": 3.85,
+        "Moldova": 1.25,
+        "Mongolia": 3.0,
+        "Morocco": 2.73,
+        "Mozambique": 3.5,
+        "Myanmar (Burma)": 3.0,
+        "Nepal": 5.5,
+        "Netherlands": 3.17,
+        "New Zealand": 3.5,
+        "Nicaragua": 3.78,
+        "Niger": 2.5,
+        "Nigeria": 2.15,
+        "Norway": 4.33,
+        "Pakistan": 4.29,
+        "Panama": 3.4,
+        "Papua New Guinea": 2.0,
+        "Paraguay": 9.0,
+        "Peru": 3.75,
+        "Philippines": 3.9,
+        "Poland": 1.7,
+        "Portugal": 5.2,
+        "Qatar": 4.0,
+        "Romania": 2.86,
+        "Russia": 2.7,
+        "Rwanda": 1.0,
+        "Saudi Arabia": 2.44,
+        "Senegal": 2.57,
+        "Sierra Leone": 2.0,
+        "Singapore": 4.12,
+        "Somalia": 2.67,
+        "South Africa": 2.57,
+        "South Korea": 4.23,
+        "South Sudan": 4.0,
+        "Spain": 4.0,
+        "Sudan": 1.83,
+        "Sweden": 3.25,
+        "Switzerland": 3.2,
+        "Syria": 2.33,
+        "Tajikistan": 12.0,
+        "Tanzania": 1.5,
+        "Thailand": 3.36,
+        "Togo": 1.0,
+        "Trinidad and Tobago": 3.5,
+        "Turkey": 2.74,
+        "Turkmenistan": 6.0,
+        "Uganda": 1.33,
+        "Ukraine": 1.81,
+        "United Arab Emirates": 4.0,
+        "United Kingdom": 3.68,
+        "United States": 3.7,
+        "Uruguay": 1.0,
+        "Uzbekistan": 5.0,
+        "Venezuela": 3.29,
+        "Vietnam": 3.78,
+        "Yemen": 2.33,
+        "Zambia": 1.8,
+        "Zimbabwe": 1.5
+    },
+    "country_sales": {
+        "Afghanistan": 732.68,
+        "Albania": 367.99,
+        "Algeria": 338.2,
+        "Angola": 571.19,
+        "Argentina": 375.95,
+        "Australia": 584.51,
+        "Austria": 511.37,
+        "Azerbaijan": 139.6,
+        "Bangladesh": 1332.8,
+        "Barbados": 429.6,
+        "Belarus": 453.75,
+        "Belgium": 1004.92,
+        "Benin": 1377.9,
+        "Bolivia": 539.12,
+        "Bosnia and Herzegovina": 458.61,
+        "Brazil": 445.19,
+        "Bulgaria": 594.71,
+        "Cambodia": 515.37,
+        "Cameroon": 142.72,
+        "Canada": 504.28,
+        "Central African Republic": 176.22,
+        "Chile": 379.73,
+        "China": 826.36,
+        "Colombia": 261.13,
+        "Costa Rica": 222.56,
+        "Cote d'Ivoire": 1362.86,
+        "Croatia": 273.18,
+        "Cuba": 440.86,
+        "Czech Republic": 321.36,
+        "C\u00f4te-d'Ivoire": 1362.86,
+        "Democratic Republic of the Congo": 950.67,
+        "Denmark": 220.93,
+        "Dominican Republic": 386.05,
+        "Ecuador": 334.93,
+        "Egypt": 433.87,
+        "El Salvador": 475.74,
+        "Estonia": 1302.78,
+        "Finland": 506.06,
+        "France": 580.41,
+        "Georgia": 73.2,
+        "Germany": 826.55,
+        "Ghana": 583.3,
+        "Greece": 728.53,
+        "Guadeloupe": 243.5,
+        "Guatemala": 637.45,
+        "Guinea-Bissau": 638.18,
+        "Haiti": 146.81,
+        "Honduras": 243.09,
+        "Hong Kong": 110.92,
+        "Hungary": 446.4,
+        "India": 879.22,
+        "Indonesia": 601.72,
+        "Iran": 495.54,
+        "Iraq": 296.68,
+        "Ireland": 286.79,
+        "Israel": 395.93,
+        "Italy": 380.59,
+        "Jamaica": 182.69,
+        "Japan": 1092.01,
+        "Kazakhstan": 71.97,
+        "Kenya": 347.0,
+        "Kyrgyzstan": 493.56,
+        "Lesotho": 2544.6,
+        "Libya": 209.62,
+        "Lithuania": 611.37,
+        "Luxembourg": 66.51,
+        "Madagascar": 183.14,
+        "Malaysia": 728.6,
+        "Mali": 684.08,
+        "Mexico": 607.9,
+        "Moldova": 132.05,
+        "Mongolia": 299.76,
+        "Morocco": 458.87,
+        "Mozambique": 674.56,
+        "Myanmar (Burma)": 420.09,
+        "Nepal": 515.38,
+        "Netherlands": 255.71,
+        "New Zealand": 613.72,
+        "Nicaragua": 528.58,
+        "Niger": 570.08,
+        "Nigeria": 100.06,
+        "Norway": 531.93,
+        "Pakistan": 635.18,
+        "Panama": 259.03,
+        "Papua New Guinea": 80.46,
+        "Paraguay": 820.08,
+        "Peru": 185.61,
+        "Philippines": 622.58,
+        "Poland": 220.99,
+        "Portugal": 543.71,
+        "Qatar": 2575.92,
+        "Romania": 457.28,
+        "Russia": 565.4,
+        "Rwanda": 170.88,
+        "Saudi Arabia": 718.34,
+        "Senegal": 1088.09,
+        "Sierra Leone": 339.18,
+        "Singapore": 534.3,
+        "Somalia": 1325.09,
+        "South Africa": 498.68,
+        "South Korea": 365.82,
+        "South Sudan": 667.32,
+        "Spain": 739.84,
+        "Sudan": 236.12,
+        "Sweden": 143.94,
+        "Switzerland": 316.22,
+        "Syria": 679.44,
+        "Tajikistan": 235.33,
+        "Tanzania": 409.99,
+        "Thailand": 1053.72,
+        "Togo": 65.9,
+        "Trinidad and Tobago": 405.53,
+        "Turkey": 209.1,
+        "Turkmenistan": 131.6,
+        "Uganda": 48.57,
+        "Ukraine": 404.5,
+        "United Arab Emirates": 95.8,
+        "United Kingdom": 834.94,
+        "United States": 371.21,
+        "Uruguay": 426.04,
+        "Uzbekistan": 489.63,
+        "Venezuela": 424.91,
+        "Vietnam": 478.59,
+        "Yemen": 67.65,
+        "Zambia": 426.65,
+        "Zimbabwe": 61.86
+    },
+    "country_unit_price": {
+        "Afghanistan": 146.54,
+        "Albania": 147.2,
+        "Algeria": 142.4,
+        "Angola": 183.6,
+        "Argentina": 92.88,
+        "Australia": 151.12,
+        "Austria": 115.47,
+        "Azerbaijan": 139.6,
+        "Bangladesh": 283.57,
+        "Barbados": 53.7,
+        "Belarus": 143.29,
+        "Belgium": 128.84,
+        "Benin": 137.79,
+        "Bolivia": 98.02,
+        "Bosnia and Herzegovina": 114.65,
+        "Brazil": 106.3,
+        "Bulgaria": 254.87,
+        "Cambodia": 114.53,
+        "Cameroon": 103.8,
+        "Canada": 219.25,
+        "Central African Republic": 176.22,
+        "Chile": 116.03,
+        "China": 235.4,
+        "Colombia": 87.04,
+        "Costa Rica": 49.46,
+        "Cote d'Ivoire": 454.29,
+        "Croatia": 136.59,
+        "Cuba": 120.45,
+        "Czech Republic": 173.04,
+        "C\u00f4te-d'Ivoire": 454.29,
+        "Democratic Republic of the Congo": 327.82,
+        "Denmark": 55.23,
+        "Dominican Republic": 95.38,
+        "Ecuador": 59.1,
+        "Egypt": 201.44,
+        "El Salvador": 135.93,
+        "Estonia": 651.39,
+        "Finland": 184.02,
+        "France": 161.52,
+        "Georgia": 73.2,
+        "Germany": 198.59,
+        "Ghana": 291.65,
+        "Greece": 104.08,
+        "Guadeloupe": 48.7,
+        "Guatemala": 169.39,
+        "Guinea-Bissau": 638.18,
+        "Haiti": 36.7,
+        "Honduras": 75.17,
+        "Hong Kong": 73.95,
+        "Hungary": 74.4,
+        "India": 224.52,
+        "Indonesia": 168.75,
+        "Iran": 211.58,
+        "Iraq": 213.61,
+        "Ireland": 71.7,
+        "Israel": 237.56,
+        "Italy": 109.34,
+        "Jamaica": 49.82,
+        "Japan": 208.59,
+        "Kazakhstan": 40.48,
+        "Kenya": 347.0,
+        "Kyrgyzstan": 123.39,
+        "Lesotho": 636.15,
+        "Libya": 83.85,
+        "Lithuania": 174.68,
+        "Luxembourg": 66.51,
+        "Madagascar": 137.36,
+        "Malaysia": 171.43,
+        "Mali": 456.05,
+        "Mexico": 157.78,
+        "Moldova": 105.64,
+        "Mongolia": 99.92,
+        "Morocco": 168.25,
+        "Mozambique": 192.73,
+        "Myanmar (Burma)": 140.03,
+        "Nepal": 93.71,
+        "Netherlands": 80.57,
+        "New Zealand": 175.35,
+        "Nicaragua": 139.82,
+        "Niger": 228.03,
+        "Nigeria": 46.6,
+        "Norway": 122.75,
+        "Pakistan": 147.92,
+        "Panama": 76.18,
+        "Papua New Guinea": 40.23,
+        "Paraguay": 91.12,
+        "Peru": 49.5,
+        "Philippines": 159.64,
+        "Poland": 129.99,
+        "Portugal": 104.56,
+        "Qatar": 643.98,
+        "Romania": 160.05,
+        "Russia": 209.41,
+        "Rwanda": 170.88,
+        "Saudi Arabia": 293.86,
+        "Senegal": 423.15,
+        "Sierra Leone": 169.59,
+        "Singapore": 129.53,
+        "Somalia": 496.91,
+        "South Africa": 194.29,
+        "South Korea": 86.47,
+        "South Sudan": 166.83,
+        "Spain": 184.96,
+        "Sudan": 128.8,
+        "Sweden": 44.29,
+        "Switzerland": 98.82,
+        "Syria": 291.19,
+        "Tajikistan": 19.61,
+        "Tanzania": 273.32,
+        "Thailand": 313.27,
+        "Togo": 65.9,
+        "Trinidad and Tobago": 115.87,
+        "Turkey": 76.2,
+        "Turkmenistan": 21.93,
+        "Uganda": 36.43,
+        "Ukraine": 223.17,
+        "United Arab Emirates": 23.95,
+        "United Kingdom": 227.04,
+        "United States": 100.34,
+        "Uruguay": 426.04,
+        "Uzbekistan": 97.93,
+        "Venezuela": 129.32,
+        "Vietnam": 126.69,
+        "Yemen": 28.99,
+        "Zambia": 237.03,
+        "Zimbabwe": 41.24
+    },
+    "country_profit": {
+        "Afghanistan": 47.43,
+        "Albania": 12.43,
+        "Algeria": 40.85,
+        "Angola": 53.99,
+        "Argentina": -15.34,
+        "Australia": 25.42,
+        "Austria": 26.68,
+        "Azerbaijan": 40.16,
+        "Bangladesh": 81.89,
+        "Barbados": 22.0,
+        "Belarus": 50.64,
+        "Belgium": 37.53,
+        "Benin": 28.92,
+        "Bolivia": 21.47,
+        "Bosnia and Herzegovina": 45.86,
+        "Brazil": -1.12,
+        "Bulgaria": 64.95,
+        "Cambodia": 20.69,
+        "Cameroon": 23.11,
+        "Canada": 58.26,
+        "Central African Republic": 45.81,
+        "Chile": 21.02,
+        "China": 58.91,
+        "Colombia": 18.31,
+        "Costa Rica": 19.32,
+        "Cote d'Ivoire": 128.4,
+        "Croatia": 38.22,
+        "Cuba": 24.53,
+        "Czech Republic": 49.16,
+        "C\u00f4te-d'Ivoire": 128.4,
+        "Democratic Republic of the Congo": 106.44,
+        "Denmark": -21.64,
+        "Dominican Republic": 2.93,
+        "Ecuador": 14.89,
+        "Egypt": 40.31,
+        "El Salvador": 29.04,
+        "Estonia": 143.28,
+        "Finland": 45.63,
+        "France": 13.97,
+        "Georgia": 30.72,
+        "Germany": 37.39,
+        "Ghana": 63.69,
+        "Greece": -19.1,
+        "Guadeloupe": 15.08,
+        "Guatemala": 32.5,
+        "Guinea-Bissau": 57.4,
+        "Haiti": -12.2,
+        "Honduras": -28.65,
+        "Hong Kong": 25.34,
+        "Hungary": 1.47,
+        "India": 49.96,
+        "Indonesia": 19.57,
+        "Iran": 50.22,
+        "Iraq": 57.85,
+        "Ireland": -20.83,
+        "Israel": 29.31,
+        "Italy": -35.98,
+        "Jamaica": 18.14,
+        "Japan": 73.38,
+        "Kazakhstan": -59.8,
+        "Kenya": 93.76,
+        "Kyrgyzstan": 49.35,
+        "Lesotho": 203.55,
+        "Libya": 3.35,
+        "Lithuania": -180.65,
+        "Luxembourg": 19.26,
+        "Madagascar": 31.48,
+        "Malaysia": 43.56,
+        "Mali": 38.78,
+        "Mexico": 29.72,
+        "Moldova": 24.39,
+        "Mongolia": 21.17,
+        "Morocco": 55.18,
+        "Mozambique": 56.06,
+        "Myanmar (Burma)": 1.38,
+        "Nepal": 11.36,
+        "Netherlands": -42.16,
+        "New Zealand": 31.5,
+        "Nicaragua": 27.44,
+        "Niger": 84.05,
+        "Nigeria": -71.22,
+        "Norway": 28.84,
+        "Pakistan": -69.78,
+        "Panama": -27.96,
+        "Papua New Guinea": -20.94,
+        "Paraguay": 10.92,
+        "Peru": -7.88,
+        "Philippines": 0.76,
+        "Poland": 26.01,
+        "Portugal": -60.57,
+        "Qatar": 193.17,
+        "Romania": 31.31,
+        "Russia": 60.71,
+        "Rwanda": 28.23,
+        "Saudi Arabia": 69.86,
+        "Senegal": 132.37,
+        "Sierra Leone": 33.9,
+        "Singapore": 34.91,
+        "Somalia": 38.0,
+        "South Africa": 49.67,
+        "South Korea": -57.88,
+        "South Sudan": 4.98,
+        "Spain": 22.39,
+        "Sudan": 26.82,
+        "Sweden": -17.99,
+        "Switzerland": 25.54,
+        "Syria": 7.68,
+        "Tajikistan": -20.92,
+        "Tanzania": 60.77,
+        "Thailand": 32.81,
+        "Togo": 22.14,
+        "Trinidad and Tobago": 52.11,
+        "Turkey": -74.07,
+        "Turkmenistan": -42.42,
+        "Uganda": -60.94,
+        "Ukraine": 51.27,
+        "United Arab Emirates": -39.14,
+        "United Kingdom": 48.53,
+        "United States": 13.53,
+        "Uruguay": 174.66,
+        "Uzbekistan": 23.97,
+        "Venezuela": -40.65,
+        "Vietnam": 18.42,
+        "Yemen": -45.12,
+        "Zambia": 75.36,
+        "Zimbabwe": -72.4
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.32,
+        "Albania": 0.08,
+        "Algeria": 0.29,
+        "Angola": 0.29,
+        "Argentina": -0.17,
+        "Australia": 0.17,
+        "Austria": 0.23,
+        "Azerbaijan": 0.29,
+        "Bangladesh": 0.29,
+        "Barbados": 0.41,
+        "Belarus": 0.35,
+        "Belgium": 0.29,
+        "Benin": 0.21,
+        "Bolivia": 0.22,
+        "Bosnia and Herzegovina": 0.4,
+        "Brazil": -0.01,
+        "Bulgaria": 0.25,
+        "Cambodia": 0.18,
+        "Cameroon": 0.22,
+        "Canada": 0.27,
+        "Central African Republic": 0.26,
+        "Chile": 0.18,
+        "China": 0.25,
+        "Colombia": 0.21,
+        "Costa Rica": 0.39,
+        "Cote d'Ivoire": 0.28,
+        "Croatia": 0.28,
+        "Cuba": 0.2,
+        "Czech Republic": 0.28,
+        "C\u00f4te-d'Ivoire": 0.28,
+        "Democratic Republic of the Congo": 0.32,
+        "Denmark": -0.39,
+        "Dominican Republic": 0.03,
+        "Ecuador": 0.25,
+        "Egypt": 0.2,
+        "El Salvador": 0.21,
+        "Estonia": 0.22,
+        "Finland": 0.25,
+        "France": 0.09,
+        "Georgia": 0.42,
+        "Germany": 0.19,
+        "Ghana": 0.22,
+        "Greece": -0.18,
+        "Guadeloupe": 0.31,
+        "Guatemala": 0.19,
+        "Guinea-Bissau": 0.09,
+        "Haiti": -0.33,
+        "Honduras": -0.38,
+        "Hong Kong": 0.34,
+        "Hungary": 0.02,
+        "India": 0.22,
+        "Indonesia": 0.12,
+        "Iran": 0.24,
+        "Iraq": 0.27,
+        "Ireland": -0.29,
+        "Israel": 0.12,
+        "Italy": -0.33,
+        "Jamaica": 0.36,
+        "Japan": 0.35,
+        "Kazakhstan": -1.48,
+        "Kenya": 0.27,
+        "Kyrgyzstan": 0.4,
+        "Lesotho": 0.32,
+        "Libya": 0.04,
+        "Lithuania": -1.03,
+        "Luxembourg": 0.29,
+        "Madagascar": 0.23,
+        "Malaysia": 0.25,
+        "Mali": 0.09,
+        "Mexico": 0.19,
+        "Moldova": 0.23,
+        "Mongolia": 0.21,
+        "Morocco": 0.33,
+        "Mozambique": 0.29,
+        "Myanmar (Burma)": 0.01,
+        "Nepal": 0.12,
+        "Netherlands": -0.52,
+        "New Zealand": 0.18,
+        "Nicaragua": 0.2,
+        "Niger": 0.37,
+        "Nigeria": -1.53,
+        "Norway": 0.23,
+        "Pakistan": -0.47,
+        "Panama": -0.37,
+        "Papua New Guinea": -0.52,
+        "Paraguay": 0.12,
+        "Peru": -0.16,
+        "Philippines": 0.0,
+        "Poland": 0.2,
+        "Portugal": -0.58,
+        "Qatar": 0.3,
+        "Romania": 0.2,
+        "Russia": 0.29,
+        "Rwanda": 0.17,
+        "Saudi Arabia": 0.24,
+        "Senegal": 0.31,
+        "Sierra Leone": 0.2,
+        "Singapore": 0.27,
+        "Somalia": 0.08,
+        "South Africa": 0.26,
+        "South Korea": -0.67,
+        "South Sudan": 0.03,
+        "Spain": 0.12,
+        "Sudan": 0.21,
+        "Sweden": -0.41,
+        "Switzerland": 0.26,
+        "Syria": 0.03,
+        "Tajikistan": -1.07,
+        "Tanzania": 0.22,
+        "Thailand": 0.1,
+        "Togo": 0.34,
+        "Trinidad and Tobago": 0.45,
+        "Turkey": -0.97,
+        "Turkmenistan": -1.93,
+        "Uganda": -1.67,
+        "Ukraine": 0.23,
+        "United Arab Emirates": -1.63,
+        "United Kingdom": 0.21,
+        "United States": 0.13,
+        "Uruguay": 0.41,
+        "Uzbekistan": 0.24,
+        "Venezuela": -0.31,
+        "Vietnam": 0.15,
+        "Yemen": -1.56,
+        "Zambia": 0.32,
+        "Zimbabwe": -1.76
+    },
+    "top_10_states": {
+        "California": [
+            344,
+            0.05
+        ],
+        "New York": [
+            218,
+            0.03
+        ],
+        "England": [
+            168,
+            0.03
+        ],
+        "Texas": [
+            160,
+            0.02
+        ],
+        "Pennsylvania": [
+            124,
+            0.02
+        ],
+        "Ile-de-France": [
+            108,
+            0.02
+        ],
+        "Queensland": [
+            104,
+            0.02
+        ],
+        "Ohio": [
+            94,
+            0.01
+        ],
+        "New South Wales": [
+            88,
+            0.01
+        ],
+        "North Rhine-Westphalia": [
+            88,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        344,
+        218,
+        168,
+        160,
+        124,
+        108,
+        104,
+        94,
+        88,
+        88
+    ],
+    "top_10_cities": {
+        "New York City": [
+            178,
+            0.03
+        ],
+        "Los Angeles": [
+            148,
+            0.02
+        ],
+        "Philadelphia": [
+            116,
+            0.02
+        ],
+        "San Francisco": [
+            70,
+            0.01
+        ],
+        "Lagos": [
+            64,
+            0.01
+        ],
+        "Houston": [
+            64,
+            0.01
+        ],
+        "Chicago": [
+            62,
+            0.01
+        ],
+        "Manila": [
+            60,
+            0.01
+        ],
+        "Seattle": [
+            58,
+            0.01
+        ],
+        "Santo Domingo": [
+            54,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        178,
+        148,
+        116,
+        70,
+        64,
+        64,
+        62,
+        60,
+        58,
+        54
+    ],
+    "yearly_sales": {
+        "2011": 337282.4802,
+        "2012": 364016.2744,
+        "2013": 453519.00450000004,
+        "2014": 889288.8603000001,
+        "2015": 364016.2744,
+        "2016": 453519.0045,
+        "2017": 552006.3801
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 21690.955,
+            "2012": 20527.9231,
+            "2013": 21216.4521,
+            "2014": 51483.1467,
+            "2015": 20527.9231,
+            "2016": 21216.4521,
+            "2017": 30427.471700000002
+        },
+        "August": {
+            "2011": 37769.431000000004,
+            "2012": 47645.9862,
+            "2013": 45621.83,
+            "2014": 112456.3123,
+            "2015": 47645.9862,
+            "2016": 45621.83,
+            "2017": 73448.7813
+        },
+        "December": {
+            "2011": 50447.7045,
+            "2012": 40440.2604,
+            "2013": 50898.9413,
+            "2014": 121911.2191,
+            "2015": 40440.2604,
+            "2016": 50898.9413,
+            "2017": 71896.2066
+        },
+        "February": {
+            "2011": 17676.6313,
+            "2012": 16410.7955,
+            "2013": 12681.138,
+            "2014": 41879.2915,
+            "2015": 15664.886,
+            "2016": 12681.138,
+            "2017": 23611.6482
+        },
+        "January": {
+            "2011": 11555.2113,
+            "2012": 13289.5573,
+            "2013": 22833.8002,
+            "2014": 39201.994399999996,
+            "2015": 14035.4668,
+            "2016": 22833.8002,
+            "2017": 27646.7831
+        },
+        "July": {
+            "2011": 16562.1398,
+            "2012": 21231.518,
+            "2013": 36866.1741,
+            "2014": 54637.4125,
+            "2015": 21231.518,
+            "2016": 36866.1741,
+            "2017": 38651.1927
+        },
+        "June": {
+            "2011": 29692.7538,
+            "2012": 36168.8338,
+            "2013": 68753.0891,
+            "2014": 82720.5454,
+            "2015": 36168.8338,
+            "2016": 68753.0891,
+            "2017": 53768.164600000004
+        },
+        "March": {
+            "2011": 17988.7184,
+            "2012": 17745.0968,
+            "2013": 25919.9735,
+            "2014": 42557.0093,
+            "2015": 17745.0968,
+            "2016": 25919.9735,
+            "2017": 24524.0229
+        },
+        "May": {
+            "2011": 22838.7614,
+            "2012": 28339.3106,
+            "2013": 31438.0971,
+            "2014": 55992.8144,
+            "2015": 28339.3106,
+            "2016": 31438.0971,
+            "2017": 31837.76
+        },
+        "November": {
+            "2011": 53538.253000000004,
+            "2012": 27542.448,
+            "2013": 49258.1367,
+            "2014": 128775.0607,
+            "2015": 27542.448,
+            "2016": 49258.1367,
+            "2017": 77973.3357
+        },
+        "October": {
+            "2011": 33344.6682,
+            "2012": 47434.1195,
+            "2013": 35587.8341,
+            "2014": 84712.2649,
+            "2015": 47434.1195,
+            "2016": 35587.8341,
+            "2017": 48198.3767
+        },
+        "September": {
+            "2011": 24177.252500000002,
+            "2012": 47240.4252,
+            "2013": 52443.5383,
+            "2014": 72961.78910000001,
+            "2015": 47240.4252,
+            "2016": 52443.5383,
+            "2017": 50022.6366
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Apple Smart Phone, Full Size": 173871.5572,
+        "Cisco Smart Phone, Full Size": 152883.0612,
+        "Motorola Smart Phone, Full Size": 146312.606,
+        "Nokia Smart Phone, Full Size": 143809.111,
+        "Samsung Smart Phone, Cordless": 97306.92000000001,
+        "Nokia Smart Phone, with Caller ID": 95755.5714,
+        "Samsung Smart Phone, VoIP": 90812.656,
+        "Cisco Smart Phone, with Caller ID": 86255.0016,
+        "Cisco Smart Phone, Cordless": 82043.048,
+        "Motorola Smart Phone, Cordless": 77862.084
+    },
+    "top_10_products_by_profit": {
+        "Cisco Smart Phone, Full Size": 34477.0412,
+        "Motorola Smart Phone, Full Size": 34054.226,
+        "Nokia Smart Phone, Full Size": 19876.391,
+        "Cisco Smart Phone, with Caller ID": 19573.281600000002,
+        "Nokia Smart Phone, with Caller ID": 18930.6514,
+        "Samsung Smart Phone, with Caller ID": 12785.228,
+        "Apple Smart Phone, Full Size": 11843.1572,
+        "Nokia Smart Phone, Cordless": 11279.779999999999,
+        "Apple Smart Phone, Cordless": 10900.434,
+        "Cisco Smart Phone, Cordless": 8041.647999999999
+    },
+    "top_10_products_by_turnover": {
+        "Apple Smart Phone, Full Size": 342,
+        "Nokia Smart Phone, Full Size": 294,
+        "Cisco Smart Phone, Full Size": 278,
+        "Motorola Smart Phone, Full Size": 268,
+        "Cisco Signal Booster, VoIP": 220,
+        "Samsung Smart Phone, Cordless": 216,
+        "Nokia Office Telephone, Full Size": 210,
+        "Apple Signal Booster, Cordless": 204,
+        "Apple Speaker Phone, VoIP": 202,
+        "Nokia Headset, with Caller ID": 202
+    },
+    "top_5_loss_products": {
+        "Apple Smart Phone, Full Size": -13122.223800000002,
+        "Motorola Smart Phone, Cordless": -13023.876,
+        "Samsung Smart Phone, Cordless": -12383.820000000002,
+        "Cisco Smart Phone, Cordless": -11032.52,
+        "Nokia Smart Phone, Full Size": -10572.989
+    },
+    "product_performance": [
+        {
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 173871.5572,
+            "total_quantity": 342,
+            "average_price": 1704.6231098039216,
+            "total_profit": 11843.1572,
+            "profit_margin": 0.06811440232502847
+        },
+        {
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 152883.0612,
+            "total_quantity": 278,
+            "average_price": 2011.6192263157893,
+            "total_profit": 34477.0412,
+            "profit_margin": 0.2255124990916914
+        },
+        {
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 146312.606,
+            "total_quantity": 268,
+            "average_price": 1925.1658684210527,
+            "total_profit": 34054.226,
+            "profit_margin": 0.2327497741377117
+        },
+        {
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 143809.111,
+            "total_quantity": 294,
+            "average_price": 1529.8841595744682,
+            "total_profit": 19876.391,
+            "profit_margin": 0.13821371164724047
+        },
+        {
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 97306.92000000001,
+            "total_quantity": 216,
+            "average_price": 1871.2869230769234,
+            "total_profit": -396.1800000000014,
+            "profit_margin": -0.004071447333858696
+        },
+        {
+            "Product Name": "Nokia Smart Phone, with Caller ID",
+            "total_sales": 95755.5714,
+            "total_quantity": 192,
+            "average_price": 1994.9077375,
+            "total_profit": 18930.6514,
+            "profit_margin": 0.19769764958031463
+        },
+        {
+            "Product Name": "Samsung Smart Phone, VoIP",
+            "total_sales": 90812.656,
+            "total_quantity": 194,
+            "average_price": 1974.1881739130436,
+            "total_profit": 7807.7159999999985,
+            "profit_margin": 0.08597607804797602
+        },
+        {
+            "Product Name": "Cisco Smart Phone, with Caller ID",
+            "total_sales": 86255.0016,
+            "total_quantity": 170,
+            "average_price": 1597.3148444444446,
+            "total_profit": 19573.281600000002,
+            "profit_margin": 0.22692343906930032
+        },
+        {
+            "Product Name": "Cisco Smart Phone, Cordless",
+            "total_sales": 82043.048,
+            "total_quantity": 178,
+            "average_price": 1519.3157037037035,
+            "total_profit": 8041.647999999999,
+            "profit_margin": 0.09801742129327033
+        },
+        {
+            "Product Name": "Motorola Smart Phone, Cordless",
+            "total_sales": 77862.084,
+            "total_quantity": 148,
+            "average_price": 1692.654,
+            "total_profit": -8894.076000000001,
+            "profit_margin": -0.11422858910377996
+        },
+        {
+            "Product Name": "Motorola Smart Phone, with Caller ID",
+            "total_sales": 60487.098,
+            "total_quantity": 106,
+            "average_price": 2326.426846153846,
+            "total_profit": 7887.618,
+            "profit_margin": 0.13040166020198227
+        },
+        {
+            "Product Name": "Apple Smart Phone, Cordless",
+            "total_sales": 54327.293999999994,
+            "total_quantity": 104,
+            "average_price": 1358.1823499999998,
+            "total_profit": 10900.434,
+            "profit_margin": 0.20064378689650916
+        },
+        {
+            "Product Name": "Samsung Smart Phone, with Caller ID",
+            "total_sales": 52622.328,
+            "total_quantity": 100,
+            "average_price": 1754.0776,
+            "total_profit": 12785.228,
+            "profit_margin": 0.24296203695131083
+        },
+        {
+            "Product Name": "Nokia Smart Phone, Cordless",
+            "total_sales": 51316.100000000006,
+            "total_quantity": 92,
+            "average_price": 2138.1708333333336,
+            "total_profit": 11279.779999999999,
+            "profit_margin": 0.2198097673049978
+        },
+        {
+            "Product Name": "Samsung Smart Phone, Full Size",
+            "total_sales": 41986.048,
+            "total_quantity": 86,
+            "average_price": 1614.8480000000002,
+            "total_profit": 3943.048,
+            "profit_margin": 0.09391329233939806
+        },
+        {
+            "Product Name": "Apple Smart Phone, with Caller ID",
+            "total_sales": 33508.046,
+            "total_quantity": 76,
+            "average_price": 1861.5581111111112,
+            "total_profit": 6393.245999999999,
+            "profit_margin": 0.19079733864517193
+        },
+        {
+            "Product Name": "Samsung Galaxy Mega 6.3",
+            "total_sales": 27887.336000000003,
+            "total_quantity": 78,
+            "average_price": 2323.9446666666668,
+            "total_profit": 3645.5132000000003,
+            "profit_margin": 0.13072289156626507
+        },
+        {
+            "Product Name": "Cisco Signal Booster, VoIP",
+            "total_sales": 27831.744,
+            "total_quantity": 220,
+            "average_price": 515.4026666666666,
+            "total_profit": 4164.584,
+            "profit_margin": 0.14963431684338574
+        },
+        {
+            "Product Name": "Apple iPhone 5",
+            "total_sales": 25993.2,
+            "total_quantity": 48,
+            "average_price": 2166.1,
+            "total_profit": 3223.1568000000007,
+            "profit_margin": 0.12400000000000003
+        },
+        {
+            "Product Name": "Cisco Audio Dock, Full Size",
+            "total_sales": 25796.3072,
+            "total_quantity": 168,
+            "average_price": 560.7892869565218,
+            "total_profit": 2557.1072,
+            "profit_margin": 0.09912687037623742
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-01",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1302.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 587.412,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 642.6899999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2124.5000000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 639.0000000000001,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4473.000000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 850.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4246.42,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2166.8976,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1908.1799999999998,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1591.1100000000004,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 257.076,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1621.9530000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5100.0,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2044.8000000000009,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4241.400000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4274.910000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 3521.136,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 429.32,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4456.290000000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 636.21,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1954.17,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4498.83,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 637.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 651.39,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1908.1800000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3263.4000000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 192.807,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1912.5,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1305.36,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 856.9200000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 5724.540000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1302.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 578.4209999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4261.6785,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0000000000002,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 190.86300000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4771.200000000002,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5737.5,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 6639.4338,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1621.9530000000002,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1917.0000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5737.5,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2447.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3632.895,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2968.98,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2146.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2544.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3961.800000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 425.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2569.5299999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3474.0800000000004,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2039.5200000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3219.9,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1083.75,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 190.86300000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4824.045,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 637.35,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1275.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1109.556,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2672.517,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2570.76,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2544.24,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3916.08,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3712.590000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5211.12,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3856.14,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3309.06,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2683.8,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 6151.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4485.9762,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3180.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 6471.575,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 4783.74,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2125.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3045.84,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5869.820000000001,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1287.96,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3820.2300000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2800.977,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 6439.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4449.2286,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1302.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1157.874,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1272.42,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 587.412,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 643.98,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 956.025,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2605.56,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3406.2570000000005,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2124.5,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 639.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2706.4725,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3260.8199999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4473.0,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 850.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 772.776,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 5521.12,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 3060.0,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5734.8816,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1287.96,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2163.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1591.11,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2550.0,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1970.916,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4293.405000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 14564.295,
+            "total_quantity": 27
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 11945.16,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2142.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1625.2425000000003,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 8147.250000000002,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4241.400000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3041.54,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1501.33,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2549.400000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 8108.910000000001,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5221.1359999999995,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4164.4039999999995,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 7196.895,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 6174.834000000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 5270.058,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3611.6500000000005,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2343.0000000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5447.3355,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3258.2400000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 11067.168000000001,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 5997.7915,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1192.8000000000004,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3263.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 192.807,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1912.5,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1305.36,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 856.92,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 5724.54,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1302.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 578.421,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4261.6785,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 190.863,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 4771.2,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5737.5,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 6639.4338,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1621.953,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1917.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 5737.5,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2447.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3632.895,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2968.98,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2146.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2544.24,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3961.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 425.0,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2569.5299999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3474.08,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2039.52,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3219.9,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1083.75,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 190.863,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4824.045,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 637.35,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1275.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 1109.556,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2672.517,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2570.76,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2544.24,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3916.08,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3712.59,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1911.21,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5211.12,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3856.14,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3309.06,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2683.8,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 6151.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 4485.9762,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3180.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 6471.575000000001,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 4783.74,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2125.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3045.84,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 5869.82,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1287.96,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3820.23,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2800.977,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 6439.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1278.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4449.2286,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1157.874,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1272.42,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 643.98,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 956.025,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2605.56,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2763.567,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2706.4725,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3260.8199999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 772.776,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1274.7,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 3060.0,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3567.9840000000004,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1287.96,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 254.94,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 2550.0,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1713.84,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2671.452,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 9464.295,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 11945.16,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 2142.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 1625.2425,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 6102.45,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 3041.54,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 1501.33,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2549.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 3834.0,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1700.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 3735.084,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 2740.605,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 1275.0,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 4220.664000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 771.228,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 3611.65,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 2343.0,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Apple Smart Phone, Full Size",
+            "total_sales": 4809.8355,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Cisco Smart Phone, Full Size",
+            "total_sales": 2606.85,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Motorola Smart Phone, Full Size",
+            "total_sales": 11067.168000000001,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Nokia Smart Phone, Full Size",
+            "total_sales": 4089.6115,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Samsung Smart Phone, Cordless",
+            "total_sales": 1192.8,
+            "total_quantity": 7
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-11",
+            "Order Count": 232
+        },
+        {
+            "Order Month": "2014-12",
+            "Order Count": 227
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 177
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 174
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 163
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 162
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 153
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 130
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 121
+        },
+        {
+            "Order Month": "2017-08",
+            "Order Count": 117
+        },
+        {
+            "Order Month": "2017-06",
+            "Order Count": 115
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 115
+        },
+        {
+            "Order Month": "2014-07",
+            "Order Count": 112
+        },
+        {
+            "Order Month": "2013-09",
+            "Order Count": 112
+        },
+        {
+            "Order Month": "2016-09",
+            "Order Count": 112
+        },
+        {
+            "Order Month": "2013-11",
+            "Order Count": 109
+        },
+        {
+            "Order Month": "2016-11",
+            "Order Count": 109
+        },
+        {
+            "Order Month": "2013-06",
+            "Order Count": 108
+        },
+        {
+            "Order Month": "2016-06",
+            "Order Count": 108
+        },
+        {
+            "Order Month": "2014-04",
+            "Order Count": 107
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 11555.2113,
+            "Quantity": 73,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 17676.6313,
+            "Quantity": 117,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 17988.7184,
+            "Quantity": 120,
+            "Sales_MA": 15740.187
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 21690.955,
+            "Quantity": 186,
+            "Sales_MA": 19118.768233333336
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 22838.7614,
+            "Quantity": 178,
+            "Sales_MA": 20839.47826666667
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 29692.7538,
+            "Quantity": 216,
+            "Sales_MA": 24740.823400000005
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 16562.1398,
+            "Quantity": 128,
+            "Sales_MA": 23031.218333333334
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 37769.431000000004,
+            "Quantity": 219,
+            "Sales_MA": 28008.108200000002
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 24177.252500000002,
+            "Quantity": 157,
+            "Sales_MA": 26169.60776666667
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 33344.6682,
+            "Quantity": 195,
+            "Sales_MA": 31763.7839
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 53538.253000000004,
+            "Quantity": 311,
+            "Sales_MA": 37020.05790000001
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 50447.7045,
+            "Quantity": 344,
+            "Sales_MA": 45776.87523333333
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 13289.5573,
+            "Quantity": 113,
+            "Sales_MA": 39091.838266666666
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 16410.7955,
+            "Quantity": 100,
+            "Sales_MA": 26716.019100000005
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 17745.0968,
+            "Quantity": 172,
+            "Sales_MA": 15815.149866666668
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 20527.9231,
+            "Quantity": 188,
+            "Sales_MA": 18227.93846666667
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 28339.3106,
+            "Quantity": 204,
+            "Sales_MA": 22204.11016666667
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 36168.8338,
+            "Quantity": 234,
+            "Sales_MA": 28345.355833333335
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 21231.518,
+            "Quantity": 164,
+            "Sales_MA": 28579.887466666667
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 47645.9862,
+            "Quantity": 248,
+            "Sales_MA": 35015.446
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 47240.4252,
+            "Quantity": 327,
+            "Sales_MA": 38705.97646666667
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 47434.1195,
+            "Quantity": 289,
+            "Sales_MA": 47440.17696666667
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 27542.448,
+            "Quantity": 255,
+            "Sales_MA": 40738.997566666665
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 40440.2604,
+            "Quantity": 251,
+            "Sales_MA": 38472.27596666667
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 22833.8002,
+            "Quantity": 155,
+            "Sales_MA": 30272.169533333334
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 12681.138,
+            "Quantity": 113,
+            "Sales_MA": 25318.399533333333
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 25919.9735,
+            "Quantity": 174,
+            "Sales_MA": 20478.303900000003
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 21216.4521,
+            "Quantity": 161,
+            "Sales_MA": 19939.187866666663
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 31438.0971,
+            "Quantity": 211,
+            "Sales_MA": 26191.507566666667
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 68753.0891,
+            "Quantity": 374,
+            "Sales_MA": 40469.212766666664
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 36866.1741,
+            "Quantity": 248,
+            "Sales_MA": 45685.786766666664
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 45621.83,
+            "Quantity": 316,
+            "Sales_MA": 50413.697733333334
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 52443.5383,
+            "Quantity": 418,
+            "Sales_MA": 44977.1808
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 35587.8341,
+            "Quantity": 240,
+            "Sales_MA": 44551.06746666667
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 49258.1367,
+            "Quantity": 376,
+            "Sales_MA": 45763.169700000006
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 50898.9413,
+            "Quantity": 359,
+            "Sales_MA": 45248.30403333334
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 39201.994399999996,
+            "Quantity": 261,
+            "Sales_MA": 46453.02413333333
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 41879.2915,
+            "Quantity": 310,
+            "Sales_MA": 43993.409066666674
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 42557.0093,
+            "Quantity": 335,
+            "Sales_MA": 41212.76506666667
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 51483.1467,
+            "Quantity": 405,
+            "Sales_MA": 45306.482500000006
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 55992.8144,
+            "Quantity": 454,
+            "Sales_MA": 50010.99013333334
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 82720.5454,
+            "Quantity": 603,
+            "Sales_MA": 63398.83550000001
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 54637.4125,
+            "Quantity": 397,
+            "Sales_MA": 64450.25743333335
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 112456.3123,
+            "Quantity": 633,
+            "Sales_MA": 83271.42340000001
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 72961.78910000001,
+            "Quantity": 491,
+            "Sales_MA": 80018.50463333334
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 84712.2649,
+            "Quantity": 623,
+            "Sales_MA": 90043.45543333334
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 128775.0607,
+            "Quantity": 863,
+            "Sales_MA": 95483.03823333334
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 121911.2191,
+            "Quantity": 805,
+            "Sales_MA": 111799.51490000001
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 14035.4668,
+            "Quantity": 121,
+            "Sales_MA": 88240.5822
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 15664.886,
+            "Quantity": 92,
+            "Sales_MA": 50537.190633333346
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 17745.0968,
+            "Quantity": 172,
+            "Sales_MA": 15815.149866666676
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 20527.9231,
+            "Quantity": 188,
+            "Sales_MA": 17979.301966666677
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 28339.3106,
+            "Quantity": 204,
+            "Sales_MA": 22204.110166666676
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 36168.8338,
+            "Quantity": 234,
+            "Sales_MA": 28345.355833333346
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 21231.518,
+            "Quantity": 164,
+            "Sales_MA": 28579.887466666678
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 47645.9862,
+            "Quantity": 248,
+            "Sales_MA": 35015.44600000001
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 47240.4252,
+            "Quantity": 327,
+            "Sales_MA": 38705.976466666674
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 47434.1195,
+            "Quantity": 289,
+            "Sales_MA": 47440.17696666667
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 27542.448,
+            "Quantity": 255,
+            "Sales_MA": 40738.99756666668
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 40440.2604,
+            "Quantity": 251,
+            "Sales_MA": 38472.275966666675
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 22833.8002,
+            "Quantity": 155,
+            "Sales_MA": 30272.169533333345
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 12681.138,
+            "Quantity": 113,
+            "Sales_MA": 25318.399533333344
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 25919.9735,
+            "Quantity": 174,
+            "Sales_MA": 20478.30390000001
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 21216.4521,
+            "Quantity": 161,
+            "Sales_MA": 19939.187866666674
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 31438.0971,
+            "Quantity": 211,
+            "Sales_MA": 26191.507566666678
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 68753.0891,
+            "Quantity": 374,
+            "Sales_MA": 40469.21276666667
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 36866.1741,
+            "Quantity": 248,
+            "Sales_MA": 45685.78676666668
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 45621.83,
+            "Quantity": 316,
+            "Sales_MA": 50413.69773333334
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 52443.5383,
+            "Quantity": 418,
+            "Sales_MA": 44977.18080000001
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 35587.8341,
+            "Quantity": 240,
+            "Sales_MA": 44551.06746666668
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 49258.1367,
+            "Quantity": 376,
+            "Sales_MA": 45763.16970000002
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 50898.9413,
+            "Quantity": 359,
+            "Sales_MA": 45248.30403333335
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 27646.7831,
+            "Quantity": 188,
+            "Sales_MA": 42601.28703333335
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 23611.6482,
+            "Quantity": 185,
+            "Sales_MA": 34052.45753333335
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 24524.0229,
+            "Quantity": 215,
+            "Sales_MA": 25260.818066666678
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 30427.471700000002,
+            "Quantity": 227,
+            "Sales_MA": 26187.71426666668
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 31837.76,
+            "Quantity": 265,
+            "Sales_MA": 28929.751533333347
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 53768.164600000004,
+            "Quantity": 396,
+            "Sales_MA": 38677.79876666668
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 38651.1927,
+            "Quantity": 271,
+            "Sales_MA": 41419.039100000016
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 73448.7813,
+            "Quantity": 407,
+            "Sales_MA": 55289.37953333335
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 50022.6366,
+            "Quantity": 341,
+            "Sales_MA": 54040.870200000005
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 48198.3767,
+            "Quantity": 411,
+            "Sales_MA": 57223.26486666667
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 77973.3357,
+            "Quantity": 561,
+            "Sales_MA": 58731.449666666675
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 71896.2066,
+            "Quantity": 469,
+            "Sales_MA": 66022.63966666667
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Mike Gockenbach",
+            "total_spent": 26498.272,
+            "purchase_frequency": 16,
+            "average_order_value": 1472.1262222222222
+        },
+        {
+            "Customer Name": "Fred Hopkins",
+            "total_spent": 24471.388000000003,
+            "purchase_frequency": 14,
+            "average_order_value": 1529.4617500000002
+        },
+        {
+            "Customer Name": "Patrick O'Brill",
+            "total_spent": 19262.72,
+            "purchase_frequency": 18,
+            "average_order_value": 963.1360000000001
+        },
+        {
+            "Customer Name": "John Huston",
+            "total_spent": 19140.78,
+            "purchase_frequency": 16,
+            "average_order_value": 1063.3766666666666
+        },
+        {
+            "Customer Name": "Carol Adams",
+            "total_spent": 17907.918,
+            "purchase_frequency": 10,
+            "average_order_value": 1790.7918000000002
+        },
+        {
+            "Customer Name": "Aaron Hawkins",
+            "total_spent": 17076.32,
+            "purchase_frequency": 8,
+            "average_order_value": 2134.54
+        },
+        {
+            "Customer Name": "Brosina Hoffman",
+            "total_spent": 16873.06,
+            "purchase_frequency": 22,
+            "average_order_value": 703.0441666666667
+        },
+        {
+            "Customer Name": "Stuart Van",
+            "total_spent": 16604.923,
+            "purchase_frequency": 16,
+            "average_order_value": 922.4957222222222
+        },
+        {
+            "Customer Name": "John Murray",
+            "total_spent": 16421.36,
+            "purchase_frequency": 16,
+            "average_order_value": 1026.335
+        },
+        {
+            "Customer Name": "Barry Franz",
+            "total_spent": 16144.59,
+            "purchase_frequency": 12,
+            "average_order_value": 1009.036875
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 2000815.02,
+            "total_quantity": 11650,
+            "average_profit": 142.2333
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 292723.47,
+            "total_quantity": 1690,
+            "average_profit": 126.3859
+        },
+        {
+            "Discount": 0.15,
+            "total_sales": 173346.858,
+            "total_quantity": 1070,
+            "average_profit": 73.9711
+        },
+        {
+            "Discount": 0.17,
+            "total_sales": 165136.2024,
+            "total_quantity": 898,
+            "average_profit": 70.5713
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 376008.432,
+            "total_quantity": 3886,
+            "average_profit": 33.3367
+        },
+        {
+            "Discount": 0.25,
+            "total_sales": 49806.18,
+            "total_quantity": 312,
+            "average_profit": 2.9722
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 205500.408,
+            "total_quantity": 2322,
+            "average_profit": -80.0268
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 75725.61,
+            "total_quantity": 794,
+            "average_profit": -185.5755
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 48785.336,
+            "total_quantity": 664,
+            "average_profit": -235.8205
+        },
+        {
+            "Discount": 0.65,
+            "total_sales": 6581.316,
+            "total_quantity": 44,
+            "average_profit": -452.5474
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 19219.446,
+            "total_quantity": 410,
+            "average_profit": -156.2096
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 75918.26,
+            "total_quantity": 638,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 59006.064,
+            "total_quantity": 594,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "Bangkok",
+            "City": "Bangkok",
+            "total_sales": 46363.5012,
+            "total_quantity": 148,
+            "Location": "Bangkok, Bangkok"
+        },
+        {
+            "State": "Pennsylvania",
+            "City": "Philadelphia",
+            "total_sales": 38864.364,
+            "total_quantity": 452,
+            "Location": "Pennsylvania, Philadelphia"
+        },
+        {
+            "State": "Distrito Federal",
+            "City": "Mexico City",
+            "total_sales": 37697.44,
+            "total_quantity": 152,
+            "Location": "Distrito Federal, Mexico City"
+        },
+        {
+            "State": "England",
+            "City": "London",
+            "total_sales": 29840.238,
+            "total_quantity": 112,
+            "Location": "England, London"
+        },
+        {
+            "State": "Managua",
+            "City": "Managua",
+            "total_sales": 29210.64,
+            "total_quantity": 196,
+            "Location": "Managua, Managua"
+        },
+        {
+            "State": "Queensland",
+            "City": "Brisbane",
+            "total_sales": 27302.184,
+            "total_quantity": 106,
+            "Location": "Queensland, Brisbane"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "total_sales": 26635.056,
+            "total_quantity": 278,
+            "Location": "California, San Francisco"
+        },
+        {
+            "State": "Western Australia",
+            "City": "Perth",
+            "total_sales": 26211.276,
+            "total_quantity": 86,
+            "Location": "Western Australia, Perth"
+        },
+        {
+            "State": "Hamburg",
+            "City": "Hamburg",
+            "total_sales": 25861.74,
+            "total_quantity": 106,
+            "Location": "Hamburg, Hamburg"
+        },
+        {
+            "State": "Santo Domingo",
+            "City": "Santo Domingo",
+            "total_sales": 24696.640000000003,
+            "total_quantity": 216,
+            "Location": "Santo Domingo, Santo Domingo"
+        },
+        {
+            "State": "Illinois",
+            "City": "Chicago",
+            "total_sales": 23985.088,
+            "total_quantity": 202,
+            "Location": "Illinois, Chicago"
+        },
+        {
+            "State": "New South Wales",
+            "City": "Sydney",
+            "total_sales": 23984.478,
+            "total_quantity": 154,
+            "Location": "New South Wales, Sydney"
+        },
+        {
+            "State": "Texas",
+            "City": "Houston",
+            "total_sales": 22831.440000000002,
+            "total_quantity": 272,
+            "Location": "Texas, Houston"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 902,
+            "avg_shipping_delay": 2.18,
+            "total_profit": 58378.39,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 306,
+            "avg_shipping_delay": 0.04,
+            "total_profit": 3935.29,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 1298,
+            "avg_shipping_delay": 3.22,
+            "total_profit": 91706.93,
+            "shipping_cost_ratio": 0.13
+        },
+        "Standard Class": {
+            "total_orders": 3775,
+            "avg_shipping_delay": 4.97,
+            "total_profit": 279413.4,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.0,
+            "ship_mode_distribution": {
+                "First Class": 0.4426877470355731,
+                "Second Class": 0.391304347826087,
+                "Same Day": 0.16600790513833993
+            }
+        },
+        "High": {
+            "avg_profit_margin": 0.06,
+            "ship_mode_distribution": {
+                "Standard Class": 0.4344422700587084,
+                "Second Class": 0.27788649706457924,
+                "First Class": 0.21330724070450097,
+                "Same Day": 0.07436399217221135
+            }
+        },
+        "Low": {
+            "avg_profit_margin": 0.02,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": 0.04,
+            "ship_mode_distribution": {
+                "Standard Class": 0.7354306343476018,
+                "Second Class": 0.1624548736462094,
+                "First Class": 0.0778751933986591,
+                "Same Day": 0.024239298607529654
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 836.0,
+            "frequency": 1.0,
+            "monetary": 373.59
+        },
+        "customer_distribution": {
+            "Promising Customers": 1164,
+            "Lost Customers": 778,
+            "Big Spenders": 731,
+            "At-Risk Customers": 722,
+            "Hibernating Customers": 486,
+            "VIP": 119,
+            "Slipping Away": 74,
+            "Loyal Customers": 44
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 4118,
+        "churned_customers": 3074,
+        "churn_rate": 0.7464788732394366,
+        "avg_recency": 838.8244293346285,
+        "avg_frequency": 1.6304031083050023,
+        "avg_monetary": 828.957814084507,
+        "churned_customer_characteristics": {
+            "avg_recency": 1072.1271958360442,
+            "avg_frequency": 1.7872478854912166,
+            "avg_monetary": 919.4894560182174,
+            "avg_discount": 0.14955950186407246,
+            "avg_quantity": 3.4340039605085146,
+            "avg_shipping_cost": 55.71809922029103,
+            "avg_profit": 66.90826850235203
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 151.87739463601534,
+            "avg_frequency": 1.1685823754789273,
+            "avg_monetary": 562.3924239463603,
+            "avg_discount": 0.14225095785440614,
+            "avg_quantity": 3.5047094508301404,
+            "avg_shipping_cost": 53.27713202426565,
+            "avg_profit": 63.23988726053639
+        }
+    }
+}

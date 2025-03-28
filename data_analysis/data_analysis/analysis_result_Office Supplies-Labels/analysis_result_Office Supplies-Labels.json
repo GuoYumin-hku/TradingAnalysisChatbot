@@ -1,0 +1,3960 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            2734,
+            0.53
+        ],
+        "Corporate": [
+            1507,
+            0.29
+        ],
+        "Home Office": [
+            966,
+            0.19
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.59,
+        "Corporate": 3.44,
+        "Home Office": 3.75
+    },
+    "segment_unit_price": {
+        "Consumer": 7.88,
+        "Corporate": 8.18,
+        "Home Office": 7.44
+    },
+    "segment_profit": {
+        "Consumer": 1.56,
+        "Corporate": 1.75,
+        "Home Office": 1.55
+    },
+    "segment_discount": {
+        "Consumer": 0.12,
+        "Corporate": 0.12,
+        "Home Office": 0.11
+    },
+    "region_distribution": {
+        "Central": [
+            539,
+            0.1
+        ],
+        "Oceania": [
+            470,
+            0.09
+        ],
+        "Central America": [
+            347,
+            0.07
+        ],
+        "South": [
+            314,
+            0.06
+        ],
+        "Western Europe": [
+            278,
+            0.05
+        ],
+        "North": [
+            252,
+            0.05
+        ],
+        "Africa": [
+            223,
+            0.04
+        ],
+        "EMEA": [
+            213,
+            0.04
+        ],
+        "Caribbean": [
+            204,
+            0.04
+        ],
+        "Southeastern Asia": [
+            203,
+            0.04
+        ],
+        "Southeast Asia": [
+            203,
+            0.04
+        ],
+        "South America": [
+            163,
+            0.03
+        ],
+        "Southern Asia": [
+            153,
+            0.03
+        ],
+        "Eastern Asia": [
+            152,
+            0.03
+        ],
+        "North Asia": [
+            151,
+            0.03
+        ],
+        "Central Asia": [
+            142,
+            0.03
+        ],
+        "West": [
+            116,
+            0.02
+        ],
+        "Western US": [
+            114,
+            0.02
+        ],
+        "East": [
+            107,
+            0.02
+        ],
+        "Eastern US": [
+            105,
+            0.02
+        ],
+        "Northern Europe": [
+            95,
+            0.02
+        ],
+        "Western Asia": [
+            92,
+            0.02
+        ],
+        "Southern Europe": [
+            89,
+            0.02
+        ],
+        "Central US": [
+            75,
+            0.01
+        ],
+        "Eastern Europe": [
+            69,
+            0.01
+        ],
+        "Southern US": [
+            65,
+            0.01
+        ],
+        "Western Africa": [
+            60,
+            0.01
+        ],
+        "North Africa": [
+            59,
+            0.01
+        ],
+        "Canada": [
+            50,
+            0.01
+        ],
+        "Eastern Africa": [
+            44,
+            0.01
+        ],
+        "Central Africa": [
+            35,
+            0.01
+        ],
+        "Southern Africa": [
+            25,
+            0.0
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.49,
+        "Canada": 1.96,
+        "Caribbean": 3.76,
+        "Central": 3.72,
+        "Central Africa": 3.2,
+        "Central America": 3.73,
+        "Central Asia": 3.74,
+        "Central US": 3.75,
+        "EMEA": 2.4,
+        "East": 3.93,
+        "Eastern Africa": 2.64,
+        "Eastern Asia": 3.57,
+        "Eastern Europe": 2.52,
+        "Eastern US": 3.89,
+        "North": 3.77,
+        "North Africa": 2.59,
+        "North Asia": 3.58,
+        "Northern Europe": 3.86,
+        "Oceania": 3.8,
+        "South": 3.82,
+        "South America": 3.87,
+        "Southeast Asia": 4.13,
+        "Southeastern Asia": 4.13,
+        "Southern Africa": 2.32,
+        "Southern Asia": 3.61,
+        "Southern Europe": 4.26,
+        "Southern US": 3.32,
+        "West": 4.14,
+        "Western Africa": 1.95,
+        "Western Asia": 2.29,
+        "Western Europe": 3.66,
+        "Western US": 4.16
+    },
+    "region_sales": {
+        "Africa": 21.88,
+        "Canada": 16.87,
+        "Caribbean": 21.54,
+        "Central": 29.03,
+        "Central Africa": 30.3,
+        "Central America": 22.82,
+        "Central Asia": 33.36,
+        "Central US": 32.59,
+        "EMEA": 19.22,
+        "East": 24.33,
+        "Eastern Africa": 23.03,
+        "Eastern Asia": 34.12,
+        "Eastern Europe": 25.09,
+        "Eastern US": 24.51,
+        "North": 27.75,
+        "North Africa": 25.15,
+        "North Asia": 34.21,
+        "Northern Europe": 33.08,
+        "Oceania": 32.13,
+        "South": 29.19,
+        "South America": 21.09,
+        "Southeast Asia": 25.06,
+        "Southeastern Asia": 25.06,
+        "Southern Africa": 24.93,
+        "Southern Asia": 33.02,
+        "Southern Europe": 40.47,
+        "Southern US": 36.2,
+        "West": 43.78,
+        "Western Africa": 11.65,
+        "Western Asia": 14.21,
+        "Western Europe": 33.03,
+        "Western US": 44.4
+    },
+    "region_unit_price": {
+        "Africa": 8.78,
+        "Canada": 8.61,
+        "Caribbean": 5.72,
+        "Central": 7.8,
+        "Central Africa": 9.47,
+        "Central America": 6.12,
+        "Central Asia": 8.92,
+        "Central US": 8.7,
+        "EMEA": 8.01,
+        "East": 6.2,
+        "Eastern Africa": 8.74,
+        "Eastern Asia": 9.57,
+        "Eastern Europe": 9.95,
+        "Eastern US": 6.31,
+        "North": 7.37,
+        "North Africa": 9.7,
+        "North Asia": 9.57,
+        "Northern Europe": 8.56,
+        "Oceania": 8.46,
+        "South": 7.63,
+        "South America": 5.45,
+        "Southeast Asia": 6.07,
+        "Southeastern Asia": 6.07,
+        "Southern Africa": 10.75,
+        "Southern Asia": 9.15,
+        "Southern Europe": 9.5,
+        "Southern US": 10.89,
+        "West": 10.58,
+        "Western Africa": 5.97,
+        "Western Asia": 6.2,
+        "Western Europe": 9.03,
+        "Western US": 10.68
+    },
+    "region_discount": {
+        "Africa": 0.13,
+        "Canada": 0.0,
+        "Caribbean": 0.1,
+        "Central": 0.09,
+        "Central Africa": 0.0,
+        "Central America": 0.07,
+        "Central Asia": 0.12,
+        "Central US": 0.11,
+        "EMEA": 0.2,
+        "East": 0.07,
+        "Eastern Africa": 0.06,
+        "Eastern Asia": 0.04,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.07,
+        "North": 0.05,
+        "North Africa": 0.0,
+        "North Asia": 0.04,
+        "Northern Europe": 0.14,
+        "Oceania": 0.15,
+        "South": 0.11,
+        "South America": 0.17,
+        "Southeast Asia": 0.38,
+        "Southeastern Asia": 0.38,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.07,
+        "Southern Europe": 0.0,
+        "Southern US": 0.11,
+        "West": 0.02,
+        "Western Africa": 0.42,
+        "Western Asia": 0.38,
+        "Western Europe": 0.05,
+        "Western US": 0.02
+    },
+    "region_profit": {
+        "Africa": 1.41,
+        "Canada": 2.64,
+        "Caribbean": 0.95,
+        "Central": 1.86,
+        "Central Africa": 2.4,
+        "Central America": 1.24,
+        "Central Asia": 1.57,
+        "Central US": 3.81,
+        "EMEA": 0.76,
+        "East": 2.69,
+        "Eastern Africa": 1.97,
+        "Eastern Asia": 2.41,
+        "Eastern Europe": 2.65,
+        "Eastern US": 2.74,
+        "North": 1.5,
+        "North Africa": 2.16,
+        "North Asia": 2.41,
+        "Northern Europe": 1.25,
+        "Oceania": 1.3,
+        "South": 1.88,
+        "South America": 0.66,
+        "Southeast Asia": -1.04,
+        "Southeastern Asia": -1.04,
+        "Southern Africa": 3.0,
+        "Southern Asia": 1.85,
+        "Southern Europe": 2.27,
+        "Southern US": 4.82,
+        "West": 4.8,
+        "Western Africa": -1.83,
+        "Western Asia": -0.89,
+        "Western Europe": 1.98,
+        "Western US": 4.84
+    },
+    "region_profit_margin": {
+        "Africa": 0.16,
+        "Canada": 0.31,
+        "Caribbean": 0.17,
+        "Central": 0.24,
+        "Central Africa": 0.25,
+        "Central America": 0.2,
+        "Central Asia": 0.18,
+        "Central US": 0.44,
+        "EMEA": 0.1,
+        "East": 0.43,
+        "Eastern Africa": 0.22,
+        "Eastern Asia": 0.25,
+        "Eastern Europe": 0.27,
+        "Eastern US": 0.43,
+        "North": 0.2,
+        "North Africa": 0.22,
+        "North Asia": 0.25,
+        "Northern Europe": 0.15,
+        "Oceania": 0.15,
+        "South": 0.25,
+        "South America": 0.12,
+        "Southeast Asia": -0.17,
+        "Southeastern Asia": -0.17,
+        "Southern Africa": 0.28,
+        "Southern Asia": 0.2,
+        "Southern Europe": 0.24,
+        "Southern US": 0.44,
+        "West": 0.45,
+        "Western Africa": -0.31,
+        "Western Asia": -0.14,
+        "Western Europe": 0.22,
+        "Western US": 0.45
+    },
+    "market_distribution": {
+        "LATAM": [
+            1224,
+            0.24
+        ],
+        "Asia Pacific": [
+            851,
+            0.16
+        ],
+        "APAC": [
+            715,
+            0.14
+        ],
+        "Europe": [
+            531,
+            0.1
+        ],
+        "EU": [
+            454,
+            0.09
+        ],
+        "Africa": [
+            446,
+            0.09
+        ],
+        "USCA": [
+            384,
+            0.07
+        ],
+        "US": [
+            364,
+            0.07
+        ],
+        "EMEA": [
+            213,
+            0.04
+        ],
+        "Canada": [
+            25,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.87,
+        "Africa": 2.49,
+        "Asia Pacific": 3.61,
+        "Canada": 1.96,
+        "EMEA": 2.4,
+        "EU": 3.81,
+        "Europe": 3.65,
+        "LATAM": 3.77,
+        "US": 3.85,
+        "USCA": 3.72
+    },
+    "market_sales": {
+        "APAC": 31.22,
+        "Africa": 21.88,
+        "Asia Pacific": 28.68,
+        "Canada": 16.87,
+        "EMEA": 19.22,
+        "EU": 34.46,
+        "Europe": 33.25,
+        "LATAM": 22.15,
+        "US": 34.3,
+        "USCA": 33.47
+    },
+    "market_unit_price": {
+        "APAC": 8.07,
+        "Africa": 8.78,
+        "Asia Pacific": 7.95,
+        "Canada": 8.61,
+        "EMEA": 8.01,
+        "EU": 9.04,
+        "Europe": 9.12,
+        "LATAM": 5.87,
+        "US": 8.92,
+        "USCA": 9.0
+    },
+    "market_discount": {
+        "APAC": 0.18,
+        "Africa": 0.13,
+        "Asia Pacific": 0.2,
+        "Canada": 0.0,
+        "EMEA": 0.2,
+        "EU": 0.06,
+        "Europe": 0.05,
+        "LATAM": 0.1,
+        "US": 0.07,
+        "USCA": 0.06
+    },
+    "market_profit": {
+        "APAC": 0.9,
+        "Africa": 1.41,
+        "Asia Pacific": 0.77,
+        "Canada": 2.64,
+        "EMEA": 0.76,
+        "EU": 1.9,
+        "Europe": 1.96,
+        "LATAM": 1.03,
+        "US": 3.96,
+        "USCA": 3.96
+    },
+    "market_profit_margin": {
+        "APAC": 0.11,
+        "Africa": 0.16,
+        "Asia Pacific": 0.1,
+        "Canada": 0.31,
+        "EMEA": 0.1,
+        "EU": 0.21,
+        "Europe": 0.21,
+        "LATAM": 0.18,
+        "US": 0.44,
+        "USCA": 0.44
+    },
+    "country_distribution": {
+        "United States": [
+            723,
+            0.14
+        ],
+        "Australia": [
+            398,
+            0.08
+        ],
+        "Mexico": [
+            318,
+            0.06
+        ],
+        "France": [
+            278,
+            0.05
+        ],
+        "China": [
+            244,
+            0.05
+        ],
+        "Germany": [
+            194,
+            0.04
+        ],
+        "India": [
+            188,
+            0.04
+        ],
+        "Indonesia": [
+            188,
+            0.04
+        ],
+        "Brazil": [
+            186,
+            0.04
+        ],
+        "United Kingdom": [
+            140,
+            0.03
+        ],
+        "Turkey": [
+            114,
+            0.02
+        ],
+        "Italy": [
+            112,
+            0.02
+        ],
+        "El Salvador": [
+            96,
+            0.02
+        ],
+        "Cuba": [
+            94,
+            0.02
+        ],
+        "Dominican Republic": [
+            88,
+            0.02
+        ],
+        "Nicaragua": [
+            86,
+            0.02
+        ],
+        "Philippines": [
+            78,
+            0.01
+        ],
+        "Honduras": [
+            78,
+            0.01
+        ],
+        "Nigeria": [
+            72,
+            0.01
+        ],
+        "New Zealand": [
+            68,
+            0.01
+        ],
+        "Guatemala": [
+            64,
+            0.01
+        ],
+        "Spain": [
+            60,
+            0.01
+        ],
+        "Iran": [
+            54,
+            0.01
+        ],
+        "Panama": [
+            52,
+            0.01
+        ],
+        "South Africa": [
+            50,
+            0.01
+        ],
+        "Canada": [
+            50,
+            0.01
+        ],
+        "Egypt": [
+            48,
+            0.01
+        ],
+        "Argentina": [
+            44,
+            0.01
+        ],
+        "Thailand": [
+            44,
+            0.01
+        ],
+        "Ukraine": [
+            42,
+            0.01
+        ],
+        "Netherlands": [
+            40,
+            0.01
+        ],
+        "Morocco": [
+            40,
+            0.01
+        ],
+        "Vietnam": [
+            38,
+            0.01
+        ],
+        "Russia": [
+            36,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            34,
+            0.01
+        ],
+        "Pakistan": [
+            32,
+            0.01
+        ],
+        "Austria": [
+            30,
+            0.01
+        ],
+        "Japan": [
+            30,
+            0.01
+        ],
+        "Saudi Arabia": [
+            28,
+            0.01
+        ],
+        "Colombia": [
+            26,
+            0.0
+        ],
+        "Tanzania": [
+            26,
+            0.0
+        ],
+        "Singapore": [
+            24,
+            0.0
+        ],
+        "Peru": [
+            22,
+            0.0
+        ],
+        "Iraq": [
+            22,
+            0.0
+        ],
+        "Bangladesh": [
+            22,
+            0.0
+        ],
+        "South Korea": [
+            22,
+            0.0
+        ],
+        "Poland": [
+            20,
+            0.0
+        ],
+        "Angola": [
+            18,
+            0.0
+        ],
+        "Chile": [
+            18,
+            0.0
+        ],
+        "Sweden": [
+            16,
+            0.0
+        ],
+        "Kazakhstan": [
+            16,
+            0.0
+        ],
+        "Cameroon": [
+            16,
+            0.0
+        ],
+        "Mozambique": [
+            16,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            14,
+            0.0
+        ],
+        "Norway": [
+            14,
+            0.0
+        ],
+        "Algeria": [
+            14,
+            0.0
+        ],
+        "Czech Republic": [
+            12,
+            0.0
+        ],
+        "Malaysia": [
+            12,
+            0.0
+        ],
+        "Ecuador": [
+            12,
+            0.0
+        ],
+        "Somalia": [
+            12,
+            0.0
+        ],
+        "Zambia": [
+            12,
+            0.0
+        ],
+        "Ghana": [
+            12,
+            0.0
+        ],
+        "Venezuela": [
+            10,
+            0.0
+        ],
+        "Sudan": [
+            10,
+            0.0
+        ],
+        "Zimbabwe": [
+            8,
+            0.0
+        ],
+        "Madagascar": [
+            8,
+            0.0
+        ],
+        "Togo": [
+            8,
+            0.0
+        ],
+        "Cambodia": [
+            8,
+            0.0
+        ],
+        "Ireland": [
+            8,
+            0.0
+        ],
+        "Belgium": [
+            8,
+            0.0
+        ],
+        "Kyrgyzstan": [
+            8,
+            0.0
+        ],
+        "Hungary": [
+            8,
+            0.0
+        ],
+        "Bulgaria": [
+            6,
+            0.0
+        ],
+        "Uzbekistan": [
+            6,
+            0.0
+        ],
+        "Romania": [
+            6,
+            0.0
+        ],
+        "Uruguay": [
+            6,
+            0.0
+        ],
+        "Libya": [
+            6,
+            0.0
+        ],
+        "Afghanistan": [
+            6,
+            0.0
+        ],
+        "Switzerland": [
+            6,
+            0.0
+        ],
+        "Benin": [
+            6,
+            0.0
+        ],
+        "Haiti": [
+            6,
+            0.0
+        ],
+        "Jamaica": [
+            6,
+            0.0
+        ],
+        "Israel": [
+            6,
+            0.0
+        ],
+        "Senegal": [
+            6,
+            0.0
+        ],
+        "Martinique": [
+            6,
+            0.0
+        ],
+        "Georgia": [
+            4,
+            0.0
+        ],
+        "Kenya": [
+            4,
+            0.0
+        ],
+        "Denmark": [
+            4,
+            0.0
+        ],
+        "Papua New Guinea": [
+            4,
+            0.0
+        ],
+        "Moldova": [
+            4,
+            0.0
+        ],
+        "Belarus": [
+            4,
+            0.0
+        ],
+        "Mongolia": [
+            4,
+            0.0
+        ],
+        "Finland": [
+            4,
+            0.0
+        ],
+        "Jordan": [
+            4,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            3,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            3,
+            0.0
+        ],
+        "Croatia": [
+            2,
+            0.0
+        ],
+        "Slovenia": [
+            2,
+            0.0
+        ],
+        "Lebanon": [
+            2,
+            0.0
+        ],
+        "Sri Lanka": [
+            2,
+            0.0
+        ],
+        "Taiwan": [
+            2,
+            0.0
+        ],
+        "Nepal": [
+            2,
+            0.0
+        ],
+        "Barbados": [
+            2,
+            0.0
+        ],
+        "Mali": [
+            2,
+            0.0
+        ],
+        "Rwanda": [
+            2,
+            0.0
+        ],
+        "Niger": [
+            2,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            2,
+            0.0
+        ],
+        "Azerbaijan": [
+            2,
+            0.0
+        ],
+        "Hong Kong": [
+            2,
+            0.0
+        ],
+        "Albania": [
+            2,
+            0.0
+        ],
+        "Guinea-Bissau": [
+            2,
+            0.0
+        ],
+        "Guinea": [
+            2,
+            0.0
+        ],
+        "Bolivia": [
+            2,
+            0.0
+        ],
+        "Equatorial Guinea": [
+            2,
+            0.0
+        ],
+        "United Arab Emirates": [
+            2,
+            0.0
+        ],
+        "Lithuania": [
+            2,
+            0.0
+        ],
+        "Liberia": [
+            2,
+            0.0
+        ],
+        "Estonia": [
+            2,
+            0.0
+        ],
+        "Tajikistan": [
+            2,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 3.67,
+        "Albania": 1.0,
+        "Algeria": 2.29,
+        "Angola": 5.89,
+        "Argentina": 3.41,
+        "Australia": 3.86,
+        "Austria": 3.47,
+        "Azerbaijan": 2.0,
+        "Bangladesh": 4.36,
+        "Barbados": 3.0,
+        "Belarus": 2.5,
+        "Belgium": 4.75,
+        "Benin": 2.67,
+        "Bolivia": 2.0,
+        "Brazil": 3.96,
+        "Bulgaria": 1.33,
+        "Cambodia": 3.25,
+        "Cameroon": 1.38,
+        "Canada": 1.96,
+        "Chile": 4.44,
+        "China": 3.63,
+        "Colombia": 3.85,
+        "Cote d'Ivoire": 3.33,
+        "Croatia": 12.0,
+        "Cuba": 3.64,
+        "Czech Republic": 2.17,
+        "C\u00f4te-d'Ivoire": 3.33,
+        "Democratic Republic of the Congo": 2.76,
+        "Denmark": 3.0,
+        "Dominican Republic": 3.95,
+        "Ecuador": 3.33,
+        "Egypt": 3.42,
+        "El Salvador": 3.73,
+        "Equatorial Guinea": 1.0,
+        "Estonia": 1.0,
+        "Finland": 2.0,
+        "France": 3.44,
+        "Georgia": 7.0,
+        "Germany": 3.75,
+        "Ghana": 1.5,
+        "Guatemala": 3.91,
+        "Guinea": 1.0,
+        "Guinea-Bissau": 1.0,
+        "Haiti": 3.33,
+        "Honduras": 3.72,
+        "Hong Kong": 1.0,
+        "Hungary": 2.25,
+        "India": 4.02,
+        "Indonesia": 4.18,
+        "Iran": 2.07,
+        "Iraq": 2.0,
+        "Ireland": 3.5,
+        "Israel": 2.33,
+        "Italy": 4.04,
+        "Jamaica": 3.33,
+        "Japan": 3.13,
+        "Jordan": 1.5,
+        "Kazakhstan": 2.38,
+        "Kenya": 4.0,
+        "Kyrgyzstan": 3.0,
+        "Lebanon": 4.0,
+        "Liberia": 1.0,
+        "Libya": 2.0,
+        "Lithuania": 4.0,
+        "Madagascar": 3.25,
+        "Malaysia": 4.5,
+        "Mali": 2.0,
+        "Martinique": 4.67,
+        "Mexico": 3.69,
+        "Moldova": 1.0,
+        "Mongolia": 5.5,
+        "Morocco": 1.85,
+        "Mozambique": 2.12,
+        "Myanmar (Burma)": 3.43,
+        "Nepal": 5.0,
+        "Netherlands": 4.6,
+        "New Zealand": 3.5,
+        "Nicaragua": 3.77,
+        "Niger": 1.0,
+        "Nigeria": 1.89,
+        "Norway": 3.14,
+        "Pakistan": 2.88,
+        "Panama": 3.69,
+        "Papua New Guinea": 3.0,
+        "Peru": 3.91,
+        "Philippines": 3.95,
+        "Poland": 2.3,
+        "Romania": 2.0,
+        "Russia": 1.78,
+        "Rwanda": 2.0,
+        "Saudi Arabia": 2.86,
+        "Senegal": 1.33,
+        "Singapore": 4.75,
+        "Slovenia": 12.0,
+        "Somalia": 1.5,
+        "South Africa": 2.32,
+        "South Korea": 3.45,
+        "Spain": 4.27,
+        "Sri Lanka": 8.0,
+        "Sudan": 2.4,
+        "Sweden": 3.38,
+        "Switzerland": 4.0,
+        "Taiwan": 2.0,
+        "Tajikistan": 1.0,
+        "Tanzania": 3.0,
+        "Thailand": 4.32,
+        "Togo": 3.0,
+        "Trinidad and Tobago": 2.0,
+        "Turkey": 2.05,
+        "Ukraine": 3.81,
+        "United Arab Emirates": 2.0,
+        "United Kingdom": 4.13,
+        "United States": 3.84,
+        "Uruguay": 3.67,
+        "Uzbekistan": 1.0,
+        "Venezuela": 4.4,
+        "Vietnam": 3.95,
+        "Zambia": 3.5,
+        "Zimbabwe": 1.75
+    },
+    "country_sales": {
+        "Afghanistan": 39.64,
+        "Albania": 11.28,
+        "Algeria": 20.92,
+        "Angola": 57.71,
+        "Argentina": 12.86,
+        "Australia": 32.72,
+        "Austria": 31.44,
+        "Azerbaijan": 13.32,
+        "Bangladesh": 43.71,
+        "Barbados": 15.06,
+        "Belarus": 18.34,
+        "Belgium": 41.3,
+        "Benin": 26.82,
+        "Bolivia": 8.72,
+        "Brazil": 22.16,
+        "Bulgaria": 11.85,
+        "Cambodia": 26.62,
+        "Cameroon": 12.61,
+        "Canada": 16.87,
+        "Chile": 30.12,
+        "China": 36.62,
+        "Colombia": 27.38,
+        "Cote d'Ivoire": 34.76,
+        "Croatia": 79.92,
+        "Cuba": 22.48,
+        "Czech Republic": 22.55,
+        "C\u00f4te-d'Ivoire": 34.76,
+        "Democratic Republic of the Congo": 25.52,
+        "Denmark": 13.88,
+        "Dominican Republic": 20.98,
+        "Ecuador": 21.74,
+        "Egypt": 31.92,
+        "El Salvador": 24.99,
+        "Equatorial Guinea": 6.48,
+        "Estonia": 12.72,
+        "Finland": 15.42,
+        "France": 33.11,
+        "Georgia": 46.98,
+        "Germany": 35.64,
+        "Ghana": 15.18,
+        "Guatemala": 26.2,
+        "Guinea": 10.74,
+        "Guinea-Bissau": 11.43,
+        "Haiti": 12.46,
+        "Honduras": 15.54,
+        "Hong Kong": 11.85,
+        "Hungary": 23.74,
+        "India": 38.01,
+        "Indonesia": 21.77,
+        "Iran": 19.75,
+        "Iraq": 20.4,
+        "Ireland": 19.87,
+        "Israel": 22.21,
+        "Italy": 38.06,
+        "Jamaica": 20.57,
+        "Japan": 30.4,
+        "Jordan": 12.66,
+        "Kazakhstan": 7.2,
+        "Kenya": 44.34,
+        "Kyrgyzstan": 32.18,
+        "Lebanon": 43.92,
+        "Liberia": 10.26,
+        "Libya": 23.61,
+        "Lithuania": 12.78,
+        "Madagascar": 27.77,
+        "Malaysia": 45.88,
+        "Mali": 21.72,
+        "Martinique": 29.11,
+        "Mexico": 24.38,
+        "Moldova": 6.48,
+        "Mongolia": 30.86,
+        "Morocco": 18.62,
+        "Mozambique": 19.64,
+        "Myanmar (Burma)": 29.22,
+        "Nepal": 52.35,
+        "Netherlands": 20.17,
+        "New Zealand": 29.63,
+        "Nicaragua": 24.45,
+        "Niger": 8.55,
+        "Nigeria": 5.87,
+        "Norway": 34.44,
+        "Pakistan": 15.05,
+        "Panama": 13.4,
+        "Papua New Guinea": 16.32,
+        "Peru": 16.41,
+        "Philippines": 21.45,
+        "Poland": 24.45,
+        "Romania": 18.42,
+        "Russia": 17.86,
+        "Rwanda": 20.34,
+        "Saudi Arabia": 27.41,
+        "Senegal": 11.21,
+        "Singapore": 42.27,
+        "Slovenia": 136.08,
+        "Somalia": 12.32,
+        "South Africa": 24.93,
+        "South Korea": 15.03,
+        "Spain": 41.46,
+        "Sri Lanka": 53.04,
+        "Sudan": 25.68,
+        "Sweden": 17.23,
+        "Switzerland": 27.27,
+        "Taiwan": 23.7,
+        "Tajikistan": 3.02,
+        "Tanzania": 29.9,
+        "Thailand": 21.98,
+        "Togo": 28.84,
+        "Trinidad and Tobago": 16.0,
+        "Turkey": 7.89,
+        "Ukraine": 37.81,
+        "United Arab Emirates": 6.43,
+        "United Kingdom": 37.14,
+        "United States": 34.47,
+        "Uruguay": 22.41,
+        "Uzbekistan": 9.84,
+        "Venezuela": 16.08,
+        "Vietnam": 33.03,
+        "Zambia": 24.94,
+        "Zimbabwe": 5.96
+    },
+    "country_unit_price": {
+        "Afghanistan": 10.81,
+        "Albania": 11.28,
+        "Algeria": 9.15,
+        "Angola": 9.8,
+        "Argentina": 3.77,
+        "Australia": 8.48,
+        "Austria": 9.07,
+        "Azerbaijan": 6.66,
+        "Bangladesh": 10.02,
+        "Barbados": 5.02,
+        "Belarus": 7.34,
+        "Belgium": 8.7,
+        "Benin": 10.06,
+        "Bolivia": 4.36,
+        "Brazil": 5.6,
+        "Bulgaria": 8.89,
+        "Cambodia": 8.19,
+        "Cameroon": 9.17,
+        "Canada": 8.61,
+        "Chile": 6.78,
+        "China": 10.09,
+        "Colombia": 7.12,
+        "Cote d'Ivoire": 10.43,
+        "Croatia": 6.66,
+        "Cuba": 6.18,
+        "Czech Republic": 10.41,
+        "C\u00f4te-d'Ivoire": 10.43,
+        "Democratic Republic of the Congo": 9.23,
+        "Denmark": 4.63,
+        "Dominican Republic": 5.31,
+        "Ecuador": 6.52,
+        "Egypt": 9.34,
+        "El Salvador": 6.7,
+        "Equatorial Guinea": 6.48,
+        "Estonia": 12.72,
+        "Finland": 7.71,
+        "France": 9.63,
+        "Georgia": 6.71,
+        "Germany": 9.5,
+        "Ghana": 10.12,
+        "Guatemala": 6.71,
+        "Guinea": 10.74,
+        "Guinea-Bissau": 11.43,
+        "Haiti": 3.74,
+        "Honduras": 4.18,
+        "Hong Kong": 11.85,
+        "Hungary": 10.55,
+        "India": 9.45,
+        "Indonesia": 5.21,
+        "Iran": 9.52,
+        "Iraq": 10.2,
+        "Ireland": 5.68,
+        "Israel": 9.52,
+        "Italy": 9.43,
+        "Jamaica": 6.17,
+        "Japan": 9.7,
+        "Jordan": 8.44,
+        "Kazakhstan": 3.03,
+        "Kenya": 11.08,
+        "Kyrgyzstan": 10.73,
+        "Lebanon": 10.98,
+        "Liberia": 10.26,
+        "Libya": 11.8,
+        "Lithuania": 3.2,
+        "Madagascar": 8.55,
+        "Malaysia": 10.2,
+        "Mali": 10.86,
+        "Martinique": 6.24,
+        "Mexico": 6.6,
+        "Moldova": 6.48,
+        "Mongolia": 5.61,
+        "Morocco": 10.06,
+        "Mozambique": 9.24,
+        "Myanmar (Burma)": 8.52,
+        "Nepal": 10.47,
+        "Netherlands": 4.38,
+        "New Zealand": 8.47,
+        "Nicaragua": 6.49,
+        "Niger": 8.55,
+        "Nigeria": 3.11,
+        "Norway": 10.96,
+        "Pakistan": 5.23,
+        "Panama": 3.63,
+        "Papua New Guinea": 5.44,
+        "Peru": 4.2,
+        "Philippines": 5.43,
+        "Poland": 10.63,
+        "Romania": 9.21,
+        "Russia": 10.05,
+        "Rwanda": 10.17,
+        "Saudi Arabia": 9.59,
+        "Senegal": 8.41,
+        "Singapore": 8.9,
+        "Slovenia": 11.34,
+        "Somalia": 8.22,
+        "South Africa": 10.75,
+        "South Korea": 4.35,
+        "Spain": 9.72,
+        "Sri Lanka": 6.63,
+        "Sudan": 10.7,
+        "Sweden": 5.11,
+        "Switzerland": 6.82,
+        "Taiwan": 11.85,
+        "Tajikistan": 3.02,
+        "Tanzania": 9.97,
+        "Thailand": 5.09,
+        "Togo": 9.61,
+        "Trinidad and Tobago": 8.0,
+        "Turkey": 3.84,
+        "Ukraine": 9.93,
+        "United Arab Emirates": 3.21,
+        "United Kingdom": 9.0,
+        "United States": 8.97,
+        "Uruguay": 6.11,
+        "Uzbekistan": 9.84,
+        "Venezuela": 3.66,
+        "Vietnam": 8.37,
+        "Zambia": 7.13,
+        "Zimbabwe": 3.41
+    },
+    "country_profit": {
+        "Afghanistan": 3.75,
+        "Albania": 2.01,
+        "Algeria": 2.28,
+        "Angola": 2.44,
+        "Argentina": -0.78,
+        "Australia": 1.37,
+        "Austria": 2.07,
+        "Azerbaijan": 3.12,
+        "Bangladesh": 3.65,
+        "Barbados": 2.3,
+        "Belarus": 0.97,
+        "Belgium": 1.05,
+        "Benin": 1.18,
+        "Bolivia": 1.52,
+        "Brazil": 0.87,
+        "Bulgaria": 2.62,
+        "Cambodia": 1.45,
+        "Cameroon": 1.97,
+        "Canada": 2.64,
+        "Chile": 1.35,
+        "China": 2.71,
+        "Colombia": 2.17,
+        "Cote d'Ivoire": 1.59,
+        "Croatia": 3.12,
+        "Cuba": 1.71,
+        "Czech Republic": 2.79,
+        "C\u00f4te-d'Ivoire": 1.59,
+        "Democratic Republic of the Congo": 2.5,
+        "Denmark": -1.66,
+        "Dominican Republic": 0.28,
+        "Ecuador": 2.28,
+        "Egypt": 1.78,
+        "El Salvador": 1.96,
+        "Equatorial Guinea": 0.06,
+        "Estonia": 6.36,
+        "Finland": 1.52,
+        "France": 2.52,
+        "Georgia": 2.18,
+        "Germany": 2.31,
+        "Ghana": 3.22,
+        "Guatemala": 1.87,
+        "Guinea": 4.29,
+        "Guinea-Bissau": 2.73,
+        "Haiti": -0.86,
+        "Honduras": -0.9,
+        "Hong Kong": 5.55,
+        "Hungary": 1.57,
+        "India": 2.1,
+        "Indonesia": -1.89,
+        "Iran": 2.2,
+        "Iraq": 3.19,
+        "Ireland": -3.04,
+        "Israel": 1.23,
+        "Italy": 2.15,
+        "Jamaica": 1.31,
+        "Japan": 3.69,
+        "Jordan": 2.97,
+        "Kazakhstan": -4.0,
+        "Kenya": 1.22,
+        "Kyrgyzstan": 1.02,
+        "Lebanon": 4.83,
+        "Liberia": 0.18,
+        "Libya": 3.11,
+        "Lithuania": -6.94,
+        "Madagascar": 2.28,
+        "Malaysia": 2.77,
+        "Mali": 1.95,
+        "Martinique": 0.63,
+        "Mexico": 1.61,
+        "Moldova": 0.84,
+        "Mongolia": -0.77,
+        "Morocco": 2.65,
+        "Mozambique": 2.68,
+        "Myanmar (Burma)": 0.78,
+        "Nepal": 1.56,
+        "Netherlands": -1.81,
+        "New Zealand": 1.08,
+        "Nicaragua": 1.79,
+        "Niger": 1.11,
+        "Nigeria": -4.59,
+        "Norway": 3.67,
+        "Pakistan": -2.71,
+        "Panama": -0.88,
+        "Papua New Guinea": -4.08,
+        "Peru": -1.43,
+        "Philippines": -1.53,
+        "Poland": 1.8,
+        "Romania": 3.86,
+        "Russia": 3.06,
+        "Rwanda": 4.56,
+        "Saudi Arabia": 2.5,
+        "Senegal": 2.25,
+        "Singapore": 1.67,
+        "Slovenia": 1.68,
+        "Somalia": 2.41,
+        "South Africa": 3.0,
+        "South Korea": -1.9,
+        "Spain": 2.47,
+        "Sri Lanka": 0.57,
+        "Sudan": 2.6,
+        "Sweden": -2.72,
+        "Switzerland": 0.68,
+        "Taiwan": 4.74,
+        "Tajikistan": -3.85,
+        "Tanzania": 2.56,
+        "Thailand": -1.86,
+        "Togo": 1.83,
+        "Trinidad and Tobago": 2.48,
+        "Turkey": -3.59,
+        "Ukraine": 2.88,
+        "United Arab Emirates": -5.79,
+        "United Kingdom": 1.8,
+        "United States": 3.98,
+        "Uruguay": 0.99,
+        "Uzbekistan": 2.63,
+        "Venezuela": -0.37,
+        "Vietnam": 1.01,
+        "Zambia": 2.01,
+        "Zimbabwe": -4.25
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.35,
+        "Albania": 0.18,
+        "Algeria": 0.25,
+        "Angola": 0.25,
+        "Argentina": -0.21,
+        "Australia": 0.16,
+        "Austria": 0.23,
+        "Azerbaijan": 0.47,
+        "Bangladesh": 0.36,
+        "Barbados": 0.46,
+        "Belarus": 0.13,
+        "Belgium": 0.12,
+        "Benin": 0.12,
+        "Bolivia": 0.35,
+        "Brazil": 0.16,
+        "Bulgaria": 0.3,
+        "Cambodia": 0.18,
+        "Cameroon": 0.21,
+        "Canada": 0.31,
+        "Chile": 0.2,
+        "China": 0.27,
+        "Colombia": 0.31,
+        "Cote d'Ivoire": 0.15,
+        "Croatia": 0.47,
+        "Cuba": 0.28,
+        "Czech Republic": 0.27,
+        "C\u00f4te-d'Ivoire": 0.15,
+        "Democratic Republic of the Congo": 0.27,
+        "Denmark": -0.36,
+        "Dominican Republic": 0.05,
+        "Ecuador": 0.35,
+        "Egypt": 0.19,
+        "El Salvador": 0.29,
+        "Equatorial Guinea": 0.01,
+        "Estonia": 0.5,
+        "Finland": 0.2,
+        "France": 0.26,
+        "Georgia": 0.33,
+        "Germany": 0.24,
+        "Ghana": 0.32,
+        "Guatemala": 0.28,
+        "Guinea": 0.4,
+        "Guinea-Bissau": 0.24,
+        "Haiti": -0.23,
+        "Honduras": -0.22,
+        "Hong Kong": 0.47,
+        "Hungary": 0.15,
+        "India": 0.22,
+        "Indonesia": -0.36,
+        "Iran": 0.23,
+        "Iraq": 0.31,
+        "Ireland": -0.54,
+        "Israel": 0.13,
+        "Italy": 0.23,
+        "Jamaica": 0.21,
+        "Japan": 0.38,
+        "Jordan": 0.35,
+        "Kazakhstan": -1.32,
+        "Kenya": 0.11,
+        "Kyrgyzstan": 0.1,
+        "Lebanon": 0.44,
+        "Liberia": 0.02,
+        "Libya": 0.26,
+        "Lithuania": -2.17,
+        "Madagascar": 0.27,
+        "Malaysia": 0.27,
+        "Mali": 0.18,
+        "Martinique": 0.1,
+        "Mexico": 0.24,
+        "Moldova": 0.13,
+        "Mongolia": -0.14,
+        "Morocco": 0.26,
+        "Mozambique": 0.29,
+        "Myanmar (Burma)": 0.09,
+        "Nepal": 0.15,
+        "Netherlands": -0.41,
+        "New Zealand": 0.13,
+        "Nicaragua": 0.28,
+        "Niger": 0.13,
+        "Nigeria": -1.48,
+        "Norway": 0.34,
+        "Pakistan": -0.52,
+        "Panama": -0.24,
+        "Papua New Guinea": -0.75,
+        "Peru": -0.34,
+        "Philippines": -0.28,
+        "Poland": 0.17,
+        "Romania": 0.42,
+        "Russia": 0.3,
+        "Rwanda": 0.45,
+        "Saudi Arabia": 0.26,
+        "Senegal": 0.27,
+        "Singapore": 0.19,
+        "Slovenia": 0.15,
+        "Somalia": 0.29,
+        "South Africa": 0.28,
+        "South Korea": -0.44,
+        "Spain": 0.25,
+        "Sri Lanka": 0.09,
+        "Sudan": 0.24,
+        "Sweden": -0.53,
+        "Switzerland": 0.1,
+        "Taiwan": 0.4,
+        "Tajikistan": -1.27,
+        "Tanzania": 0.26,
+        "Thailand": -0.36,
+        "Togo": 0.19,
+        "Trinidad and Tobago": 0.31,
+        "Turkey": -0.93,
+        "Ukraine": 0.29,
+        "United Arab Emirates": -1.8,
+        "United Kingdom": 0.2,
+        "United States": 0.44,
+        "Uruguay": 0.16,
+        "Uzbekistan": 0.27,
+        "Venezuela": -0.1,
+        "Vietnam": 0.12,
+        "Zambia": 0.28,
+        "Zimbabwe": -1.25
+    },
+    "top_10_states": {
+        "California": [
+            164,
+            0.03
+        ],
+        "England": [
+            130,
+            0.02
+        ],
+        "Queensland": [
+            120,
+            0.02
+        ],
+        "Ile-de-France": [
+            92,
+            0.02
+        ],
+        "New York": [
+            89,
+            0.02
+        ],
+        "New South Wales": [
+            86,
+            0.02
+        ],
+        "San Salvador": [
+            82,
+            0.02
+        ],
+        "Victoria": [
+            72,
+            0.01
+        ],
+        "North Rhine-Westphalia": [
+            68,
+            0.01
+        ],
+        "Distrito Federal": [
+            62,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        164,
+        130,
+        120,
+        92,
+        89,
+        86,
+        82,
+        72,
+        68,
+        62
+    ],
+    "top_10_cities": {
+        "New York City": [
+            72,
+            0.01
+        ],
+        "Managua": [
+            52,
+            0.01
+        ],
+        "Los Angeles": [
+            50,
+            0.01
+        ],
+        "Jakarta": [
+            44,
+            0.01
+        ],
+        "Mexico City": [
+            42,
+            0.01
+        ],
+        "Manila": [
+            42,
+            0.01
+        ],
+        "San Francisco": [
+            42,
+            0.01
+        ],
+        "Philadelphia": [
+            41,
+            0.01
+        ],
+        "Bangkok": [
+            40,
+            0.01
+        ],
+        "Santo Domingo": [
+            40,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        72,
+        52,
+        50,
+        44,
+        42,
+        42,
+        42,
+        41,
+        40,
+        40
+    ],
+    "yearly_sales": {
+        "2011": 13616.4576,
+        "2012": 15518.2708,
+        "2013": 18380.7895,
+        "2014": 39459.8857,
+        "2015": 15518.2708,
+        "2016": 18372.1195,
+        "2017": 25888.5121
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 716.0017,
+            "2012": 746.0151999999999,
+            "2013": 609.7189999999999,
+            "2014": 2218.0283,
+            "2015": 746.0152,
+            "2016": 609.719,
+            "2017": 1541.7066
+        },
+        "August": {
+            "2011": 1137.8154,
+            "2012": 1686.5261,
+            "2013": 2210.7005,
+            "2014": 4323.5778,
+            "2015": 1686.5261,
+            "2016": 2210.7005,
+            "2017": 3188.5164
+        },
+        "December": {
+            "2011": 2190.4174,
+            "2012": 1639.8647,
+            "2013": 1590.271,
+            "2014": 4557.1814,
+            "2015": 1639.8647,
+            "2016": 1590.271,
+            "2017": 2555.784
+        },
+        "February": {
+            "2011": 375.37440000000004,
+            "2012": 645.723,
+            "2013": 676.785,
+            "2014": 1203.167,
+            "2015": 645.723,
+            "2016": 668.115,
+            "2017": 809.6486
+        },
+        "January": {
+            "2011": 645.9265,
+            "2012": 590.695,
+            "2013": 1030.4445,
+            "2014": 2088.6651,
+            "2015": 590.6949999999999,
+            "2016": 1030.4445,
+            "2017": 1442.7386
+        },
+        "July": {
+            "2011": 830.6075999999999,
+            "2012": 711.0346,
+            "2013": 1154.3915,
+            "2014": 3122.8664,
+            "2015": 711.0346000000001,
+            "2016": 1154.3915,
+            "2017": 2249.8448
+        },
+        "June": {
+            "2011": 1532.538,
+            "2012": 1128.6672,
+            "2013": 2784.5591,
+            "2014": 4616.4153,
+            "2015": 1128.6672,
+            "2016": 2784.5591,
+            "2017": 3083.8773
+        },
+        "March": {
+            "2011": 861.2814,
+            "2012": 1204.791,
+            "2013": 855.4114999999999,
+            "2014": 2125.33,
+            "2015": 1204.791,
+            "2016": 855.4115,
+            "2017": 1249.4486
+        },
+        "May": {
+            "2011": 536.2533,
+            "2012": 1810.2812000000001,
+            "2013": 1249.7252,
+            "2014": 2367.2389,
+            "2015": 1810.2812,
+            "2016": 1249.7252,
+            "2017": 1836.7656
+        },
+        "November": {
+            "2011": 1904.7574,
+            "2012": 1996.9605999999999,
+            "2013": 2603.5835,
+            "2014": 4632.0169,
+            "2015": 1996.9605999999999,
+            "2016": 2603.5835,
+            "2017": 2684.0275
+        },
+        "October": {
+            "2011": 1106.6215,
+            "2012": 1914.3326,
+            "2013": 1500.7327,
+            "2014": 3597.4393999999998,
+            "2015": 1914.3326,
+            "2016": 1500.7327,
+            "2017": 2356.5899
+        },
+        "September": {
+            "2011": 1778.863,
+            "2012": 1443.3796,
+            "2013": 2114.466,
+            "2014": 4607.9592,
+            "2015": 1443.3796,
+            "2016": 2114.466,
+            "2017": 2889.5642000000003
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Dot Matrix Printer Tape Reel Labels, White, 5000/Box": 6645.756,
+        "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White": 2466.824,
+        "Harbour Creations Removable Labels, Adjustable": 2378.208,
+        "Smead Removable Labels, Adjustable": 2345.796,
+        "Avery Shipping Labels, 5000 Label Set": 2208.6672,
+        "Avery Color Coded Labels, Laser Printer Compatible": 2123.4762,
+        "Novimex Removable Labels, Adjustable": 2021.9188,
+        "Avery Legal Exhibit Labels, 5000 Label Set": 1991.1284,
+        "Novimex Shipping Labels, 5000 Label Set": 1896.2885999999999,
+        "Hon Shipping Labels, Laser Printer Compatible": 1836.7856
+    },
+    "top_10_products_by_profit": {
+        "Dot Matrix Printer Tape Reel Labels, White, 5000/Box": 3035.8128,
+        "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White": 1049.0108,
+        "Novimex Shipping Labels, 5000 Label Set": 637.5286,
+        "Avery Legal Exhibit Labels, 5000 Label Set": 612.4084,
+        "Avery 485": 600.6881999999999,
+        "Smead Removable Labels, Adjustable": 548.596,
+        "Hon File Folder Labels, Alphabetical": 509.46200000000005,
+        "Harbour Creations Legal Exhibit Labels, Alphabetical": 490.808,
+        "Avery 477": 488.48,
+        "Alphabetical Labels for Top Tab Filing": 488.4
+    },
+    "top_10_products_by_turnover": {
+        "Smead Removable Labels, Adjustable": 312,
+        "Harbour Creations Removable Labels, Adjustable": 310,
+        "Novimex Removable Labels, Adjustable": 258,
+        "Avery Shipping Labels, 5000 Label Set": 242,
+        "Hon Removable Labels, Adjustable": 242,
+        "Avery Legal Exhibit Labels, 5000 Label Set": 238,
+        "Hon File Folder Labels, Alphabetical": 228,
+        "Hon Round Labels, Laser Printer Compatible": 224,
+        "Harbour Creations Legal Exhibit Labels, Laser Printer Compatible": 214,
+        "Hon Shipping Labels, Laser Printer Compatible": 212
+    },
+    "top_5_loss_products": {
+        "Smead Legal Exhibit Labels, 5000 Label Set": -300.906,
+        "Hon Removable Labels, Adjustable": -288.271,
+        "Hon Color Coded Labels, Alphabetical": -195.28439999999998,
+        "Harbour Creations Legal Exhibit Labels, Laser Printer Compatible": -187.11799999999997,
+        "Smead Legal Exhibit Labels, Laser Printer Compatible": -183.446
+    },
+    "product_performance": [
+        {
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 6645.756,
+            "total_quantity": 72,
+            "average_price": 415.35975,
+            "total_profit": 3035.8128,
+            "profit_margin": 0.45680473372781066
+        },
+        {
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 2466.824,
+            "total_quantity": 86,
+            "average_price": 112.12836363636364,
+            "total_profit": 1049.0108,
+            "profit_margin": 0.42524752475247524
+        },
+        {
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 2378.208,
+            "total_quantity": 310,
+            "average_price": 27.02509090909091,
+            "total_profit": 473.608,
+            "profit_margin": 0.1991449023802796
+        },
+        {
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 2345.796,
+            "total_quantity": 312,
+            "average_price": 27.926142857142857,
+            "total_profit": 548.596,
+            "profit_margin": 0.23386347320909406
+        },
+        {
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 2208.6672,
+            "total_quantity": 242,
+            "average_price": 42.47436923076923,
+            "total_profit": 338.3072,
+            "profit_margin": 0.1531725558291444
+        },
+        {
+            "Product Name": "Avery Color Coded Labels, Laser Printer Compatible",
+            "total_sales": 2123.4762,
+            "total_quantity": 192,
+            "average_price": 40.83608076923077,
+            "total_profit": 163.4362,
+            "profit_margin": 0.07696634414833564
+        },
+        {
+            "Product Name": "Novimex Removable Labels, Adjustable",
+            "total_sales": 2021.9188,
+            "total_quantity": 258,
+            "average_price": 30.635133333333332,
+            "total_profit": 235.9188,
+            "profit_margin": 0.11668065008347517
+        },
+        {
+            "Product Name": "Avery Legal Exhibit Labels, 5000 Label Set",
+            "total_sales": 1991.1284,
+            "total_quantity": 238,
+            "average_price": 39.822568000000004,
+            "total_profit": 612.4084,
+            "profit_margin": 0.30756851240733646
+        },
+        {
+            "Product Name": "Novimex Shipping Labels, 5000 Label Set",
+            "total_sales": 1896.2885999999999,
+            "total_quantity": 204,
+            "average_price": 33.862296428571426,
+            "total_profit": 637.5286,
+            "profit_margin": 0.33619808714770527
+        },
+        {
+            "Product Name": "Hon Shipping Labels, Laser Printer Compatible",
+            "total_sales": 1836.7856,
+            "total_quantity": 212,
+            "average_price": 34.014548148148144,
+            "total_profit": 388.80559999999997,
+            "profit_margin": 0.21167718213818748
+        },
+        {
+            "Product Name": "Hon Removable Labels, Adjustable",
+            "total_sales": 1703.895,
+            "total_quantity": 242,
+            "average_price": 23.665208333333332,
+            "total_profit": -124.785,
+            "profit_margin": -0.07323514653191658
+        },
+        {
+            "Product Name": "Harbour Creations Legal Exhibit Labels, Laser Printer Compatible",
+            "total_sales": 1693.162,
+            "total_quantity": 214,
+            "average_price": 31.35485185185185,
+            "total_profit": 161.52200000000005,
+            "profit_margin": 0.09539666021325782
+        },
+        {
+            "Product Name": "Smead Shipping Labels, Alphabetical",
+            "total_sales": 1632.8136,
+            "total_quantity": 174,
+            "average_price": 34.01695,
+            "total_profit": 423.2736,
+            "profit_margin": 0.2592295899544198
+        },
+        {
+            "Product Name": "Harbour Creations Color Coded Labels, Laser Printer Compatible",
+            "total_sales": 1610.608,
+            "total_quantity": 142,
+            "average_price": 40.2652,
+            "total_profit": 419.248,
+            "profit_margin": 0.26030418326495336
+        },
+        {
+            "Product Name": "Hon File Folder Labels, Alphabetical",
+            "total_sales": 1587.942,
+            "total_quantity": 228,
+            "average_price": 24.81159375,
+            "total_profit": 509.46200000000005,
+            "profit_margin": 0.320831617275694
+        },
+        {
+            "Product Name": "Smead Color Coded Labels, Alphabetical",
+            "total_sales": 1573.6578,
+            "total_quantity": 166,
+            "average_price": 35.76495,
+            "total_profit": 331.9378,
+            "profit_margin": 0.21093391460328922
+        },
+        {
+            "Product Name": "Avery Legal Exhibit Labels, Laser Printer Compatible",
+            "total_sales": 1566.2808,
+            "total_quantity": 174,
+            "average_price": 32.63085,
+            "total_profit": 22.160799999999995,
+            "profit_margin": 0.014148676278225459
+        },
+        {
+            "Product Name": "Hon Color Coded Labels, Laser Printer Compatible",
+            "total_sales": 1562.5638000000001,
+            "total_quantity": 162,
+            "average_price": 33.96877826086957,
+            "total_profit": 415.06379999999996,
+            "profit_margin": 0.2656299857964199
+        },
+        {
+            "Product Name": "Hon Legal Exhibit Labels, Alphabetical",
+            "total_sales": 1542.4768,
+            "total_quantity": 170,
+            "average_price": 40.5914947368421,
+            "total_profit": 222.99679999999998,
+            "profit_margin": 0.14457060229366173
+        },
+        {
+            "Product Name": "Harbour Creations File Folder Labels, Laser Printer Compatible",
+            "total_sales": 1479.6186,
+            "total_quantity": 196,
+            "average_price": 25.510665517241378,
+            "total_profit": 338.6386,
+            "profit_margin": 0.22886884498478188
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 45.1935,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 64.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.399999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 25.776,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 491.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 58.092,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 36.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 36.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 51.21,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 40.31999999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 24.424000000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 23.520000000000003,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 24.48,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 196.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 33.0,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 93.83999999999999,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 90.387,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 61.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 198.288,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 491.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 58.806,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 16.5,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 97.696,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 191.43359999999998,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 85.92,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 11.979,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 57.11999999999999,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 37.125,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 294.93,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 7.26,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 50.39999999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 24.424000000000003,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 8.25,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.399999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 427.42,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 16.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 65.34,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 92.412,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 79.6785,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 196.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 41.25,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 78.408,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 21.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 122.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 107.712,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 28.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 4.356000000000001,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 10.74,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.399999999999999,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 73.35900000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 43.56,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 102.35999999999999,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 3.3,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 48.848000000000006,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 629.1840000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 39.204,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 32.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 3.2220000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 10.89,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 16.5,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 45.1935,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 48.33,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 91.59,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 39.16799999999999,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 105.69,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 45.824,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 33.6,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 122.12000000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 12.24,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 25.776,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 44.49,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 97.92,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 491.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 111.792,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 36.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 786.48,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 32.22,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 36.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 24.48,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 83.69,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 67.32,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 235.944,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 89.88,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 177.074,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 48.96,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 53.275999999999996,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 82.116,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 81.6,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 196.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 187.1,
+            "total_quantity": 28
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 40.31999999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 61.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 36.72,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 127.64,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 83.49,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 90.387,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 61.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 198.288,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 491.55,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 58.806,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 16.5,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 97.696,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 191.43359999999998,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 85.92,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 11.979,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 57.12,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 37.125,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 294.93,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 7.26,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 50.4,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 24.424,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 8.25,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.4,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 427.42,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 16.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 65.34,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 92.412,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 79.6785,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 196.62,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 41.25,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 78.408,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 21.78,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 122.12,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 107.712,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 28.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 4.356,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 10.74,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 8.4,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 73.35900000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 43.56,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 14.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 102.36,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 3.3,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 48.848,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 629.184,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 39.204,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 32.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 3.222,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 10.89,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 16.5,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 48.33,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 91.59,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 39.168,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 41.25,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 45.824,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 25.2,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 122.12,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 12.24,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 44.49,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 97.92,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 53.7,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 786.48,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 32.22,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 24.48,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 32.480000000000004,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 67.32,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Dot Matrix Printer Tape Reel Labels, White, 5000/Box",
+            "total_sales": 235.944,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 49.56,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 152.65,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Avery Shipping Labels, 5000 Label Set",
+            "total_sales": 48.96,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 53.275999999999996,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 58.596000000000004,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 154.1,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 40.32,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+            "total_sales": 61.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Harbour Creations Removable Labels, Adjustable",
+            "total_sales": 127.64,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Smead Removable Labels, Adjustable",
+            "total_sales": 83.49000000000001,
+            "total_quantity": 10
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-11",
+            "Order Count": 163
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 155
+        },
+        {
+            "Order Month": "2014-12",
+            "Order Count": 155
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 143
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 143
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 138
+        },
+        {
+            "Order Month": "2017-06",
+            "Order Count": 102
+        },
+        {
+            "Order Month": "2013-06",
+            "Order Count": 101
+        },
+        {
+            "Order Month": "2016-06",
+            "Order Count": 101
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 100
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 98
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 96
+        },
+        {
+            "Order Month": "2017-08",
+            "Order Count": 94
+        },
+        {
+            "Order Month": "2014-04",
+            "Order Count": 92
+        },
+        {
+            "Order Month": "2017-10",
+            "Order Count": 92
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 89
+        },
+        {
+            "Order Month": "2014-03",
+            "Order Count": 87
+        },
+        {
+            "Order Month": "2014-07",
+            "Order Count": 83
+        },
+        {
+            "Order Month": "2016-09",
+            "Order Count": 83
+        },
+        {
+            "Order Month": "2013-09",
+            "Order Count": 83
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 645.9265,
+            "Quantity": 77,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 375.37440000000004,
+            "Quantity": 52,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 861.2814,
+            "Quantity": 125,
+            "Sales_MA": 627.5274333333333
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 716.0017,
+            "Quantity": 93,
+            "Sales_MA": 650.8858333333334
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 536.2533,
+            "Quantity": 77,
+            "Sales_MA": 704.5121333333333
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 1532.538,
+            "Quantity": 143,
+            "Sales_MA": 928.2643333333332
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 830.6075999999999,
+            "Quantity": 97,
+            "Sales_MA": 966.4663
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 1137.8154,
+            "Quantity": 150,
+            "Sales_MA": 1166.9869999999999
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 1778.863,
+            "Quantity": 237,
+            "Sales_MA": 1249.0953333333334
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 1106.6215,
+            "Quantity": 145,
+            "Sales_MA": 1341.0999666666667
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 1904.7574,
+            "Quantity": 253,
+            "Sales_MA": 1596.7473
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 2190.4174,
+            "Quantity": 256,
+            "Sales_MA": 1733.9321
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 590.695,
+            "Quantity": 66,
+            "Sales_MA": 1561.9565999999998
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 645.723,
+            "Quantity": 78,
+            "Sales_MA": 1142.2784666666666
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 1204.791,
+            "Quantity": 88,
+            "Sales_MA": 813.7363333333333
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 746.0151999999999,
+            "Quantity": 105,
+            "Sales_MA": 865.5097333333332
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 1810.2812000000001,
+            "Quantity": 239,
+            "Sales_MA": 1253.6958
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 1128.6672,
+            "Quantity": 165,
+            "Sales_MA": 1228.3212
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 711.0346,
+            "Quantity": 61,
+            "Sales_MA": 1216.661
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 1686.5261,
+            "Quantity": 193,
+            "Sales_MA": 1175.4093
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 1443.3796,
+            "Quantity": 200,
+            "Sales_MA": 1280.3134333333335
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 1914.3326,
+            "Quantity": 201,
+            "Sales_MA": 1681.4127666666666
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 1996.9605999999999,
+            "Quantity": 276,
+            "Sales_MA": 1784.8909333333334
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 1639.8647,
+            "Quantity": 217,
+            "Sales_MA": 1850.3859666666667
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 1030.4445,
+            "Quantity": 138,
+            "Sales_MA": 1555.7566
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 676.785,
+            "Quantity": 88,
+            "Sales_MA": 1115.6980666666666
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 855.4114999999999,
+            "Quantity": 128,
+            "Sales_MA": 854.2136666666667
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 609.7189999999999,
+            "Quantity": 79,
+            "Sales_MA": 713.9718333333334
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 1249.7252,
+            "Quantity": 164,
+            "Sales_MA": 904.9519
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 2784.5591,
+            "Quantity": 380,
+            "Sales_MA": 1548.0011000000002
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 1154.3915,
+            "Quantity": 150,
+            "Sales_MA": 1729.5586
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 2210.7005,
+            "Quantity": 281,
+            "Sales_MA": 2049.8837
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 2114.466,
+            "Quantity": 318,
+            "Sales_MA": 1826.5193333333334
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 1500.7327,
+            "Quantity": 216,
+            "Sales_MA": 1941.9664
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 2603.5835,
+            "Quantity": 270,
+            "Sales_MA": 2072.9274
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 1590.271,
+            "Quantity": 221,
+            "Sales_MA": 1898.1957333333337
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 2088.6651,
+            "Quantity": 241,
+            "Sales_MA": 2094.1732
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 1203.167,
+            "Quantity": 141,
+            "Sales_MA": 1627.3677
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 2125.33,
+            "Quantity": 299,
+            "Sales_MA": 1805.7207
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 2218.0283,
+            "Quantity": 303,
+            "Sales_MA": 1848.8417666666667
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 2367.2389,
+            "Quantity": 305,
+            "Sales_MA": 2236.8657333333335
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 4616.4153,
+            "Quantity": 526,
+            "Sales_MA": 3067.2274999999995
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 3122.8664,
+            "Quantity": 302,
+            "Sales_MA": 3368.8402
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 4323.5778,
+            "Quantity": 532,
+            "Sales_MA": 4020.953166666666
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 4607.9592,
+            "Quantity": 591,
+            "Sales_MA": 4018.1344666666664
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 3597.4393999999998,
+            "Quantity": 517,
+            "Sales_MA": 4176.325466666667
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 4632.0169,
+            "Quantity": 625,
+            "Sales_MA": 4279.1385
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 4557.1814,
+            "Quantity": 600,
+            "Sales_MA": 4262.212566666666
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 590.6949999999999,
+            "Quantity": 66,
+            "Sales_MA": 3259.964433333333
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 645.723,
+            "Quantity": 78,
+            "Sales_MA": 1931.1998
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 1204.791,
+            "Quantity": 88,
+            "Sales_MA": 813.7363333333333
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 746.0152,
+            "Quantity": 105,
+            "Sales_MA": 865.5097333333333
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 1810.2812,
+            "Quantity": 239,
+            "Sales_MA": 1253.6958
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 1128.6672,
+            "Quantity": 165,
+            "Sales_MA": 1228.3212
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 711.0346000000001,
+            "Quantity": 61,
+            "Sales_MA": 1216.661
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 1686.5261,
+            "Quantity": 193,
+            "Sales_MA": 1175.4093
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 1443.3796,
+            "Quantity": 200,
+            "Sales_MA": 1280.3134333333335
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 1914.3326,
+            "Quantity": 201,
+            "Sales_MA": 1681.4127666666666
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 1996.9605999999999,
+            "Quantity": 276,
+            "Sales_MA": 1784.8909333333334
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 1639.8647,
+            "Quantity": 217,
+            "Sales_MA": 1850.3859666666667
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 1030.4445,
+            "Quantity": 138,
+            "Sales_MA": 1555.7566
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 668.115,
+            "Quantity": 85,
+            "Sales_MA": 1112.8080666666667
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 855.4115,
+            "Quantity": 128,
+            "Sales_MA": 851.3236666666667
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 609.719,
+            "Quantity": 79,
+            "Sales_MA": 711.0818333333333
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 1249.7252,
+            "Quantity": 164,
+            "Sales_MA": 904.9519
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 2784.5591,
+            "Quantity": 380,
+            "Sales_MA": 1548.0011000000002
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 1154.3915,
+            "Quantity": 150,
+            "Sales_MA": 1729.5586
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 2210.7005,
+            "Quantity": 281,
+            "Sales_MA": 2049.8837
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 2114.466,
+            "Quantity": 318,
+            "Sales_MA": 1826.5193333333334
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 1500.7327,
+            "Quantity": 216,
+            "Sales_MA": 1941.9664
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 2603.5835,
+            "Quantity": 270,
+            "Sales_MA": 2072.9274
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 1590.271,
+            "Quantity": 221,
+            "Sales_MA": 1898.1957333333337
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 1442.7386,
+            "Quantity": 164,
+            "Sales_MA": 1878.8643666666667
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 809.6486,
+            "Quantity": 89,
+            "Sales_MA": 1280.8860666666667
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 1249.4486,
+            "Quantity": 171,
+            "Sales_MA": 1167.2785999999999
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 1541.7066,
+            "Quantity": 216,
+            "Sales_MA": 1200.2679333333335
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 1836.7656,
+            "Quantity": 230,
+            "Sales_MA": 1542.6402666666665
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 3083.8773,
+            "Quantity": 383,
+            "Sales_MA": 2154.1165
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 2249.8448,
+            "Quantity": 199,
+            "Sales_MA": 2390.1625666666664
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 3188.5164,
+            "Quantity": 381,
+            "Sales_MA": 2840.7461666666663
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 2889.5642000000003,
+            "Quantity": 370,
+            "Sales_MA": 2775.9751333333334
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 2356.5899,
+            "Quantity": 348,
+            "Sales_MA": 2811.5568333333335
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 2684.0275,
+            "Quantity": 378,
+            "Sales_MA": 2643.393866666667
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 2555.784,
+            "Quantity": 366,
+            "Sales_MA": 2532.1338
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Jenna Caffey",
+            "total_spent": 1644.0,
+            "purchase_frequency": 4,
+            "average_order_value": 411.0
+        },
+        {
+            "Customer Name": "Tracy Poddar",
+            "total_spent": 1507.092,
+            "purchase_frequency": 8,
+            "average_order_value": 188.3865
+        },
+        {
+            "Customer Name": "Maurice Satty",
+            "total_spent": 1177.04,
+            "purchase_frequency": 10,
+            "average_order_value": 98.08666666666666
+        },
+        {
+            "Customer Name": "Heather Kirkland",
+            "total_spent": 983.1,
+            "purchase_frequency": 2,
+            "average_order_value": 491.55
+        },
+        {
+            "Customer Name": "Damala Kotsonis",
+            "total_spent": 924.74,
+            "purchase_frequency": 8,
+            "average_order_value": 115.5925
+        },
+        {
+            "Customer Name": "Bruce Degenhardt",
+            "total_spent": 806.316,
+            "purchase_frequency": 10,
+            "average_order_value": 80.6316
+        },
+        {
+            "Customer Name": "Anthony Johnson",
+            "total_spent": 757.4399999999999,
+            "purchase_frequency": 8,
+            "average_order_value": 94.67999999999999
+        },
+        {
+            "Customer Name": "Kristen Hastings",
+            "total_spent": 628.548,
+            "purchase_frequency": 16,
+            "average_order_value": 39.28425
+        },
+        {
+            "Customer Name": "Greg Matthias",
+            "total_spent": 605.304,
+            "purchase_frequency": 14,
+            "average_order_value": 33.628
+        },
+        {
+            "Customer Name": "Sonia Cooley",
+            "total_spent": 580.2342000000001,
+            "purchase_frequency": 16,
+            "average_order_value": 32.23523333333334
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 107734.55,
+            "total_quantity": 12147,
+            "average_profit": 9.4108
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 12114.252,
+            "total_quantity": 1374,
+            "average_profit": 6.7514
+        },
+        {
+            "Discount": 0.17,
+            "total_sales": 1664.1666,
+            "total_quantity": 198,
+            "average_profit": 3.6347
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 8312.064,
+            "total_quantity": 1246,
+            "average_profit": 6.9556
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 5088.636,
+            "total_quantity": 1120,
+            "average_profit": -3.7139
+        },
+        {
+            "Discount": 0.45,
+            "total_sales": 1673.265,
+            "total_quantity": 308,
+            "average_profit": -6.0456
+        },
+        {
+            "Discount": 0.47,
+            "total_sales": 5059.6344,
+            "total_quantity": 976,
+            "average_profit": -7.9153
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 3184.5,
+            "total_quantity": 664,
+            "average_profit": -9.2574
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 1292.896,
+            "total_quantity": 388,
+            "average_profit": -7.6191
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 630.342,
+            "total_quantity": 202,
+            "average_profit": -9.0414
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 2085.44,
+            "total_quantity": 264,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "Washington",
+            "City": "Kent",
+            "total_sales": 1572.96,
+            "total_quantity": 16,
+            "Location": "Washington, Kent"
+        },
+        {
+            "State": "California",
+            "City": "San Francisco",
+            "total_sales": 1553.36,
+            "total_quantity": 210,
+            "Location": "California, San Francisco"
+        },
+        {
+            "State": "Victoria",
+            "City": "Melbourne",
+            "total_sales": 1310.256,
+            "total_quantity": 146,
+            "Location": "Victoria, Melbourne"
+        },
+        {
+            "State": "Michigan",
+            "City": "Detroit",
+            "total_sales": 1292.22,
+            "total_quantity": 52,
+            "Location": "Michigan, Detroit"
+        },
+        {
+            "State": "Oregon",
+            "City": "Eugene",
+            "total_sales": 1258.368,
+            "total_quantity": 16,
+            "Location": "Oregon, Eugene"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 1193.06,
+            "total_quantity": 200,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "Managua",
+            "City": "Managua",
+            "total_sales": 1172.04,
+            "total_quantity": 176,
+            "Location": "Managua, Managua"
+        },
+        {
+            "State": "South Australia",
+            "City": "Adelaide",
+            "total_sales": 1101.06,
+            "total_quantity": 122,
+            "Location": "South Australia, Adelaide"
+        },
+        {
+            "State": "Singapore",
+            "City": "Singapore",
+            "total_sales": 1014.54,
+            "total_quantity": 114,
+            "Location": "Singapore, Singapore"
+        },
+        {
+            "State": "New South Wales",
+            "City": "Wollongong",
+            "total_sales": 1006.4820000000001,
+            "total_quantity": 106,
+            "Location": "New South Wales, Wollongong"
+        },
+        {
+            "State": "Alabama",
+            "City": "Auburn",
+            "total_sales": 983.1,
+            "total_quantity": 10,
+            "Location": "Alabama, Auburn"
+        },
+        {
+            "State": "Queensland",
+            "City": "Gold Coast",
+            "total_sales": 946.134,
+            "total_quantity": 116,
+            "Location": "Queensland, Gold Coast"
+        },
+        {
+            "State": "Bangkok",
+            "City": "Bangkok",
+            "total_sales": 925.4436000000001,
+            "total_quantity": 182,
+            "Location": "Bangkok, Bangkok"
+        },
+        {
+            "State": "Distrito Federal",
+            "City": "Mexico City",
+            "total_sales": 905.0,
+            "total_quantity": 136,
+            "Location": "Distrito Federal, Mexico City"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 753,
+            "avg_shipping_delay": 2.21,
+            "total_profit": 4129.98,
+            "shipping_cost_ratio": 0.19
+        },
+        "Same Day": {
+            "total_orders": 252,
+            "avg_shipping_delay": 0.02,
+            "total_profit": 1230.41,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 976,
+            "avg_shipping_delay": 3.19,
+            "total_profit": 6899.87,
+            "shipping_cost_ratio": 0.14
+        },
+        "Standard Class": {
+            "total_orders": 2942,
+            "avg_shipping_delay": 5.01,
+            "total_profit": 17739.17,
+            "shipping_cost_ratio": 0.11
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.1,
+            "ship_mode_distribution": {
+                "First Class": 0.44554455445544555,
+                "Second Class": 0.3910891089108911,
+                "Same Day": 0.16336633663366337
+            }
+        },
+        "High": {
+            "avg_profit_margin": 0.13,
+            "ship_mode_distribution": {
+                "Standard Class": 0.438871473354232,
+                "Second Class": 0.26959247648902823,
+                "First Class": 0.21880877742946708,
+                "Same Day": 0.07272727272727272
+            }
+        },
+        "Low": {
+            "avg_profit_margin": 0.15,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": 0.12,
+            "ship_mode_distribution": {
+                "Standard Class": 0.7334235453315291,
+                "Second Class": 0.15087956698240865,
+                "First Class": 0.08728010825439783,
+                "Same Day": 0.028416779431664412
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 890.5,
+            "frequency": 1.0,
+            "monetary": 26.009999999999998
+        },
+        "customer_distribution": {
+            "Promising Customers": 968,
+            "Lost Customers": 677,
+            "Big Spenders": 644,
+            "At-Risk Customers": 606,
+            "Hibernating Customers": 378,
+            "VIP": 86,
+            "Slipping Away": 53,
+            "Loyal Customers": 16
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3428,
+        "churned_customers": 2579,
+        "churn_rate": 0.7523337222870479,
+        "avg_recency": 877.0198366394399,
+        "avg_frequency": 1.5189614935822637,
+        "avg_monetary": 42.810474329054834,
+        "churned_customer_characteristics": {
+            "avg_recency": 1115.1124466847616,
+            "avg_frequency": 1.6455990694067468,
+            "avg_monetary": 46.15895599069407,
+            "avg_discount": 0.12609985259452106,
+            "avg_quantity": 3.4726649002628065,
+            "avg_shipping_cost": 3.12992795764939,
+            "avg_profit": 5.618028960514412
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 153.76796230859836,
+            "avg_frequency": 1.1342756183745584,
+            "avg_monetary": 32.63882037691401,
+            "avg_discount": 0.12294856694149982,
+            "avg_quantity": 3.6491951315272875,
+            "avg_shipping_cost": 3.6346739301138595,
+            "avg_profit": 5.474052296819788
+        }
+    }
+}

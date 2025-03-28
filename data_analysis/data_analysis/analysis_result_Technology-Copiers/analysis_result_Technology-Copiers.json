@@ -1,0 +1,4008 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            2322,
+            0.52
+        ],
+        "Corporate": [
+            1324,
+            0.3
+        ],
+        "Home Office": [
+            800,
+            0.18
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.28,
+        "Corporate": 3.39,
+        "Home Office": 3.52
+    },
+    "segment_unit_price": {
+        "Consumer": 198.97,
+        "Corporate": 206.41,
+        "Home Office": 205.81
+    },
+    "segment_profit": {
+        "Consumer": 32.65,
+        "Corporate": 37.3,
+        "Home Office": 36.06
+    },
+    "segment_discount": {
+        "Consumer": 0.12,
+        "Corporate": 0.11,
+        "Home Office": 0.12
+    },
+    "region_distribution": {
+        "Central": [
+            443,
+            0.1
+        ],
+        "Oceania": [
+            430,
+            0.1
+        ],
+        "Central America": [
+            325,
+            0.07
+        ],
+        "South": [
+            305,
+            0.07
+        ],
+        "Western Europe": [
+            268,
+            0.06
+        ],
+        "North": [
+            259,
+            0.06
+        ],
+        "Caribbean": [
+            220,
+            0.05
+        ],
+        "Africa": [
+            206,
+            0.05
+        ],
+        "South America": [
+            194,
+            0.04
+        ],
+        "EMEA": [
+            190,
+            0.04
+        ],
+        "Southeastern Asia": [
+            183,
+            0.04
+        ],
+        "Southeast Asia": [
+            183,
+            0.04
+        ],
+        "Eastern Asia": [
+            140,
+            0.03
+        ],
+        "North Asia": [
+            139,
+            0.03
+        ],
+        "Southern Asia": [
+            132,
+            0.03
+        ],
+        "Central Asia": [
+            119,
+            0.03
+        ],
+        "Southern Europe": [
+            105,
+            0.02
+        ],
+        "Northern Europe": [
+            98,
+            0.02
+        ],
+        "Western Asia": [
+            92,
+            0.02
+        ],
+        "Western Africa": [
+            76,
+            0.02
+        ],
+        "Eastern Europe": [
+            70,
+            0.02
+        ],
+        "North Africa": [
+            50,
+            0.01
+        ],
+        "Central Africa": [
+            28,
+            0.01
+        ],
+        "Canada": [
+            26,
+            0.01
+        ],
+        "Eastern Africa": [
+            26,
+            0.01
+        ],
+        "Southern Africa": [
+            26,
+            0.01
+        ],
+        "Western US": [
+            25,
+            0.01
+        ],
+        "West": [
+            25,
+            0.01
+        ],
+        "East": [
+            20,
+            0.0
+        ],
+        "Eastern US": [
+            20,
+            0.0
+        ],
+        "Central US": [
+            16,
+            0.0
+        ],
+        "Southern US": [
+            7,
+            0.0
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.2,
+        "Canada": 2.23,
+        "Caribbean": 3.33,
+        "Central": 3.64,
+        "Central Africa": 1.96,
+        "Central America": 3.58,
+        "Central Asia": 3.64,
+        "Central US": 3.06,
+        "EMEA": 2.15,
+        "East": 3.55,
+        "Eastern Africa": 2.15,
+        "Eastern Asia": 3.76,
+        "Eastern Europe": 2.24,
+        "Eastern US": 3.55,
+        "North": 3.73,
+        "North Africa": 2.2,
+        "North Asia": 3.77,
+        "Northern Europe": 3.73,
+        "Oceania": 3.76,
+        "South": 3.52,
+        "South America": 3.51,
+        "Southeast Asia": 3.44,
+        "Southeastern Asia": 3.44,
+        "Southern Africa": 2.69,
+        "Southern Asia": 3.55,
+        "Southern Europe": 3.5,
+        "Southern US": 3.71,
+        "West": 3.52,
+        "Western Africa": 2.14,
+        "Western Asia": 2.02,
+        "Western Europe": 3.76,
+        "Western US": 3.52
+    },
+    "region_sales": {
+        "Africa": 467.27,
+        "Canada": 574.27,
+        "Caribbean": 454.55,
+        "Central": 729.03,
+        "Central Africa": 476.66,
+        "Central America": 542.3,
+        "Central Asia": 774.34,
+        "Central US": 2328.72,
+        "EMEA": 421.79,
+        "East": 2660.97,
+        "Eastern Africa": 427.18,
+        "Eastern Asia": 880.94,
+        "Eastern Europe": 478.22,
+        "Eastern US": 2660.97,
+        "North": 679.11,
+        "North Africa": 578.68,
+        "North Asia": 885.16,
+        "Northern Europe": 791.69,
+        "Oceania": 759.1,
+        "South": 587.4,
+        "South America": 464.31,
+        "Southeast Asia": 639.04,
+        "Southeastern Asia": 639.04,
+        "Southern Africa": 637.21,
+        "Southern Asia": 779.36,
+        "Southern Europe": 762.33,
+        "Southern US": 1328.54,
+        "West": 1989.97,
+        "Western Africa": 346.09,
+        "Western Asia": 359.51,
+        "Western Europe": 778.3,
+        "Western US": 1989.97
+    },
+    "region_unit_price": {
+        "Africa": 212.02,
+        "Canada": 257.43,
+        "Caribbean": 136.61,
+        "Central": 200.1,
+        "Central Africa": 242.66,
+        "Central America": 151.41,
+        "Central Asia": 212.81,
+        "Central US": 760.4,
+        "EMEA": 196.42,
+        "East": 749.57,
+        "Eastern Africa": 198.33,
+        "Eastern Asia": 234.47,
+        "Eastern Europe": 213.22,
+        "Eastern US": 749.57,
+        "North": 182.27,
+        "North Africa": 263.04,
+        "North Asia": 234.8,
+        "Northern Europe": 211.98,
+        "Oceania": 201.99,
+        "South": 166.81,
+        "South America": 132.27,
+        "Southeast Asia": 185.92,
+        "Southeastern Asia": 185.92,
+        "Southern Africa": 236.68,
+        "Southern Asia": 219.35,
+        "Southern Europe": 217.51,
+        "Southern US": 357.68,
+        "West": 565.33,
+        "Western Africa": 161.37,
+        "Western Asia": 177.82,
+        "Western Europe": 206.93,
+        "Western US": 565.33
+    },
+    "region_discount": {
+        "Africa": 0.14,
+        "Canada": 0.0,
+        "Caribbean": 0.09,
+        "Central": 0.14,
+        "Central Africa": 0.0,
+        "Central America": 0.07,
+        "Central Asia": 0.11,
+        "Central US": 0.11,
+        "EMEA": 0.18,
+        "East": 0.25,
+        "Eastern Africa": 0.08,
+        "Eastern Asia": 0.01,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.25,
+        "North": 0.03,
+        "North Africa": 0.0,
+        "North Asia": 0.01,
+        "Northern Europe": 0.12,
+        "Oceania": 0.14,
+        "South": 0.11,
+        "South America": 0.16,
+        "Southeast Asia": 0.18,
+        "Southeastern Asia": 0.18,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.08,
+        "Southern Europe": 0.02,
+        "Southern US": 0.09,
+        "West": 0.14,
+        "Western Africa": 0.35,
+        "Western Asia": 0.3,
+        "Western Europe": 0.14,
+        "Western US": 0.14
+    },
+    "region_profit": {
+        "Africa": 30.86,
+        "Canada": 91.85,
+        "Caribbean": 19.61,
+        "Central": 27.73,
+        "Central Africa": 55.48,
+        "Central America": 23.95,
+        "Central Asia": 37.9,
+        "Central US": 318.55,
+        "EMEA": 20.04,
+        "East": 239.76,
+        "Eastern Africa": 28.29,
+        "Eastern Asia": 57.47,
+        "Eastern Europe": 49.78,
+        "Eastern US": 239.76,
+        "North": 38.22,
+        "North Africa": 73.41,
+        "North Asia": 57.42,
+        "Northern Europe": 39.4,
+        "Oceania": 26.73,
+        "South": 25.79,
+        "South America": 8.79,
+        "Southeast Asia": 18.05,
+        "Southeastern Asia": 18.05,
+        "Southern Africa": 47.9,
+        "Southern Asia": 45.74,
+        "Southern Europe": 49.15,
+        "Southern US": 140.73,
+        "West": 219.63,
+        "Western Africa": -12.6,
+        "Western Asia": -5.35,
+        "Western Europe": 22.49,
+        "Western US": 219.63
+    },
+    "region_profit_margin": {
+        "Africa": 0.15,
+        "Canada": 0.36,
+        "Caribbean": 0.14,
+        "Central": 0.14,
+        "Central Africa": 0.23,
+        "Central America": 0.16,
+        "Central Asia": 0.18,
+        "Central US": 0.42,
+        "EMEA": 0.1,
+        "East": 0.32,
+        "Eastern Africa": 0.14,
+        "Eastern Asia": 0.25,
+        "Eastern Europe": 0.23,
+        "Eastern US": 0.32,
+        "North": 0.21,
+        "North Africa": 0.28,
+        "North Asia": 0.24,
+        "Northern Europe": 0.19,
+        "Oceania": 0.13,
+        "South": 0.15,
+        "South America": 0.07,
+        "Southeast Asia": 0.1,
+        "Southeastern Asia": 0.1,
+        "Southern Africa": 0.2,
+        "Southern Asia": 0.21,
+        "Southern Europe": 0.23,
+        "Southern US": 0.39,
+        "West": 0.39,
+        "Western Africa": -0.08,
+        "Western Asia": -0.03,
+        "Western Europe": 0.11,
+        "Western US": 0.39
+    },
+    "market_distribution": {
+        "LATAM": [
+            1258,
+            0.28
+        ],
+        "Asia Pacific": [
+            766,
+            0.17
+        ],
+        "APAC": [
+            652,
+            0.15
+        ],
+        "Europe": [
+            541,
+            0.12
+        ],
+        "EU": [
+            465,
+            0.1
+        ],
+        "Africa": [
+            412,
+            0.09
+        ],
+        "EMEA": [
+            190,
+            0.04
+        ],
+        "USCA": [
+            81,
+            0.02
+        ],
+        "US": [
+            68,
+            0.02
+        ],
+        "Canada": [
+            13,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.66,
+        "Africa": 2.2,
+        "Asia Pacific": 3.43,
+        "Canada": 2.23,
+        "EMEA": 2.15,
+        "EU": 3.73,
+        "Europe": 3.51,
+        "LATAM": 3.52,
+        "US": 3.44,
+        "USCA": 3.25
+    },
+    "market_sales": {
+        "APAC": 758.58,
+        "Africa": 467.27,
+        "Asia Pacific": 705.19,
+        "Canada": 574.27,
+        "EMEA": 421.79,
+        "EU": 785.22,
+        "Europe": 738.8,
+        "LATAM": 502.9,
+        "US": 2198.94,
+        "USCA": 1938.19
+    },
+    "market_unit_price": {
+        "APAC": 207.38,
+        "Africa": 212.02,
+        "Asia Pacific": 205.62,
+        "Canada": 257.43,
+        "EMEA": 196.42,
+        "EU": 210.69,
+        "Europe": 210.47,
+        "LATAM": 143.07,
+        "US": 639.01,
+        "USCA": 596.93
+    },
+    "market_discount": {
+        "APAC": 0.12,
+        "Africa": 0.14,
+        "Asia Pacific": 0.14,
+        "Canada": 0.0,
+        "EMEA": 0.18,
+        "EU": 0.1,
+        "Europe": 0.09,
+        "LATAM": 0.1,
+        "US": 0.16,
+        "USCA": 0.14
+    },
+    "market_profit": {
+        "APAC": 33.9,
+        "Africa": 30.86,
+        "Asia Pacific": 31.3,
+        "Canada": 91.85,
+        "EMEA": 20.04,
+        "EU": 32.43,
+        "Europe": 33.17,
+        "LATAM": 18.56,
+        "US": 237.68,
+        "USCA": 221.6
+    },
+    "market_profit_margin": {
+        "APAC": 0.16,
+        "Africa": 0.15,
+        "Asia Pacific": 0.15,
+        "Canada": 0.36,
+        "EMEA": 0.1,
+        "EU": 0.15,
+        "Europe": 0.16,
+        "LATAM": 0.13,
+        "US": 0.37,
+        "USCA": 0.37
+    },
+    "country_distribution": {
+        "Australia": [
+            358,
+            0.08
+        ],
+        "Mexico": [
+            330,
+            0.07
+        ],
+        "France": [
+            264,
+            0.06
+        ],
+        "China": [
+            242,
+            0.05
+        ],
+        "Brazil": [
+            222,
+            0.05
+        ],
+        "Germany": [
+            180,
+            0.04
+        ],
+        "India": [
+            168,
+            0.04
+        ],
+        "Indonesia": [
+            162,
+            0.04
+        ],
+        "United Kingdom": [
+            152,
+            0.03
+        ],
+        "United States": [
+            136,
+            0.03
+        ],
+        "Cuba": [
+            114,
+            0.03
+        ],
+        "Italy": [
+            103,
+            0.02
+        ],
+        "Spain": [
+            96,
+            0.02
+        ],
+        "Turkey": [
+            90,
+            0.02
+        ],
+        "Dominican Republic": [
+            82,
+            0.02
+        ],
+        "Philippines": [
+            80,
+            0.02
+        ],
+        "Nigeria": [
+            76,
+            0.02
+        ],
+        "New Zealand": [
+            72,
+            0.02
+        ],
+        "Honduras": [
+            72,
+            0.02
+        ],
+        "Nicaragua": [
+            70,
+            0.02
+        ],
+        "El Salvador": [
+            68,
+            0.02
+        ],
+        "Guatemala": [
+            66,
+            0.01
+        ],
+        "Colombia": [
+            58,
+            0.01
+        ],
+        "Argentina": [
+            52,
+            0.01
+        ],
+        "Ukraine": [
+            48,
+            0.01
+        ],
+        "South Africa": [
+            48,
+            0.01
+        ],
+        "Panama": [
+            44,
+            0.01
+        ],
+        "Netherlands": [
+            42,
+            0.01
+        ],
+        "Egypt": [
+            40,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            38,
+            0.01
+        ],
+        "Russia": [
+            36,
+            0.01
+        ],
+        "Austria": [
+            34,
+            0.01
+        ],
+        "Iraq": [
+            34,
+            0.01
+        ],
+        "Thailand": [
+            34,
+            0.01
+        ],
+        "Iran": [
+            34,
+            0.01
+        ],
+        "Morocco": [
+            32,
+            0.01
+        ],
+        "Pakistan": [
+            32,
+            0.01
+        ],
+        "Vietnam": [
+            28,
+            0.01
+        ],
+        "Japan": [
+            28,
+            0.01
+        ],
+        "Venezuela": [
+            26,
+            0.01
+        ],
+        "Canada": [
+            26,
+            0.01
+        ],
+        "Saudi Arabia": [
+            24,
+            0.01
+        ],
+        "Bangladesh": [
+            24,
+            0.01
+        ],
+        "Senegal": [
+            24,
+            0.01
+        ],
+        "Malaysia": [
+            22,
+            0.0
+        ],
+        "Ghana": [
+            18,
+            0.0
+        ],
+        "Singapore": [
+            18,
+            0.0
+        ],
+        "Poland": [
+            16,
+            0.0
+        ],
+        "Romania": [
+            16,
+            0.0
+        ],
+        "Zambia": [
+            14,
+            0.0
+        ],
+        "Algeria": [
+            14,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            12,
+            0.0
+        ],
+        "Sweden": [
+            12,
+            0.0
+        ],
+        "Israel": [
+            12,
+            0.0
+        ],
+        "Chile": [
+            12,
+            0.0
+        ],
+        "Cambodia": [
+            10,
+            0.0
+        ],
+        "Tanzania": [
+            10,
+            0.0
+        ],
+        "Barbados": [
+            10,
+            0.0
+        ],
+        "Ireland": [
+            10,
+            0.0
+        ],
+        "Belgium": [
+            10,
+            0.0
+        ],
+        "Sudan": [
+            8,
+            0.0
+        ],
+        "Lithuania": [
+            8,
+            0.0
+        ],
+        "Benin": [
+            8,
+            0.0
+        ],
+        "Norway": [
+            8,
+            0.0
+        ],
+        "Portugal": [
+            8,
+            0.0
+        ],
+        "Belarus": [
+            8,
+            0.0
+        ],
+        "Peru": [
+            8,
+            0.0
+        ],
+        "Cameroon": [
+            8,
+            0.0
+        ],
+        "Angola": [
+            8,
+            0.0
+        ],
+        "Syria": [
+            8,
+            0.0
+        ],
+        "Switzerland": [
+            6,
+            0.0
+        ],
+        "South Korea": [
+            6,
+            0.0
+        ],
+        "Haiti": [
+            6,
+            0.0
+        ],
+        "Kazakhstan": [
+            6,
+            0.0
+        ],
+        "Mozambique": [
+            6,
+            0.0
+        ],
+        "Georgia": [
+            6,
+            0.0
+        ],
+        "Ecuador": [
+            6,
+            0.0
+        ],
+        "Madagascar": [
+            6,
+            0.0
+        ],
+        "Hungary": [
+            6,
+            0.0
+        ],
+        "Bulgaria": [
+            5,
+            0.0
+        ],
+        "Qatar": [
+            4,
+            0.0
+        ],
+        "Liberia": [
+            4,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            4,
+            0.0
+        ],
+        "Libya": [
+            4,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            4,
+            0.0
+        ],
+        "Kenya": [
+            4,
+            0.0
+        ],
+        "Afghanistan": [
+            4,
+            0.0
+        ],
+        "Moldova": [
+            4,
+            0.0
+        ],
+        "Zimbabwe": [
+            4,
+            0.0
+        ],
+        "Denmark": [
+            4,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            4,
+            0.0
+        ],
+        "Guinea": [
+            4,
+            0.0
+        ],
+        "Mali": [
+            4,
+            0.0
+        ],
+        "Lesotho": [
+            2,
+            0.0
+        ],
+        "Namibia": [
+            2,
+            0.0
+        ],
+        "Sierra Leone": [
+            2,
+            0.0
+        ],
+        "Paraguay": [
+            2,
+            0.0
+        ],
+        "Nepal": [
+            2,
+            0.0
+        ],
+        "Tunisia": [
+            2,
+            0.0
+        ],
+        "Rwanda": [
+            2,
+            0.0
+        ],
+        "Mauritania": [
+            2,
+            0.0
+        ],
+        "Somalia": [
+            2,
+            0.0
+        ],
+        "Finland": [
+            2,
+            0.0
+        ],
+        "Lebanon": [
+            2,
+            0.0
+        ],
+        "Jamaica": [
+            2,
+            0.0
+        ],
+        "Bosnia and Herzegovina": [
+            2,
+            0.0
+        ],
+        "Mongolia": [
+            2,
+            0.0
+        ],
+        "Hong Kong": [
+            2,
+            0.0
+        ],
+        "Yemen": [
+            2,
+            0.0
+        ],
+        "South Sudan": [
+            2,
+            0.0
+        ],
+        "Martinique": [
+            2,
+            0.0
+        ],
+        "Turkmenistan": [
+            2,
+            0.0
+        ],
+        "Bolivia": [
+            2,
+            0.0
+        ],
+        "Jordan": [
+            2,
+            0.0
+        ],
+        "Equatorial Guinea": [
+            2,
+            0.0
+        ],
+        "Uganda": [
+            2,
+            0.0
+        ],
+        "Burkina Faso": [
+            2,
+            0.0
+        ],
+        "Greece": [
+            1,
+            0.0
+        ],
+        "Serbia": [
+            1,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 4.0,
+        "Algeria": 2.29,
+        "Angola": 1.0,
+        "Argentina": 3.42,
+        "Australia": 3.75,
+        "Austria": 3.59,
+        "Bangladesh": 3.83,
+        "Barbados": 3.8,
+        "Belarus": 2.0,
+        "Belgium": 4.4,
+        "Benin": 2.0,
+        "Bolivia": 1.0,
+        "Bosnia and Herzegovina": 1.0,
+        "Brazil": 3.68,
+        "Bulgaria": 1.6,
+        "Burkina Faso": 4.5,
+        "Cambodia": 2.2,
+        "Cameroon": 1.5,
+        "Canada": 2.23,
+        "Chile": 3.5,
+        "China": 3.82,
+        "Colombia": 3.1,
+        "Cote d'Ivoire": 4.5,
+        "Cuba": 3.37,
+        "C\u00f4te-d'Ivoire": 4.5,
+        "Democratic Republic of the Congo": 2.32,
+        "Denmark": 2.5,
+        "Dominican Republic": 3.29,
+        "Ecuador": 5.67,
+        "Egypt": 1.75,
+        "El Salvador": 3.82,
+        "Equatorial Guinea": 1.0,
+        "Finland": 2.0,
+        "France": 3.83,
+        "Georgia": 3.67,
+        "Germany": 3.57,
+        "Ghana": 1.78,
+        "Greece": 5.0,
+        "Guatemala": 3.7,
+        "Guinea": 1.5,
+        "Haiti": 2.0,
+        "Honduras": 3.36,
+        "Hong Kong": 2.0,
+        "Hungary": 4.67,
+        "India": 3.57,
+        "Indonesia": 3.46,
+        "Iran": 2.65,
+        "Iraq": 2.29,
+        "Ireland": 4.4,
+        "Israel": 2.17,
+        "Italy": 3.31,
+        "Jamaica": 3.0,
+        "Japan": 3.57,
+        "Jordan": 1.0,
+        "Kazakhstan": 2.67,
+        "Kenya": 2.5,
+        "Lebanon": 1.0,
+        "Lesotho": 12.0,
+        "Liberia": 2.5,
+        "Libya": 2.5,
+        "Lithuania": 1.75,
+        "Madagascar": 1.33,
+        "Malaysia": 3.0,
+        "Mali": 1.0,
+        "Martinique": 4.0,
+        "Mauritania": 6.0,
+        "Mexico": 3.67,
+        "Moldova": 1.0,
+        "Mongolia": 2.0,
+        "Morocco": 2.88,
+        "Mozambique": 1.33,
+        "Myanmar (Burma)": 3.17,
+        "Namibia": 2.0,
+        "Nepal": 2.0,
+        "Netherlands": 3.62,
+        "New Zealand": 3.78,
+        "Nicaragua": 3.17,
+        "Nigeria": 1.92,
+        "Norway": 3.0,
+        "Pakistan": 4.25,
+        "Panama": 3.36,
+        "Paraguay": 3.0,
+        "Peru": 3.0,
+        "Philippines": 3.75,
+        "Poland": 2.38,
+        "Portugal": 2.5,
+        "Qatar": 3.5,
+        "Romania": 2.75,
+        "Russia": 2.17,
+        "Rwanda": 6.0,
+        "Saudi Arabia": 2.25,
+        "Senegal": 2.12,
+        "Serbia": 4.0,
+        "Sierra Leone": 2.0,
+        "Singapore": 4.44,
+        "Somalia": 2.0,
+        "South Africa": 2.33,
+        "South Korea": 3.33,
+        "South Sudan": 1.0,
+        "Spain": 3.83,
+        "Sudan": 1.75,
+        "Sweden": 3.67,
+        "Switzerland": 7.67,
+        "Syria": 1.75,
+        "Tanzania": 1.6,
+        "Thailand": 2.53,
+        "Trinidad and Tobago": 3.5,
+        "Tunisia": 1.0,
+        "Turkey": 1.73,
+        "Turkmenistan": 1.0,
+        "Uganda": 1.0,
+        "Ukraine": 1.96,
+        "United Kingdom": 3.89,
+        "United States": 3.44,
+        "Venezuela": 3.0,
+        "Vietnam": 3.79,
+        "Yemen": 2.0,
+        "Zambia": 1.57,
+        "Zimbabwe": 7.0
+    },
+    "country_sales": {
+        "Afghanistan": 569.88,
+        "Algeria": 688.89,
+        "Angola": 237.41,
+        "Argentina": 327.6,
+        "Australia": 772.41,
+        "Austria": 859.22,
+        "Bangladesh": 993.44,
+        "Barbados": 587.43,
+        "Belarus": 450.82,
+        "Belgium": 921.95,
+        "Benin": 542.9,
+        "Bolivia": 96.81,
+        "Bosnia and Herzegovina": 262.29,
+        "Brazil": 494.47,
+        "Bulgaria": 298.74,
+        "Burkina Faso": 1034.55,
+        "Cambodia": 517.18,
+        "Cameroon": 277.14,
+        "Canada": 574.27,
+        "Chile": 732.31,
+        "China": 902.9,
+        "Colombia": 452.03,
+        "Cote d'Ivoire": 816.73,
+        "Cuba": 488.71,
+        "C\u00f4te-d'Ivoire": 816.73,
+        "Democratic Republic of the Congo": 587.58,
+        "Denmark": 226.22,
+        "Dominican Republic": 395.5,
+        "Ecuador": 961.35,
+        "Egypt": 364.95,
+        "El Salvador": 554.37,
+        "Equatorial Guinea": 124.29,
+        "Finland": 248.82,
+        "France": 720.71,
+        "Georgia": 960.37,
+        "Germany": 856.57,
+        "Ghana": 373.22,
+        "Greece": 1225.65,
+        "Guatemala": 555.51,
+        "Guinea": 216.94,
+        "Haiti": 231.13,
+        "Honduras": 326.74,
+        "Hong Kong": 719.7,
+        "Hungary": 812.18,
+        "India": 837.93,
+        "Indonesia": 766.91,
+        "Iran": 674.72,
+        "Iraq": 506.91,
+        "Ireland": 421.99,
+        "Israel": 588.63,
+        "Italy": 768.81,
+        "Jamaica": 635.81,
+        "Japan": 831.21,
+        "Jordan": 142.47,
+        "Kazakhstan": 220.41,
+        "Kenya": 643.77,
+        "Lebanon": 174.33,
+        "Lesotho": 3799.08,
+        "Liberia": 905.54,
+        "Libya": 374.02,
+        "Lithuania": 162.09,
+        "Madagascar": 368.36,
+        "Malaysia": 721.35,
+        "Mali": 145.49,
+        "Martinique": 513.45,
+        "Mauritania": 1571.22,
+        "Mexico": 599.71,
+        "Moldova": 306.84,
+        "Mongolia": 294.3,
+        "Morocco": 872.88,
+        "Mozambique": 397.86,
+        "Myanmar (Burma)": 355.99,
+        "Namibia": 714.72,
+        "Nepal": 759.66,
+        "Netherlands": 511.99,
+        "New Zealand": 692.96,
+        "Nicaragua": 604.1,
+        "Nigeria": 127.67,
+        "Norway": 947.55,
+        "Pakistan": 449.9,
+        "Panama": 327.57,
+        "Paraguay": 634.97,
+        "Peru": 357.77,
+        "Philippines": 571.85,
+        "Poland": 455.49,
+        "Portugal": 315.38,
+        "Qatar": 846.24,
+        "Romania": 590.67,
+        "Russia": 449.81,
+        "Rwanda": 865.98,
+        "Saudi Arabia": 577.45,
+        "Senegal": 598.26,
+        "Serbia": 684.36,
+        "Sierra Leone": 333.6,
+        "Singapore": 803.25,
+        "Somalia": 759.66,
+        "South Africa": 502.23,
+        "South Korea": 476.38,
+        "South Sudan": 378.3,
+        "Spain": 798.22,
+        "Sudan": 435.35,
+        "Sweden": 317.58,
+        "Switzerland": 2129.93,
+        "Syria": 406.48,
+        "Tanzania": 385.59,
+        "Thailand": 345.32,
+        "Trinidad and Tobago": 574.23,
+        "Tunisia": 357.36,
+        "Turkey": 161.47,
+        "Turkmenistan": 79.53,
+        "Uganda": 79.53,
+        "Ukraine": 461.14,
+        "United Kingdom": 900.4,
+        "United States": 2198.94,
+        "Venezuela": 317.13,
+        "Vietnam": 442.43,
+        "Yemen": 213.55,
+        "Zambia": 415.66,
+        "Zimbabwe": 299.7
+    },
+    "country_unit_price": {
+        "Afghanistan": 142.47,
+        "Algeria": 301.39,
+        "Angola": 237.41,
+        "Argentina": 95.7,
+        "Australia": 205.75,
+        "Austria": 239.45,
+        "Bangladesh": 259.16,
+        "Barbados": 154.59,
+        "Belarus": 225.41,
+        "Belgium": 209.54,
+        "Benin": 271.45,
+        "Bolivia": 96.81,
+        "Bosnia and Herzegovina": 262.29,
+        "Brazil": 134.2,
+        "Bulgaria": 186.71,
+        "Burkina Faso": 229.9,
+        "Cambodia": 235.08,
+        "Cameroon": 184.76,
+        "Canada": 257.43,
+        "Chile": 209.23,
+        "China": 236.47,
+        "Colombia": 145.65,
+        "Cote d'Ivoire": 181.5,
+        "Cuba": 145.09,
+        "C\u00f4te-d'Ivoire": 181.5,
+        "Democratic Republic of the Congo": 253.73,
+        "Denmark": 90.49,
+        "Dominican Republic": 120.12,
+        "Ecuador": 169.65,
+        "Egypt": 208.54,
+        "El Salvador": 144.99,
+        "Equatorial Guinea": 124.29,
+        "Finland": 124.41,
+        "France": 188.38,
+        "Georgia": 261.92,
+        "Germany": 240.16,
+        "Ghana": 209.93,
+        "Greece": 245.13,
+        "Guatemala": 150.26,
+        "Guinea": 144.63,
+        "Haiti": 115.56,
+        "Honduras": 97.21,
+        "Hong Kong": 359.85,
+        "Hungary": 174.04,
+        "India": 234.62,
+        "Indonesia": 221.86,
+        "Iran": 254.89,
+        "Iraq": 220.96,
+        "Ireland": 95.91,
+        "Israel": 271.68,
+        "Italy": 232.22,
+        "Jamaica": 211.94,
+        "Japan": 232.74,
+        "Jordan": 142.47,
+        "Kazakhstan": 82.65,
+        "Kenya": 257.51,
+        "Lebanon": 174.33,
+        "Lesotho": 316.59,
+        "Liberia": 362.21,
+        "Libya": 149.61,
+        "Lithuania": 92.62,
+        "Madagascar": 276.27,
+        "Malaysia": 240.45,
+        "Mali": 145.49,
+        "Martinique": 128.36,
+        "Mauritania": 261.87,
+        "Mexico": 163.29,
+        "Moldova": 306.84,
+        "Mongolia": 147.15,
+        "Morocco": 303.61,
+        "Mozambique": 298.4,
+        "Myanmar (Burma)": 112.42,
+        "Namibia": 357.36,
+        "Nepal": 379.83,
+        "Netherlands": 141.47,
+        "New Zealand": 183.43,
+        "Nicaragua": 190.48,
+        "Nigeria": 66.46,
+        "Norway": 315.85,
+        "Pakistan": 105.86,
+        "Panama": 97.39,
+        "Paraguay": 211.66,
+        "Peru": 119.26,
+        "Philippines": 152.49,
+        "Poland": 191.79,
+        "Portugal": 126.15,
+        "Qatar": 241.78,
+        "Romania": 214.79,
+        "Russia": 207.6,
+        "Rwanda": 144.33,
+        "Saudi Arabia": 256.64,
+        "Senegal": 281.53,
+        "Serbia": 171.09,
+        "Sierra Leone": 166.8,
+        "Singapore": 180.73,
+        "Somalia": 379.83,
+        "South Africa": 215.24,
+        "South Korea": 142.91,
+        "South Sudan": 378.3,
+        "Spain": 208.23,
+        "Sudan": 248.77,
+        "Sweden": 86.61,
+        "Switzerland": 277.82,
+        "Syria": 232.28,
+        "Tanzania": 240.99,
+        "Thailand": 136.52,
+        "Trinidad and Tobago": 164.07,
+        "Tunisia": 357.36,
+        "Turkey": 93.15,
+        "Turkmenistan": 79.53,
+        "Uganda": 79.53,
+        "Ukraine": 235.48,
+        "United Kingdom": 231.18,
+        "United States": 639.01,
+        "Venezuela": 105.71,
+        "Vietnam": 116.87,
+        "Yemen": 106.78,
+        "Zambia": 264.51,
+        "Zimbabwe": 42.81
+    },
+    "country_profit": {
+        "Afghanistan": 1.41,
+        "Algeria": 71.66,
+        "Angola": 36.11,
+        "Argentina": -28.7,
+        "Australia": 27.98,
+        "Austria": 77.76,
+        "Bangladesh": 65.11,
+        "Barbados": 49.65,
+        "Belarus": 77.22,
+        "Belgium": 51.87,
+        "Benin": 80.91,
+        "Bolivia": 9.51,
+        "Bosnia and Herzegovina": 28.83,
+        "Brazil": 14.68,
+        "Bulgaria": 56.26,
+        "Burkina Faso": 79.99,
+        "Cambodia": 55.84,
+        "Cameroon": 37.44,
+        "Canada": 91.85,
+        "Chile": 62.16,
+        "China": 58.1,
+        "Colombia": 28.83,
+        "Cote d'Ivoire": 31.07,
+        "Cuba": 32.84,
+        "C\u00f4te-d'Ivoire": 31.07,
+        "Democratic Republic of the Congo": 60.0,
+        "Denmark": -28.65,
+        "Dominican Republic": -4.41,
+        "Ecuador": 39.79,
+        "Egypt": 48.86,
+        "El Salvador": 34.7,
+        "Equatorial Guinea": 42.24,
+        "Finland": 19.89,
+        "France": 10.74,
+        "Georgia": 56.35,
+        "Germany": 47.61,
+        "Ghana": 56.13,
+        "Greece": 83.34,
+        "Guatemala": 32.42,
+        "Guinea": 10.58,
+        "Haiti": -8.9,
+        "Honduras": -32.58,
+        "Hong Kong": 79.14,
+        "Hungary": 44.58,
+        "India": 60.26,
+        "Indonesia": 40.66,
+        "Iran": 80.89,
+        "Iraq": 49.22,
+        "Ireland": -52.42,
+        "Israel": 39.18,
+        "Italy": 51.48,
+        "Jamaica": 20.8,
+        "Japan": 73.82,
+        "Jordan": 44.16,
+        "Kazakhstan": -163.1,
+        "Kenya": 67.48,
+        "Lebanon": 71.46,
+        "Lesotho": 37.98,
+        "Liberia": 109.58,
+        "Libya": 38.8,
+        "Lithuania": -159.99,
+        "Madagascar": 74.84,
+        "Malaysia": 79.87,
+        "Mali": 11.67,
+        "Martinique": 16.46,
+        "Mauritania": 130.92,
+        "Mexico": 35.22,
+        "Moldova": 49.86,
+        "Mongolia": 69.15,
+        "Morocco": 100.04,
+        "Mozambique": 26.24,
+        "Myanmar (Burma)": -24.59,
+        "Namibia": 117.9,
+        "Nepal": 155.73,
+        "Netherlands": -80.8,
+        "New Zealand": 20.52,
+        "Nicaragua": 43.66,
+        "Nigeria": -102.14,
+        "Norway": 82.72,
+        "Pakistan": -52.72,
+        "Panama": -38.23,
+        "Paraguay": -0.42,
+        "Peru": -35.02,
+        "Philippines": -19.55,
+        "Poland": 26.53,
+        "Portugal": -58.51,
+        "Qatar": 28.76,
+        "Romania": 49.86,
+        "Russia": 52.03,
+        "Rwanda": 44.73,
+        "Saudi Arabia": 72.92,
+        "Senegal": 59.19,
+        "Serbia": 66.72,
+        "Sierra Leone": 20.01,
+        "Singapore": 35.66,
+        "Somalia": 45.57,
+        "South Africa": 47.52,
+        "South Korea": -60.02,
+        "South Sudan": 166.44,
+        "Spain": 52.49,
+        "Sudan": 43.44,
+        "Sweden": -46.83,
+        "Switzerland": 96.67,
+        "Syria": 70.18,
+        "Tanzania": 70.4,
+        "Thailand": -16.54,
+        "Trinidad and Tobago": 64.45,
+        "Tunisia": 117.9,
+        "Turkey": -83.34,
+        "Turkmenistan": -95.46,
+        "Uganda": -95.46,
+        "Ukraine": 52.87,
+        "United Kingdom": 56.87,
+        "United States": 237.68,
+        "Venezuela": -41.81,
+        "Vietnam": -11.25,
+        "Yemen": -160.16,
+        "Zambia": 43.37,
+        "Zimbabwe": -44.89
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.01,
+        "Algeria": 0.24,
+        "Angola": 0.15,
+        "Argentina": -0.3,
+        "Australia": 0.14,
+        "Austria": 0.32,
+        "Bangladesh": 0.25,
+        "Barbados": 0.32,
+        "Belarus": 0.34,
+        "Belgium": 0.25,
+        "Benin": 0.3,
+        "Bolivia": 0.1,
+        "Bosnia and Herzegovina": 0.11,
+        "Brazil": 0.11,
+        "Bulgaria": 0.3,
+        "Burkina Faso": 0.35,
+        "Cambodia": 0.24,
+        "Cameroon": 0.2,
+        "Canada": 0.36,
+        "Chile": 0.3,
+        "China": 0.25,
+        "Colombia": 0.2,
+        "Cote d'Ivoire": 0.17,
+        "Cuba": 0.23,
+        "C\u00f4te-d'Ivoire": 0.17,
+        "Democratic Republic of the Congo": 0.24,
+        "Denmark": -0.32,
+        "Dominican Republic": -0.04,
+        "Ecuador": 0.23,
+        "Egypt": 0.23,
+        "El Salvador": 0.24,
+        "Equatorial Guinea": 0.34,
+        "Finland": 0.16,
+        "France": 0.06,
+        "Georgia": 0.22,
+        "Germany": 0.2,
+        "Ghana": 0.27,
+        "Greece": 0.34,
+        "Guatemala": 0.22,
+        "Guinea": 0.07,
+        "Haiti": -0.08,
+        "Honduras": -0.34,
+        "Hong Kong": 0.22,
+        "Hungary": 0.26,
+        "India": 0.26,
+        "Indonesia": 0.18,
+        "Iran": 0.32,
+        "Iraq": 0.22,
+        "Ireland": -0.55,
+        "Israel": 0.14,
+        "Italy": 0.22,
+        "Jamaica": 0.1,
+        "Japan": 0.32,
+        "Jordan": 0.31,
+        "Kazakhstan": -1.97,
+        "Kenya": 0.26,
+        "Lebanon": 0.41,
+        "Lesotho": 0.12,
+        "Liberia": 0.3,
+        "Libya": 0.26,
+        "Lithuania": -1.73,
+        "Madagascar": 0.27,
+        "Malaysia": 0.33,
+        "Mali": 0.08,
+        "Martinique": 0.13,
+        "Mauritania": 0.5,
+        "Mexico": 0.22,
+        "Moldova": 0.16,
+        "Mongolia": 0.47,
+        "Morocco": 0.33,
+        "Mozambique": 0.09,
+        "Myanmar (Burma)": -0.22,
+        "Namibia": 0.33,
+        "Nepal": 0.41,
+        "Netherlands": -0.57,
+        "New Zealand": 0.11,
+        "Nicaragua": 0.23,
+        "Nigeria": -1.54,
+        "Norway": 0.26,
+        "Pakistan": -0.5,
+        "Panama": -0.39,
+        "Paraguay": -0.0,
+        "Peru": -0.29,
+        "Philippines": -0.13,
+        "Poland": 0.14,
+        "Portugal": -0.46,
+        "Qatar": 0.12,
+        "Romania": 0.23,
+        "Russia": 0.25,
+        "Rwanda": 0.31,
+        "Saudi Arabia": 0.28,
+        "Senegal": 0.21,
+        "Serbia": 0.39,
+        "Sierra Leone": 0.12,
+        "Singapore": 0.2,
+        "Somalia": 0.12,
+        "South Africa": 0.22,
+        "South Korea": -0.42,
+        "South Sudan": 0.44,
+        "Spain": 0.25,
+        "Sudan": 0.17,
+        "Sweden": -0.54,
+        "Switzerland": 0.35,
+        "Syria": 0.3,
+        "Tanzania": 0.29,
+        "Thailand": -0.12,
+        "Trinidad and Tobago": 0.39,
+        "Tunisia": 0.33,
+        "Turkey": -0.89,
+        "Turkmenistan": -1.2,
+        "Uganda": -1.2,
+        "Ukraine": 0.22,
+        "United Kingdom": 0.25,
+        "United States": 0.37,
+        "Venezuela": -0.4,
+        "Vietnam": -0.1,
+        "Yemen": -1.5,
+        "Zambia": 0.16,
+        "Zimbabwe": -1.05
+    },
+    "top_10_states": {
+        "England": [
+            140,
+            0.03
+        ],
+        "New South Wales": [
+            106,
+            0.02
+        ],
+        "Ile-de-France": [
+            102,
+            0.02
+        ],
+        "Queensland": [
+            96,
+            0.02
+        ],
+        "Victoria": [
+            64,
+            0.01
+        ],
+        "Distrito Federal": [
+            62,
+            0.01
+        ],
+        "North Rhine-Westphalia": [
+            56,
+            0.01
+        ],
+        "San Salvador": [
+            54,
+            0.01
+        ],
+        "Guatemala": [
+            52,
+            0.01
+        ],
+        "S\u00e3o Paulo": [
+            52,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        140,
+        106,
+        102,
+        96,
+        64,
+        62,
+        56,
+        54,
+        52,
+        52
+    ],
+    "top_10_cities": {
+        "Manila": [
+            54,
+            0.01
+        ],
+        "Santo Domingo": [
+            50,
+            0.01
+        ],
+        "Sydney": [
+            44,
+            0.01
+        ],
+        "Jakarta": [
+            42,
+            0.01
+        ],
+        "Mexico City": [
+            40,
+            0.01
+        ],
+        "Managua": [
+            36,
+            0.01
+        ],
+        "Bangkok": [
+            34,
+            0.01
+        ],
+        "Melbourne": [
+            32,
+            0.01
+        ],
+        "Gold Coast": [
+            30,
+            0.01
+        ],
+        "Tegucigalpa": [
+            30,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        54,
+        50,
+        44,
+        42,
+        40,
+        36,
+        34,
+        32,
+        30,
+        30
+    ],
+    "yearly_sales": {
+        "2011": 216367.89214,
+        "2012": 327168.5988,
+        "2013": 415514.88857999997,
+        "2014": 766752.7859,
+        "2015": 327168.5988,
+        "2016": 415514.88858,
+        "2017": 550384.89376
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 5667.47308,
+            "2012": 28857.65172,
+            "2013": 19043.73564,
+            "2014": 31375.813280000002,
+            "2015": 28857.65172,
+            "2016": 19043.73564,
+            "2017": 25708.3402
+        },
+        "August": {
+            "2011": 25272.38412,
+            "2012": 39637.08478,
+            "2013": 38194.86586,
+            "2014": 66175.53788,
+            "2015": 39637.08478,
+            "2016": 38194.86586,
+            "2017": 42060.73376
+        },
+        "December": {
+            "2011": 32563.7138,
+            "2012": 45195.8009,
+            "2013": 42036.84822,
+            "2014": 87618.61328,
+            "2015": 45195.8009,
+            "2016": 42036.84822,
+            "2017": 57790.26408
+        },
+        "February": {
+            "2011": 9910.23908,
+            "2012": 7047.72498,
+            "2013": 21244.2082,
+            "2014": 34201.93004,
+            "2015": 6952.20798,
+            "2016": 21244.2082,
+            "2017": 23703.99096
+        },
+        "January": {
+            "2011": 8965.63376,
+            "2012": 14819.33784,
+            "2013": 17250.410780000002,
+            "2014": 43517.80492,
+            "2015": 14914.85484,
+            "2016": 17250.41078,
+            "2017": 34552.17116
+        },
+        "July": {
+            "2011": 12280.23902,
+            "2012": 13592.55522,
+            "2013": 31743.054500000002,
+            "2014": 39250.6056,
+            "2015": 13592.55522,
+            "2016": 31743.0545,
+            "2017": 25812.78658
+        },
+        "June": {
+            "2011": 18588.35032,
+            "2012": 31414.93422,
+            "2013": 47010.561499999996,
+            "2014": 62737.00422,
+            "2015": 31414.93422,
+            "2016": 47010.561499999996,
+            "2017": 44148.6539
+        },
+        "March": {
+            "2011": 11088.95406,
+            "2012": 19511.070359999998,
+            "2013": 17545.87932,
+            "2014": 63121.244679999996,
+            "2015": 19511.070359999998,
+            "2016": 17545.87932,
+            "2017": 52619.99062
+        },
+        "May": {
+            "2011": 15480.1558,
+            "2012": 31806.21924,
+            "2013": 46200.0935,
+            "2014": 47679.81894,
+            "2015": 31806.21924,
+            "2016": 46200.0935,
+            "2017": 32199.66314
+        },
+        "November": {
+            "2011": 28415.89312,
+            "2012": 30172.1,
+            "2013": 43241.5005,
+            "2014": 98044.63646,
+            "2015": 30172.1,
+            "2016": 43241.5005,
+            "2017": 69855.8213
+        },
+        "October": {
+            "2011": 22691.95954,
+            "2012": 30620.8434,
+            "2013": 48800.20088,
+            "2014": 100236.64774,
+            "2015": 30620.8434,
+            "2016": 48800.200880000004,
+            "2017": 74814.22076
+        },
+        "September": {
+            "2011": 25442.89644,
+            "2012": 34493.27614,
+            "2013": 43203.52968,
+            "2014": 92793.12886,
+            "2015": 34493.27614,
+            "2016": 43203.52968,
+            "2017": 67118.2573
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Canon imageCLASS 2200 Advanced Copier": 123199.64799999999,
+        "Hewlett Copy Machine, Color": 59418.3864,
+        "Canon Wireless Fax, Color": 53171.4288,
+        "Brother Copy Machine, Color": 52453.86012,
+        "Brother Wireless Fax, Laser": 47810.36772,
+        "Hewlett Wireless Fax, High-Speed": 47621.13828,
+        "Hewlett Wireless Fax, Color": 46531.89148,
+        "Brother Fax Machine, High-Speed": 44863.0536,
+        "Canon Fax Machine, High-Speed": 44680.97988,
+        "HP Copy Machine, Color": 44594.64292
+    },
+    "top_10_products_by_profit": {
+        "Canon imageCLASS 2200 Advanced Copier": 50399.856,
+        "Hewlett Wireless Fax, High-Speed": 17355.87828,
+        "Canon Wireless Fax, Laser": 15983.095840000002,
+        "Hewlett Packard LaserJet 3310 Copier": 13967.7672,
+        "Brother Copy Machine, Color": 13040.100120000001,
+        "HP Copy Machine, Color": 12199.00292,
+        "HP Fax Machine, Laser": 11802.16848,
+        "Hewlett Wireless Fax, Digital": 11766.3864,
+        "Brother Fax Machine, Laser": 11302.95304,
+        "Brother Fax Machine, Digital": 10394.73712
+    },
+    "top_10_products_by_turnover": {
+        "Hewlett Copy Machine, Color": 304,
+        "Brother Copy Machine, Color": 250,
+        "Sharp Copy Machine, Color": 240,
+        "HP Copy Machine, Color": 220,
+        "Canon Wireless Fax, Color": 194,
+        "Brother Ink, Color": 184,
+        "Sharp Personal Copier, Digital": 184,
+        "Brother Wireless Fax, Laser": 172,
+        "Brother Fax Machine, High-Speed": 168,
+        "Hewlett Fax Machine, High-Speed": 168
+    },
+    "top_5_loss_products": {
+        "Hewlett Copy Machine, Color": -6206.36824,
+        "Canon Wireless Fax, Color": -5571.1416,
+        "Canon Fax Machine, Color": -4877.15484,
+        "HP Wireless Fax, Laser": -4447.16304,
+        "Sharp Fax Machine, Digital": -4182.73304
+    },
+    "product_performance": [
+        {
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 123199.64799999999,
+            "total_quantity": 40,
+            "average_price": 12319.964799999998,
+            "total_profit": 50399.856,
+            "profit_margin": 0.4090909090909091
+        },
+        {
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 59418.3864,
+            "total_quantity": 304,
+            "average_price": 660.2042933333333,
+            "total_profit": 4206.8864,
+            "profit_margin": 0.07080108792722113
+        },
+        {
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 53171.4288,
+            "total_quantity": 194,
+            "average_price": 1265.9864,
+            "total_profit": 5230.4688,
+            "profit_margin": 0.09836991252715781
+        },
+        {
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 52453.86012,
+            "total_quantity": 250,
+            "average_price": 609.9286060465116,
+            "total_profit": 13040.100120000001,
+            "profit_margin": 0.2486013439271741
+        },
+        {
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 47810.36772,
+            "total_quantity": 172,
+            "average_price": 956.2073544,
+            "total_profit": 8001.287719999999,
+            "profit_margin": 0.16735465761023433
+        },
+        {
+            "Product Name": "Hewlett Wireless Fax, High-Speed",
+            "total_sales": 47621.13828,
+            "total_quantity": 150,
+            "average_price": 1082.2985972727272,
+            "total_profit": 17355.87828,
+            "profit_margin": 0.3644574427841669
+        },
+        {
+            "Product Name": "Hewlett Wireless Fax, Color",
+            "total_sales": 46531.89148,
+            "total_quantity": 148,
+            "average_price": 1057.5429881818181,
+            "total_profit": 10108.41148,
+            "profit_margin": 0.21723620421372136
+        },
+        {
+            "Product Name": "Brother Fax Machine, High-Speed",
+            "total_sales": 44863.0536,
+            "total_quantity": 168,
+            "average_price": 1121.57634,
+            "total_profit": 8321.8536,
+            "profit_margin": 0.18549458702026472
+        },
+        {
+            "Product Name": "Canon Fax Machine, High-Speed",
+            "total_sales": 44680.97988,
+            "total_quantity": 164,
+            "average_price": 1015.4768154545454,
+            "total_profit": 4023.17988,
+            "profit_margin": 0.09004233771965343
+        },
+        {
+            "Product Name": "HP Copy Machine, Color",
+            "total_sales": 44594.64292,
+            "total_quantity": 220,
+            "average_price": 602.6303097297297,
+            "total_profit": 12199.00292,
+            "profit_margin": 0.2735531023734005
+        },
+        {
+            "Product Name": "Hewlett Wireless Fax, Digital",
+            "total_sales": 44090.666399999995,
+            "total_quantity": 132,
+            "average_price": 1224.740733333333,
+            "total_profit": 11766.3864,
+            "profit_margin": 0.2668679645994192
+        },
+        {
+            "Product Name": "Canon Wireless Fax, Laser",
+            "total_sales": 43857.91584,
+            "total_quantity": 132,
+            "average_price": 1289.9387011764707,
+            "total_profit": 15983.095840000002,
+            "profit_margin": 0.3644289869657427
+        },
+        {
+            "Product Name": "Sharp Copy Machine, Color",
+            "total_sales": 43828.08624,
+            "total_quantity": 240,
+            "average_price": 664.0619127272727,
+            "total_profit": 3266.4662400000007,
+            "profit_margin": 0.0745290639000988
+        },
+        {
+            "Product Name": "Hewlett Wireless Fax, Laser",
+            "total_sales": 43085.15848,
+            "total_quantity": 146,
+            "average_price": 1077.128962,
+            "total_profit": 3515.2584800000004,
+            "profit_margin": 0.08158861668413667
+        },
+        {
+            "Product Name": "Sharp Wireless Fax, Color",
+            "total_sales": 42861.28192,
+            "total_quantity": 138,
+            "average_price": 1020.5067123809524,
+            "total_profit": 7765.86192,
+            "profit_margin": 0.18118594619952982
+        },
+        {
+            "Product Name": "Hewlett Fax Machine, High-Speed",
+            "total_sales": 41974.8736,
+            "total_quantity": 168,
+            "average_price": 874.4765333333334,
+            "total_profit": 3616.9736000000003,
+            "profit_margin": 0.08616997002702112
+        },
+        {
+            "Product Name": "Sharp Wireless Fax, Digital",
+            "total_sales": 41491.95568,
+            "total_quantity": 152,
+            "average_price": 942.9989927272727,
+            "total_profit": 5010.23568,
+            "profit_margin": 0.12075197704925342
+        },
+        {
+            "Product Name": "Brother Fax Machine, Laser",
+            "total_sales": 41094.63304,
+            "total_quantity": 150,
+            "average_price": 1027.365826,
+            "total_profit": 11302.95304,
+            "profit_margin": 0.2750469393168233
+        },
+        {
+            "Product Name": "Canon Wireless Fax, High-Speed",
+            "total_sales": 39191.43008,
+            "total_quantity": 126,
+            "average_price": 1224.73219,
+            "total_profit": 2372.5100799999996,
+            "profit_margin": 0.06053645083011984
+        },
+        {
+            "Product Name": "Hewlett Packard LaserJet 3310 Copier",
+            "total_sales": 37679.372,
+            "total_quantity": 76,
+            "average_price": 2354.96075,
+            "total_profit": 13967.7672,
+            "profit_margin": 0.37070063694267513
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 378.81000000000006,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 549.927,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 105.49200000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1833.0900000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1512.20952,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 820.0736,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 529.15956,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 665.63878,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 417.59536,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 316.476,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1292.34,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 526.4050799999999,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 786.8950799999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1894.05,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 530.2199999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 520.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 636.2639999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1900.5,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1264.466,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1219.6158799999998,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1641.087,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 529.15956,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1157.0229,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3068.361000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1366.8813,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 346.62536,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 704.1321600000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 527.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 3416.3388,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 159.066,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2052.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 492.36283999999995,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1518.47808,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 302.03784,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 606.1328,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1398.3858,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1590.66,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2808.7245000000003,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 806.1076800000001,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 303.0664,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3533.034600000001,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 3040.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 8399.975999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 969.0228,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 2144.5696800000005,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1558.8467999999996,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 238.65030000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 520.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1248.0526800000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 114.03000000000004,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1094.30772,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 504.06984,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2746.8559999999998,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 175.46836,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 17499.949999999997,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1661.4990000000005,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2052.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 877.3417999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 3002.8125999999997,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1051.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 318.13199999999995,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 378.81,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 549.927,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 13999.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 4360.002,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 643.9770000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 228.0600000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 369.22200000000004,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1770.2524,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1965.645,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1301.40804,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 2646.11412,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 380.1,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 820.0736,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1040.9986000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 448.341,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 477.3006000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1492.659,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2510.48354,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2280.6000000000004,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1093.6258599999999,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2161.5310799999997,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3596.1696000000006,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1292.34,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 11199.968,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 176.38652000000002,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 3250.9118,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 2423.87892,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1872.6260000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 10499.97,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 2582.45668,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 786.89508,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1894.0500000000002,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1264.466,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 2651.1,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 520.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 636.264,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1900.5,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1264.466,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1219.61588,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1641.087,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 529.15956,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1157.0229,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3068.361,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1366.8813,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 346.62536,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 704.13216,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 527.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 3416.3387999999995,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 159.066,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2052.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 492.36284,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1518.47808,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 302.03784,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 606.1328,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1398.3858,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1590.66,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2808.7245000000003,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 806.10768,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 303.0664,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3533.0346,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 3040.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 8399.976,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 969.0228,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 2144.56968,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1558.8467999999998,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 238.6503,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 520.98,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1248.05268,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 114.03,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1094.30772,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 504.06984,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2746.8559999999998,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 175.46836,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 17499.95,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1661.499,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2052.54,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 877.3418,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 3002.8126,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1051.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 318.132,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 13999.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 4360.002,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 643.977,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 228.06,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 263.73,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1770.2524,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 132.555,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1301.40804,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1133.9046,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 380.1,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 511.83904,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 448.341,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 477.3006,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 1492.659,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1844.84476,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 2280.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 676.0305,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 1845.05508,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 3596.1696,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 11199.968,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 176.38652,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Brother Copy Machine, Color",
+            "total_sales": 2724.50672,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 529.82892,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1872.626,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "total_sales": 10499.97,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 2582.45668,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Brother Wireless Fax, Laser",
+            "total_sales": 1894.05,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Canon Wireless Fax, Color",
+            "total_sales": 1264.466,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Hewlett Copy Machine, Color",
+            "total_sales": 2120.88,
+            "total_quantity": 8
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-09",
+            "Order Count": 141
+        },
+        {
+            "Order Month": "2014-11",
+            "Order Count": 138
+        },
+        {
+            "Order Month": "2014-12",
+            "Order Count": 134
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 120
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 111
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 109
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 102
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 96
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 89
+        },
+        {
+            "Order Month": "2017-10",
+            "Order Count": 84
+        },
+        {
+            "Order Month": "2017-06",
+            "Order Count": 78
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 75
+        },
+        {
+            "Order Month": "2017-08",
+            "Order Count": 72
+        },
+        {
+            "Order Month": "2014-03",
+            "Order Count": 70
+        },
+        {
+            "Order Month": "2014-07",
+            "Order Count": 70
+        },
+        {
+            "Order Month": "2013-06",
+            "Order Count": 69
+        },
+        {
+            "Order Month": "2016-06",
+            "Order Count": 69
+        },
+        {
+            "Order Month": "2012-12",
+            "Order Count": 69
+        },
+        {
+            "Order Month": "2015-12",
+            "Order Count": 69
+        },
+        {
+            "Order Month": "2013-11",
+            "Order Count": 65
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 8965.63376,
+            "Quantity": 51,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 9910.23908,
+            "Quantity": 60,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 11088.95406,
+            "Quantity": 68,
+            "Sales_MA": 9988.275633333333
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 5667.47308,
+            "Quantity": 46,
+            "Sales_MA": 8888.88874
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 15480.1558,
+            "Quantity": 77,
+            "Sales_MA": 10745.527646666667
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 18588.35032,
+            "Quantity": 103,
+            "Sales_MA": 13245.3264
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 12280.23902,
+            "Quantity": 67,
+            "Sales_MA": 15449.581713333335
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 25272.38412,
+            "Quantity": 122,
+            "Sales_MA": 18713.65782
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 25442.89644,
+            "Quantity": 114,
+            "Sales_MA": 20998.506526666664
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 22691.95954,
+            "Quantity": 123,
+            "Sales_MA": 24469.08003333333
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 28415.89312,
+            "Quantity": 148,
+            "Sales_MA": 25516.91636666667
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 32563.7138,
+            "Quantity": 159,
+            "Sales_MA": 27890.522153333335
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 14819.33784,
+            "Quantity": 68,
+            "Sales_MA": 25266.31492
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 7047.72498,
+            "Quantity": 42,
+            "Sales_MA": 18143.592206666668
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 19511.070359999998,
+            "Quantity": 102,
+            "Sales_MA": 13792.71106
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 28857.65172,
+            "Quantity": 159,
+            "Sales_MA": 18472.14902
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 31806.21924,
+            "Quantity": 138,
+            "Sales_MA": 26724.98044
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 31414.93422,
+            "Quantity": 140,
+            "Sales_MA": 30692.93506
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 13592.55522,
+            "Quantity": 85,
+            "Sales_MA": 25604.56956
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 39637.08478,
+            "Quantity": 187,
+            "Sales_MA": 28214.858073333333
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 34493.27614,
+            "Quantity": 183,
+            "Sales_MA": 29240.972046666666
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 30620.8434,
+            "Quantity": 154,
+            "Sales_MA": 34917.068106666666
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 30172.1,
+            "Quantity": 168,
+            "Sales_MA": 31762.073180000003
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 45195.8009,
+            "Quantity": 217,
+            "Sales_MA": 35329.58143333333
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 17250.410780000002,
+            "Quantity": 100,
+            "Sales_MA": 30872.770560000004
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 21244.2082,
+            "Quantity": 104,
+            "Sales_MA": 27896.80662666667
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 17545.87932,
+            "Quantity": 108,
+            "Sales_MA": 18680.166100000002
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 19043.73564,
+            "Quantity": 107,
+            "Sales_MA": 19277.941053333332
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 46200.0935,
+            "Quantity": 194,
+            "Sales_MA": 27596.56948666667
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 47010.561499999996,
+            "Quantity": 257,
+            "Sales_MA": 37418.13021333333
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 31743.054500000002,
+            "Quantity": 159,
+            "Sales_MA": 41651.2365
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 38194.86586,
+            "Quantity": 195,
+            "Sales_MA": 38982.82728666667
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 43203.52968,
+            "Quantity": 200,
+            "Sales_MA": 37713.816679999996
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 48800.20088,
+            "Quantity": 165,
+            "Sales_MA": 43399.53214
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 43241.5005,
+            "Quantity": 226,
+            "Sales_MA": 45081.74368666666
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 42036.84822,
+            "Quantity": 216,
+            "Sales_MA": 44692.849866666664
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 43517.80492,
+            "Quantity": 200,
+            "Sales_MA": 42932.05121333333
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 34201.93004,
+            "Quantity": 190,
+            "Sales_MA": 39918.86106
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 63121.244679999996,
+            "Quantity": 261,
+            "Sales_MA": 46946.99321333333
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 31375.813280000002,
+            "Quantity": 184,
+            "Sales_MA": 42899.66266666666
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 47679.81894,
+            "Quantity": 226,
+            "Sales_MA": 47392.2923
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 62737.00422,
+            "Quantity": 345,
+            "Sales_MA": 47264.212146666665
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 39250.6056,
+            "Quantity": 212,
+            "Sales_MA": 49889.142920000006
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 66175.53788,
+            "Quantity": 344,
+            "Sales_MA": 56054.38256666667
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 92793.12886,
+            "Quantity": 468,
+            "Sales_MA": 66073.09078
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 100236.64774,
+            "Quantity": 450,
+            "Sales_MA": 86401.77149333333
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 98044.63646,
+            "Quantity": 449,
+            "Sales_MA": 97024.80435333333
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 87618.61328,
+            "Quantity": 451,
+            "Sales_MA": 95299.96582666667
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 14914.85484,
+            "Quantity": 69,
+            "Sales_MA": 66859.36819333334
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 6952.20798,
+            "Quantity": 41,
+            "Sales_MA": 36495.22536666667
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 19511.070359999998,
+            "Quantity": 102,
+            "Sales_MA": 13792.71106
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 28857.65172,
+            "Quantity": 159,
+            "Sales_MA": 18440.31002
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 31806.21924,
+            "Quantity": 138,
+            "Sales_MA": 26724.98044
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 31414.93422,
+            "Quantity": 140,
+            "Sales_MA": 30692.93506
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 13592.55522,
+            "Quantity": 85,
+            "Sales_MA": 25604.56956
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 39637.08478,
+            "Quantity": 187,
+            "Sales_MA": 28214.858073333333
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 34493.27614,
+            "Quantity": 183,
+            "Sales_MA": 29240.972046666666
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 30620.8434,
+            "Quantity": 154,
+            "Sales_MA": 34917.068106666666
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 30172.1,
+            "Quantity": 168,
+            "Sales_MA": 31762.073180000003
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 45195.8009,
+            "Quantity": 217,
+            "Sales_MA": 35329.58143333333
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 17250.41078,
+            "Quantity": 100,
+            "Sales_MA": 30872.770560000004
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 21244.2082,
+            "Quantity": 104,
+            "Sales_MA": 27896.80662666667
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 17545.87932,
+            "Quantity": 108,
+            "Sales_MA": 18680.1661
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 19043.73564,
+            "Quantity": 107,
+            "Sales_MA": 19277.941053333332
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 46200.0935,
+            "Quantity": 194,
+            "Sales_MA": 27596.569486666664
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 47010.561499999996,
+            "Quantity": 257,
+            "Sales_MA": 37418.13021333333
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 31743.0545,
+            "Quantity": 159,
+            "Sales_MA": 41651.2365
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 38194.86586,
+            "Quantity": 195,
+            "Sales_MA": 38982.82728666667
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 43203.52968,
+            "Quantity": 200,
+            "Sales_MA": 37713.816679999996
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 48800.200880000004,
+            "Quantity": 165,
+            "Sales_MA": 43399.53214
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 43241.5005,
+            "Quantity": 226,
+            "Sales_MA": 45081.74368666666
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 42036.84822,
+            "Quantity": 216,
+            "Sales_MA": 44692.849866666664
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 34552.17116,
+            "Quantity": 149,
+            "Sales_MA": 39943.50662666667
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 23703.99096,
+            "Quantity": 128,
+            "Sales_MA": 33431.00344666667
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 52619.99062,
+            "Quantity": 195,
+            "Sales_MA": 36958.71758
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 25708.3402,
+            "Quantity": 138,
+            "Sales_MA": 34010.77392666667
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 32199.66314,
+            "Quantity": 149,
+            "Sales_MA": 36842.66465333333
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 44148.6539,
+            "Quantity": 242,
+            "Sales_MA": 34018.88574666667
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 25812.78658,
+            "Quantity": 139,
+            "Sales_MA": 34053.701206666665
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 42060.73376,
+            "Quantity": 228,
+            "Sales_MA": 37340.72474666667
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 67118.2573,
+            "Quantity": 352,
+            "Sales_MA": 44997.25921333333
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 74814.22076,
+            "Quantity": 316,
+            "Sales_MA": 61331.07060666667
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 69855.8213,
+            "Quantity": 305,
+            "Sales_MA": 70596.09978666667
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 57790.26408,
+            "Quantity": 301,
+            "Sales_MA": 67486.76871333334
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Tamara Chand",
+            "total_spent": 42911.121999999996,
+            "purchase_frequency": 16,
+            "average_order_value": 2681.9451249999997
+        },
+        {
+            "Customer Name": "Raymond Buch",
+            "total_spent": 32450.42,
+            "purchase_frequency": 6,
+            "average_order_value": 5408.403333333333
+        },
+        {
+            "Customer Name": "Tom Ashbrook",
+            "total_spent": 32321.3976,
+            "purchase_frequency": 13,
+            "average_order_value": 1795.6332
+        },
+        {
+            "Customer Name": "Hunter Lopez",
+            "total_spent": 28081.38336,
+            "purchase_frequency": 10,
+            "average_order_value": 2808.138336
+        },
+        {
+            "Customer Name": "Christopher Conant",
+            "total_spent": 26146.0512,
+            "purchase_frequency": 8,
+            "average_order_value": 3268.2564
+        },
+        {
+            "Customer Name": "Patrick O'Donnell",
+            "total_spent": 17854.5576,
+            "purchase_frequency": 14,
+            "average_order_value": 1115.90985
+        },
+        {
+            "Customer Name": "Philisse Overcash",
+            "total_spent": 16335.495,
+            "purchase_frequency": 12,
+            "average_order_value": 1020.9684375
+        },
+        {
+            "Customer Name": "Aaron Bergman",
+            "total_spent": 14707.365600000001,
+            "purchase_frequency": 12,
+            "average_order_value": 1050.5261142857144
+        },
+        {
+            "Customer Name": "Muhammed Lee",
+            "total_spent": 14613.85552,
+            "purchase_frequency": 18,
+            "average_order_value": 730.692776
+        },
+        {
+            "Customer Name": "Dave Poirier",
+            "total_spent": 14251.958400000001,
+            "purchase_frequency": 10,
+            "average_order_value": 1187.6632000000002
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 1441451.16,
+            "total_quantity": 5602,
+            "average_profit": 225.7176
+        },
+        {
+            "Discount": 0.002,
+            "total_sales": 522791.2422,
+            "total_quantity": 3314,
+            "average_profit": 125.7626
+        },
+        {
+            "Discount": 0.07,
+            "total_sales": 124239.3138,
+            "total_quantity": 560,
+            "average_profit": 140.5656
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 285522.138,
+            "total_quantity": 1338,
+            "average_profit": 136.6954
+        },
+        {
+            "Discount": 0.15,
+            "total_sales": 185021.829,
+            "total_quantity": 946,
+            "average_profit": 62.4196
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 112318.096,
+            "total_quantity": 238,
+            "average_profit": 483.2085
+        },
+        {
+            "Discount": 0.202,
+            "total_sales": 32431.2946,
+            "total_quantity": 270,
+            "average_profit": -14.5188
+        },
+        {
+            "Discount": 0.35,
+            "total_sales": 45748.209,
+            "total_quantity": 300,
+            "average_profit": -73.2944
+        },
+        {
+            "Discount": 0.37,
+            "total_sales": 28400.7276,
+            "total_quantity": 230,
+            "average_profit": -47.968
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 68390.64,
+            "total_quantity": 334,
+            "average_profit": -52.0372
+        },
+        {
+            "Discount": 0.402,
+            "total_sales": 67467.7474,
+            "total_quantity": 682,
+            "average_profit": -109.9081
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 61091.16,
+            "total_quantity": 506,
+            "average_profit": -232.9946
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 14531.928,
+            "total_quantity": 156,
+            "average_profit": -144.4515
+        },
+        {
+            "Discount": 0.602,
+            "total_sales": 9954.3621,
+            "total_quantity": 156,
+            "average_profit": -213.2791
+        },
+        {
+            "Discount": 0.65,
+            "total_sales": 5246.745,
+            "total_quantity": 64,
+            "average_profit": -406.6713
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 14265.954,
+            "total_quantity": 212,
+            "average_profit": -220.4197
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "New South Wales",
+            "City": "Sydney",
+            "total_sales": 42649.524000000005,
+            "total_quantity": 186,
+            "Location": "New South Wales, Sydney"
+        },
+        {
+            "State": "Indiana",
+            "City": "Lafayette",
+            "total_sales": 34999.899999999994,
+            "total_quantity": 10,
+            "Location": "Indiana, Lafayette"
+        },
+        {
+            "State": "Washington",
+            "City": "Seattle",
+            "total_sales": 34899.759999999995,
+            "total_quantity": 24,
+            "Location": "Washington, Seattle"
+        },
+        {
+            "State": "Distrito Federal",
+            "City": "Mexico City",
+            "total_sales": 34463.17552,
+            "total_quantity": 192,
+            "Location": "Distrito Federal, Mexico City"
+        },
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 33439.712,
+            "total_quantity": 36,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "Queensland",
+            "City": "Brisbane",
+            "total_sales": 31916.052,
+            "total_quantity": 122,
+            "Location": "Queensland, Brisbane"
+        },
+        {
+            "State": "Jakarta",
+            "City": "Jakarta",
+            "total_sales": 29129.385599999998,
+            "total_quantity": 140,
+            "Location": "Jakarta, Jakarta"
+        },
+        {
+            "State": "Pennsylvania",
+            "City": "Philadelphia",
+            "total_sales": 26159.736,
+            "total_quantity": 44,
+            "Location": "Pennsylvania, Philadelphia"
+        },
+        {
+            "State": "Managua",
+            "City": "Managua",
+            "total_sales": 24081.70008,
+            "total_quantity": 118,
+            "Location": "Managua, Managua"
+        },
+        {
+            "State": "Berlin",
+            "City": "Berlin",
+            "total_sales": 24072.822,
+            "total_quantity": 110,
+            "Location": "Berlin, Berlin"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 23199.568,
+            "total_quantity": 54,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "Santo Domingo",
+            "City": "Santo Domingo",
+            "total_sales": 21694.874880000003,
+            "total_quantity": 174,
+            "Location": "Santo Domingo, Santo Domingo"
+        },
+        {
+            "State": "Delaware",
+            "City": "Newark",
+            "total_sales": 20999.94,
+            "total_quantity": 6,
+            "Location": "Delaware, Newark"
+        },
+        {
+            "State": "Jawa Barat",
+            "City": "Bandung",
+            "total_sales": 20912.1102,
+            "total_quantity": 76,
+            "Location": "Jawa Barat, Bandung"
+        },
+        {
+            "State": "Queensland",
+            "City": "Gold Coast",
+            "total_sales": 20363.94,
+            "total_quantity": 102,
+            "Location": "Queensland, Gold Coast"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 592,
+            "avg_shipping_delay": 2.13,
+            "total_profit": 87855.02,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 220,
+            "avg_shipping_delay": 0.08,
+            "total_profit": 31236.59,
+            "shipping_cost_ratio": 0.19
+        },
+        "Second Class": {
+            "total_orders": 838,
+            "avg_shipping_delay": 3.18,
+            "total_profit": 101846.93,
+            "shipping_cost_ratio": 0.12
+        },
+        "Standard Class": {
+            "total_orders": 2599,
+            "avg_shipping_delay": 5.01,
+            "total_profit": 296196.56,
+            "shipping_cost_ratio": 0.08
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.15,
+            "ship_mode_distribution": {
+                "First Class": 0.41420118343195267,
+                "Second Class": 0.378698224852071,
+                "Same Day": 0.20710059171597633
+            }
+        },
+        "High": {
+            "avg_profit_margin": 0.06,
+            "ship_mode_distribution": {
+                "Standard Class": 0.4413075780089153,
+                "Second Class": 0.2585438335809807,
+                "First Class": 0.22436849925705796,
+                "Same Day": 0.07578008915304606
+            }
+        },
+        "Low": {
+            "avg_profit_margin": 0.07,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": 0.07,
+            "ship_mode_distribution": {
+                "Standard Class": 0.751577287066246,
+                "Second Class": 0.15772870662460567,
+                "First Class": 0.06703470031545741,
+                "Same Day": 0.02365930599369085
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 881.0,
+            "frequency": 1.0,
+            "monetary": 611.4985200000001
+        },
+        "customer_distribution": {
+            "Promising Customers": 870,
+            "Lost Customers": 618,
+            "Big Spenders": 592,
+            "At-Risk Customers": 524,
+            "Hibernating Customers": 354,
+            "VIP": 62,
+            "Slipping Away": 39,
+            "Loyal Customers": 6
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3065,
+        "churned_customers": 2328,
+        "churn_rate": 0.7595432300163132,
+        "avg_recency": 891.0486133768352,
+        "avg_frequency": 1.4505709624796084,
+        "avg_monetary": 984.9502598890703,
+        "churned_customer_characteristics": {
+            "avg_recency": 1125.1121134020618,
+            "avg_frequency": 1.5579896907216495,
+            "avg_monetary": 1049.216890524055,
+            "avg_discount": 0.12149196530846017,
+            "avg_quantity": 3.264260486554301,
+            "avg_shipping_cost": 70.2050382935826,
+            "avg_profit": 107.2069201257875
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 151.7001356852103,
+            "avg_frequency": 1.1112618724559022,
+            "avg_monetary": 781.9479313704207,
+            "avg_discount": 0.11716327453640886,
+            "avg_quantity": 3.3543193125282675,
+            "avg_shipping_cost": 72.76719317955676,
+            "avg_profit": 131.49393750339215
+        }
+    }
+}

@@ -1,0 +1,4575 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            2583,
+            0.51
+        ],
+        "Corporate": [
+            1493,
+            0.3
+        ],
+        "Home Office": [
+            945,
+            0.19
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.45,
+        "Corporate": 3.61,
+        "Home Office": 3.32
+    },
+    "segment_unit_price": {
+        "Consumer": 9.77,
+        "Corporate": 10.1,
+        "Home Office": 9.96
+    },
+    "segment_profit": {
+        "Consumer": 1.41,
+        "Corporate": 1.54,
+        "Home Office": 1.42
+    },
+    "segment_discount": {
+        "Consumer": 0.14,
+        "Corporate": 0.14,
+        "Home Office": 0.14
+    },
+    "region_distribution": {
+        "Central": [
+            488,
+            0.1
+        ],
+        "Oceania": [
+            430,
+            0.09
+        ],
+        "Central America": [
+            332,
+            0.07
+        ],
+        "South": [
+            298,
+            0.06
+        ],
+        "North": [
+            253,
+            0.05
+        ],
+        "Western Europe": [
+            251,
+            0.05
+        ],
+        "EMEA": [
+            234,
+            0.05
+        ],
+        "Caribbean": [
+            224,
+            0.04
+        ],
+        "Africa": [
+            222,
+            0.04
+        ],
+        "South America": [
+            190,
+            0.04
+        ],
+        "Southeastern Asia": [
+            187,
+            0.04
+        ],
+        "Southeast Asia": [
+            187,
+            0.04
+        ],
+        "Southern Asia": [
+            146,
+            0.03
+        ],
+        "North Asia": [
+            142,
+            0.03
+        ],
+        "Eastern Asia": [
+            142,
+            0.03
+        ],
+        "Central Asia": [
+            129,
+            0.03
+        ],
+        "Western US": [
+            119,
+            0.02
+        ],
+        "Western Asia": [
+            119,
+            0.02
+        ],
+        "Eastern US": [
+            112,
+            0.02
+        ],
+        "Northern Europe": [
+            108,
+            0.02
+        ],
+        "Central US": [
+            105,
+            0.02
+        ],
+        "Southern Europe": [
+            82,
+            0.02
+        ],
+        "Western Africa": [
+            75,
+            0.01
+        ],
+        "West": [
+            72,
+            0.01
+        ],
+        "Eastern Europe": [
+            68,
+            0.01
+        ],
+        "North Africa": [
+            63,
+            0.01
+        ],
+        "Southern US": [
+            62,
+            0.01
+        ],
+        "East": [
+            61,
+            0.01
+        ],
+        "Canada": [
+            36,
+            0.01
+        ],
+        "Central Africa": [
+            29,
+            0.01
+        ],
+        "Eastern Africa": [
+            29,
+            0.01
+        ],
+        "Southern Africa": [
+            26,
+            0.01
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.26,
+        "Canada": 1.94,
+        "Caribbean": 3.81,
+        "Central": 3.72,
+        "Central Africa": 2.62,
+        "Central America": 3.7,
+        "Central Asia": 3.52,
+        "Central US": 3.87,
+        "EMEA": 2.35,
+        "East": 4.89,
+        "Eastern Africa": 2.79,
+        "Eastern Asia": 4.01,
+        "Eastern Europe": 2.63,
+        "Eastern US": 4.41,
+        "North": 3.86,
+        "North Africa": 2.02,
+        "North Asia": 4.01,
+        "Northern Europe": 3.68,
+        "Oceania": 3.41,
+        "South": 3.58,
+        "South America": 3.59,
+        "Southeast Asia": 3.86,
+        "Southeastern Asia": 3.86,
+        "Southern Africa": 2.19,
+        "Southern Asia": 3.36,
+        "Southern Europe": 3.2,
+        "Southern US": 3.85,
+        "West": 3.65,
+        "Western Africa": 2.15,
+        "Western Asia": 2.23,
+        "Western Europe": 3.81,
+        "Western US": 3.66
+    },
+    "region_sales": {
+        "Africa": 26.19,
+        "Canada": 26.64,
+        "Caribbean": 29.86,
+        "Central": 37.54,
+        "Central Africa": 36.99,
+        "Central America": 32.04,
+        "Central Asia": 46.27,
+        "Central US": 23.66,
+        "EMEA": 27.14,
+        "East": 13.44,
+        "Eastern Africa": 38.19,
+        "Eastern Asia": 51.39,
+        "Eastern Europe": 36.5,
+        "Eastern US": 25.29,
+        "North": 39.47,
+        "North Africa": 27.75,
+        "North Asia": 51.39,
+        "Northern Europe": 40.84,
+        "Oceania": 41.16,
+        "South": 30.56,
+        "South America": 27.17,
+        "Southeast Asia": 33.42,
+        "Southeastern Asia": 33.42,
+        "Southern Africa": 31.27,
+        "Southern Asia": 45.54,
+        "Southern Europe": 42.46,
+        "Southern US": 23.76,
+        "West": 12.82,
+        "Western Africa": 14.32,
+        "Western Asia": 21.0,
+        "Western Europe": 50.17,
+        "Western US": 20.9
+    },
+    "region_unit_price": {
+        "Africa": 11.58,
+        "Canada": 13.7,
+        "Caribbean": 7.83,
+        "Central": 10.08,
+        "Central Africa": 14.12,
+        "Central America": 8.66,
+        "Central Asia": 13.15,
+        "Central US": 6.12,
+        "EMEA": 11.53,
+        "East": 2.75,
+        "Eastern Africa": 13.67,
+        "Eastern Asia": 12.82,
+        "Eastern Europe": 13.87,
+        "Eastern US": 5.73,
+        "North": 10.22,
+        "North Africa": 13.77,
+        "North Asia": 12.82,
+        "Northern Europe": 11.11,
+        "Oceania": 12.07,
+        "South": 8.53,
+        "South America": 7.56,
+        "Southeast Asia": 8.66,
+        "Southeastern Asia": 8.66,
+        "Southern Africa": 14.26,
+        "Southern Asia": 13.57,
+        "Southern Europe": 13.29,
+        "Southern US": 6.16,
+        "West": 3.51,
+        "Western Africa": 6.67,
+        "Western Asia": 9.43,
+        "Western Europe": 13.16,
+        "Western US": 5.71
+    },
+    "region_discount": {
+        "Africa": 0.17,
+        "Canada": 0.0,
+        "Caribbean": 0.12,
+        "Central": 0.11,
+        "Central Africa": 0.0,
+        "Central America": 0.09,
+        "Central Asia": 0.1,
+        "Central US": 0.16,
+        "EMEA": 0.19,
+        "East": 0.09,
+        "Eastern Africa": 0.1,
+        "Eastern Asia": 0.06,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.07,
+        "North": 0.07,
+        "North Africa": 0.0,
+        "North Asia": 0.06,
+        "Northern Europe": 0.18,
+        "Oceania": 0.16,
+        "South": 0.13,
+        "South America": 0.18,
+        "Southeast Asia": 0.38,
+        "Southeastern Asia": 0.38,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.06,
+        "Southern Europe": 0.01,
+        "Southern US": 0.1,
+        "West": 0.03,
+        "Western Africa": 0.48,
+        "Western Asia": 0.34,
+        "Western Europe": 0.08,
+        "Western US": 0.03
+    },
+    "region_profit": {
+        "Africa": 1.7,
+        "Canada": 4.0,
+        "Caribbean": 1.09,
+        "Central": 1.98,
+        "Central Africa": 4.61,
+        "Central America": 1.35,
+        "Central Asia": 2.24,
+        "Central US": 1.95,
+        "EMEA": 1.72,
+        "East": 0.89,
+        "Eastern Africa": 3.51,
+        "Eastern Asia": 2.6,
+        "Eastern Europe": 4.23,
+        "Eastern US": 2.2,
+        "North": 1.87,
+        "North Africa": 3.5,
+        "North Asia": 2.6,
+        "Northern Europe": 1.18,
+        "Oceania": 1.06,
+        "South": 1.39,
+        "South America": 0.6,
+        "Southeast Asia": -2.22,
+        "Southeastern Asia": -2.22,
+        "Southern Africa": 3.84,
+        "Southern Asia": 2.62,
+        "Southern Europe": 3.47,
+        "Southern US": 2.17,
+        "West": 1.05,
+        "Western Africa": -2.76,
+        "Western Asia": -0.13,
+        "Western Europe": 3.15,
+        "Western US": 2.0
+    },
+    "region_profit_margin": {
+        "Africa": 0.15,
+        "Canada": 0.29,
+        "Caribbean": 0.14,
+        "Central": 0.2,
+        "Central Africa": 0.33,
+        "Central America": 0.16,
+        "Central Asia": 0.17,
+        "Central US": 0.32,
+        "EMEA": 0.15,
+        "East": 0.32,
+        "Eastern Africa": 0.26,
+        "Eastern Asia": 0.2,
+        "Eastern Europe": 0.31,
+        "Eastern US": 0.38,
+        "North": 0.18,
+        "North Africa": 0.25,
+        "North Asia": 0.2,
+        "Northern Europe": 0.11,
+        "Oceania": 0.09,
+        "South": 0.16,
+        "South America": 0.08,
+        "Southeast Asia": -0.26,
+        "Southeastern Asia": -0.26,
+        "Southern Africa": 0.27,
+        "Southern Asia": 0.19,
+        "Southern Europe": 0.26,
+        "Southern US": 0.35,
+        "West": 0.3,
+        "Western Africa": -0.41,
+        "Western Asia": -0.01,
+        "Western Europe": 0.24,
+        "Western US": 0.35
+    },
+    "market_distribution": {
+        "LATAM": [
+            1268,
+            0.25
+        ],
+        "Asia Pacific": [
+            820,
+            0.16
+        ],
+        "APAC": [
+            662,
+            0.13
+        ],
+        "Europe": [
+            509,
+            0.1
+        ],
+        "Africa": [
+            444,
+            0.09
+        ],
+        "EU": [
+            433,
+            0.09
+        ],
+        "USCA": [
+            416,
+            0.08
+        ],
+        "EMEA": [
+            234,
+            0.05
+        ],
+        "US": [
+            217,
+            0.04
+        ],
+        "Canada": [
+            18,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.7,
+        "Africa": 2.26,
+        "Asia Pacific": 3.42,
+        "Canada": 1.94,
+        "EMEA": 2.35,
+        "EU": 3.69,
+        "Europe": 3.53,
+        "LATAM": 3.69,
+        "US": 4.21,
+        "USCA": 3.87
+    },
+    "market_sales": {
+        "APAC": 42.44,
+        "Africa": 26.19,
+        "Asia Pacific": 38.8,
+        "Canada": 26.64,
+        "EMEA": 27.14,
+        "EU": 46.95,
+        "Europe": 45.12,
+        "LATAM": 30.2,
+        "US": 13.94,
+        "USCA": 23.45
+    },
+    "market_unit_price": {
+        "APAC": 11.46,
+        "Africa": 11.58,
+        "Asia Pacific": 11.34,
+        "Canada": 13.7,
+        "EMEA": 11.53,
+        "EU": 12.73,
+        "Europe": 12.79,
+        "LATAM": 8.18,
+        "US": 3.31,
+        "USCA": 6.06
+    },
+    "market_discount": {
+        "APAC": 0.19,
+        "Africa": 0.17,
+        "Asia Pacific": 0.2,
+        "Canada": 0.0,
+        "EMEA": 0.19,
+        "EU": 0.09,
+        "Europe": 0.08,
+        "LATAM": 0.12,
+        "US": 0.08,
+        "USCA": 0.08
+    },
+    "market_profit": {
+        "APAC": 0.68,
+        "Africa": 1.7,
+        "Asia Pacific": 0.68,
+        "Canada": 4.0,
+        "EMEA": 1.72,
+        "EU": 2.77,
+        "Europe": 2.87,
+        "LATAM": 1.08,
+        "US": 1.04,
+        "USCA": 2.12
+    },
+    "market_profit_margin": {
+        "APAC": 0.06,
+        "Africa": 0.15,
+        "Asia Pacific": 0.06,
+        "Canada": 0.29,
+        "EMEA": 0.15,
+        "EU": 0.22,
+        "Europe": 0.22,
+        "LATAM": 0.13,
+        "US": 0.31,
+        "USCA": 0.35
+    },
+    "country_distribution": {
+        "United States": [
+            615,
+            0.12
+        ],
+        "Australia": [
+            344,
+            0.07
+        ],
+        "Mexico": [
+            292,
+            0.06
+        ],
+        "France": [
+            226,
+            0.05
+        ],
+        "Brazil": [
+            211,
+            0.04
+        ],
+        "China": [
+            210,
+            0.04
+        ],
+        "Indonesia": [
+            188,
+            0.04
+        ],
+        "India": [
+            186,
+            0.04
+        ],
+        "Germany": [
+            182,
+            0.04
+        ],
+        "United Kingdom": [
+            160,
+            0.03
+        ],
+        "Turkey": [
+            132,
+            0.03
+        ],
+        "Dominican Republic": [
+            118,
+            0.02
+        ],
+        "Nigeria": [
+            102,
+            0.02
+        ],
+        "El Salvador": [
+            94,
+            0.02
+        ],
+        "Italy": [
+            88,
+            0.02
+        ],
+        "Honduras": [
+            88,
+            0.02
+        ],
+        "Nicaragua": [
+            86,
+            0.02
+        ],
+        "Cuba": [
+            84,
+            0.02
+        ],
+        "New Zealand": [
+            82,
+            0.02
+        ],
+        "Philippines": [
+            74,
+            0.01
+        ],
+        "Spain": [
+            66,
+            0.01
+        ],
+        "Iran": [
+            56,
+            0.01
+        ],
+        "Panama": [
+            54,
+            0.01
+        ],
+        "Argentina": [
+            52,
+            0.01
+        ],
+        "Guatemala": [
+            48,
+            0.01
+        ],
+        "South Africa": [
+            46,
+            0.01
+        ],
+        "Netherlands": [
+            44,
+            0.01
+        ],
+        "Ukraine": [
+            44,
+            0.01
+        ],
+        "Saudi Arabia": [
+            42,
+            0.01
+        ],
+        "Japan": [
+            42,
+            0.01
+        ],
+        "Egypt": [
+            42,
+            0.01
+        ],
+        "Colombia": [
+            40,
+            0.01
+        ],
+        "Iraq": [
+            38,
+            0.01
+        ],
+        "Morocco": [
+            38,
+            0.01
+        ],
+        "Canada": [
+            36,
+            0.01
+        ],
+        "Thailand": [
+            34,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            32,
+            0.01
+        ],
+        "Pakistan": [
+            32,
+            0.01
+        ],
+        "Malaysia": [
+            30,
+            0.01
+        ],
+        "Sweden": [
+            30,
+            0.01
+        ],
+        "South Korea": [
+            28,
+            0.01
+        ],
+        "Venezuela": [
+            28,
+            0.01
+        ],
+        "Algeria": [
+            26,
+            0.01
+        ],
+        "Romania": [
+            26,
+            0.01
+        ],
+        "Austria": [
+            24,
+            0.0
+        ],
+        "Angola": [
+            22,
+            0.0
+        ],
+        "Russia": [
+            22,
+            0.0
+        ],
+        "Belgium": [
+            20,
+            0.0
+        ],
+        "Peru": [
+            20,
+            0.0
+        ],
+        "Poland": [
+            20,
+            0.0
+        ],
+        "Vietnam": [
+            20,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            12,
+            0.0
+        ],
+        "Martinique": [
+            12,
+            0.0
+        ],
+        "Singapore": [
+            10,
+            0.0
+        ],
+        "Chile": [
+            10,
+            0.0
+        ],
+        "Kenya": [
+            10,
+            0.0
+        ],
+        "Tanzania": [
+            10,
+            0.0
+        ],
+        "Bangladesh": [
+            10,
+            0.0
+        ],
+        "Israel": [
+            10,
+            0.0
+        ],
+        "Kazakhstan": [
+            8,
+            0.0
+        ],
+        "Rwanda": [
+            8,
+            0.0
+        ],
+        "Ghana": [
+            8,
+            0.0
+        ],
+        "Senegal": [
+            8,
+            0.0
+        ],
+        "Ireland": [
+            8,
+            0.0
+        ],
+        "Sudan": [
+            8,
+            0.0
+        ],
+        "Libya": [
+            8,
+            0.0
+        ],
+        "Kyrgyzstan": [
+            8,
+            0.0
+        ],
+        "Zambia": [
+            8,
+            0.0
+        ],
+        "Haiti": [
+            6,
+            0.0
+        ],
+        "Finland": [
+            6,
+            0.0
+        ],
+        "Switzerland": [
+            6,
+            0.0
+        ],
+        "Namibia": [
+            6,
+            0.0
+        ],
+        "Bulgaria": [
+            6,
+            0.0
+        ],
+        "Mozambique": [
+            6,
+            0.0
+        ],
+        "Somalia": [
+            6,
+            0.0
+        ],
+        "Zimbabwe": [
+            6,
+            0.0
+        ],
+        "Bolivia": [
+            6,
+            0.0
+        ],
+        "Belarus": [
+            6,
+            0.0
+        ],
+        "Denmark": [
+            6,
+            0.0
+        ],
+        "Syria": [
+            6,
+            0.0
+        ],
+        "Mali": [
+            6,
+            0.0
+        ],
+        "Ecuador": [
+            6,
+            0.0
+        ],
+        "Cambodia": [
+            6,
+            0.0
+        ],
+        "Georgia": [
+            4,
+            0.0
+        ],
+        "Sierra Leone": [
+            4,
+            0.0
+        ],
+        "Afghanistan": [
+            4,
+            0.0
+        ],
+        "Lithuania": [
+            4,
+            0.0
+        ],
+        "Moldova": [
+            4,
+            0.0
+        ],
+        "Niger": [
+            4,
+            0.0
+        ],
+        "Hong Kong": [
+            4,
+            0.0
+        ],
+        "Croatia": [
+            4,
+            0.0
+        ],
+        "Cameroon": [
+            4,
+            0.0
+        ],
+        "Tunisia": [
+            4,
+            0.0
+        ],
+        "Hungary": [
+            4,
+            0.0
+        ],
+        "Benin": [
+            4,
+            0.0
+        ],
+        "Portugal": [
+            4,
+            0.0
+        ],
+        "Uzbekistan": [
+            4,
+            0.0
+        ],
+        "Nepal": [
+            4,
+            0.0
+        ],
+        "Papua New Guinea": [
+            4,
+            0.0
+        ],
+        "Uruguay": [
+            4,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            3,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            3,
+            0.0
+        ],
+        "Slovakia": [
+            2,
+            0.0
+        ],
+        "Norway": [
+            2,
+            0.0
+        ],
+        "Bahrain": [
+            2,
+            0.0
+        ],
+        "Czech Republic": [
+            2,
+            0.0
+        ],
+        "Madagascar": [
+            2,
+            0.0
+        ],
+        "Togo": [
+            2,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            2,
+            0.0
+        ],
+        "Azerbaijan": [
+            2,
+            0.0
+        ],
+        "Guinea": [
+            2,
+            0.0
+        ],
+        "Liberia": [
+            2,
+            0.0
+        ],
+        "Guinea-Bissau": [
+            2,
+            0.0
+        ],
+        "Paraguay": [
+            2,
+            0.0
+        ],
+        "Jamaica": [
+            2,
+            0.0
+        ],
+        "Macedonia": [
+            2,
+            0.0
+        ],
+        "United Arab Emirates": [
+            2,
+            0.0
+        ],
+        "Turkmenistan": [
+            2,
+            0.0
+        ],
+        "Uganda": [
+            2,
+            0.0
+        ],
+        "Belize": [
+            1,
+            0.0
+        ],
+        "Costa Rica": [
+            1,
+            0.0
+        ],
+        "Suriname": [
+            1,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 2.5,
+        "Algeria": 2.92,
+        "Angola": 2.09,
+        "Argentina": 3.77,
+        "Australia": 3.47,
+        "Austria": 2.83,
+        "Azerbaijan": 2.0,
+        "Bahrain": 4.0,
+        "Bangladesh": 5.8,
+        "Belarus": 2.67,
+        "Belgium": 4.1,
+        "Belize": 6.0,
+        "Benin": 1.5,
+        "Bolivia": 2.0,
+        "Brazil": 3.54,
+        "Bulgaria": 8.0,
+        "Cambodia": 2.33,
+        "Cameroon": 1.0,
+        "Canada": 1.94,
+        "Chile": 4.4,
+        "China": 3.86,
+        "Colombia": 3.85,
+        "Costa Rica": 2.0,
+        "Cote d'Ivoire": 2.0,
+        "Croatia": 1.0,
+        "Cuba": 3.9,
+        "Czech Republic": 1.0,
+        "C\u00f4te-d'Ivoire": 2.0,
+        "Democratic Republic of the Congo": 3.19,
+        "Denmark": 3.0,
+        "Dominican Republic": 3.68,
+        "Ecuador": 2.67,
+        "Egypt": 1.67,
+        "El Salvador": 3.55,
+        "Finland": 3.0,
+        "France": 4.04,
+        "Georgia": 1.0,
+        "Germany": 3.77,
+        "Ghana": 1.0,
+        "Guatemala": 3.21,
+        "Guinea": 1.0,
+        "Guinea-Bissau": 1.0,
+        "Haiti": 4.0,
+        "Honduras": 3.48,
+        "Hong Kong": 2.5,
+        "Hungary": 1.5,
+        "India": 3.58,
+        "Indonesia": 4.19,
+        "Iran": 2.21,
+        "Iraq": 2.16,
+        "Ireland": 5.25,
+        "Israel": 1.4,
+        "Italy": 3.3,
+        "Jamaica": 2.0,
+        "Japan": 4.76,
+        "Kazakhstan": 2.0,
+        "Kenya": 1.6,
+        "Kyrgyzstan": 2.75,
+        "Liberia": 1.0,
+        "Libya": 1.5,
+        "Lithuania": 6.0,
+        "Macedonia": 1.0,
+        "Madagascar": 4.0,
+        "Malaysia": 3.4,
+        "Mali": 2.33,
+        "Martinique": 4.83,
+        "Mexico": 4.03,
+        "Moldova": 1.5,
+        "Morocco": 1.84,
+        "Mozambique": 5.0,
+        "Myanmar (Burma)": 3.0,
+        "Namibia": 4.67,
+        "Nepal": 2.5,
+        "Netherlands": 3.27,
+        "New Zealand": 3.22,
+        "Nicaragua": 3.51,
+        "Niger": 6.0,
+        "Nigeria": 2.27,
+        "Norway": 3.0,
+        "Pakistan": 3.5,
+        "Panama": 3.3,
+        "Papua New Guinea": 2.5,
+        "Paraguay": 2.0,
+        "Peru": 3.6,
+        "Philippines": 3.65,
+        "Poland": 1.9,
+        "Portugal": 4.0,
+        "Romania": 2.08,
+        "Russia": 2.18,
+        "Rwanda": 3.5,
+        "Saudi Arabia": 3.29,
+        "Senegal": 1.5,
+        "Sierra Leone": 1.0,
+        "Singapore": 4.6,
+        "Slovakia": 2.0,
+        "Somalia": 1.33,
+        "South Africa": 1.87,
+        "South Korea": 4.21,
+        "Spain": 3.21,
+        "Sudan": 2.5,
+        "Suriname": 3.0,
+        "Sweden": 2.87,
+        "Switzerland": 3.67,
+        "Syria": 2.67,
+        "Tanzania": 3.4,
+        "Thailand": 3.06,
+        "Togo": 2.0,
+        "Trinidad and Tobago": 3.0,
+        "Tunisia": 1.5,
+        "Turkey": 1.98,
+        "Turkmenistan": 1.0,
+        "Uganda": 1.0,
+        "Ukraine": 3.09,
+        "United Arab Emirates": 1.0,
+        "United Kingdom": 3.75,
+        "United States": 4.05,
+        "Uruguay": 3.5,
+        "Uzbekistan": 3.0,
+        "Venezuela": 3.71,
+        "Vietnam": 4.2,
+        "Zambia": 3.5,
+        "Zimbabwe": 1.33
+    },
+    "country_sales": {
+        "Afghanistan": 29.61,
+        "Algeria": 38.27,
+        "Angola": 26.35,
+        "Argentina": 22.95,
+        "Australia": 42.17,
+        "Austria": 41.36,
+        "Azerbaijan": 33.36,
+        "Bahrain": 44.16,
+        "Bangladesh": 78.8,
+        "Belarus": 44.2,
+        "Belgium": 61.64,
+        "Belize": 57.72,
+        "Benin": 20.6,
+        "Bolivia": 20.88,
+        "Brazil": 28.13,
+        "Bulgaria": 99.88,
+        "Cambodia": 31.7,
+        "Cameroon": 16.11,
+        "Canada": 26.64,
+        "Chile": 37.89,
+        "China": 52.72,
+        "Colombia": 35.43,
+        "Costa Rica": 15.84,
+        "Cote d'Ivoire": 24.82,
+        "Croatia": 15.34,
+        "Cuba": 34.62,
+        "Czech Republic": 14.43,
+        "C\u00f4te-d'Ivoire": 24.82,
+        "Democratic Republic of the Congo": 46.92,
+        "Denmark": 26.02,
+        "Dominican Republic": 26.05,
+        "Ecuador": 20.94,
+        "Egypt": 21.99,
+        "El Salvador": 32.79,
+        "Finland": 40.37,
+        "France": 54.47,
+        "Georgia": 16.4,
+        "Germany": 51.75,
+        "Ghana": 12.66,
+        "Guatemala": 28.93,
+        "Guinea": 19.89,
+        "Guinea-Bissau": 13.86,
+        "Haiti": 20.64,
+        "Honduras": 20.18,
+        "Hong Kong": 41.42,
+        "Hungary": 23.52,
+        "India": 51.03,
+        "Indonesia": 32.31,
+        "Iran": 33.85,
+        "Iraq": 30.1,
+        "Ireland": 30.3,
+        "Israel": 21.05,
+        "Italy": 45.11,
+        "Jamaica": 18.0,
+        "Japan": 62.13,
+        "Kazakhstan": 8.79,
+        "Kenya": 24.67,
+        "Kyrgyzstan": 38.6,
+        "Liberia": 16.65,
+        "Libya": 20.78,
+        "Lithuania": 26.75,
+        "Macedonia": 10.98,
+        "Madagascar": 77.52,
+        "Malaysia": 46.39,
+        "Mali": 27.61,
+        "Martinique": 40.76,
+        "Mexico": 38.29,
+        "Moldova": 22.7,
+        "Morocco": 28.06,
+        "Mozambique": 80.22,
+        "Myanmar (Burma)": 33.79,
+        "Namibia": 64.75,
+        "Nepal": 36.29,
+        "Netherlands": 22.06,
+        "New Zealand": 38.04,
+        "Nicaragua": 31.2,
+        "Niger": 64.71,
+        "Nigeria": 9.87,
+        "Norway": 41.94,
+        "Pakistan": 26.86,
+        "Panama": 20.19,
+        "Papua New Guinea": 17.67,
+        "Paraguay": 19.24,
+        "Peru": 20.96,
+        "Philippines": 27.19,
+        "Poland": 28.4,
+        "Portugal": 23.37,
+        "Romania": 28.74,
+        "Russia": 30.41,
+        "Rwanda": 48.96,
+        "Saudi Arabia": 43.59,
+        "Senegal": 21.56,
+        "Sierra Leone": 13.66,
+        "Singapore": 60.59,
+        "Slovakia": 31.14,
+        "Somalia": 14.39,
+        "South Africa": 26.9,
+        "South Korea": 26.7,
+        "Spain": 42.68,
+        "Sudan": 33.25,
+        "Suriname": 23.64,
+        "Sweden": 19.42,
+        "Switzerland": 42.97,
+        "Syria": 43.04,
+        "Tanzania": 51.79,
+        "Thailand": 21.23,
+        "Togo": 27.96,
+        "Trinidad and Tobago": 28.32,
+        "Tunisia": 19.83,
+        "Turkey": 10.05,
+        "Turkmenistan": 3.29,
+        "Uganda": 4.1,
+        "Ukraine": 41.81,
+        "United Arab Emirates": 4.25,
+        "United Kingdom": 46.3,
+        "United States": 20.0,
+        "Uruguay": 33.02,
+        "Uzbekistan": 37.41,
+        "Venezuela": 19.19,
+        "Vietnam": 54.91,
+        "Zambia": 36.91,
+        "Zimbabwe": 5.41
+    },
+    "country_unit_price": {
+        "Afghanistan": 11.84,
+        "Algeria": 13.09,
+        "Angola": 12.6,
+        "Argentina": 6.09,
+        "Australia": 12.17,
+        "Austria": 14.6,
+        "Azerbaijan": 16.68,
+        "Bahrain": 11.04,
+        "Bangladesh": 13.59,
+        "Belarus": 16.58,
+        "Belgium": 15.03,
+        "Belize": 9.62,
+        "Benin": 13.73,
+        "Bolivia": 10.44,
+        "Brazil": 7.95,
+        "Bulgaria": 12.48,
+        "Cambodia": 13.59,
+        "Cameroon": 16.11,
+        "Canada": 13.7,
+        "Chile": 8.61,
+        "China": 13.67,
+        "Colombia": 9.2,
+        "Costa Rica": 7.92,
+        "Cote d'Ivoire": 12.41,
+        "Croatia": 15.34,
+        "Cuba": 8.87,
+        "Czech Republic": 14.43,
+        "C\u00f4te-d'Ivoire": 12.41,
+        "Democratic Republic of the Congo": 14.72,
+        "Denmark": 8.68,
+        "Dominican Republic": 7.08,
+        "Ecuador": 7.85,
+        "Egypt": 13.19,
+        "El Salvador": 9.23,
+        "Finland": 13.46,
+        "France": 13.5,
+        "Georgia": 16.4,
+        "Germany": 13.73,
+        "Ghana": 12.66,
+        "Guatemala": 9.02,
+        "Guinea": 19.89,
+        "Guinea-Bissau": 13.86,
+        "Haiti": 5.16,
+        "Honduras": 5.8,
+        "Hong Kong": 16.57,
+        "Hungary": 15.68,
+        "India": 14.25,
+        "Indonesia": 7.71,
+        "Iran": 15.29,
+        "Iraq": 13.95,
+        "Ireland": 5.77,
+        "Israel": 15.04,
+        "Italy": 13.69,
+        "Jamaica": 9.0,
+        "Japan": 13.05,
+        "Kazakhstan": 4.39,
+        "Kenya": 15.42,
+        "Kyrgyzstan": 14.04,
+        "Liberia": 16.65,
+        "Libya": 13.85,
+        "Lithuania": 4.46,
+        "Macedonia": 10.98,
+        "Madagascar": 19.38,
+        "Malaysia": 13.64,
+        "Mali": 11.83,
+        "Martinique": 8.43,
+        "Mexico": 9.51,
+        "Moldova": 15.13,
+        "Morocco": 15.23,
+        "Mozambique": 16.04,
+        "Myanmar (Burma)": 11.26,
+        "Namibia": 13.88,
+        "Nepal": 14.51,
+        "Netherlands": 6.74,
+        "New Zealand": 11.81,
+        "Nicaragua": 8.88,
+        "Niger": 10.79,
+        "Nigeria": 4.34,
+        "Norway": 13.98,
+        "Pakistan": 7.67,
+        "Panama": 6.12,
+        "Papua New Guinea": 7.07,
+        "Paraguay": 9.62,
+        "Peru": 5.82,
+        "Philippines": 7.45,
+        "Poland": 14.95,
+        "Portugal": 5.84,
+        "Romania": 13.84,
+        "Russia": 13.94,
+        "Rwanda": 13.99,
+        "Saudi Arabia": 13.27,
+        "Senegal": 14.37,
+        "Sierra Leone": 13.66,
+        "Singapore": 13.17,
+        "Slovakia": 15.57,
+        "Somalia": 10.79,
+        "South Africa": 14.39,
+        "South Korea": 6.34,
+        "Spain": 13.29,
+        "Sudan": 13.3,
+        "Suriname": 7.88,
+        "Sweden": 6.77,
+        "Switzerland": 11.72,
+        "Syria": 16.14,
+        "Tanzania": 15.23,
+        "Thailand": 6.94,
+        "Togo": 13.98,
+        "Trinidad and Tobago": 9.44,
+        "Tunisia": 13.22,
+        "Turkey": 5.06,
+        "Turkmenistan": 3.29,
+        "Uganda": 4.1,
+        "Ukraine": 13.53,
+        "United Arab Emirates": 4.25,
+        "United Kingdom": 12.35,
+        "United States": 4.94,
+        "Uruguay": 9.43,
+        "Uzbekistan": 12.47,
+        "Venezuela": 5.17,
+        "Vietnam": 13.07,
+        "Zambia": 10.54,
+        "Zimbabwe": 4.05
+    },
+    "country_profit": {
+        "Afghanistan": 0.9,
+        "Algeria": 4.18,
+        "Angola": 3.65,
+        "Argentina": -1.74,
+        "Australia": 1.0,
+        "Austria": 5.62,
+        "Azerbaijan": 6.33,
+        "Bahrain": 1.65,
+        "Bangladesh": 3.86,
+        "Belarus": 7.89,
+        "Belgium": 4.4,
+        "Belize": 3.84,
+        "Benin": 3.86,
+        "Bolivia": 3.36,
+        "Brazil": 1.02,
+        "Bulgaria": 4.4,
+        "Cambodia": 1.93,
+        "Cameroon": 1.76,
+        "Canada": 4.0,
+        "Chile": 2.62,
+        "China": 3.36,
+        "Colombia": 2.42,
+        "Costa Rica": 3.4,
+        "Cote d'Ivoire": 4.98,
+        "Croatia": 3.52,
+        "Cuba": 1.62,
+        "Czech Republic": 7.05,
+        "C\u00f4te-d'Ivoire": 4.98,
+        "Democratic Republic of the Congo": 5.16,
+        "Denmark": -4.34,
+        "Dominican Republic": 0.72,
+        "Ecuador": 1.12,
+        "Egypt": 3.53,
+        "El Salvador": 1.94,
+        "Finland": 1.52,
+        "France": 3.13,
+        "Georgia": 7.7,
+        "Germany": 3.9,
+        "Ghana": 3.15,
+        "Guatemala": 2.05,
+        "Guinea": 8.94,
+        "Guinea-Bissau": 3.3,
+        "Haiti": -1.89,
+        "Honduras": -1.95,
+        "Hong Kong": 1.97,
+        "Hungary": 4.43,
+        "India": 3.39,
+        "Indonesia": -3.45,
+        "Iran": 4.21,
+        "Iraq": 4.33,
+        "Ireland": -1.7,
+        "Israel": 2.19,
+        "Italy": 3.99,
+        "Jamaica": 3.06,
+        "Japan": 2.85,
+        "Kazakhstan": -7.87,
+        "Kenya": 3.12,
+        "Kyrgyzstan": 3.31,
+        "Liberia": 7.98,
+        "Libya": 3.81,
+        "Lithuania": -5.33,
+        "Macedonia": 4.5,
+        "Madagascar": 9.09,
+        "Malaysia": 2.64,
+        "Mali": 3.3,
+        "Martinique": 1.66,
+        "Mexico": 2.18,
+        "Moldova": 3.3,
+        "Morocco": 2.97,
+        "Mozambique": 5.13,
+        "Myanmar (Burma)": 0.89,
+        "Namibia": 2.88,
+        "Nepal": 5.68,
+        "Netherlands": -1.97,
+        "New Zealand": 1.53,
+        "Nicaragua": 1.96,
+        "Niger": 4.5,
+        "Nigeria": -5.45,
+        "Norway": 2.64,
+        "Pakistan": -4.43,
+        "Panama": -1.35,
+        "Papua New Guinea": -4.55,
+        "Paraguay": 1.24,
+        "Peru": -0.62,
+        "Philippines": -2.88,
+        "Poland": 4.41,
+        "Portugal": -2.62,
+        "Romania": 3.58,
+        "Russia": 4.09,
+        "Rwanda": 3.81,
+        "Saudi Arabia": 3.3,
+        "Senegal": 3.7,
+        "Sierra Leone": 4.44,
+        "Singapore": 2.5,
+        "Slovakia": 4.65,
+        "Somalia": 2.74,
+        "South Africa": 4.15,
+        "South Korea": -2.97,
+        "Spain": 3.21,
+        "Sudan": 2.39,
+        "Suriname": 1.02,
+        "Sweden": -3.48,
+        "Switzerland": 1.98,
+        "Syria": 5.24,
+        "Tanzania": 4.76,
+        "Thailand": -3.21,
+        "Togo": 2.64,
+        "Trinidad and Tobago": 4.72,
+        "Tunisia": 3.98,
+        "Turkey": -4.01,
+        "Turkmenistan": -3.19,
+        "Uganda": -5.2,
+        "Ukraine": 3.98,
+        "United Arab Emirates": -4.69,
+        "United Kingdom": 2.45,
+        "United States": 1.69,
+        "Uruguay": 2.2,
+        "Uzbekistan": 3.91,
+        "Venezuela": -1.38,
+        "Vietnam": 2.2,
+        "Zambia": 2.2,
+        "Zimbabwe": -6.1
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.08,
+        "Algeria": 0.32,
+        "Angola": 0.29,
+        "Argentina": -0.29,
+        "Australia": 0.08,
+        "Austria": 0.39,
+        "Azerbaijan": 0.38,
+        "Bahrain": 0.15,
+        "Bangladesh": 0.28,
+        "Belarus": 0.48,
+        "Belgium": 0.29,
+        "Belize": 0.4,
+        "Benin": 0.28,
+        "Bolivia": 0.32,
+        "Brazil": 0.13,
+        "Bulgaria": 0.35,
+        "Cambodia": 0.14,
+        "Cameroon": 0.11,
+        "Canada": 0.29,
+        "Chile": 0.3,
+        "China": 0.25,
+        "Colombia": 0.26,
+        "Costa Rica": 0.43,
+        "Cote d'Ivoire": 0.4,
+        "Croatia": 0.23,
+        "Cuba": 0.18,
+        "Czech Republic": 0.49,
+        "C\u00f4te-d'Ivoire": 0.4,
+        "Democratic Republic of the Congo": 0.35,
+        "Denmark": -0.5,
+        "Dominican Republic": 0.1,
+        "Ecuador": 0.14,
+        "Egypt": 0.27,
+        "El Salvador": 0.21,
+        "Finland": 0.11,
+        "France": 0.23,
+        "Georgia": 0.47,
+        "Germany": 0.28,
+        "Ghana": 0.25,
+        "Guatemala": 0.23,
+        "Guinea": 0.45,
+        "Guinea-Bissau": 0.24,
+        "Haiti": -0.37,
+        "Honduras": -0.34,
+        "Hong Kong": 0.12,
+        "Hungary": 0.28,
+        "India": 0.24,
+        "Indonesia": -0.45,
+        "Iran": 0.28,
+        "Iraq": 0.31,
+        "Ireland": -0.29,
+        "Israel": 0.15,
+        "Italy": 0.29,
+        "Jamaica": 0.34,
+        "Japan": 0.22,
+        "Kazakhstan": -1.79,
+        "Kenya": 0.2,
+        "Kyrgyzstan": 0.24,
+        "Liberia": 0.48,
+        "Libya": 0.28,
+        "Lithuania": -1.2,
+        "Macedonia": 0.41,
+        "Madagascar": 0.47,
+        "Malaysia": 0.19,
+        "Mali": 0.28,
+        "Martinique": 0.2,
+        "Mexico": 0.23,
+        "Moldova": 0.22,
+        "Morocco": 0.19,
+        "Mozambique": 0.32,
+        "Myanmar (Burma)": 0.08,
+        "Namibia": 0.21,
+        "Nepal": 0.39,
+        "Netherlands": -0.29,
+        "New Zealand": 0.13,
+        "Nicaragua": 0.22,
+        "Niger": 0.42,
+        "Nigeria": -1.26,
+        "Norway": 0.19,
+        "Pakistan": -0.58,
+        "Panama": -0.22,
+        "Papua New Guinea": -0.64,
+        "Paraguay": 0.13,
+        "Peru": -0.11,
+        "Philippines": -0.39,
+        "Poland": 0.3,
+        "Portugal": -0.45,
+        "Romania": 0.26,
+        "Russia": 0.29,
+        "Rwanda": 0.27,
+        "Saudi Arabia": 0.25,
+        "Senegal": 0.26,
+        "Sierra Leone": 0.32,
+        "Singapore": 0.19,
+        "Slovakia": 0.3,
+        "Somalia": 0.25,
+        "South Africa": 0.29,
+        "South Korea": -0.47,
+        "Spain": 0.24,
+        "Sudan": 0.18,
+        "Suriname": 0.13,
+        "Sweden": -0.51,
+        "Switzerland": 0.17,
+        "Syria": 0.32,
+        "Tanzania": 0.31,
+        "Thailand": -0.46,
+        "Togo": 0.19,
+        "Trinidad and Tobago": 0.5,
+        "Tunisia": 0.3,
+        "Turkey": -0.79,
+        "Turkmenistan": -0.97,
+        "Uganda": -1.27,
+        "Ukraine": 0.29,
+        "United Arab Emirates": -1.1,
+        "United Kingdom": 0.2,
+        "United States": 0.34,
+        "Uruguay": 0.23,
+        "Uzbekistan": 0.31,
+        "Venezuela": -0.27,
+        "Vietnam": 0.17,
+        "Zambia": 0.21,
+        "Zimbabwe": -1.5
+    },
+    "top_10_states": {
+        "England": [
+            148,
+            0.03
+        ],
+        "California": [
+            119,
+            0.02
+        ],
+        "New South Wales": [
+            94,
+            0.02
+        ],
+        "Queensland": [
+            94,
+            0.02
+        ],
+        "San Salvador": [
+            80,
+            0.02
+        ],
+        "Ile-de-France": [
+            72,
+            0.01
+        ],
+        "Santo Domingo": [
+            70,
+            0.01
+        ],
+        "New York": [
+            70,
+            0.01
+        ],
+        "Texas": [
+            70,
+            0.01
+        ],
+        "North Rhine-Westphalia": [
+            66,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        148,
+        119,
+        94,
+        94,
+        80,
+        72,
+        70,
+        70,
+        70,
+        66
+    ],
+    "top_10_cities": {
+        "Santo Domingo": [
+            70,
+            0.01
+        ],
+        "Manila": [
+            60,
+            0.01
+        ],
+        "New York City": [
+            55,
+            0.01
+        ],
+        "Jakarta": [
+            52,
+            0.01
+        ],
+        "Lagos": [
+            50,
+            0.01
+        ],
+        "Managua": [
+            46,
+            0.01
+        ],
+        "Los Angeles": [
+            45,
+            0.01
+        ],
+        "Tegucigalpa": [
+            42,
+            0.01
+        ],
+        "Sydney": [
+            38,
+            0.01
+        ],
+        "San Salvador": [
+            38,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        70,
+        60,
+        55,
+        52,
+        50,
+        46,
+        45,
+        42,
+        38,
+        38
+    ],
+    "yearly_sales": {
+        "2011": 13608.5666,
+        "2012": 19477.693900000002,
+        "2013": 21596.8929,
+        "2014": 43569.2091,
+        "2015": 20841.4679,
+        "2016": 22890.3369,
+        "2017": 30753.1945
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 623.182,
+            "2012": 1328.0234,
+            "2013": 1171.5638,
+            "2014": 2879.0231,
+            "2015": 1403.5234,
+            "2016": 1235.4038,
+            "2017": 2196.5291
+        },
+        "August": {
+            "2011": 1353.7645,
+            "2012": 2339.7909,
+            "2013": 3171.6427,
+            "2014": 3705.0101,
+            "2015": 2348.9189,
+            "2016": 3299.3347,
+            "2017": 2743.3256
+        },
+        "December": {
+            "2011": 1564.0245,
+            "2012": 2014.0964000000001,
+            "2013": 3060.493,
+            "2014": 4494.8996,
+            "2015": 2140.0084,
+            "2016": 3207.753,
+            "2017": 3069.1431
+        },
+        "February": {
+            "2011": 878.9,
+            "2012": 864.1019,
+            "2013": 764.74,
+            "2014": 2249.0287,
+            "2015": 987.7419,
+            "2016": 820.13,
+            "2017": 1284.9047
+        },
+        "January": {
+            "2011": 557.4447,
+            "2012": 830.9692,
+            "2013": 686.4367000000001,
+            "2014": 1900.9258,
+            "2015": 937.2891999999999,
+            "2016": 766.4967,
+            "2017": 1355.8811
+        },
+        "July": {
+            "2011": 673.7905000000001,
+            "2012": 951.34,
+            "2013": 1152.1395,
+            "2014": 2503.3037,
+            "2015": 973.252,
+            "2016": 1161.6915000000001,
+            "2017": 1606.4232
+        },
+        "June": {
+            "2011": 1559.3612,
+            "2012": 2278.8561,
+            "2013": 1979.3691000000001,
+            "2014": 5764.0547,
+            "2015": 2336.0881,
+            "2016": 2073.5331,
+            "2017": 4374.2855
+        },
+        "March": {
+            "2011": 1351.4544,
+            "2012": 1168.5608,
+            "2013": 871.1002,
+            "2014": 2849.8271,
+            "2015": 1364.1108,
+            "2016": 926.8202,
+            "2017": 1702.5527
+        },
+        "May": {
+            "2011": 861.999,
+            "2012": 1619.0199,
+            "2013": 1679.41,
+            "2014": 3038.1816,
+            "2015": 1726.3639,
+            "2016": 1960.904,
+            "2017": 2057.9166
+        },
+        "November": {
+            "2011": 1054.0851,
+            "2012": 2445.7355000000002,
+            "2013": 2747.9845,
+            "2014": 5263.4119,
+            "2015": 2704.2755,
+            "2016": 2890.2245,
+            "2017": 4339.5748
+        },
+        "October": {
+            "2011": 1352.1342,
+            "2012": 2253.2694,
+            "2013": 1920.1663,
+            "2014": 4296.2771,
+            "2015": 2355.2614,
+            "2016": 2059.1903,
+            "2017": 3075.0609
+        },
+        "September": {
+            "2011": 1778.4265,
+            "2012": 1383.9304,
+            "2013": 2391.8471,
+            "2014": 4625.2657,
+            "2015": 1564.6344,
+            "2016": 2488.8551,
+            "2017": 2947.5972
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 8
+    },
+    "top_10_products_by_sales": {
+        "Staples": 7763.67,
+        "Stockwell Paper Clips, Assorted Sizes": 4790.8756,
+        "Stockwell Clamps, 12 Pack": 4561.3516,
+        "Stockwell Clamps, Assorted Sizes": 4267.6759999999995,
+        "Stockwell Clamps, Bulk Pack": 4169.6118,
+        "Stockwell Rubber Bands, Metal": 3417.4298,
+        "Stockwell Thumb Tacks, Bulk Pack": 3284.459,
+        "Stockwell Thumb Tacks, 12 Pack": 3147.2562000000003,
+        "Stockwell Clamps, Metal": 3100.9,
+        "Stockwell Rubber Bands, Bulk Pack": 3089.5708
+    },
+    "top_10_products_by_profit": {
+        "Staples": 2903.274,
+        "Stockwell Clamps, Assorted Sizes": 1130.556,
+        "Stockwell Rubber Bands, Metal": 991.4098,
+        "Accos Clamps, Bulk Pack": 981.4200000000001,
+        "Stockwell Clamps, 12 Pack": 785.9516,
+        "Stockwell Paper Clips, Bulk Pack": 676.554,
+        "OIC Clamps, Bulk Pack": 676.112,
+        "Stockwell Thumb Tacks, Bulk Pack": 649.9190000000001,
+        "Stockwell Staples, Assorted Sizes": 599.5124,
+        "Stockwell Rubber Bands, Assorted Sizes": 584.6212
+    },
+    "top_10_products_by_turnover": {
+        "Staples": 1091,
+        "Stockwell Paper Clips, Assorted Sizes": 506,
+        "Stockwell Thumb Tacks, 12 Pack": 340,
+        "Stockwell Clamps, 12 Pack": 336,
+        "Stockwell Clamps, Assorted Sizes": 320,
+        "Stockwell Thumb Tacks, Bulk Pack": 318,
+        "Stockwell Push Pins, 12 Pack": 310,
+        "Stockwell Push Pins, Assorted Sizes": 302,
+        "Stockwell Staples, Metal": 300,
+        "Stockwell Staples, Assorted Sizes": 290
+    },
+    "top_5_loss_products": {
+        "Stockwell Clamps, Metal": -456.85200000000003,
+        "Stockwell Paper Clips, Assorted Sizes": -455.3184,
+        "Advantus Clamps, Assorted Sizes": -453.1048,
+        "Accos Clamps, 12 Pack": -407.49140000000006,
+        "Stockwell Push Pins, 12 Pack": -381.984
+    },
+    "product_performance": [
+        {
+            "Product Name": "Staples",
+            "total_sales": 7763.67,
+            "total_quantity": 1091,
+            "average_price": 28.43835164835165,
+            "total_profit": 2903.274,
+            "profit_margin": 0.37395638918192037
+        },
+        {
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 4790.8756,
+            "total_quantity": 506,
+            "average_price": 36.852889230769236,
+            "total_profit": 502.5756,
+            "profit_margin": 0.10490266121708523
+        },
+        {
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 4561.3516,
+            "total_quantity": 336,
+            "average_price": 48.5250170212766,
+            "total_profit": 785.9516,
+            "profit_margin": 0.1723067346967947
+        },
+        {
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 4267.6759999999995,
+            "total_quantity": 320,
+            "average_price": 47.41862222222222,
+            "total_profit": 1130.556,
+            "profit_margin": 0.2649113943982627
+        },
+        {
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 4169.6118,
+            "total_quantity": 256,
+            "average_price": 67.25180322580644,
+            "total_profit": 367.3718,
+            "profit_margin": 0.08810695518465293
+        },
+        {
+            "Product Name": "Stockwell Rubber Bands, Metal",
+            "total_sales": 3417.4298,
+            "total_quantity": 258,
+            "average_price": 42.7178725,
+            "total_profit": 991.4098,
+            "profit_margin": 0.2901039254705393
+        },
+        {
+            "Product Name": "Stockwell Thumb Tacks, Bulk Pack",
+            "total_sales": 3284.459,
+            "total_quantity": 318,
+            "average_price": 40.054378048780485,
+            "total_profit": 649.9190000000001,
+            "profit_margin": 0.19787703241233948
+        },
+        {
+            "Product Name": "Stockwell Thumb Tacks, 12 Pack",
+            "total_sales": 3147.2562000000003,
+            "total_quantity": 340,
+            "average_price": 29.691096226415098,
+            "total_profit": 476.81620000000004,
+            "profit_margin": 0.1515021878422227
+        },
+        {
+            "Product Name": "Stockwell Clamps, Metal",
+            "total_sales": 3100.9,
+            "total_quantity": 222,
+            "average_price": 57.42407407407408,
+            "total_profit": -258.3400000000001,
+            "profit_margin": -0.08331129672030703
+        },
+        {
+            "Product Name": "Stockwell Rubber Bands, Bulk Pack",
+            "total_sales": 3089.5708,
+            "total_quantity": 248,
+            "average_price": 40.65224736842105,
+            "total_profit": 556.3308,
+            "profit_margin": 0.18006734139253258
+        },
+        {
+            "Product Name": "Stockwell Push Pins, 12 Pack",
+            "total_sales": 2962.7132,
+            "total_quantity": 310,
+            "average_price": 32.20340434782609,
+            "total_profit": 242.2332,
+            "profit_margin": 0.08176059700952491
+        },
+        {
+            "Product Name": "OIC Clamps, Bulk Pack",
+            "total_sales": 2865.3320000000003,
+            "total_quantity": 174,
+            "average_price": 57.30664000000001,
+            "total_profit": 676.112,
+            "profit_margin": 0.23596288318421735
+        },
+        {
+            "Product Name": "Stockwell Rubber Bands, Assorted Sizes",
+            "total_sales": 2835.7612,
+            "total_quantity": 256,
+            "average_price": 32.97396744186047,
+            "total_profit": 584.6212,
+            "profit_margin": 0.2061602366235916
+        },
+        {
+            "Product Name": "Advantus Paper Clips, Assorted Sizes",
+            "total_sales": 2755.188,
+            "total_quantity": 278,
+            "average_price": 28.699875000000002,
+            "total_profit": 294.248,
+            "profit_margin": 0.10679779383475828
+        },
+        {
+            "Product Name": "Advantus Clamps, Assorted Sizes",
+            "total_sales": 2753.3952,
+            "total_quantity": 224,
+            "average_price": 52.94990769230769,
+            "total_profit": -228.4048,
+            "profit_margin": -0.08295387454732252
+        },
+        {
+            "Product Name": "Accos Clamps, Bulk Pack",
+            "total_sales": 2635.6800000000003,
+            "total_quantity": 152,
+            "average_price": 59.901818181818186,
+            "total_profit": 981.4200000000001,
+            "profit_margin": 0.3723593152431251
+        },
+        {
+            "Product Name": "Stockwell Push Pins, Assorted Sizes",
+            "total_sales": 2622.666,
+            "total_quantity": 302,
+            "average_price": 28.507239130434783,
+            "total_profit": 350.32599999999996,
+            "profit_margin": 0.13357629221563094
+        },
+        {
+            "Product Name": "Accos Paper Clips, Assorted Sizes",
+            "total_sales": 2518.323,
+            "total_quantity": 240,
+            "average_price": 33.13582894736842,
+            "total_profit": -39.977,
+            "profit_margin": -0.015874452959370185
+        },
+        {
+            "Product Name": "Stockwell Paper Clips, Bulk Pack",
+            "total_sales": 2509.374,
+            "total_quantity": 224,
+            "average_price": 35.8482,
+            "total_profit": 676.554,
+            "profit_margin": 0.26961066783986765
+        },
+        {
+            "Product Name": "Stockwell Staples, Metal",
+            "total_sales": 2473.38,
+            "total_quantity": 300,
+            "average_price": 30.917250000000003,
+            "total_profit": 451.56,
+            "profit_margin": 0.18256798389248718
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-01",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 16.29,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Staples",
+            "total_sales": 12.35,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 109.62,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 97.74,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-02",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 173.07,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Staples",
+            "total_sales": 18.936,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 93.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 43.43999999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-03",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 195.4989,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Staples",
+            "total_sales": 30.992,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Staples",
+            "total_sales": 7.104000000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 84.36600000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 50.868,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Staples",
+            "total_sales": 27.392000000000003,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 130.32,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 145.848,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 10.95,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.27,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 42.596,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 21.924,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 66.6,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Staples",
+            "total_sales": 16.012,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 32.58,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 23.076,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 98.185,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Staples",
+            "total_sales": 54.304,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 29.232,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 18.144,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Staples",
+            "total_sales": 7.86,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 21.9,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 48.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 16.68,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Staples",
+            "total_sales": 50.424,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 55.98,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 145.524,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Staples",
+            "total_sales": 18.416,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 37.32000000000001,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 14.723400000000002,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 48.87,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-05",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 13.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 65.772,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 97.73999999999998,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 249.156,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 29.322,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Staples",
+            "total_sales": 12.032,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 81.84,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 114.24599999999998,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Staples",
+            "total_sales": 4.5120000000000005,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 36.93,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 114.03,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 22.68,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 181.2234,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 22.68,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Staples",
+            "total_sales": 3.008,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 117.558,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 18.84,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 64.8375,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Staples",
+            "total_sales": 30.060000000000002,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 78.372,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 57.824,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 55.905,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 59.506,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Staples",
+            "total_sales": 36.48,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 48.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 136.582,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Staples",
+            "total_sales": 31.56,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-04",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 27.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 45.767999999999994,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 19.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 76.788,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 99.52000000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 65.16,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 22.608,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 97.2,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Staples",
+            "total_sales": 20.44,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 20.894,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Staples",
+            "total_sales": 11.68,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 37.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 247.47,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 65.69999999999999,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Staples",
+            "total_sales": 43.836,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 120.97200000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 15.012,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 263.76,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 4.536,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Staples",
+            "total_sales": 25.248,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 74.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 81.44999999999999,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 94.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 130.68,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Staples",
+            "total_sales": 58.36800000000001,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 142.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 166.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 14.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 138.084,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Staples",
+            "total_sales": 63.35,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 16.29,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 6.57,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Staples",
+            "total_sales": 104.382,
+            "total_quantity": 34
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 128.28,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 131.1,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 173.07,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 109.58,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Staples",
+            "total_sales": 55.416,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 93.3,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 43.44,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 195.4989,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 168.57,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Staples",
+            "total_sales": 289.992,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 55.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 75.36,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Staples",
+            "total_sales": 147.708,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 212.59799999999998,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 70.098,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Staples",
+            "total_sales": 131.792,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 118.20859999999999,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 213.72,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 371.928,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 351.954,
+            "total_quantity": 31
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Staples",
+            "total_sales": 255.12,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.27,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 20.016,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 122.25,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Staples",
+            "total_sales": 45.68000000000001,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 108.441,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 110.6,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Staples",
+            "total_sales": 193.44799999999998,
+            "total_quantity": 34
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 21.924,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 32.97,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 265.46999999999997,
+            "total_quantity": 29
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Staples",
+            "total_sales": 111.34,
+            "total_quantity": 33
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 444.7038,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 45.611999999999995,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 23.076,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 147.7462,
+            "total_quantity": 18
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Staples",
+            "total_sales": 237.496,
+            "total_quantity": 33
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 89.95400000000001,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 137.04999999999998,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 139.416,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 242.544,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Staples",
+            "total_sales": 175.162,
+            "total_quantity": 31
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 7.464,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 114.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 85.57169999999999,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Staples",
+            "total_sales": 106.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 48.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Staples",
+            "total_sales": 123.63999999999999,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 16.68,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Staples",
+            "total_sales": 245.974,
+            "total_quantity": 27
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 55.98,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 145.524,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Staples",
+            "total_sales": 93.916,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 37.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 14.7234,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Staples",
+            "total_sales": 107.344,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 48.87,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-05",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 13.5,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Staples",
+            "total_sales": 57.232,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 65.772,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 97.74,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 249.156,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Staples",
+            "total_sales": 21.912,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 29.322,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Staples",
+            "total_sales": 21.16,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 81.84,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 114.24600000000001,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Staples",
+            "total_sales": 185.216,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 36.93,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 114.03,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 22.68,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Staples",
+            "total_sales": 101.992,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 181.2234,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 22.68,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Staples",
+            "total_sales": 261.548,
+            "total_quantity": 29
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 117.558,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 18.84,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 64.8375,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Staples",
+            "total_sales": 155.972,
+            "total_quantity": 32
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 78.372,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 57.824,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 55.905,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Staples",
+            "total_sales": 80.06,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 59.506,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Staples",
+            "total_sales": 91.87,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 48.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Staples",
+            "total_sales": 55.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 136.582,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Staples",
+            "total_sales": 95.4,
+            "total_quantity": 13
+        },
+        {
+            "Year_Month": "2016-04",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 27.0,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Staples",
+            "total_sales": 281.494,
+            "total_quantity": 20
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 45.767999999999994,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 19.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 76.788,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Staples",
+            "total_sales": 94.164,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 99.52,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 65.16,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 22.608,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 97.2,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Staples",
+            "total_sales": 29.992,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 20.894,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Staples",
+            "total_sales": 139.37199999999999,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 37.32,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 247.47,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 65.7,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Staples",
+            "total_sales": 140.844,
+            "total_quantity": 37
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 120.97200000000001,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 15.012,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 263.76,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 4.536,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Staples",
+            "total_sales": 164.272,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 74.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 81.45,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 94.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 130.68,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Staples",
+            "total_sales": 200.608,
+            "total_quantity": 32
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 142.8,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 166.8,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 14.6,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Staples",
+            "total_sales": 147.26,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 138.084,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Staples",
+            "total_sales": 75.75,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-01",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 6.57,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Staples",
+            "total_sales": 38.008,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 18.66,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 33.36,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 109.58000000000001,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Staples",
+            "total_sales": 209.46,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 168.57,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Staples",
+            "total_sales": 199.688,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 55.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 75.36,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Staples",
+            "total_sales": 54.378,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 128.232,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 19.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Staples",
+            "total_sales": 241.952,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 118.20859999999999,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 83.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 226.08,
+            "total_quantity": 12
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 341.004,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Staples",
+            "total_sales": 131.51999999999998,
+            "total_quantity": 11
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 20.016,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 122.25,
+            "total_quantity": 15
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Staples",
+            "total_sales": 338.27,
+            "total_quantity": 34
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 108.441,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 68.004,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Staples",
+            "total_sales": 320.916,
+            "total_quantity": 35
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 32.97,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-09",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 198.87,
+            "total_quantity": 21
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Staples",
+            "total_sales": 223.176,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 444.7038,
+            "total_quantity": 30
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 13.032,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 49.5612,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Staples",
+            "total_sales": 328.932,
+            "total_quantity": 23
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 60.721999999999994,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stockwell Clamps, Assorted Sizes",
+            "total_sales": 137.05,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 139.416,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 224.4,
+            "total_quantity": 19
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Staples",
+            "total_sales": 266.438,
+            "total_quantity": 51
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Stockwell Clamps, 12 Pack",
+            "total_sales": 7.464,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Stockwell Clamps, Bulk Pack",
+            "total_sales": 114.6,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Stockwell Paper Clips, Assorted Sizes",
+            "total_sales": 63.6717,
+            "total_quantity": 9
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-11",
+            "Order Count": 167
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 152
+        },
+        {
+            "Order Month": "2014-12",
+            "Order Count": 137
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 137
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 124
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 116
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 110
+        },
+        {
+            "Order Month": "2017-06",
+            "Order Count": 98
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 97
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 94
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 90
+        },
+        {
+            "Order Month": "2016-11",
+            "Order Count": 88
+        },
+        {
+            "Order Month": "2016-08",
+            "Order Count": 87
+        },
+        {
+            "Order Month": "2013-11",
+            "Order Count": 84
+        },
+        {
+            "Order Month": "2013-08",
+            "Order Count": 82
+        },
+        {
+            "Order Month": "2016-12",
+            "Order Count": 81
+        },
+        {
+            "Order Month": "2017-10",
+            "Order Count": 79
+        },
+        {
+            "Order Month": "2016-09",
+            "Order Count": 79
+        },
+        {
+            "Order Month": "2014-04",
+            "Order Count": 79
+        },
+        {
+            "Order Month": "2015-11",
+            "Order Count": 78
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 557.4447,
+            "Quantity": 66,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 878.9,
+            "Quantity": 66,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 1351.4544,
+            "Quantity": 118,
+            "Sales_MA": 929.2663666666667
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 623.182,
+            "Quantity": 77,
+            "Sales_MA": 951.1788
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 861.999,
+            "Quantity": 87,
+            "Sales_MA": 945.5451333333334
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 1559.3612,
+            "Quantity": 131,
+            "Sales_MA": 1014.8474
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 673.7905000000001,
+            "Quantity": 68,
+            "Sales_MA": 1031.7169000000001
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 1353.7645,
+            "Quantity": 138,
+            "Sales_MA": 1195.6387333333334
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 1778.4265,
+            "Quantity": 188,
+            "Sales_MA": 1268.6605
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 1352.1342,
+            "Quantity": 129,
+            "Sales_MA": 1494.7750666666668
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 1054.0851,
+            "Quantity": 135,
+            "Sales_MA": 1394.8819333333333
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 1564.0245,
+            "Quantity": 163,
+            "Sales_MA": 1323.4146
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 830.9692,
+            "Quantity": 77,
+            "Sales_MA": 1149.6929333333333
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 864.1019,
+            "Quantity": 65,
+            "Sales_MA": 1086.3652
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 1168.5608,
+            "Quantity": 110,
+            "Sales_MA": 954.5439666666666
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 1328.0234,
+            "Quantity": 136,
+            "Sales_MA": 1120.2287
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 1619.0199,
+            "Quantity": 155,
+            "Sales_MA": 1371.8680333333332
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 2278.8561,
+            "Quantity": 207,
+            "Sales_MA": 1741.9664666666667
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 951.34,
+            "Quantity": 100,
+            "Sales_MA": 1616.4053333333331
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 2339.7909,
+            "Quantity": 208,
+            "Sales_MA": 1856.662333333333
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 1383.9304,
+            "Quantity": 137,
+            "Sales_MA": 1558.3537666666664
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 2253.2694,
+            "Quantity": 234,
+            "Sales_MA": 1992.3302333333331
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 2445.7355000000002,
+            "Quantity": 259,
+            "Sales_MA": 2027.6450999999997
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 2014.0964000000001,
+            "Quantity": 199,
+            "Sales_MA": 2237.700433333333
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 686.4367000000001,
+            "Quantity": 72,
+            "Sales_MA": 1715.4228666666666
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 764.74,
+            "Quantity": 83,
+            "Sales_MA": 1155.0910333333331
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 871.1002,
+            "Quantity": 88,
+            "Sales_MA": 774.0922999999997
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 1171.5638,
+            "Quantity": 128,
+            "Sales_MA": 935.8013333333329
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 1679.41,
+            "Quantity": 186,
+            "Sales_MA": 1240.691333333333
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 1979.3691000000001,
+            "Quantity": 214,
+            "Sales_MA": 1610.1142999999995
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 1152.1395,
+            "Quantity": 140,
+            "Sales_MA": 1603.639533333333
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 3171.6427,
+            "Quantity": 292,
+            "Sales_MA": 2101.0504333333333
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 2391.8471,
+            "Quantity": 247,
+            "Sales_MA": 2238.5430999999994
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 1920.1663,
+            "Quantity": 210,
+            "Sales_MA": 2494.552033333333
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 2747.9845,
+            "Quantity": 295,
+            "Sales_MA": 2353.332633333333
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 3060.493,
+            "Quantity": 303,
+            "Sales_MA": 2576.2146
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 1900.9258,
+            "Quantity": 227,
+            "Sales_MA": 2569.801099999999
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 2249.0287,
+            "Quantity": 224,
+            "Sales_MA": 2403.4824999999996
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 2849.8271,
+            "Quantity": 275,
+            "Sales_MA": 2333.2605333333327
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 2879.0231,
+            "Quantity": 285,
+            "Sales_MA": 2659.2929666666664
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 3038.1816,
+            "Quantity": 293,
+            "Sales_MA": 2922.343933333333
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 5764.0547,
+            "Quantity": 497,
+            "Sales_MA": 3893.753133333333
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 2503.3037,
+            "Quantity": 244,
+            "Sales_MA": 3768.5133333333324
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 3705.0101,
+            "Quantity": 349,
+            "Sales_MA": 3990.789499999999
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 4625.2657,
+            "Quantity": 523,
+            "Sales_MA": 3611.1931666666665
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 4296.2771,
+            "Quantity": 431,
+            "Sales_MA": 4208.850966666666
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 5263.4119,
+            "Quantity": 570,
+            "Sales_MA": 4728.3182333333325
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 4494.8996,
+            "Quantity": 478,
+            "Sales_MA": 4684.862866666666
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 937.2891999999999,
+            "Quantity": 80,
+            "Sales_MA": 3565.200233333333
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 987.7419,
+            "Quantity": 78,
+            "Sales_MA": 2139.9768999999997
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 1364.1108,
+            "Quantity": 124,
+            "Sales_MA": 1096.380633333333
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 1403.5234,
+            "Quantity": 141,
+            "Sales_MA": 1251.792033333333
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 1726.3639,
+            "Quantity": 165,
+            "Sales_MA": 1497.9993666666662
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 2336.0881,
+            "Quantity": 217,
+            "Sales_MA": 1821.9917999999998
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 973.252,
+            "Quantity": 105,
+            "Sales_MA": 1678.568
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 2348.9189,
+            "Quantity": 213,
+            "Sales_MA": 1886.086333333333
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 1564.6344,
+            "Quantity": 147,
+            "Sales_MA": 1628.9350999999997
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 2355.2614,
+            "Quantity": 246,
+            "Sales_MA": 2089.6049
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 2704.2755,
+            "Quantity": 286,
+            "Sales_MA": 2208.0570999999995
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 2140.0084,
+            "Quantity": 224,
+            "Sales_MA": 2399.848433333333
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 766.4967,
+            "Quantity": 79,
+            "Sales_MA": 1870.2602
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 820.13,
+            "Quantity": 91,
+            "Sales_MA": 1242.2116999999998
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 926.8202,
+            "Quantity": 92,
+            "Sales_MA": 837.815633333333
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 1235.4038,
+            "Quantity": 136,
+            "Sales_MA": 994.1179999999996
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 1960.904,
+            "Quantity": 206,
+            "Sales_MA": 1374.3759999999995
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 2073.5331,
+            "Quantity": 229,
+            "Sales_MA": 1756.6136333333332
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 1161.6915000000001,
+            "Quantity": 143,
+            "Sales_MA": 1732.0428666666664
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 3299.3347,
+            "Quantity": 304,
+            "Sales_MA": 2178.186433333333
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 2488.8551,
+            "Quantity": 266,
+            "Sales_MA": 2316.6270999999997
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 2059.1903,
+            "Quantity": 229,
+            "Sales_MA": 2615.7933666666663
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 2890.2245,
+            "Quantity": 315,
+            "Sales_MA": 2479.4233
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 3207.753,
+            "Quantity": 317,
+            "Sales_MA": 2719.055933333333
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 1355.8811,
+            "Quantity": 161,
+            "Sales_MA": 2484.619533333333
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 1284.9047,
+            "Quantity": 140,
+            "Sales_MA": 1949.5129333333334
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 1702.5527,
+            "Quantity": 187,
+            "Sales_MA": 1447.7794999999999
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 2196.5291,
+            "Quantity": 215,
+            "Sales_MA": 1727.9954999999998
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 2057.9166,
+            "Quantity": 197,
+            "Sales_MA": 1985.6661333333332
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 4374.2855,
+            "Quantity": 372,
+            "Sales_MA": 2876.243733333333
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 1606.4232,
+            "Quantity": 164,
+            "Sales_MA": 2679.5417666666667
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 2743.3256,
+            "Quantity": 248,
+            "Sales_MA": 2908.011433333333
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 2947.5972,
+            "Quantity": 333,
+            "Sales_MA": 2432.4486666666667
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 3075.0609,
+            "Quantity": 304,
+            "Sales_MA": 2921.9945666666663
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 4339.5748,
+            "Quantity": 435,
+            "Sales_MA": 3454.077633333333
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 3069.1431,
+            "Quantity": 345,
+            "Sales_MA": 3494.592933333333
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Michael Dominguez",
+            "total_spent": 904.328,
+            "purchase_frequency": 12,
+            "average_order_value": 75.36066666666666
+        },
+        {
+            "Customer Name": "Katrina Edelman",
+            "total_spent": 841.7138,
+            "purchase_frequency": 15,
+            "average_order_value": 56.11425333333333
+        },
+        {
+            "Customer Name": "Jane Waco",
+            "total_spent": 824.7280000000001,
+            "purchase_frequency": 8,
+            "average_order_value": 68.72733333333333
+        },
+        {
+            "Customer Name": "Muhammed Lee",
+            "total_spent": 803.24,
+            "purchase_frequency": 16,
+            "average_order_value": 50.2025
+        },
+        {
+            "Customer Name": "Brosina Hoffman",
+            "total_spent": 802.0716,
+            "purchase_frequency": 18,
+            "average_order_value": 40.10358
+        },
+        {
+            "Customer Name": "Frank Atkinson",
+            "total_spent": 739.5916000000001,
+            "purchase_frequency": 8,
+            "average_order_value": 92.44895000000001
+        },
+        {
+            "Customer Name": "Erica Bern",
+            "total_spent": 716.4316,
+            "purchase_frequency": 18,
+            "average_order_value": 39.80175555555556
+        },
+        {
+            "Customer Name": "Andy Yotov",
+            "total_spent": 714.24,
+            "purchase_frequency": 6,
+            "average_order_value": 119.04
+        },
+        {
+            "Customer Name": "Lycoris Saunders",
+            "total_spent": 704.1360000000001,
+            "purchase_frequency": 17,
+            "average_order_value": 37.05978947368421
+        },
+        {
+            "Customer Name": "Luke Foster",
+            "total_spent": 669.06,
+            "purchase_frequency": 9,
+            "average_order_value": 74.33999999999999
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 125016.48,
+            "total_quantity": 10880,
+            "average_profit": 10.723
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 13476.618,
+            "total_quantity": 1038,
+            "average_profit": 6.8087
+        },
+        {
+            "Discount": 0.17,
+            "total_sales": 1503.7608,
+            "total_quantity": 120,
+            "average_profit": 6.7719
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 7314.008,
+            "total_quantity": 1496,
+            "average_profit": 3.8786
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 7847.772,
+            "total_quantity": 1206,
+            "average_profit": -6.4004
+        },
+        {
+            "Discount": 0.45,
+            "total_sales": 2012.274,
+            "total_quantity": 270,
+            "average_profit": -10.5244
+        },
+        {
+            "Discount": 0.47,
+            "total_sales": 6795.501,
+            "total_quantity": 892,
+            "average_profit": -13.7567
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 5507.28,
+            "total_quantity": 798,
+            "average_profit": -12.0027
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 2021.776,
+            "total_quantity": 454,
+            "average_profit": -9.1176
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 1239.498,
+            "total_quantity": 286,
+            "average_profit": -12.6475
+        },
+        {
+            "Discount": 0.8,
+            "total_sales": 2.394,
+            "total_quantity": 1,
+            "average_profit": -6.3441
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "Santo Domingo",
+            "City": "Santo Domingo",
+            "total_sales": 1956.608,
+            "total_quantity": 268,
+            "Location": "Santo Domingo, Santo Domingo"
+        },
+        {
+            "State": "Jakarta",
+            "City": "Jakarta",
+            "total_sales": 1550.1228,
+            "total_quantity": 208,
+            "Location": "Jakarta, Jakarta"
+        },
+        {
+            "State": "Managua",
+            "City": "Managua",
+            "total_sales": 1443.76,
+            "total_quantity": 162,
+            "Location": "Managua, Managua"
+        },
+        {
+            "State": "New South Wales",
+            "City": "Sydney",
+            "total_sales": 1362.96,
+            "total_quantity": 104,
+            "Location": "New South Wales, Sydney"
+        },
+        {
+            "State": "Queensland",
+            "City": "Gold Coast",
+            "total_sales": 1238.148,
+            "total_quantity": 102,
+            "Location": "Queensland, Gold Coast"
+        },
+        {
+            "State": "England",
+            "City": "London",
+            "total_sales": 1173.7440000000001,
+            "total_quantity": 88,
+            "Location": "England, London"
+        },
+        {
+            "State": "Western Australia",
+            "City": "Perth",
+            "total_sales": 1165.8600000000001,
+            "total_quantity": 86,
+            "Location": "Western Australia, Perth"
+        },
+        {
+            "State": "San Salvador",
+            "City": "San Salvador",
+            "total_sales": 1135.72,
+            "total_quantity": 130,
+            "Location": "San Salvador, San Salvador"
+        },
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 1113.418,
+            "total_quantity": 218,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "Distrito Federal",
+            "City": "Mexico City",
+            "total_sales": 1039.36,
+            "total_quantity": 114,
+            "Location": "Distrito Federal, Mexico City"
+        },
+        {
+            "State": "Queensland",
+            "City": "Brisbane",
+            "total_sales": 973.89,
+            "total_quantity": 84,
+            "Location": "Queensland, Brisbane"
+        },
+        {
+            "State": "Australian Capital Territory",
+            "City": "Canberra",
+            "total_sales": 941.8679999999999,
+            "total_quantity": 104,
+            "Location": "Australian Capital Territory, Canberra"
+        },
+        {
+            "State": "South Australia",
+            "City": "Adelaide",
+            "total_sales": 879.606,
+            "total_quantity": 64,
+            "Location": "South Australia, Adelaide"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 839.464,
+            "total_quantity": 184,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "Vienna",
+            "City": "Vienna",
+            "total_sales": 834.42,
+            "total_quantity": 60,
+            "Location": "Vienna, Vienna"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 673,
+            "avg_shipping_delay": 2.2,
+            "total_profit": 3393.31,
+            "shipping_cost_ratio": 0.18
+        },
+        "Same Day": {
+            "total_orders": 232,
+            "avg_shipping_delay": 0.01,
+            "total_profit": 1279.1,
+            "shipping_cost_ratio": 0.2
+        },
+        "Second Class": {
+            "total_orders": 961,
+            "avg_shipping_delay": 3.16,
+            "total_profit": 5358.36,
+            "shipping_cost_ratio": 0.14
+        },
+        "Standard Class": {
+            "total_orders": 2920,
+            "avg_shipping_delay": 4.98,
+            "total_profit": 15338.94,
+            "shipping_cost_ratio": 0.1
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.13,
+            "ship_mode_distribution": {
+                "Second Class": 0.4505208333333333,
+                "First Class": 0.3489583333333333,
+                "Same Day": 0.20052083333333334
+            }
+        },
+        "High": {
+            "avg_profit_margin": 0.04,
+            "ship_mode_distribution": {
+                "Standard Class": 0.4485294117647059,
+                "Second Class": 0.24532085561497327,
+                "First Class": 0.22393048128342247,
+                "Same Day": 0.08221925133689839
+            }
+        },
+        "Low": {
+            "avg_profit_margin": 0.09,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": 0.07,
+            "ship_mode_distribution": {
+                "Standard Class": 0.7456506610995128,
+                "Second Class": 0.16214335421016005,
+                "First Class": 0.07724425887265135,
+                "Same Day": 0.014961725817675714
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 860.0,
+            "frequency": 1.0,
+            "monetary": 32.4
+        },
+        "customer_distribution": {
+            "Promising Customers": 959,
+            "Lost Customers": 684,
+            "Big Spenders": 664,
+            "At-Risk Customers": 590,
+            "Hibernating Customers": 385,
+            "VIP": 70,
+            "Slipping Away": 53,
+            "Loyal Customers": 17
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3422,
+        "churned_customers": 2587,
+        "churn_rate": 0.7559906487434249,
+        "avg_recency": 866.7238457042665,
+        "avg_frequency": 1.467270601987142,
+        "avg_monetary": 50.478480946814734,
+        "churned_customer_characteristics": {
+            "avg_recency": 1096.2725164282954,
+            "avg_frequency": 1.5763432547352145,
+            "avg_monetary": 54.1255885581755,
+            "avg_discount": 0.13730654186684338,
+            "avg_quantity": 3.3864901430228063,
+            "avg_shipping_cost": 3.825329762825115,
+            "avg_profit": 5.235668477644634
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 155.53532934131738,
+            "avg_frequency": 1.1293413173652695,
+            "avg_monetary": 39.178999041916164,
+            "avg_discount": 0.14356087824351296,
+            "avg_quantity": 3.485329341317365,
+            "avg_shipping_cost": 3.9259705588822356,
+            "avg_profit": 5.2147885828343306
+        }
+    }
+}

@@ -1,0 +1,3906 @@
+{
+    "segment_distribution": {
+        "Consumer": [
+            2493,
+            0.52
+        ],
+        "Corporate": [
+            1445,
+            0.3
+        ],
+        "Home Office": [
+            884,
+            0.18
+        ]
+    },
+    "segment_quantity": {
+        "Consumer": 3.44,
+        "Corporate": 3.44,
+        "Home Office": 3.43
+    },
+    "segment_unit_price": {
+        "Consumer": 20.51,
+        "Corporate": 20.69,
+        "Home Office": 20.18
+    },
+    "segment_profit": {
+        "Consumer": 3.53,
+        "Corporate": 3.8,
+        "Home Office": 3.06
+    },
+    "segment_discount": {
+        "Consumer": 0.14,
+        "Corporate": 0.13,
+        "Home Office": 0.13
+    },
+    "region_distribution": {
+        "Central": [
+            489,
+            0.1
+        ],
+        "Oceania": [
+            384,
+            0.08
+        ],
+        "Central America": [
+            356,
+            0.07
+        ],
+        "South": [
+            344,
+            0.07
+        ],
+        "North": [
+            284,
+            0.06
+        ],
+        "Western Europe": [
+            248,
+            0.05
+        ],
+        "EMEA": [
+            231,
+            0.05
+        ],
+        "Caribbean": [
+            216,
+            0.04
+        ],
+        "South America": [
+            207,
+            0.04
+        ],
+        "Africa": [
+            205,
+            0.04
+        ],
+        "Southeastern Asia": [
+            182,
+            0.04
+        ],
+        "Southeast Asia": [
+            182,
+            0.04
+        ],
+        "Southern Asia": [
+            143,
+            0.03
+        ],
+        "Eastern Asia": [
+            139,
+            0.03
+        ],
+        "North Asia": [
+            136,
+            0.03
+        ],
+        "Central Asia": [
+            127,
+            0.03
+        ],
+        "Northern Europe": [
+            116,
+            0.02
+        ],
+        "Western Asia": [
+            103,
+            0.02
+        ],
+        "Southern Europe": [
+            87,
+            0.02
+        ],
+        "East": [
+            74,
+            0.02
+        ],
+        "Eastern Europe": [
+            71,
+            0.01
+        ],
+        "West": [
+            67,
+            0.01
+        ],
+        "Western Africa": [
+            63,
+            0.01
+        ],
+        "North Africa": [
+            60,
+            0.01
+        ],
+        "Eastern US": [
+            57,
+            0.01
+        ],
+        "Western US": [
+            57,
+            0.01
+        ],
+        "Southern US": [
+            46,
+            0.01
+        ],
+        "Central US": [
+            46,
+            0.01
+        ],
+        "Eastern Africa": [
+            36,
+            0.01
+        ],
+        "Central Africa": [
+            29,
+            0.01
+        ],
+        "Canada": [
+            20,
+            0.0
+        ],
+        "Southern Africa": [
+            17,
+            0.0
+        ]
+    },
+    "region_quantity": {
+        "Africa": 2.07,
+        "Canada": 2.5,
+        "Caribbean": 3.54,
+        "Central": 3.68,
+        "Central Africa": 2.38,
+        "Central America": 3.86,
+        "Central Asia": 3.52,
+        "Central US": 3.54,
+        "EMEA": 2.1,
+        "East": 3.61,
+        "Eastern Africa": 2.14,
+        "Eastern Asia": 3.91,
+        "Eastern Europe": 2.15,
+        "Eastern US": 3.49,
+        "North": 3.81,
+        "North Africa": 1.95,
+        "North Asia": 3.96,
+        "Northern Europe": 3.72,
+        "Oceania": 3.69,
+        "South": 3.9,
+        "South America": 4.05,
+        "Southeast Asia": 3.71,
+        "Southeastern Asia": 3.71,
+        "Southern Africa": 2.35,
+        "Southern Asia": 3.43,
+        "Southern Europe": 3.51,
+        "Southern US": 3.89,
+        "West": 3.39,
+        "Western Africa": 1.94,
+        "Western Asia": 2.13,
+        "Western Europe": 3.54,
+        "Western US": 3.42
+    },
+    "region_sales": {
+        "Africa": 47.26,
+        "Canada": 56.72,
+        "Caribbean": 58.72,
+        "Central": 76.35,
+        "Central Africa": 54.36,
+        "Central America": 64.52,
+        "Central Asia": 88.72,
+        "Central US": 91.41,
+        "EMEA": 45.8,
+        "East": 59.13,
+        "Eastern Africa": 46.69,
+        "Eastern Asia": 100.24,
+        "Eastern Europe": 57.36,
+        "Eastern US": 63.71,
+        "North": 77.93,
+        "North Africa": 56.16,
+        "North Asia": 101.86,
+        "Northern Europe": 90.3,
+        "Oceania": 81.55,
+        "South": 68.77,
+        "South America": 58.19,
+        "Southeast Asia": 64.24,
+        "Southeastern Asia": 64.24,
+        "Southern Africa": 65.12,
+        "Southern Asia": 87.15,
+        "Southern Europe": 97.95,
+        "Southern US": 68.24,
+        "West": 61.46,
+        "Western Africa": 31.02,
+        "Western Asia": 39.45,
+        "Western Europe": 87.02,
+        "Western US": 66.91
+    },
+    "region_unit_price": {
+        "Africa": 22.8,
+        "Canada": 22.69,
+        "Caribbean": 16.6,
+        "Central": 20.73,
+        "Central Africa": 22.85,
+        "Central America": 16.7,
+        "Central Asia": 25.21,
+        "Central US": 25.8,
+        "EMEA": 21.77,
+        "East": 16.39,
+        "Eastern Africa": 21.83,
+        "Eastern Asia": 25.61,
+        "Eastern Europe": 26.62,
+        "Eastern US": 18.25,
+        "North": 20.48,
+        "North Africa": 28.8,
+        "North Asia": 25.75,
+        "Northern Europe": 24.25,
+        "Oceania": 22.12,
+        "South": 17.63,
+        "South America": 14.37,
+        "Southeast Asia": 17.32,
+        "Southeastern Asia": 17.32,
+        "Southern Africa": 27.68,
+        "Southern Asia": 25.38,
+        "Southern Europe": 27.94,
+        "Southern US": 17.54,
+        "West": 18.14,
+        "Western Africa": 16.02,
+        "Western Asia": 18.56,
+        "Western Europe": 24.58,
+        "Western US": 19.56
+    },
+    "region_discount": {
+        "Africa": 0.17,
+        "Canada": 0.0,
+        "Caribbean": 0.12,
+        "Central": 0.1,
+        "Central Africa": 0.0,
+        "Central America": 0.08,
+        "Central Asia": 0.12,
+        "Central US": 0.13,
+        "EMEA": 0.18,
+        "East": 0.08,
+        "Eastern Africa": 0.14,
+        "Eastern Asia": 0.04,
+        "Eastern Europe": 0.0,
+        "Eastern US": 0.09,
+        "North": 0.05,
+        "North Africa": 0.0,
+        "North Asia": 0.04,
+        "Northern Europe": 0.13,
+        "Oceania": 0.17,
+        "South": 0.14,
+        "South America": 0.2,
+        "Southeast Asia": 0.37,
+        "Southeastern Asia": 0.37,
+        "Southern Africa": 0.0,
+        "Southern Asia": 0.06,
+        "Southern Europe": 0.02,
+        "Southern US": 0.07,
+        "West": 0.04,
+        "Western Africa": 0.47,
+        "Western Asia": 0.33,
+        "Western Europe": 0.04,
+        "Western US": 0.04
+    },
+    "region_profit": {
+        "Africa": 3.57,
+        "Canada": 6.85,
+        "Caribbean": 2.6,
+        "Central": 4.53,
+        "Central Africa": 6.17,
+        "Central America": 3.59,
+        "Central Asia": 4.36,
+        "Central US": 9.82,
+        "EMEA": 1.67,
+        "East": 6.79,
+        "Eastern Africa": 2.7,
+        "Eastern Asia": 6.31,
+        "Eastern Europe": 7.01,
+        "Eastern US": 7.38,
+        "North": 4.62,
+        "North Africa": 9.08,
+        "North Asia": 6.36,
+        "Northern Europe": 3.88,
+        "Oceania": 1.78,
+        "South": 2.99,
+        "South America": 0.41,
+        "Southeast Asia": -2.43,
+        "Southeastern Asia": -2.43,
+        "Southern Africa": 8.04,
+        "Southern Asia": 4.94,
+        "Southern Europe": 7.29,
+        "Southern US": 7.69,
+        "West": 8.41,
+        "Western Africa": -4.1,
+        "Western Asia": -1.53,
+        "Western Europe": 5.47,
+        "Western US": 9.07
+    },
+    "region_profit_margin": {
+        "Africa": 0.16,
+        "Canada": 0.3,
+        "Caribbean": 0.16,
+        "Central": 0.22,
+        "Central Africa": 0.27,
+        "Central America": 0.21,
+        "Central Asia": 0.17,
+        "Central US": 0.38,
+        "EMEA": 0.08,
+        "East": 0.41,
+        "Eastern Africa": 0.12,
+        "Eastern Asia": 0.25,
+        "Eastern Europe": 0.26,
+        "Eastern US": 0.4,
+        "North": 0.23,
+        "North Africa": 0.32,
+        "North Asia": 0.25,
+        "Northern Europe": 0.16,
+        "Oceania": 0.08,
+        "South": 0.17,
+        "South America": 0.03,
+        "Southeast Asia": -0.14,
+        "Southeastern Asia": -0.14,
+        "Southern Africa": 0.29,
+        "Southern Asia": 0.19,
+        "Southern Europe": 0.26,
+        "Southern US": 0.44,
+        "West": 0.46,
+        "Western Africa": -0.26,
+        "Western Asia": -0.08,
+        "Western Europe": 0.22,
+        "Western US": 0.46
+    },
+    "market_distribution": {
+        "LATAM": [
+            1342,
+            0.28
+        ],
+        "Asia Pacific": [
+            773,
+            0.16
+        ],
+        "APAC": [
+            623,
+            0.13
+        ],
+        "Europe": [
+            522,
+            0.11
+        ],
+        "EU": [
+            441,
+            0.09
+        ],
+        "Africa": [
+            410,
+            0.09
+        ],
+        "US": [
+            254,
+            0.05
+        ],
+        "EMEA": [
+            231,
+            0.05
+        ],
+        "USCA": [
+            216,
+            0.04
+        ],
+        "Canada": [
+            10,
+            0.0
+        ]
+    },
+    "market_quantity": {
+        "APAC": 3.76,
+        "Africa": 2.07,
+        "Asia Pacific": 3.44,
+        "Canada": 2.5,
+        "EMEA": 2.1,
+        "EU": 3.63,
+        "Europe": 3.39,
+        "LATAM": 3.87,
+        "US": 3.57,
+        "USCA": 3.52
+    },
+    "market_sales": {
+        "APAC": 83.65,
+        "Africa": 47.26,
+        "Asia Pacific": 75.25,
+        "Canada": 56.72,
+        "EMEA": 45.8,
+        "EU": 90.98,
+        "Europe": 85.54,
+        "LATAM": 61.63,
+        "US": 64.87,
+        "USCA": 71.1
+    },
+    "market_unit_price": {
+        "APAC": 22.23,
+        "Africa": 22.8,
+        "Asia Pacific": 21.86,
+        "Canada": 22.69,
+        "EMEA": 21.77,
+        "EU": 25.09,
+        "Europe": 25.25,
+        "LATAM": 15.94,
+        "US": 18.19,
+        "USCA": 20.18
+    },
+    "market_discount": {
+        "APAC": 0.18,
+        "Africa": 0.17,
+        "Asia Pacific": 0.2,
+        "Canada": 0.0,
+        "EMEA": 0.18,
+        "EU": 0.06,
+        "Europe": 0.05,
+        "LATAM": 0.13,
+        "US": 0.08,
+        "USCA": 0.08
+    },
+    "market_profit": {
+        "APAC": 2.23,
+        "Africa": 3.57,
+        "Asia Pacific": 1.84,
+        "Canada": 6.85,
+        "EMEA": 1.67,
+        "EU": 5.4,
+        "Europe": 5.53,
+        "LATAM": 2.42,
+        "US": 7.69,
+        "USCA": 8.39
+    },
+    "market_profit_margin": {
+        "APAC": 0.1,
+        "Africa": 0.16,
+        "Asia Pacific": 0.08,
+        "Canada": 0.3,
+        "EMEA": 0.08,
+        "EU": 0.22,
+        "Europe": 0.22,
+        "LATAM": 0.15,
+        "US": 0.42,
+        "USCA": 0.42
+    },
+    "country_distribution": {
+        "United States": [
+            460,
+            0.1
+        ],
+        "Mexico": [
+            338,
+            0.07
+        ],
+        "Australia": [
+            300,
+            0.06
+        ],
+        "France": [
+            240,
+            0.05
+        ],
+        "China": [
+            224,
+            0.05
+        ],
+        "Brazil": [
+            220,
+            0.05
+        ],
+        "India": [
+            182,
+            0.04
+        ],
+        "United Kingdom": [
+            178,
+            0.04
+        ],
+        "Germany": [
+            176,
+            0.04
+        ],
+        "Indonesia": [
+            172,
+            0.04
+        ],
+        "Turkey": [
+            110,
+            0.02
+        ],
+        "Cuba": [
+            98,
+            0.02
+        ],
+        "Italy": [
+            98,
+            0.02
+        ],
+        "Honduras": [
+            92,
+            0.02
+        ],
+        "New Zealand": [
+            84,
+            0.02
+        ],
+        "Nigeria": [
+            84,
+            0.02
+        ],
+        "Philippines": [
+            82,
+            0.02
+        ],
+        "El Salvador": [
+            82,
+            0.02
+        ],
+        "Guatemala": [
+            80,
+            0.02
+        ],
+        "Dominican Republic": [
+            80,
+            0.02
+        ],
+        "Spain": [
+            62,
+            0.01
+        ],
+        "Nicaragua": [
+            62,
+            0.01
+        ],
+        "Iran": [
+            60,
+            0.01
+        ],
+        "Panama": [
+            58,
+            0.01
+        ],
+        "Argentina": [
+            56,
+            0.01
+        ],
+        "Morocco": [
+            56,
+            0.01
+        ],
+        "Colombia": [
+            46,
+            0.01
+        ],
+        "Saudi Arabia": [
+            43,
+            0.01
+        ],
+        "Egypt": [
+            38,
+            0.01
+        ],
+        "Venezuela": [
+            34,
+            0.01
+        ],
+        "Netherlands": [
+            34,
+            0.01
+        ],
+        "Poland": [
+            34,
+            0.01
+        ],
+        "Ukraine": [
+            32,
+            0.01
+        ],
+        "Russia": [
+            32,
+            0.01
+        ],
+        "South Africa": [
+            32,
+            0.01
+        ],
+        "Austria": [
+            30,
+            0.01
+        ],
+        "Iraq": [
+            30,
+            0.01
+        ],
+        "Democratic Republic of the Congo": [
+            28,
+            0.01
+        ],
+        "Japan": [
+            26,
+            0.01
+        ],
+        "Sweden": [
+            26,
+            0.01
+        ],
+        "Pakistan": [
+            26,
+            0.01
+        ],
+        "Haiti": [
+            24,
+            0.0
+        ],
+        "Thailand": [
+            24,
+            0.0
+        ],
+        "Vietnam": [
+            24,
+            0.0
+        ],
+        "Malaysia": [
+            24,
+            0.0
+        ],
+        "Peru": [
+            22,
+            0.0
+        ],
+        "Algeria": [
+            20,
+            0.0
+        ],
+        "Canada": [
+            20,
+            0.0
+        ],
+        "Singapore": [
+            18,
+            0.0
+        ],
+        "Kenya": [
+            18,
+            0.0
+        ],
+        "Chile": [
+            18,
+            0.0
+        ],
+        "Kazakhstan": [
+            18,
+            0.0
+        ],
+        "South Korea": [
+            16,
+            0.0
+        ],
+        "Myanmar (Burma)": [
+            16,
+            0.0
+        ],
+        "Romania": [
+            14,
+            0.0
+        ],
+        "Tanzania": [
+            14,
+            0.0
+        ],
+        "Angola": [
+            14,
+            0.0
+        ],
+        "Bangladesh": [
+            12,
+            0.0
+        ],
+        "Bolivia": [
+            12,
+            0.0
+        ],
+        "Zambia": [
+            12,
+            0.0
+        ],
+        "Jordan": [
+            10,
+            0.0
+        ],
+        "Zimbabwe": [
+            10,
+            0.0
+        ],
+        "Ghana": [
+            10,
+            0.0
+        ],
+        "Ireland": [
+            10,
+            0.0
+        ],
+        "Trinidad and Tobago": [
+            8,
+            0.0
+        ],
+        "Switzerland": [
+            8,
+            0.0
+        ],
+        "Mozambique": [
+            8,
+            0.0
+        ],
+        "Bulgaria": [
+            8,
+            0.0
+        ],
+        "Belarus": [
+            8,
+            0.0
+        ],
+        "Kyrgyzstan": [
+            8,
+            0.0
+        ],
+        "Belgium": [
+            8,
+            0.0
+        ],
+        "Czech Republic": [
+            8,
+            0.0
+        ],
+        "Gabon": [
+            8,
+            0.0
+        ],
+        "Senegal": [
+            7,
+            0.0
+        ],
+        "Israel": [
+            6,
+            0.0
+        ],
+        "Portugal": [
+            6,
+            0.0
+        ],
+        "Afghanistan": [
+            6,
+            0.0
+        ],
+        "Norway": [
+            6,
+            0.0
+        ],
+        "Benin": [
+            6,
+            0.0
+        ],
+        "Denmark": [
+            6,
+            0.0
+        ],
+        "Cameroon": [
+            6,
+            0.0
+        ],
+        "Mongolia": [
+            6,
+            0.0
+        ],
+        "C\u00f4te-d'Ivoire": [
+            5,
+            0.0
+        ],
+        "Cote d'Ivoire": [
+            5,
+            0.0
+        ],
+        "Bosnia and Herzegovina": [
+            4,
+            0.0
+        ],
+        "Sudan": [
+            4,
+            0.0
+        ],
+        "Taiwan": [
+            4,
+            0.0
+        ],
+        "Finland": [
+            4,
+            0.0
+        ],
+        "Madagascar": [
+            4,
+            0.0
+        ],
+        "Ecuador": [
+            4,
+            0.0
+        ],
+        "Cambodia": [
+            4,
+            0.0
+        ],
+        "Moldova": [
+            4,
+            0.0
+        ],
+        "Uganda": [
+            4,
+            0.0
+        ],
+        "Niger": [
+            4,
+            0.0
+        ],
+        "Uruguay": [
+            2,
+            0.0
+        ],
+        "Hungary": [
+            2,
+            0.0
+        ],
+        "Guadeloupe": [
+            2,
+            0.0
+        ],
+        "Lesotho": [
+            2,
+            0.0
+        ],
+        "Lebanon": [
+            2,
+            0.0
+        ],
+        "Hong Kong": [
+            2,
+            0.0
+        ],
+        "Macedonia": [
+            2,
+            0.0
+        ],
+        "Martinique": [
+            2,
+            0.0
+        ],
+        "Azerbaijan": [
+            2,
+            0.0
+        ],
+        "Barbados": [
+            2,
+            0.0
+        ],
+        "Guinea": [
+            2,
+            0.0
+        ],
+        "Croatia": [
+            2,
+            0.0
+        ],
+        "Lithuania": [
+            2,
+            0.0
+        ],
+        "Libya": [
+            2,
+            0.0
+        ],
+        "Yemen": [
+            2,
+            0.0
+        ],
+        "Somalia": [
+            2,
+            0.0
+        ],
+        "Equatorial Guinea": [
+            2,
+            0.0
+        ],
+        "Mali": [
+            2,
+            0.0
+        ],
+        "Tajikistan": [
+            2,
+            0.0
+        ],
+        "Oman": [
+            1,
+            0.0
+        ],
+        "The Gambia": [
+            1,
+            0.0
+        ]
+    },
+    "country_quantity": {
+        "Afghanistan": 4.0,
+        "Algeria": 1.8,
+        "Angola": 2.0,
+        "Argentina": 4.32,
+        "Australia": 3.71,
+        "Austria": 3.0,
+        "Azerbaijan": 1.0,
+        "Bangladesh": 3.0,
+        "Barbados": 5.0,
+        "Belarus": 1.25,
+        "Belgium": 3.25,
+        "Benin": 1.33,
+        "Bolivia": 2.83,
+        "Bosnia and Herzegovina": 2.5,
+        "Brazil": 4.13,
+        "Bulgaria": 1.5,
+        "Cambodia": 2.5,
+        "Cameroon": 2.67,
+        "Canada": 2.5,
+        "Chile": 3.67,
+        "China": 3.98,
+        "Colombia": 3.61,
+        "Cote d'Ivoire": 2.0,
+        "Croatia": 1.0,
+        "Cuba": 3.63,
+        "Czech Republic": 1.75,
+        "C\u00f4te-d'Ivoire": 2.0,
+        "Democratic Republic of the Congo": 2.43,
+        "Denmark": 3.0,
+        "Dominican Republic": 3.18,
+        "Ecuador": 6.0,
+        "Egypt": 1.95,
+        "El Salvador": 3.44,
+        "Equatorial Guinea": 1.0,
+        "Finland": 2.0,
+        "France": 3.51,
+        "Gabon": 3.0,
+        "Germany": 3.55,
+        "Ghana": 3.4,
+        "Guadeloupe": 2.0,
+        "Guatemala": 3.62,
+        "Guinea": 1.0,
+        "Haiti": 4.0,
+        "Honduras": 4.11,
+        "Hong Kong": 5.0,
+        "Hungary": 1.0,
+        "India": 3.76,
+        "Indonesia": 3.91,
+        "Iran": 2.27,
+        "Iraq": 1.33,
+        "Ireland": 3.4,
+        "Israel": 4.33,
+        "Italy": 4.0,
+        "Japan": 3.31,
+        "Jordan": 3.0,
+        "Kazakhstan": 1.89,
+        "Kenya": 2.0,
+        "Kyrgyzstan": 1.5,
+        "Lebanon": 2.0,
+        "Lesotho": 4.0,
+        "Libya": 2.0,
+        "Lithuania": 1.0,
+        "Macedonia": 1.0,
+        "Madagascar": 4.5,
+        "Malaysia": 3.5,
+        "Mali": 2.0,
+        "Martinique": 3.0,
+        "Mexico": 3.85,
+        "Moldova": 1.0,
+        "Mongolia": 2.0,
+        "Morocco": 2.04,
+        "Mozambique": 1.25,
+        "Myanmar (Burma)": 3.5,
+        "Netherlands": 3.59,
+        "New Zealand": 3.6,
+        "Nicaragua": 4.03,
+        "Niger": 1.5,
+        "Nigeria": 1.83,
+        "Norway": 2.67,
+        "Oman": 2.0,
+        "Pakistan": 3.92,
+        "Panama": 4.31,
+        "Peru": 3.0,
+        "Philippines": 3.66,
+        "Poland": 2.29,
+        "Portugal": 2.67,
+        "Romania": 2.86,
+        "Russia": 1.62,
+        "Saudi Arabia": 2.47,
+        "Senegal": 2.14,
+        "Singapore": 3.33,
+        "Somalia": 1.0,
+        "South Africa": 2.25,
+        "South Korea": 5.0,
+        "Spain": 3.03,
+        "Sudan": 1.5,
+        "Sweden": 3.92,
+        "Switzerland": 6.5,
+        "Taiwan": 2.0,
+        "Tajikistan": 1.0,
+        "Tanzania": 1.29,
+        "Thailand": 3.5,
+        "The Gambia": 1.0,
+        "Trinidad and Tobago": 4.75,
+        "Turkey": 2.05,
+        "Uganda": 3.5,
+        "Ukraine": 2.94,
+        "United Kingdom": 3.84,
+        "United States": 3.57,
+        "Uruguay": 6.0,
+        "Venezuela": 4.65,
+        "Vietnam": 3.5,
+        "Yemen": 1.0,
+        "Zambia": 2.5,
+        "Zimbabwe": 2.6
+    },
+    "country_sales": {
+        "Afghanistan": 171.5,
+        "Algeria": 53.26,
+        "Angola": 61.17,
+        "Argentina": 49.37,
+        "Australia": 82.39,
+        "Austria": 76.04,
+        "Azerbaijan": 28.23,
+        "Bangladesh": 93.92,
+        "Barbados": 168.2,
+        "Belarus": 20.13,
+        "Belgium": 96.38,
+        "Benin": 27.7,
+        "Bolivia": 51.32,
+        "Bosnia and Herzegovina": 97.12,
+        "Brazil": 58.77,
+        "Bulgaria": 29.6,
+        "Cambodia": 37.59,
+        "Cameroon": 57.1,
+        "Canada": 56.72,
+        "Chile": 67.56,
+        "China": 108.63,
+        "Colombia": 68.93,
+        "Cote d'Ivoire": 64.6,
+        "Croatia": 17.04,
+        "Cuba": 62.86,
+        "Czech Republic": 49.01,
+        "C\u00f4te-d'Ivoire": 64.6,
+        "Democratic Republic of the Congo": 53.55,
+        "Denmark": 35.08,
+        "Dominican Republic": 46.37,
+        "Ecuador": 127.9,
+        "Egypt": 52.37,
+        "El Salvador": 63.77,
+        "Equatorial Guinea": 19.74,
+        "Finland": 45.63,
+        "France": 84.42,
+        "Gabon": 51.88,
+        "Germany": 96.6,
+        "Ghana": 117.17,
+        "Guadeloupe": 54.6,
+        "Guatemala": 69.28,
+        "Guinea": 45.12,
+        "Haiti": 53.39,
+        "Honduras": 44.99,
+        "Hong Kong": 73.8,
+        "Hungary": 41.7,
+        "India": 100.4,
+        "Indonesia": 50.89,
+        "Iran": 51.73,
+        "Iraq": 24.65,
+        "Ireland": 46.36,
+        "Israel": 176.15,
+        "Italy": 112.57,
+        "Japan": 71.01,
+        "Jordan": 71.77,
+        "Kazakhstan": 19.78,
+        "Kenya": 43.89,
+        "Kyrgyzstan": 43.61,
+        "Lebanon": 54.18,
+        "Lesotho": 67.8,
+        "Libya": 72.9,
+        "Lithuania": 14.8,
+        "Macedonia": 46.92,
+        "Madagascar": 87.0,
+        "Malaysia": 117.28,
+        "Mali": 14.4,
+        "Martinique": 54.78,
+        "Mexico": 69.08,
+        "Moldova": 44.5,
+        "Mongolia": 26.9,
+        "Morocco": 58.94,
+        "Mozambique": 20.72,
+        "Myanmar (Burma)": 75.63,
+        "Netherlands": 41.16,
+        "New Zealand": 78.56,
+        "Nicaragua": 81.15,
+        "Niger": 24.56,
+        "Nigeria": 14.76,
+        "Norway": 101.42,
+        "Oman": 61.08,
+        "Pakistan": 53.57,
+        "Panama": 45.67,
+        "Peru": 37.28,
+        "Philippines": 57.48,
+        "Poland": 74.05,
+        "Portugal": 28.47,
+        "Romania": 89.46,
+        "Russia": 34.09,
+        "Saudi Arabia": 64.93,
+        "Senegal": 63.88,
+        "Singapore": 106.14,
+        "Somalia": 14.64,
+        "South Africa": 64.95,
+        "South Korea": 68.3,
+        "Spain": 85.89,
+        "Sudan": 59.31,
+        "Sweden": 48.53,
+        "Switzerland": 181.2,
+        "Taiwan": 71.31,
+        "Tajikistan": 4.43,
+        "Tanzania": 44.31,
+        "Thailand": 55.82,
+        "The Gambia": 19.98,
+        "Trinidad and Tobago": 122.05,
+        "Turkey": 23.38,
+        "Uganda": 19.8,
+        "Ukraine": 69.77,
+        "United Kingdom": 102.21,
+        "United States": 67.97,
+        "Uruguay": 175.68,
+        "Venezuela": 50.4,
+        "Vietnam": 103.77,
+        "Yemen": 12.28,
+        "Zambia": 93.18,
+        "Zimbabwe": 21.09
+    },
+    "country_unit_price": {
+        "Afghanistan": 42.88,
+        "Algeria": 29.59,
+        "Angola": 30.58,
+        "Argentina": 11.43,
+        "Australia": 22.19,
+        "Austria": 25.35,
+        "Azerbaijan": 28.23,
+        "Bangladesh": 31.3,
+        "Barbados": 33.64,
+        "Belarus": 16.1,
+        "Belgium": 29.66,
+        "Benin": 20.78,
+        "Bolivia": 18.11,
+        "Bosnia and Herzegovina": 38.85,
+        "Brazil": 14.24,
+        "Bulgaria": 19.73,
+        "Cambodia": 15.04,
+        "Cameroon": 21.41,
+        "Canada": 22.69,
+        "Chile": 18.42,
+        "China": 27.28,
+        "Colombia": 19.1,
+        "Cote d'Ivoire": 32.3,
+        "Croatia": 17.04,
+        "Cuba": 17.3,
+        "Czech Republic": 28.01,
+        "C\u00f4te-d'Ivoire": 32.3,
+        "Democratic Republic of the Congo": 22.05,
+        "Denmark": 11.7,
+        "Dominican Republic": 14.61,
+        "Ecuador": 21.32,
+        "Egypt": 26.89,
+        "El Salvador": 18.54,
+        "Equatorial Guinea": 19.74,
+        "Finland": 22.82,
+        "France": 24.06,
+        "Gabon": 17.29,
+        "Germany": 27.25,
+        "Ghana": 34.46,
+        "Guadeloupe": 27.3,
+        "Guatemala": 19.11,
+        "Guinea": 45.12,
+        "Haiti": 13.35,
+        "Honduras": 10.95,
+        "Hong Kong": 14.76,
+        "Hungary": 41.7,
+        "India": 26.71,
+        "Indonesia": 13.02,
+        "Iran": 22.82,
+        "Iraq": 18.49,
+        "Ireland": 13.64,
+        "Israel": 40.65,
+        "Italy": 28.14,
+        "Japan": 21.47,
+        "Jordan": 23.92,
+        "Kazakhstan": 10.47,
+        "Kenya": 21.94,
+        "Kyrgyzstan": 29.08,
+        "Lebanon": 27.09,
+        "Lesotho": 16.95,
+        "Libya": 36.45,
+        "Lithuania": 14.8,
+        "Macedonia": 46.92,
+        "Madagascar": 19.33,
+        "Malaysia": 33.51,
+        "Mali": 7.2,
+        "Martinique": 18.26,
+        "Mexico": 17.96,
+        "Moldova": 44.5,
+        "Mongolia": 13.45,
+        "Morocco": 28.95,
+        "Mozambique": 16.57,
+        "Myanmar (Burma)": 21.61,
+        "Netherlands": 11.47,
+        "New Zealand": 21.85,
+        "Nicaragua": 20.12,
+        "Niger": 16.37,
+        "Nigeria": 8.05,
+        "Norway": 38.03,
+        "Oman": 30.54,
+        "Pakistan": 13.66,
+        "Panama": 10.6,
+        "Peru": 12.43,
+        "Philippines": 15.71,
+        "Poland": 32.28,
+        "Portugal": 10.68,
+        "Romania": 31.31,
+        "Russia": 20.98,
+        "Saudi Arabia": 26.34,
+        "Senegal": 29.81,
+        "Singapore": 31.84,
+        "Somalia": 14.64,
+        "South Africa": 28.87,
+        "South Korea": 13.66,
+        "Spain": 28.32,
+        "Sudan": 39.54,
+        "Sweden": 12.37,
+        "Switzerland": 27.88,
+        "Taiwan": 35.66,
+        "Tajikistan": 4.43,
+        "Tanzania": 34.47,
+        "Thailand": 15.95,
+        "The Gambia": 19.98,
+        "Trinidad and Tobago": 25.69,
+        "Turkey": 11.38,
+        "Uganda": 5.66,
+        "Ukraine": 23.75,
+        "United Kingdom": 26.6,
+        "United States": 19.04,
+        "Uruguay": 29.28,
+        "Venezuela": 10.84,
+        "Vietnam": 29.65,
+        "Yemen": 12.28,
+        "Zambia": 37.27,
+        "Zimbabwe": 8.11
+    },
+    "country_profit": {
+        "Afghanistan": 9.94,
+        "Algeria": 5.07,
+        "Angola": 10.48,
+        "Argentina": -2.76,
+        "Australia": 1.91,
+        "Austria": 6.93,
+        "Azerbaijan": 12.12,
+        "Bangladesh": 8.48,
+        "Barbados": 14.8,
+        "Belarus": 3.91,
+        "Belgium": 12.85,
+        "Benin": 6.96,
+        "Bolivia": 3.13,
+        "Bosnia and Herzegovina": 0.68,
+        "Brazil": 0.72,
+        "Bulgaria": 7.89,
+        "Cambodia": 3.56,
+        "Cameroon": 8.83,
+        "Canada": 6.85,
+        "Chile": 4.81,
+        "China": 7.54,
+        "Colombia": 5.2,
+        "Cote d'Ivoire": 3.56,
+        "Croatia": 4.26,
+        "Cuba": 4.44,
+        "Czech Republic": 6.87,
+        "C\u00f4te-d'Ivoire": 3.56,
+        "Democratic Republic of the Congo": 4.48,
+        "Denmark": -2.06,
+        "Dominican Republic": 0.21,
+        "Ecuador": 3.1,
+        "Egypt": 9.35,
+        "El Salvador": 5.07,
+        "Equatorial Guinea": 2.16,
+        "Finland": 8.64,
+        "France": 5.81,
+        "Gabon": 4.5,
+        "Germany": 6.79,
+        "Ghana": 11.16,
+        "Guadeloupe": 10.92,
+        "Guatemala": 6.36,
+        "Guinea": 17.58,
+        "Haiti": -2.18,
+        "Honduras": -2.15,
+        "Hong Kong": 2.04,
+        "Hungary": 1.65,
+        "India": 6.39,
+        "Indonesia": -4.57,
+        "Iran": 3.57,
+        "Iraq": 5.33,
+        "Ireland": -7.88,
+        "Israel": 11.21,
+        "Italy": 7.12,
+        "Japan": 4.93,
+        "Jordan": 8.55,
+        "Kazakhstan": -17.22,
+        "Kenya": 7.54,
+        "Kyrgyzstan": 11.0,
+        "Lebanon": 10.83,
+        "Lesotho": 6.09,
+        "Libya": 12.39,
+        "Lithuania": -29.6,
+        "Macedonia": 10.32,
+        "Madagascar": 3.13,
+        "Malaysia": 11.75,
+        "Mali": 3.24,
+        "Martinique": 2.92,
+        "Mexico": 5.06,
+        "Moldova": 12.26,
+        "Mongolia": 1.46,
+        "Morocco": 9.71,
+        "Mozambique": 3.73,
+        "Myanmar (Burma)": 1.86,
+        "Netherlands": -5.58,
+        "New Zealand": 1.31,
+        "Nicaragua": 5.85,
+        "Niger": 3.27,
+        "Nigeria": -10.43,
+        "Norway": 11.15,
+        "Oman": 14.94,
+        "Pakistan": -5.38,
+        "Panama": -2.52,
+        "Peru": -1.77,
+        "Philippines": -5.88,
+        "Poland": 7.48,
+        "Portugal": -4.89,
+        "Romania": 4.56,
+        "Russia": 4.9,
+        "Saudi Arabia": 7.02,
+        "Senegal": 1.5,
+        "Singapore": 9.44,
+        "Somalia": 4.95,
+        "South Africa": 8.25,
+        "South Korea": -4.88,
+        "Spain": 9.03,
+        "Sudan": 15.81,
+        "Sweden": -6.41,
+        "Switzerland": 3.74,
+        "Taiwan": 7.83,
+        "Tajikistan": -7.99,
+        "Tanzania": 5.84,
+        "Thailand": -8.05,
+        "The Gambia": 9.57,
+        "Trinidad and Tobago": 9.31,
+        "Turkey": -9.94,
+        "Uganda": -8.52,
+        "Ukraine": 8.96,
+        "United Kingdom": 6.02,
+        "United States": 8.02,
+        "Uruguay": 0.86,
+        "Venezuela": -3.44,
+        "Vietnam": 6.36,
+        "Yemen": -12.7,
+        "Zambia": 13.58,
+        "Zimbabwe": -13.54
+    },
+    "country_profit_margin": {
+        "Afghanistan": 0.23,
+        "Algeria": 0.17,
+        "Angola": 0.34,
+        "Argentina": -0.24,
+        "Australia": 0.09,
+        "Austria": 0.27,
+        "Azerbaijan": 0.43,
+        "Bangladesh": 0.27,
+        "Barbados": 0.44,
+        "Belarus": 0.24,
+        "Belgium": 0.43,
+        "Benin": 0.34,
+        "Bolivia": 0.17,
+        "Bosnia and Herzegovina": 0.02,
+        "Brazil": 0.05,
+        "Bulgaria": 0.4,
+        "Cambodia": 0.24,
+        "Cameroon": 0.41,
+        "Canada": 0.3,
+        "Chile": 0.26,
+        "China": 0.28,
+        "Colombia": 0.27,
+        "Cote d'Ivoire": 0.11,
+        "Croatia": 0.25,
+        "Cuba": 0.26,
+        "Czech Republic": 0.25,
+        "C\u00f4te-d'Ivoire": 0.11,
+        "Democratic Republic of the Congo": 0.2,
+        "Denmark": -0.18,
+        "Dominican Republic": 0.01,
+        "Ecuador": 0.15,
+        "Egypt": 0.35,
+        "El Salvador": 0.27,
+        "Equatorial Guinea": 0.11,
+        "Finland": 0.38,
+        "France": 0.24,
+        "Gabon": 0.26,
+        "Germany": 0.25,
+        "Ghana": 0.32,
+        "Guadeloupe": 0.4,
+        "Guatemala": 0.33,
+        "Guinea": 0.39,
+        "Haiti": -0.16,
+        "Honduras": -0.2,
+        "Hong Kong": 0.14,
+        "Hungary": 0.04,
+        "India": 0.24,
+        "Indonesia": -0.35,
+        "Iran": 0.16,
+        "Iraq": 0.29,
+        "Ireland": -0.58,
+        "Israel": 0.28,
+        "Italy": 0.25,
+        "Japan": 0.23,
+        "Jordan": 0.36,
+        "Kazakhstan": -1.64,
+        "Kenya": 0.34,
+        "Kyrgyzstan": 0.38,
+        "Lebanon": 0.4,
+        "Lesotho": 0.36,
+        "Libya": 0.34,
+        "Lithuania": -2.0,
+        "Macedonia": 0.22,
+        "Madagascar": 0.16,
+        "Malaysia": 0.35,
+        "Mali": 0.45,
+        "Martinique": 0.16,
+        "Mexico": 0.28,
+        "Moldova": 0.28,
+        "Mongolia": 0.11,
+        "Morocco": 0.34,
+        "Mozambique": 0.23,
+        "Myanmar (Burma)": 0.09,
+        "Netherlands": -0.49,
+        "New Zealand": 0.06,
+        "Nicaragua": 0.29,
+        "Niger": 0.2,
+        "Nigeria": -1.3,
+        "Norway": 0.29,
+        "Oman": 0.49,
+        "Pakistan": -0.39,
+        "Panama": -0.24,
+        "Peru": -0.14,
+        "Philippines": -0.37,
+        "Poland": 0.23,
+        "Portugal": -0.46,
+        "Romania": 0.15,
+        "Russia": 0.23,
+        "Saudi Arabia": 0.27,
+        "Senegal": 0.05,
+        "Singapore": 0.3,
+        "Somalia": 0.34,
+        "South Africa": 0.29,
+        "South Korea": -0.36,
+        "Spain": 0.32,
+        "Sudan": 0.4,
+        "Sweden": -0.52,
+        "Switzerland": 0.13,
+        "Taiwan": 0.22,
+        "Tajikistan": -1.8,
+        "Tanzania": 0.17,
+        "Thailand": -0.5,
+        "The Gambia": 0.48,
+        "Trinidad and Tobago": 0.36,
+        "Turkey": -0.87,
+        "Uganda": -1.51,
+        "Ukraine": 0.38,
+        "United Kingdom": 0.23,
+        "United States": 0.42,
+        "Uruguay": 0.03,
+        "Venezuela": -0.32,
+        "Vietnam": 0.21,
+        "Yemen": -1.03,
+        "Zambia": 0.36,
+        "Zimbabwe": -1.67
+    },
+    "top_10_states": {
+        "England": [
+            170,
+            0.04
+        ],
+        "Ile-de-France": [
+            88,
+            0.02
+        ],
+        "California": [
+            86,
+            0.02
+        ],
+        "New South Wales": [
+            80,
+            0.02
+        ],
+        "Queensland": [
+            74,
+            0.02
+        ],
+        "San Salvador": [
+            74,
+            0.02
+        ],
+        "Guatemala": [
+            70,
+            0.01
+        ],
+        "Victoria": [
+            64,
+            0.01
+        ],
+        "North Rhine-Westphalia": [
+            62,
+            0.01
+        ],
+        "S\u00e3o Paulo": [
+            62,
+            0.01
+        ]
+    },
+    "top_10_states_values": [
+        170,
+        88,
+        86,
+        80,
+        74,
+        74,
+        70,
+        64,
+        62,
+        62
+    ],
+    "top_10_cities": {
+        "Tegucigalpa": [
+            52,
+            0.01
+        ],
+        "Santo Domingo": [
+            48,
+            0.01
+        ],
+        "Manila": [
+            48,
+            0.01
+        ],
+        "New York City": [
+            39,
+            0.01
+        ],
+        "Jakarta": [
+            36,
+            0.01
+        ],
+        "Mexico City": [
+            36,
+            0.01
+        ],
+        "Sydney": [
+            34,
+            0.01
+        ],
+        "Melbourne": [
+            32,
+            0.01
+        ],
+        "Managua": [
+            32,
+            0.01
+        ],
+        "San Salvador": [
+            32,
+            0.01
+        ]
+    },
+    "top_10_cities_values": [
+        52,
+        48,
+        48,
+        39,
+        36,
+        36,
+        34,
+        32,
+        32,
+        32
+    ],
+    "yearly_sales": {
+        "2011": 27986.6005,
+        "2012": 38013.8195,
+        "2013": 50805.2553,
+        "2014": 81391.5628,
+        "2015": 37665.6075,
+        "2016": 50501.7633,
+        "2017": 53757.1823
+    },
+    "monthly_trend": {
+        "April": {
+            "2011": 2745.0402,
+            "2012": 2980.9272,
+            "2013": 1924.5796,
+            "2014": 5283.6887,
+            "2015": 2980.9272,
+            "2016": 1924.5796,
+            "2017": 2759.3445
+        },
+        "August": {
+            "2011": 3545.075,
+            "2012": 2560.7577,
+            "2013": 6925.4858,
+            "2014": 7946.3781,
+            "2015": 2560.7577,
+            "2016": 6925.4858,
+            "2017": 4360.3331
+        },
+        "December": {
+            "2011": 2922.7958,
+            "2012": 4057.6398,
+            "2013": 5920.803,
+            "2014": 9242.7623,
+            "2015": 4037.7678,
+            "2016": 5819.083,
+            "2017": 6558.7925
+        },
+        "February": {
+            "2011": 693.9435,
+            "2012": 1650.713,
+            "2013": 2292.3206,
+            "2014": 2541.1658,
+            "2015": 1576.193,
+            "2016": 2245.6006,
+            "2017": 1738.037
+        },
+        "January": {
+            "2011": 1661.8984,
+            "2012": 1533.698,
+            "2013": 2447.0255,
+            "2014": 4970.9328000000005,
+            "2015": 1533.698,
+            "2016": 2423.6655,
+            "2017": 3333.9544
+        },
+        "July": {
+            "2011": 1692.4329,
+            "2012": 3008.0181000000002,
+            "2013": 2784.4828,
+            "2014": 3982.2965,
+            "2015": 3008.0181000000002,
+            "2016": 2784.4827999999998,
+            "2017": 2237.3936
+        },
+        "June": {
+            "2011": 2643.812,
+            "2012": 4379.7447,
+            "2013": 5139.719599999999,
+            "2014": 7789.6892,
+            "2015": 4350.9927,
+            "2016": 5139.7196,
+            "2017": 5450.6192
+        },
+        "March": {
+            "2011": 1482.1305,
+            "2012": 1371.3679,
+            "2013": 3610.8788,
+            "2014": 6236.0836,
+            "2015": 1342.0279,
+            "2016": 3581.5388000000003,
+            "2017": 4807.7544
+        },
+        "May": {
+            "2011": 1529.8734,
+            "2012": 2909.149,
+            "2013": 3426.3107,
+            "2014": 6507.7396,
+            "2015": 2909.149,
+            "2016": 3416.9667,
+            "2017": 4795.4842
+        },
+        "November": {
+            "2011": 4120.6088,
+            "2012": 4563.4328,
+            "2013": 5409.7002999999995,
+            "2014": 10351.7323,
+            "2015": 4469.0728,
+            "2016": 5381.3003,
+            "2017": 6279.6775
+        },
+        "October": {
+            "2011": 1700.8999999999999,
+            "2012": 3659.9487,
+            "2013": 3160.9224,
+            "2014": 8396.3514,
+            "2015": 3597.5247,
+            "2016": 3145.2744000000002,
+            "2017": 6618.0634
+        },
+        "September": {
+            "2011": 3248.09,
+            "2012": 5338.4226,
+            "2013": 7763.0262,
+            "2014": 8142.7425,
+            "2015": 5299.4786,
+            "2016": 7714.0662,
+            "2017": 4817.7285
+        }
+    },
+    "shipping_delay_stats": {
+        "mean": 4.0,
+        "median": 4.0,
+        "max": 7
+    },
+    "top_10_products_by_sales": {
+        "Ames Interoffice Envelope, Security-Tint": 5680.224,
+        "Cameo Interoffice Envelope, Recycled": 5620.027,
+        "Cameo Interoffice Envelope, Set of 50": 5528.757,
+        "Jiffy Interoffice Envelope, Recycled": 5513.2480000000005,
+        "Kraft Interoffice Envelope, Security-Tint": 5412.048000000001,
+        "Jiffy Interoffice Envelope, Set of 50": 5241.528,
+        "GlobeWeis Mailers, Security-Tint": 4920.552,
+        "Jiffy Mailers, Security-Tint": 4909.318,
+        "GlobeWeis Interoffice Envelope, Set of 50": 4877.64,
+        "Cameo Mailers, with clear poly window": 4819.964
+    },
+    "top_10_products_by_profit": {
+        "Jiffy Interoffice Envelope, Recycled": 1774.1680000000001,
+        "Cameo Interoffice Envelope, Set of 50": 1652.277,
+        "Cameo Interoffice Envelope, Recycled": 1579.647,
+        "Cameo Mailers, Recycled": 1421.436,
+        "GlobeWeis Mailers, Security-Tint": 1363.5120000000002,
+        "Ames Interoffice Envelope, Security-Tint": 1313.144,
+        "Cameo Buff Policy Envelopes": 1264.5135999999998,
+        "Cameo Manila Envelope, Security-Tint": 1225.688,
+        "Kraft Interoffice Envelope, Security-Tint": 1210.1280000000002,
+        "Ames Manila Envelope, Security-Tint": 1204.6098
+    },
+    "top_10_products_by_turnover": {
+        "Jiffy Business Envelopes, Recycled": 300,
+        "Kraft Business Envelopes, Recycled": 248,
+        "Cameo Business Envelopes, Recycled": 226,
+        "Kraft Clasp Envelope, with clear poly window": 222,
+        "GlobeWeis Manila Envelope, Set of 50": 192,
+        "Cameo Clasp Envelope, Security-Tint": 188,
+        "Ames Business Envelopes, Recycled": 182,
+        "Ames Peel and Seal, Recycled": 182,
+        "Kraft Manila Envelope, Security-Tint": 182,
+        "Ames Manila Envelope, Security-Tint": 180
+    },
+    "top_5_loss_products": {
+        "Jiffy Mailers, Recycled": -621.0458,
+        "Cameo Mailers, with clear poly window": -597.116,
+        "Jiffy Manila Envelope, Recycled": -593.1904,
+        "Jiffy Interoffice Envelope, Set of 50": -551.34,
+        "Ames Mailers, Recycled": -538.2239999999999
+    },
+    "product_performance": [
+        {
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 5680.224,
+            "total_quantity": 152,
+            "average_price": 157.784,
+            "total_profit": 1313.144,
+            "profit_margin": 0.23117820705662312
+        },
+        {
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 5620.027,
+            "total_quantity": 152,
+            "average_price": 122.1745,
+            "total_profit": 1579.647,
+            "profit_margin": 0.2810746282891523
+        },
+        {
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 5528.757,
+            "total_quantity": 162,
+            "average_price": 125.65356818181817,
+            "total_profit": 1652.277,
+            "profit_margin": 0.29885144165316
+        },
+        {
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 5513.2480000000005,
+            "total_quantity": 150,
+            "average_price": 162.15435294117648,
+            "total_profit": 1774.1680000000001,
+            "profit_margin": 0.3218008694693219
+        },
+        {
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 5412.048000000001,
+            "total_quantity": 138,
+            "average_price": 128.85828571428573,
+            "total_profit": 1210.1280000000002,
+            "profit_margin": 0.22359890377912392
+        },
+        {
+            "Product Name": "Jiffy Interoffice Envelope, Set of 50",
+            "total_sales": 5241.528,
+            "total_quantity": 148,
+            "average_price": 187.1974285714286,
+            "total_profit": -64.93200000000003,
+            "profit_margin": -0.012387990677527628
+        },
+        {
+            "Product Name": "GlobeWeis Mailers, Security-Tint",
+            "total_sales": 4920.552,
+            "total_quantity": 178,
+            "average_price": 117.15599999999999,
+            "total_profit": 1363.5120000000002,
+            "profit_margin": 0.2771054954809949
+        },
+        {
+            "Product Name": "Jiffy Mailers, Security-Tint",
+            "total_sales": 4909.318,
+            "total_quantity": 168,
+            "average_price": 136.36994444444446,
+            "total_profit": 657.1379999999999,
+            "profit_margin": 0.13385525239962046
+        },
+        {
+            "Product Name": "GlobeWeis Interoffice Envelope, Set of 50",
+            "total_sales": 4877.64,
+            "total_quantity": 118,
+            "average_price": 135.49,
+            "total_profit": 596.46,
+            "profit_margin": 0.1222845474450759
+        },
+        {
+            "Product Name": "Cameo Mailers, with clear poly window",
+            "total_sales": 4819.964,
+            "total_quantity": 158,
+            "average_price": 109.54463636363636,
+            "total_profit": -97.75600000000003,
+            "profit_margin": -0.02028147928075812
+        },
+        {
+            "Product Name": "Cameo Mailers, Recycled",
+            "total_sales": 4777.696,
+            "total_quantity": 138,
+            "average_price": 132.71377777777778,
+            "total_profit": 1421.436,
+            "profit_margin": 0.2975149528140761
+        },
+        {
+            "Product Name": "Kraft Interoffice Envelope, Set of 50",
+            "total_sales": 4543.42,
+            "total_quantity": 130,
+            "average_price": 119.56368421052632,
+            "total_profit": 458.38,
+            "profit_margin": 0.10088875780799486
+        },
+        {
+            "Product Name": "Ames Interoffice Envelope, with clear poly window",
+            "total_sales": 4421.572,
+            "total_quantity": 112,
+            "average_price": 116.35715789473684,
+            "total_profit": 339.272,
+            "profit_margin": 0.07673108116298909
+        },
+        {
+            "Product Name": "GlobeWeis Mailers, Recycled",
+            "total_sales": 4418.505,
+            "total_quantity": 154,
+            "average_price": 110.462625,
+            "total_profit": 1146.8249999999998,
+            "profit_margin": 0.2595504588090315
+        },
+        {
+            "Product Name": "GlobeWeis Manila Envelope, Set of 50",
+            "total_sales": 4407.5988,
+            "total_quantity": 192,
+            "average_price": 88.15197599999999,
+            "total_profit": 927.6787999999999,
+            "profit_margin": 0.2104726047207382
+        },
+        {
+            "Product Name": "Cameo Interoffice Envelope, with clear poly window",
+            "total_sales": 4249.199,
+            "total_quantity": 118,
+            "average_price": 118.03330555555554,
+            "total_profit": -211.60100000000006,
+            "profit_margin": -0.04979785601945216
+        },
+        {
+            "Product Name": "Cameo Interoffice Envelope, Security-Tint",
+            "total_sales": 4211.2994,
+            "total_quantity": 114,
+            "average_price": 116.98053888888889,
+            "total_profit": 586.0394,
+            "profit_margin": 0.13915880689936222
+        },
+        {
+            "Product Name": "GlobeWeis Interoffice Envelope, Security-Tint",
+            "total_sales": 4056.102,
+            "total_quantity": 114,
+            "average_price": 88.1761304347826,
+            "total_profit": 276.12199999999996,
+            "profit_margin": 0.0680757042105943
+        },
+        {
+            "Product Name": "GlobeWeis Interoffice Envelope, Recycled",
+            "total_sales": 4029.8328,
+            "total_quantity": 116,
+            "average_price": 125.932275,
+            "total_profit": 1006.6328,
+            "profit_margin": 0.24979517760637612
+        },
+        {
+            "Product Name": "Ames Manila Envelope, Security-Tint",
+            "total_sales": 4024.3098,
+            "total_quantity": 180,
+            "average_price": 74.52425555555556,
+            "total_profit": 1204.6098,
+            "profit_margin": 0.2993332670362505
+        }
+    ],
+    "most_ordered_products_by_date": [
+        {
+            "Year_Month": "2011-01",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 221.76,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2011-04",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15000000000003,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 63.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-05",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 13.572000000000005,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 65.76,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 98.624,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-07",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 120.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 46.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2011-08",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 189.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 316.2,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2011-09",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 266.32800000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 110.952,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2011-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2011-12",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.14999999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-01",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15000000000003,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-02",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 162.864,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-03",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-04",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 466.5752,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 60.32000000000001,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 71.28,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-07",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 189.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2012-08",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 665.28,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 46.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-09",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 90.48,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 127.13250000000002,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 151.776,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 158.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2012-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 49.32000000000001,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 94.86,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2012-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 73.96799999999999,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 113.832,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-01",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 180.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-02",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2013-03",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 382.2858,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-05",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 271.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 527.472,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 197.28000000000003,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-08",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 132.804,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 226.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-09",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 65.76,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 63.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2013-10",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 14.796000000000005,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 252.95999999999998,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 150.8,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 345.24,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 142.56,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 277.38,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 31.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 226.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2013-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 147.96,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-01",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-02",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 237.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 126.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-03",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15000000000003,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 221.76,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 369.84000000000003,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 95.9088,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-04",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 164.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 57.024,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 63.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-05",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 13.572,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 271.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 198.92400000000004,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 126.36200000000001,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2014-07",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 120.64,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 184.92,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 189.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 162.864,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-08",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 197.28000000000003,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 316.2,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2014-09",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 266.328,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 156.816,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 208.03500000000005,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 94.86,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-10",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 256.36,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 147.936,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 379.44,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2014-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.14999999999998,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 118.1007,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2014-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 565.5360000000001,
+            "total_quantity": 16
+        },
+        {
+            "Year_Month": "2015-01",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-02",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 162.864,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-03",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-04",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 466.5752,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 60.32,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 71.28,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-07",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 189.72,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2015-08",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 665.28,
+            "total_quantity": 14
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 46.23,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-09",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 90.48,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 127.1325,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 151.776,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 158.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2015-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 49.32,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 94.86,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2015-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 98.64,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 73.968,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 113.832,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-01",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 180.96,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-02",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2016-03",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 382.2858,
+            "total_quantity": 9
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 92.46,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-05",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 271.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 527.472,
+            "total_quantity": 17
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 197.28,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-08",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 132.804,
+            "total_quantity": 7
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 226.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-09",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 65.76,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 63.24,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2016-10",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 14.796,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 252.95999999999998,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 150.8,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-11",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 345.24,
+            "total_quantity": 10
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 142.56,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 277.38,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 31.62,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 226.2,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2016-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 147.96,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-02",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 237.6,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 126.72,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-03",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 231.15,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 95.9088,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-04",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 164.4,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-05",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 57.024,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 271.44,
+            "total_quantity": 6
+        },
+        {
+            "Year_Month": "2017-06",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 133.164,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 27.738,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-07",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 47.43,
+            "total_quantity": 1
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 95.04,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 138.69,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 162.864,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-08",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 197.28,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Ames Interoffice Envelope, Security-Tint",
+            "total_sales": 156.816,
+            "total_quantity": 4
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 208.035,
+            "total_quantity": 5
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 94.86,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-10",
+            "Product Name": "Jiffy Interoffice Envelope, Recycled",
+            "total_sales": 256.36,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Cameo Interoffice Envelope, Recycled",
+            "total_sales": 36.984,
+            "total_quantity": 2
+        },
+        {
+            "Year_Month": "2017-11",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 379.44,
+            "total_quantity": 8
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Cameo Interoffice Envelope, Set of 50",
+            "total_sales": 118.1007,
+            "total_quantity": 3
+        },
+        {
+            "Year_Month": "2017-12",
+            "Product Name": "Kraft Interoffice Envelope, Security-Tint",
+            "total_sales": 565.5360000000001,
+            "total_quantity": 16
+        }
+    ],
+    "most_frequent_order_month": [
+        {
+            "Order Month": "2014-12",
+            "Order Count": 147
+        },
+        {
+            "Order Month": "2014-11",
+            "Order Count": 145
+        },
+        {
+            "Order Month": "2014-09",
+            "Order Count": 123
+        },
+        {
+            "Order Month": "2014-06",
+            "Order Count": 115
+        },
+        {
+            "Order Month": "2014-08",
+            "Order Count": 112
+        },
+        {
+            "Order Month": "2014-10",
+            "Order Count": 109
+        },
+        {
+            "Order Month": "2017-12",
+            "Order Count": 101
+        },
+        {
+            "Order Month": "2014-05",
+            "Order Count": 95
+        },
+        {
+            "Order Month": "2017-11",
+            "Order Count": 91
+        },
+        {
+            "Order Month": "2013-09",
+            "Order Count": 90
+        },
+        {
+            "Order Month": "2016-09",
+            "Order Count": 87
+        },
+        {
+            "Order Month": "2014-03",
+            "Order Count": 85
+        },
+        {
+            "Order Month": "2013-08",
+            "Order Count": 84
+        },
+        {
+            "Order Month": "2017-06",
+            "Order Count": 84
+        },
+        {
+            "Order Month": "2016-08",
+            "Order Count": 84
+        },
+        {
+            "Order Month": "2013-11",
+            "Order Count": 83
+        },
+        {
+            "Order Month": "2017-09",
+            "Order Count": 83
+        },
+        {
+            "Order Month": "2016-11",
+            "Order Count": 82
+        },
+        {
+            "Order Month": "2017-10",
+            "Order Count": 81
+        },
+        {
+            "Order Month": "2013-12",
+            "Order Count": 79
+        }
+    ],
+    "time_series_analysis": [
+        {
+            "Order Date": "2011-01",
+            "Sales": 1661.8984,
+            "Quantity": 84,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-02",
+            "Sales": 693.9435,
+            "Quantity": 39,
+            "Sales_MA": NaN
+        },
+        {
+            "Order Date": "2011-03",
+            "Sales": 1482.1305,
+            "Quantity": 65,
+            "Sales_MA": 1279.3241333333333
+        },
+        {
+            "Order Date": "2011-04",
+            "Sales": 2745.0402,
+            "Quantity": 116,
+            "Sales_MA": 1640.3714
+        },
+        {
+            "Order Date": "2011-05",
+            "Sales": 1529.8734,
+            "Quantity": 75,
+            "Sales_MA": 1919.0146999999997
+        },
+        {
+            "Order Date": "2011-06",
+            "Sales": 2643.812,
+            "Quantity": 123,
+            "Sales_MA": 2306.2418666666667
+        },
+        {
+            "Order Date": "2011-07",
+            "Sales": 1692.4329,
+            "Quantity": 86,
+            "Sales_MA": 1955.3727666666666
+        },
+        {
+            "Order Date": "2011-08",
+            "Sales": 3545.075,
+            "Quantity": 161,
+            "Sales_MA": 2627.1066333333333
+        },
+        {
+            "Order Date": "2011-09",
+            "Sales": 3248.09,
+            "Quantity": 154,
+            "Sales_MA": 2828.5326333333337
+        },
+        {
+            "Order Date": "2011-10",
+            "Sales": 1700.8999999999999,
+            "Quantity": 117,
+            "Sales_MA": 2831.355
+        },
+        {
+            "Order Date": "2011-11",
+            "Sales": 4120.6088,
+            "Quantity": 223,
+            "Sales_MA": 3023.1996
+        },
+        {
+            "Order Date": "2011-12",
+            "Sales": 2922.7958,
+            "Quantity": 159,
+            "Sales_MA": 2914.7682
+        },
+        {
+            "Order Date": "2012-01",
+            "Sales": 1533.698,
+            "Quantity": 64,
+            "Sales_MA": 2859.0342
+        },
+        {
+            "Order Date": "2012-02",
+            "Sales": 1650.713,
+            "Quantity": 84,
+            "Sales_MA": 2035.7356
+        },
+        {
+            "Order Date": "2012-03",
+            "Sales": 1371.3679,
+            "Quantity": 106,
+            "Sales_MA": 1518.5929666666668
+        },
+        {
+            "Order Date": "2012-04",
+            "Sales": 2980.9272,
+            "Quantity": 117,
+            "Sales_MA": 2001.0027
+        },
+        {
+            "Order Date": "2012-05",
+            "Sales": 2909.149,
+            "Quantity": 147,
+            "Sales_MA": 2420.481366666667
+        },
+        {
+            "Order Date": "2012-06",
+            "Sales": 4379.7447,
+            "Quantity": 210,
+            "Sales_MA": 3423.273633333333
+        },
+        {
+            "Order Date": "2012-07",
+            "Sales": 3008.0181000000002,
+            "Quantity": 165,
+            "Sales_MA": 3432.303933333333
+        },
+        {
+            "Order Date": "2012-08",
+            "Sales": 2560.7577,
+            "Quantity": 124,
+            "Sales_MA": 3316.1735000000003
+        },
+        {
+            "Order Date": "2012-09",
+            "Sales": 5338.4226,
+            "Quantity": 245,
+            "Sales_MA": 3635.7327999999998
+        },
+        {
+            "Order Date": "2012-10",
+            "Sales": 3659.9487,
+            "Quantity": 191,
+            "Sales_MA": 3853.0429999999997
+        },
+        {
+            "Order Date": "2012-11",
+            "Sales": 4563.4328,
+            "Quantity": 242,
+            "Sales_MA": 4520.601366666666
+        },
+        {
+            "Order Date": "2012-12",
+            "Sales": 4057.6398,
+            "Quantity": 216,
+            "Sales_MA": 4093.6737666666663
+        },
+        {
+            "Order Date": "2013-01",
+            "Sales": 2447.0255,
+            "Quantity": 123,
+            "Sales_MA": 3689.3660333333332
+        },
+        {
+            "Order Date": "2013-02",
+            "Sales": 2292.3206,
+            "Quantity": 107,
+            "Sales_MA": 2932.328633333333
+        },
+        {
+            "Order Date": "2013-03",
+            "Sales": 3610.8788,
+            "Quantity": 174,
+            "Sales_MA": 2783.4082999999996
+        },
+        {
+            "Order Date": "2013-04",
+            "Sales": 1924.5796,
+            "Quantity": 114,
+            "Sales_MA": 2609.2596666666664
+        },
+        {
+            "Order Date": "2013-05",
+            "Sales": 3426.3107,
+            "Quantity": 158,
+            "Sales_MA": 2987.2563666666665
+        },
+        {
+            "Order Date": "2013-06",
+            "Sales": 5139.719599999999,
+            "Quantity": 233,
+            "Sales_MA": 3496.8699666666666
+        },
+        {
+            "Order Date": "2013-07",
+            "Sales": 2784.4828,
+            "Quantity": 116,
+            "Sales_MA": 3783.504366666666
+        },
+        {
+            "Order Date": "2013-08",
+            "Sales": 6925.4858,
+            "Quantity": 295,
+            "Sales_MA": 4949.896066666667
+        },
+        {
+            "Order Date": "2013-09",
+            "Sales": 7763.0262,
+            "Quantity": 329,
+            "Sales_MA": 5824.3316
+        },
+        {
+            "Order Date": "2013-10",
+            "Sales": 3160.9224,
+            "Quantity": 170,
+            "Sales_MA": 5949.811466666666
+        },
+        {
+            "Order Date": "2013-11",
+            "Sales": 5409.7002999999995,
+            "Quantity": 255,
+            "Sales_MA": 5444.549633333333
+        },
+        {
+            "Order Date": "2013-12",
+            "Sales": 5920.803,
+            "Quantity": 263,
+            "Sales_MA": 4830.475233333333
+        },
+        {
+            "Order Date": "2014-01",
+            "Sales": 4970.9328000000005,
+            "Quantity": 229,
+            "Sales_MA": 5433.812033333333
+        },
+        {
+            "Order Date": "2014-02",
+            "Sales": 2541.1658,
+            "Quantity": 132,
+            "Sales_MA": 4477.633866666666
+        },
+        {
+            "Order Date": "2014-03",
+            "Sales": 6236.0836,
+            "Quantity": 283,
+            "Sales_MA": 4582.7274
+        },
+        {
+            "Order Date": "2014-04",
+            "Sales": 5283.6887,
+            "Quantity": 263,
+            "Sales_MA": 4686.9793666666665
+        },
+        {
+            "Order Date": "2014-05",
+            "Sales": 6507.7396,
+            "Quantity": 313,
+            "Sales_MA": 6009.170633333332
+        },
+        {
+            "Order Date": "2014-06",
+            "Sales": 7789.6892,
+            "Quantity": 379,
+            "Sales_MA": 6527.039166666666
+        },
+        {
+            "Order Date": "2014-07",
+            "Sales": 3982.2965,
+            "Quantity": 216,
+            "Sales_MA": 6093.241766666666
+        },
+        {
+            "Order Date": "2014-08",
+            "Sales": 7946.3781,
+            "Quantity": 379,
+            "Sales_MA": 6572.787933333333
+        },
+        {
+            "Order Date": "2014-09",
+            "Sales": 8142.7425,
+            "Quantity": 444,
+            "Sales_MA": 6690.472366666666
+        },
+        {
+            "Order Date": "2014-10",
+            "Sales": 8396.3514,
+            "Quantity": 411,
+            "Sales_MA": 8161.824
+        },
+        {
+            "Order Date": "2014-11",
+            "Sales": 10351.7323,
+            "Quantity": 542,
+            "Sales_MA": 8963.608733333333
+        },
+        {
+            "Order Date": "2014-12",
+            "Sales": 9242.7623,
+            "Quantity": 487,
+            "Sales_MA": 9330.282
+        },
+        {
+            "Order Date": "2015-01",
+            "Sales": 1533.698,
+            "Quantity": 64,
+            "Sales_MA": 7042.730866666665
+        },
+        {
+            "Order Date": "2015-02",
+            "Sales": 1576.193,
+            "Quantity": 75,
+            "Sales_MA": 4117.5511
+        },
+        {
+            "Order Date": "2015-03",
+            "Sales": 1342.0279,
+            "Quantity": 103,
+            "Sales_MA": 1483.9729666666663
+        },
+        {
+            "Order Date": "2015-04",
+            "Sales": 2980.9272,
+            "Quantity": 117,
+            "Sales_MA": 1966.3826999999994
+        },
+        {
+            "Order Date": "2015-05",
+            "Sales": 2909.149,
+            "Quantity": 147,
+            "Sales_MA": 2410.701366666666
+        },
+        {
+            "Order Date": "2015-06",
+            "Sales": 4350.9927,
+            "Quantity": 207,
+            "Sales_MA": 3413.689633333333
+        },
+        {
+            "Order Date": "2015-07",
+            "Sales": 3008.0181000000002,
+            "Quantity": 165,
+            "Sales_MA": 3422.7199333333324
+        },
+        {
+            "Order Date": "2015-08",
+            "Sales": 2560.7577,
+            "Quantity": 124,
+            "Sales_MA": 3306.5894999999996
+        },
+        {
+            "Order Date": "2015-09",
+            "Sales": 5299.4786,
+            "Quantity": 240,
+            "Sales_MA": 3622.751466666666
+        },
+        {
+            "Order Date": "2015-10",
+            "Sales": 3597.5247,
+            "Quantity": 183,
+            "Sales_MA": 3819.253666666666
+        },
+        {
+            "Order Date": "2015-11",
+            "Sales": 4469.0728,
+            "Quantity": 230,
+            "Sales_MA": 4455.3587
+        },
+        {
+            "Order Date": "2015-12",
+            "Sales": 4037.7678,
+            "Quantity": 213,
+            "Sales_MA": 4034.7884333333327
+        },
+        {
+            "Order Date": "2016-01",
+            "Sales": 2423.6655,
+            "Quantity": 121,
+            "Sales_MA": 3643.5020333333327
+        },
+        {
+            "Order Date": "2016-02",
+            "Sales": 2245.6006,
+            "Quantity": 102,
+            "Sales_MA": 2902.3446333333327
+        },
+        {
+            "Order Date": "2016-03",
+            "Sales": 3581.5388000000003,
+            "Quantity": 171,
+            "Sales_MA": 2750.2682999999997
+        },
+        {
+            "Order Date": "2016-04",
+            "Sales": 1924.5796,
+            "Quantity": 114,
+            "Sales_MA": 2583.906333333333
+        },
+        {
+            "Order Date": "2016-05",
+            "Sales": 3416.9667,
+            "Quantity": 157,
+            "Sales_MA": 2974.3616999999995
+        },
+        {
+            "Order Date": "2016-06",
+            "Sales": 5139.7196,
+            "Quantity": 233,
+            "Sales_MA": 3493.7552999999994
+        },
+        {
+            "Order Date": "2016-07",
+            "Sales": 2784.4827999999998,
+            "Quantity": 116,
+            "Sales_MA": 3780.3896999999993
+        },
+        {
+            "Order Date": "2016-08",
+            "Sales": 6925.4858,
+            "Quantity": 295,
+            "Sales_MA": 4949.896066666666
+        },
+        {
+            "Order Date": "2016-09",
+            "Sales": 7714.0662,
+            "Quantity": 322,
+            "Sales_MA": 5808.011599999999
+        },
+        {
+            "Order Date": "2016-10",
+            "Sales": 3145.2744000000002,
+            "Quantity": 168,
+            "Sales_MA": 5928.275466666666
+        },
+        {
+            "Order Date": "2016-11",
+            "Sales": 5381.3003,
+            "Quantity": 250,
+            "Sales_MA": 5413.546966666666
+        },
+        {
+            "Order Date": "2016-12",
+            "Sales": 5819.083,
+            "Quantity": 254,
+            "Sales_MA": 4781.885899999998
+        },
+        {
+            "Order Date": "2017-01",
+            "Sales": 3333.9544,
+            "Quantity": 149,
+            "Sales_MA": 4844.779233333333
+        },
+        {
+            "Order Date": "2017-02",
+            "Sales": 1738.037,
+            "Quantity": 84,
+            "Sales_MA": 3630.3581333333327
+        },
+        {
+            "Order Date": "2017-03",
+            "Sales": 4807.7544,
+            "Quantity": 219,
+            "Sales_MA": 3293.248599999999
+        },
+        {
+            "Order Date": "2017-04",
+            "Sales": 2759.3445,
+            "Quantity": 153,
+            "Sales_MA": 3101.711966666666
+        },
+        {
+            "Order Date": "2017-05",
+            "Sales": 4795.4842,
+            "Quantity": 231,
+            "Sales_MA": 4120.861033333333
+        },
+        {
+            "Order Date": "2017-06",
+            "Sales": 5450.6192,
+            "Quantity": 278,
+            "Sales_MA": 4335.1493
+        },
+        {
+            "Order Date": "2017-07",
+            "Sales": 2237.3936,
+            "Quantity": 127,
+            "Sales_MA": 4161.165666666667
+        },
+        {
+            "Order Date": "2017-08",
+            "Sales": 4360.3331,
+            "Quantity": 213,
+            "Sales_MA": 4016.1152999999995
+        },
+        {
+            "Order Date": "2017-09",
+            "Sales": 4817.7285,
+            "Quantity": 280,
+            "Sales_MA": 3805.1517333333327
+        },
+        {
+            "Order Date": "2017-10",
+            "Sales": 6618.0634,
+            "Quantity": 290,
+            "Sales_MA": 5265.375
+        },
+        {
+            "Order Date": "2017-11",
+            "Sales": 6279.6775,
+            "Quantity": 326,
+            "Sales_MA": 5905.156466666666
+        },
+        {
+            "Order Date": "2017-12",
+            "Sales": 6558.7925,
+            "Quantity": 341,
+            "Sales_MA": 6485.5111333333325
+        }
+    ],
+    "customer_segmentation": [
+        {
+            "Customer Name": "Damala Kotsonis",
+            "total_spent": 2472.12,
+            "purchase_frequency": 12,
+            "average_order_value": 206.01
+        },
+        {
+            "Customer Name": "Gary Zandusky",
+            "total_spent": 1909.184,
+            "purchase_frequency": 12,
+            "average_order_value": 136.3702857142857
+        },
+        {
+            "Customer Name": "Bobby Elias",
+            "total_spent": 1879.9160000000002,
+            "purchase_frequency": 12,
+            "average_order_value": 156.65966666666668
+        },
+        {
+            "Customer Name": "Joy Bell-",
+            "total_spent": 1830.784,
+            "purchase_frequency": 12,
+            "average_order_value": 130.77028571428573
+        },
+        {
+            "Customer Name": "Peter B\u00fchler",
+            "total_spent": 1758.912,
+            "purchase_frequency": 8,
+            "average_order_value": 219.864
+        },
+        {
+            "Customer Name": "Maxwell Schwartz",
+            "total_spent": 1734.96,
+            "purchase_frequency": 12,
+            "average_order_value": 144.58
+        },
+        {
+            "Customer Name": "Theresa Coyne",
+            "total_spent": 1641.708,
+            "purchase_frequency": 8,
+            "average_order_value": 205.2135
+        },
+        {
+            "Customer Name": "Mitch Webber",
+            "total_spent": 1546.692,
+            "purchase_frequency": 10,
+            "average_order_value": 110.478
+        },
+        {
+            "Customer Name": "Bart Watters",
+            "total_spent": 1518.9180000000001,
+            "purchase_frequency": 8,
+            "average_order_value": 151.89180000000002
+        },
+        {
+            "Customer Name": "Delfina Latchford",
+            "total_spent": 1517.088,
+            "purchase_frequency": 8,
+            "average_order_value": 126.42399999999999
+        }
+    ],
+    "discount_analysis": [
+        {
+            "Discount": 0.0,
+            "total_sales": 250886.54,
+            "total_quantity": 10614,
+            "average_profit": 22.8512
+        },
+        {
+            "Discount": 0.1,
+            "total_sales": 21165.03,
+            "total_quantity": 944,
+            "average_profit": 11.9726
+        },
+        {
+            "Discount": 0.17,
+            "total_sales": 3700.4886,
+            "total_quantity": 140,
+            "average_profit": 15.9642
+        },
+        {
+            "Discount": 0.2,
+            "total_sales": 14992.848,
+            "total_quantity": 922,
+            "average_profit": 14.5298
+        },
+        {
+            "Discount": 0.4,
+            "total_sales": 20009.964,
+            "total_quantity": 1574,
+            "average_profit": -12.1994
+        },
+        {
+            "Discount": 0.45,
+            "total_sales": 4713.324,
+            "total_quantity": 300,
+            "average_profit": -21.5148
+        },
+        {
+            "Discount": 0.47,
+            "total_sales": 10092.2706,
+            "total_quantity": 756,
+            "average_profit": -19.1108
+        },
+        {
+            "Discount": 0.5,
+            "total_sales": 7463.85,
+            "total_quantity": 580,
+            "average_profit": -21.8749
+        },
+        {
+            "Discount": 0.6,
+            "total_sales": 5148.328,
+            "total_quantity": 526,
+            "average_profit": -25.5794
+        },
+        {
+            "Discount": 0.7,
+            "total_sales": 1949.148,
+            "total_quantity": 234,
+            "average_profit": -22.654
+        }
+    ],
+    "geographic_distribution": [
+        {
+            "State": "Victoria",
+            "City": "Melbourne",
+            "total_sales": 2789.0460000000003,
+            "total_quantity": 116,
+            "Location": "Victoria, Melbourne"
+        },
+        {
+            "State": "Texas",
+            "City": "Houston",
+            "total_sales": 2657.984,
+            "total_quantity": 83,
+            "Location": "Texas, Houston"
+        },
+        {
+            "State": "New South Wales",
+            "City": "Newcastle",
+            "total_sales": 2603.838,
+            "total_quantity": 96,
+            "Location": "New South Wales, Newcastle"
+        },
+        {
+            "State": "Francisco Moraz\u00e1n",
+            "City": "Tegucigalpa",
+            "total_sales": 2516.52,
+            "total_quantity": 244,
+            "Location": "Francisco Moraz\u00e1n, Tegucigalpa"
+        },
+        {
+            "State": "Ile-de-France",
+            "City": "Paris",
+            "total_sales": 2438.7,
+            "total_quantity": 84,
+            "Location": "Ile-de-France, Paris"
+        },
+        {
+            "State": "Distrito Federal",
+            "City": "Mexico City",
+            "total_sales": 2407.12,
+            "total_quantity": 130,
+            "Location": "Distrito Federal, Mexico City"
+        },
+        {
+            "State": "California",
+            "City": "Los Angeles",
+            "total_sales": 2301.2799999999997,
+            "total_quantity": 60,
+            "Location": "California, Los Angeles"
+        },
+        {
+            "State": "New York",
+            "City": "New York City",
+            "total_sales": 2294.04,
+            "total_quantity": 112,
+            "Location": "New York, New York City"
+        },
+        {
+            "State": "Shanghai",
+            "City": "Shanghai",
+            "total_sales": 2216.46,
+            "total_quantity": 70,
+            "Location": "Shanghai, Shanghai"
+        },
+        {
+            "State": "Santo Domingo",
+            "City": "Santo Domingo",
+            "total_sales": 2174.784,
+            "total_quantity": 158,
+            "Location": "Santo Domingo, Santo Domingo"
+        },
+        {
+            "State": "Pennsylvania",
+            "City": "Philadelphia",
+            "total_sales": 2014.208,
+            "total_quantity": 109,
+            "Location": "Pennsylvania, Philadelphia"
+        },
+        {
+            "State": "Lazio",
+            "City": "Rome",
+            "total_sales": 1969.74,
+            "total_quantity": 60,
+            "Location": "Lazio, Rome"
+        },
+        {
+            "State": "New South Wales",
+            "City": "Sydney",
+            "total_sales": 1944.702,
+            "total_quantity": 110,
+            "Location": "New South Wales, Sydney"
+        },
+        {
+            "State": "Singapore",
+            "City": "Singapore",
+            "total_sales": 1910.46,
+            "total_quantity": 60,
+            "Location": "Singapore, Singapore"
+        },
+        {
+            "State": "Jakarta",
+            "City": "Jakarta",
+            "total_sales": 1862.7168000000001,
+            "total_quantity": 132,
+            "Location": "Jakarta, Jakarta"
+        }
+    ],
+    "ship_mode_analysis": {
+        "First Class": {
+            "total_orders": 652,
+            "avg_shipping_delay": 2.23,
+            "total_profit": 8162.78,
+            "shipping_cost_ratio": 0.17
+        },
+        "Same Day": {
+            "total_orders": 255,
+            "avg_shipping_delay": 0.05,
+            "total_profit": 2806.79,
+            "shipping_cost_ratio": 0.18
+        },
+        "Second Class": {
+            "total_orders": 958,
+            "avg_shipping_delay": 3.28,
+            "total_profit": 11714.21,
+            "shipping_cost_ratio": 0.14
+        },
+        "Standard Class": {
+            "total_orders": 2724,
+            "avg_shipping_delay": 5.01,
+            "total_profit": 35766.82,
+            "shipping_cost_ratio": 0.09
+        }
+    },
+    "order_priority_analysis": {
+        "Critical": {
+            "avg_profit_margin": 0.07,
+            "ship_mode_distribution": {
+                "Second Class": 0.42455242966751916,
+                "First Class": 0.35805626598465473,
+                "Same Day": 0.21739130434782608
+            }
+        },
+        "High": {
+            "avg_profit_margin": 0.08,
+            "ship_mode_distribution": {
+                "Standard Class": 0.4329896907216495,
+                "Second Class": 0.2907216494845361,
+                "First Class": 0.1958762886597938,
+                "Same Day": 0.08041237113402062
+            }
+        },
+        "Low": {
+            "avg_profit_margin": 0.15,
+            "ship_mode_distribution": {
+                "Standard Class": 1.0
+            }
+        },
+        "Medium": {
+            "avg_profit_margin": 0.09,
+            "ship_mode_distribution": {
+                "Standard Class": 0.7301414581066377,
+                "Second Class": 0.15306492564381574,
+                "First Class": 0.08959013420384476,
+                "Same Day": 0.02720348204570185
+            }
+        }
+    },
+    "rfm_analysis": {
+        "median_values": {
+            "recency": 875.5,
+            "frequency": 1.0,
+            "monetary": 60.372
+        },
+        "customer_distribution": {
+            "Promising Customers": 904,
+            "Lost Customers": 649,
+            "Big Spenders": 628,
+            "At-Risk Customers": 556,
+            "Hibernating Customers": 359,
+            "VIP": 69,
+            "Slipping Away": 48,
+            "Loyal Customers": 11
+        }
+    },
+    "churn_analysis": {
+        "total_customers": 3224,
+        "churned_customers": 2489,
+        "churn_rate": 0.7720223325062034,
+        "avg_recency": 891.7776054590571,
+        "avg_frequency": 1.4956575682382134,
+        "avg_monetary": 105.4968334987593,
+        "churned_customer_characteristics": {
+            "avg_recency": 1108.910405785456,
+            "avg_frequency": 1.6006428284451586,
+            "avg_monetary": 113.23287219766975,
+            "avg_discount": 0.13291639244421485,
+            "avg_quantity": 3.326445885706633,
+            "avg_shipping_cost": 7.5757293641227745,
+            "avg_profit": 11.980222943299726
+        },
+        "active_customer_characteristics": {
+            "avg_recency": 156.48027210884354,
+            "avg_frequency": 1.1401360544217687,
+            "avg_monetary": 79.29955414965985,
+            "avg_discount": 0.13861224489795917,
+            "avg_quantity": 3.3752834467120176,
+            "avg_shipping_cost": 7.526967120181406,
+            "avg_profit": 10.439804739229023
+        }
+    }
+}
