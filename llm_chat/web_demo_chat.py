@@ -97,7 +97,7 @@ def send_message(chat_history, message):
     # using history to keep the conversation
     print(messages)
     response = client.chat.completions.create(
-        model="glm-4-plus",
+        model="glm-zero-preview",
         messages=messages,
     )
     messages.append({
