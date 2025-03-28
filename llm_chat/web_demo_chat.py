@@ -63,9 +63,48 @@ def generate_suggestions(messages, commodity_name, category):
     }
     top_10_cities_image = Image.open(f'../data_analysis/data_analysis/analysis_result_{category}/top_10_cities_{category}.png')
     top_10_states_image = Image.open(f'../data_analysis/data_analysis/analysis_result_{category}/top_10_states_{category}.png')
+    churn_characteristics_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/churn_characteristics.png')
+    churn_rate_image = Image.open(f'../data_analysis/data_analysis/analysis_result_{category}/churn_rate.png')
+    customer_segmentation_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/customer_segmentation.png')
+    discount_analysis_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/discount_analysis.png')
+    geographic_distribution_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/geographic_distribution.png')
+    monthly_heatmap_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/monthly_heatmap_{category}.png')
+    most_frequent_order_month_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/most_frequent_order_month.png')
+    most_ordered_products_by_date_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/most_ordered_products_by_date.png')
+    order_priority_margin_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/order_priority_margin.png')
+    pareto_profit_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/pareto_profit_{category}.png')
+    pareto_sales_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/pareto_sales_{category}.png')
+    pareto_turnover_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/pareto_turnover_{category}.png')
+    priority_shipmode_distribution_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/priority_shipmode_distribution.png')
+    product_performance_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/product_performance.png')
+    rfm_3d_image = Image.open(f'../data_analysis/data_analysis/analysis_result_{category}/rfm_3d.png')
+    rfm_segments_image = Image.open(f'../data_analysis/data_analysis/analysis_result_{category}/rfm_segments.png')
+    shipping_cost_ratio_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/shipping_cost_ratio.png')
+    shipping_delay_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/shipping_delay_{category}.png')
+    time_series_sales_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/time_series_sales.png')
+    top_loss_products_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/top_loss_products_{category}.png')
+    yearly_trend_image = Image.open(
+        f'../data_analysis/data_analysis/analysis_result_{category}/yearly_trend_{category}.png')
 
     response = client.chat.completions.create(
-        model="glm-zero-preview",
+        model="glm-4-plus",
         messages=[
             {"role": "user", "content": f"As a Sales Assistant to help the company, please analyze and generate sales suggestions and advice for the product {category}, within 500 words."},
             {"role": "assistant", "content": "Of course, I can help you with that. Could you provide me with some information about the product?"},
@@ -75,13 +114,14 @@ def generate_suggestions(messages, commodity_name, category):
     sales_suggestions = response.choices[0].message.content
 
     messages.append((commodity_name, f"The commodity '{commodity_name}' belongs to category '{category}'.\n\nSales Suggestions:\n{sales_suggestions}"))
-    return messages, known_facts, top_10_states_image, top_10_cities_image
+    return messages, known_facts, top_10_states_image, top_10_cities_image, churn_characteristics_image, churn_rate_image, customer_segmentation_image, discount_analysis_image, geographic_distribution_image, monthly_heatmap_image, most_frequent_order_month_image, most_ordered_products_by_date_image, order_priority_margin_image, pareto_profit_image, pareto_sales_image, pareto_turnover_image, priority_shipmode_distribution_image, product_performance_image, rfm_3d_image, rfm_segments_image, shipping_cost_ratio_image, shipping_delay_image, time_series_sales_image, top_loss_products_image, yearly_trend_image
 
 # Function to send a message to the chatbot to keep talking (remember using the history)
 def send_message(chat_history, message):
     messages = []
     print(chat_history)
     for i in range(0, len(chat_history)):
+        # print(chat_history[i])
         messages.append({
             "role": "user",
             "content": chat_history[i][0]
@@ -97,7 +137,7 @@ def send_message(chat_history, message):
     # using history to keep the conversation
     print(messages)
     response = client.chat.completions.create(
-        model="glm-zero-preview",
+        model="glm-4-plus",
         messages=messages,
     )
     messages.append({
@@ -105,7 +145,7 @@ def send_message(chat_history, message):
         "content": response.choices[0].message.content
     })
     chat_history.append([message,response.choices[0].message.content])
-    return chat_history
+    return chat_history,""
 
 
 # Create Gradio Blocks interface
@@ -121,26 +161,71 @@ with gr.Blocks() as demo:
             category_output = gr.Textbox(label="Category", interactive=False)
             suggestions_button = gr.Button("Step2.Generate Suggestions")
             known_facts_output = gr.Textbox(label="Known Facts", interactive=False)
+            # you can add more buttons here for different queries
+            query1_button = gr.Button("Query for churn analysis")
+            query2_button = gr.Button("Query for customer segmentation")
+            query3_button = gr.Button("Query for sales trend")
         with gr.Column(scale=4):
-            chatbot = gr.Chatbot(label="Sales Assistant Chatbot")
+            chatbot = gr.Chatbot(label="Sales Assistant Chatbot",height=1000)
             chatbot_input = gr.Textbox(label="Your Message")
             send_button = gr.Button("Continue Chat")
-            with gr.Row():
-                # 2 images in a row
-                image1 = gr.Image(value=None, label="Top 10 States Distribution")
-                image2 = gr.Image(value=None, label="Top 10 Cities Distribution")
+
+    with gr.Row():
+        # 2 images in a row
+        image1 = gr.Image(value=None, label="Top 10 States Distribution")
+        image2 = gr.Image(value=None, label="Top 10 Cities Distribution")
+    with gr.Row():
+        image3 = gr.Image(value=None, label="Churn Characteristics")
+        image4 = gr.Image(value=None, label="Churn Rate")
+    with gr.Row():
+        image5 = gr.Image(value=None, label="Customer Segmentation")
+        image6 = gr.Image(value=None, label="Discount Analysis")
+    with gr.Row():
+        image7 = gr.Image(value=None, label="Geographic Distribution")
+        image8 = gr.Image(value=None, label="Monthly Heatmap")
+    with gr.Row():
+        image9 = gr.Image(value=None, label="Most Frequent Order Month")
+        image10 = gr.Image(value=None, label="Most Ordered Products by Date")
+    with gr.Row():
+        image11 = gr.Image(value=None, label="Order Priority Margin")
+        image12 = gr.Image(value=None, label="Pareto Profit")
+    with gr.Row():
+        image13 = gr.Image(value=None, label="Pareto Sales")
+        image14 = gr.Image(value=None, label="Pareto Turnover")
+    with gr.Row():
+        image15 = gr.Image(value=None, label="Priority Shipmode Distribution")
+        image16 = gr.Image(value=None, label="Product Performance")
+    with gr.Row():
+        image17 = gr.Image(value=None, label="RFM 3D")
+        image18 = gr.Image(value=None, label="RFM Segments")
+    with gr.Row():
+        image19 = gr.Image(value=None, label="Shipping Cost Ratio")
+        image20 = gr.Image(value=None, label="Shipping Delay")
+    with gr.Row():
+        image21 = gr.Image(value=None, label="Time Series Sales")
+        image22 = gr.Image(value=None, label="Top Loss Products")
+    with gr.Row():
+        image23 = gr.Image(value=None, label="Yearly Trend")
 
 
 
     classify_button.click(fn=classify_commodity, inputs=commodity_input, outputs=category_output)
-    # suggestions_button.click(fn=generate_suggestions, inputs=[chatbot, commodity_input, category_output], outputs=[chatbot, known_facts_output, image1, image2])
+    # query context can be modified here
+    query1 = "Due to the churn analysis for different customers, please give your analysis and suggestions."
+    query2 = "Due to the customer segmentation, please give your analysis and suggestions."
+    query3 = "Due to the sales trend, please give your analysis and suggestions."
+
+    query1_button.click(fn=lambda: query1, inputs=None, outputs=chatbot_input)
+    query2_button.click(fn=lambda: query2, inputs=None, outputs=chatbot_input)
+    query3_button.click(fn=lambda: query3, inputs=None, outputs=chatbot_input)
+
     suggestions_button.click(
         fn=lambda chatbot, commodity_name, category: (
             *generate_suggestions(chatbot, commodity_name, category),
         ),
         inputs=[chatbot, commodity_input, category_output],
-        outputs=[chatbot, known_facts_output, image1, image2],
+        outputs=[chatbot, known_facts_output, image1, image2, image3, image4, image5, image6, image7, image8, image9, image10, image11, image12, image13, image14, image15, image16, image17, image18, image19, image20, image21, image22, image23],
     )
-    send_button.click(fn=send_message, inputs=[chatbot, chatbot_input], outputs=chatbot)
+    send_button.click(fn=send_message, inputs=[chatbot, chatbot_input], outputs=[chatbot, chatbot_input])
 
 demo.launch(share=True)
