@@ -151,11 +151,9 @@ class Analysis:
         return product_performance.to_dict(orient='records')
     
     def analyze_most_ordered_products_by_date(self):
-        # Extract year and month from Order Date
         self.data['Order Date'] = pd.to_datetime(self.data['Order Date'])
         self.data['Year_Month'] = self.data['Order Date'].dt.strftime('%Y-%m')
         
-        # Group by Year-Month and Product Name
         most_ordered = self.data.groupby(['Year_Month', 'Product Name']).agg(
             total_sales=('Sales', 'sum'),
             total_quantity=('Quantity', 'sum')
@@ -180,13 +178,11 @@ class Analysis:
     def analyze_time_series(self, date_column):
         self.data.loc[:, date_column] = pd.to_datetime(self.data[date_column])
         
-        # Group by Year-Month
         monthly_data = self.data.groupby(self.data[date_column].dt.strftime('%Y-%m')).agg({
             'Sales': 'sum',
             'Quantity': 'sum'
         }).reset_index()
         
-        # Rename the date column back
         monthly_data = monthly_data.rename(columns={'index': date_column})
         
         # Calculate 3-month moving average
@@ -200,7 +196,7 @@ class Analysis:
             purchase_frequency=('Order ID', 'nunique'),
             average_order_value=('Sales', 'mean')
         ).reset_index()
-        # Sort by total spent and get top 10 instead of 20 for better visibility
+        # Sort by total spent and get top 10 
         customer_segmentation = customer_segmentation.sort_values(by='total_spent', ascending=False).head(10)
         return customer_segmentation.to_dict(orient='records')
 
@@ -222,7 +218,6 @@ class Analysis:
         return geographic_distribution.to_dict(orient='records')
     
     def analyze_temporal(self):
-        # Extract year and month after ensuring dates are datetime
         self.data['Year'] = self.data['Order Date'].dt.year
         self.data['Month'] = self.data['Order Date'].dt.month_name()
         # Calculate shipping delay
@@ -393,7 +388,6 @@ class Analysis:
             'rfm_analysis': self.analyze_rfm(),
             'churn_analysis': self.analyze_churn()
         }
-        # Convert any remaining timestamps to strings before returning
         return convert_timestamps_to_str(result)
 
 class Visualization:
@@ -401,10 +395,10 @@ class Visualization:
         self.data = data.copy()
         self.analysis_result = analysis_result
         self.category = category
-        # Convert date columns and calculate shipping delay
+
         self.data['Order Date'] = pd.to_datetime(self.data['Order Date'], errors='coerce')
         self.data['Ship Date'] = pd.to_datetime(self.data['Ship Date'], errors='coerce')
-        # Ensure the datetime conversion worked by dropping any rows where the conversion failed
+    
         self.data = self.data.dropna(subset=['Order Date', 'Ship Date'])
         self.data['Shipping_Delay'] = (self.data['Ship Date'] - self.data['Order Date']).dt.days
 
@@ -470,10 +464,8 @@ class Visualization:
         plt.ylabel('Total Spent ($)')
         plt.title('Top 10 Customers by Total Spent')
         
-        # Rotate labels and adjust their position
         plt.xticks(range(len(customers)), customers, rotation=45, ha='right')
         
-        # Add value labels on top of bars
         for bar in bars:
             height = bar.get_height()
             plt.text(bar.get_x() + bar.get_width()/2., height,
@@ -490,19 +482,16 @@ class Visualization:
         total_sales = [d['total_sales'] for d in discount_data]
         
         plt.figure(figsize=(12, 6))
-        bars = plt.bar(range(len(discounts)), total_sales, width=0.5)  # Reduced width for more separation
+        bars = plt.bar(range(len(discounts)), total_sales, width=0.5)  
         
-        # Format x-axis labels as percentages
         plt.xticks(range(len(discounts)), [f'{d:.0%}' for d in discounts], rotation=45)
         
-        # Add grid for better readability
         plt.grid(axis='y', linestyle='--', alpha=0.7)
         
         plt.xlabel('Discount Rate')
         plt.ylabel('Total Sales ($)')
         plt.title('Sales by Discount Rate')
         
-        # Add value labels on top of bars
         for bar in bars:
             height = bar.get_height()
             plt.text(bar.get_x() + bar.get_width()/2., height,
@@ -526,7 +515,6 @@ class Visualization:
         plt.title('Geographic Distribution of Sales')
         plt.xticks(range(len(locations)), locations, rotation=45, ha='right')
         
-        # Add value labels on top of bars
         for bar in bars:
             height = bar.get_height()
             plt.text(bar.get_x() + bar.get_width()/2., height,
@@ -545,7 +533,6 @@ class Visualization:
 
         plt.figure(figsize=(15, 8))
         
-        # Create line plot for each unique product
         for product in set(products):
             product_sales = [total_sales[i] for i in range(len(products)) if products[i] == product]
             product_months = [months[i] for i in range(len(products)) if products[i] == product]
@@ -555,13 +542,11 @@ class Visualization:
         plt.ylabel('Total Sales ($)')
         plt.title('Top 5 Products Sales Trend')
         
-        # Show every nth label to prevent overcrowding
-        n = max(len(set(months)) // 12, 1)  # Show about 12 labels
+        n = max(len(set(months)) // 12, 1)  
         plt.xticks(range(0, len(set(months)), n), 
                   [months[i] for i in range(0, len(set(months)), n)], 
                   rotation=45, ha='right')
         
-        # Move legend outside of plot
         plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', title='Products')
         
         plt.grid(True, alpha=0.3)
@@ -578,18 +563,15 @@ class Visualization:
         
         plt.figure(figsize=(15, 8))
         
-        # Plot actual sales
         plt.plot(dates, total_sales, marker='o', markersize=4, alpha=0.6, label='Monthly Sales')
         
-        # Plot moving average
         plt.plot(dates, sales_ma, linewidth=2, color='red', label='3-Month Moving Average')
         
         plt.xlabel('Month')
         plt.ylabel('Total Sales ($)')
         plt.title('Sales Trend Over Time')
         
-        # Show every nth label to prevent overcrowding
-        n = max(len(dates) // 12, 1)  # Show about 12 labels
+        n = max(len(dates) // 12, 1)  
         plt.xticks(range(0, len(dates), n), [dates[i] for i in range(0, len(dates), n)],
                   rotation=45, ha='right')
         
@@ -824,10 +806,8 @@ class Visualization:
         plt.ylabel('Number of Orders')
         plt.title('Order Frequency by Month')
         
-        # Rotate labels and adjust their position
         plt.xticks(range(len(order_months)), order_months, rotation=45, ha='right')
         
-        # Add value labels on top of bars
         for bar in bars:
             height = bar.get_height()
             plt.text(bar.get_x() + bar.get_width()/2., height,
@@ -846,7 +826,6 @@ for y1 in set(data_og['Combined_Category']):
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
     
-    # Create a deep copy of the filtered data
     data = data_og[data_og['Combined_Category'] == y1].copy()
     
     analysis = Analysis(data)
