@@ -18,7 +18,7 @@ device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cp
 model.to(device)
 
 # Initialize ZhipuAI client
-client = ZhipuAI(api_key="e2a004d7071b4fcabf1859496ad76124.Ej8iFCuCo1ghwpna")
+client = ZhipuAI(api_key="yourownAPIKEYfromZhipuAI")
 
 # Function to classify commodity
 def classify_commodity(commodity_name):
